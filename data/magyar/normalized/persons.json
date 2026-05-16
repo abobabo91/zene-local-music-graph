@@ -649,6 +649,7 @@
       "mg-00153",
       "mg-00154",
       "mg-00155",
+      "mg-00156",
       "mg-00182",
       "mg-00199",
       "mg-00201"
@@ -665,6 +666,7 @@
       "mg-00153",
       "mg-00154",
       "mg-00155",
+      "mg-00156",
       "mg-00182"
     ],
     "feature_song_ids": [
@@ -713,17 +715,6 @@
     ],
     "primary_song_ids": [
       "mg-00154"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Mário": {
-    "song_ids": [
-      "mg-00156"
-    ],
-    "primary_song_ids": [
-      "mg-00156"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -2576,17 +2567,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "ha mégegyszer láthatnám": {
-    "song_ids": [
-      "mg-00441"
-    ],
-    "primary_song_ids": [
-      "mg-00441"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Happy Gang": {
     "song_ids": [
       "mg-00442"
@@ -2675,6 +2655,7 @@
   "Máté Péter": {
     "song_ids": [
       "mg-00452",
+      "mg-00569",
       "mg-00616",
       "mg-00617",
       "mg-00618",
@@ -2691,6 +2672,7 @@
     ],
     "primary_song_ids": [
       "mg-00452",
+      "mg-00569",
       "mg-00616",
       "mg-00617",
       "mg-00618",
@@ -3176,17 +3158,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Mate Peter": {
-    "song_ids": [
-      "mg-00569"
-    ],
-    "primary_song_ids": [
-      "mg-00569"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "MISSH": {
     "song_ids": [
       "mg-00571"
@@ -3221,17 +3192,6 @@
       "mg-00573",
       "mg-00574",
       "mg-00575"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "OMEGA Népstadion": {
-    "song_ids": [
-      "mg-00576"
-    ],
-    "primary_song_ids": [
-      "mg-00576"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -3591,6 +3551,15 @@
     "song_ids": [
       "mg-00681",
       "mg-00682",
+      "mg-00683",
+      "mg-00684",
+      "mg-00685",
+      "mg-00686",
+      "mg-00687",
+      "mg-00688",
+      "mg-00689",
+      "mg-00690",
+      "mg-00691",
       "mg-00692",
       "mg-00693",
       "mg-00694",
@@ -3608,6 +3577,15 @@
     "primary_song_ids": [
       "mg-00681",
       "mg-00682",
+      "mg-00683",
+      "mg-00684",
+      "mg-00685",
+      "mg-00686",
+      "mg-00687",
+      "mg-00688",
+      "mg-00689",
+      "mg-00690",
+      "mg-00691",
       "mg-00692",
       "mg-00693",
       "mg-00694",
@@ -3621,33 +3599,6 @@
       "mg-00703",
       "mg-00704",
       "mg-00705"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Karpatia": {
-    "song_ids": [
-      "mg-00683",
-      "mg-00684",
-      "mg-00685",
-      "mg-00686",
-      "mg-00687",
-      "mg-00688",
-      "mg-00689",
-      "mg-00690",
-      "mg-00691"
-    ],
-    "primary_song_ids": [
-      "mg-00683",
-      "mg-00684",
-      "mg-00685",
-      "mg-00686",
-      "mg-00687",
-      "mg-00688",
-      "mg-00689",
-      "mg-00690",
-      "mg-00691"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],

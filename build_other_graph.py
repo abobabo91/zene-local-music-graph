@@ -233,8 +233,14 @@ AREA_CONFIG = {
 }
 
 
+_ACCENT_MAP = str.maketrans(
+    "áàâäãåéèêëíìîïóòôöõőúùûüűýñçšž",
+    "aaaaaaeeeeiiiioooooouuuuuyncsz",
+)
+
 def normalize_key(text: str) -> str:
     value = text.lower().replace("_", " ").replace("&", " and ")
+    value = value.translate(_ACCENT_MAP)
     value = re.sub(r"[^a-z0-9+]+", " ", value)
     return re.sub(r"\s+", " ", value).strip()
 

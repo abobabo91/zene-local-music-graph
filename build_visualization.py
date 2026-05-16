@@ -735,7 +735,7 @@ def build_folder_trees(area: str, persons_data: list[dict]) -> dict[str, list]:
     base = DATA_ROOT / area / "normalized"
     songs = load_json(base / "songs.json")
 
-    # Find artist-level folder roots where the folder name matches the artist
+    # Find artist-level folder roots where ANY folder in the path matches the artist
     artist_roots: dict[str, set[str]] = {}
     for s in songs:
         for credit in s.get("credits", []):
@@ -743,10 +743,12 @@ def build_folder_trees(area: str, persons_data: list[dict]) -> dict[str, list]:
                 continue
             name = credit["entity"]
             parts = Path(s["file"]).parts
-            if len(parts) >= 3:
-                folder_name = parts[2]
-                if _normalize_folder_name(folder_name) == _normalize_folder_name(name):
-                    artist_roots.setdefault(name, set()).add(str(Path(*parts[:3])))
+            norm_name = _normalize_folder_name(name)
+            # Check each directory level (skip filename at the end)
+            for i in range(1, len(parts) - 1):
+                if _normalize_folder_name(parts[i]) == norm_name:
+                    artist_roots.setdefault(name, set()).add(str(Path(*parts[:i+1])))
+                    break
 
     trees: dict[str, list] = {}
     for p in persons_data:

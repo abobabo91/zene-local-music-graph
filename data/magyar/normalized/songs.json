@@ -3171,15 +3171,15 @@
     "file": "_other\\_magyar\\_cigany\\Mario Official\\Mário - Kell Még Álom.mp3",
     "title": "Kell Még Álom",
     "primary_artists": [
-      "Mário"
+      "Mario"
     ],
     "featuring_artists": [],
     "artists": [
-      "Mário"
+      "Mario"
     ],
     "credits": [
       {
-        "entity": "Mário",
+        "entity": "Mario",
         "entity_type": "person",
         "role": "primary"
       }
@@ -9023,20 +9023,20 @@
     "file": "_other\\_magyar\\_retro\\1990-2000-es évek magyar retró slágerei\\ha mégegyszer láthatnám (dalszöveggel) - republic.mp3",
     "title": "republic",
     "primary_artists": [
-      "ha mégegyszer láthatnám"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "ha mégegyszer láthatnám"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "ha mégegyszer láthatnám",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "mg-00442",
@@ -11591,15 +11591,15 @@
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Mate Peter - Ez majdnem szerelem volt.mp3",
     "title": "Ez majdnem szerelem volt",
     "primary_artists": [
-      "Mate Peter"
+      "Máté Péter"
     ],
     "featuring_artists": [],
     "artists": [
-      "Mate Peter"
+      "Máté Péter"
     ],
     "credits": [
       {
-        "entity": "Mate Peter",
+        "entity": "Máté Péter",
         "entity_type": "person",
         "role": "primary"
       }
@@ -11739,20 +11739,20 @@
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\OMEGA (1994) Népstadion - Léna.mp3",
     "title": "Léna",
     "primary_artists": [
-      "OMEGA Népstadion"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "OMEGA Népstadion"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "OMEGA Népstadion",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "mg-00577",
@@ -13893,15 +13893,15 @@
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Karpatia\\02-Veterán.wma",
     "title": "Veterán",
     "primary_artists": [
-      "Karpatia"
+      "Kárpátia"
     ],
     "featuring_artists": [],
     "artists": [
-      "Karpatia"
+      "Kárpátia"
     ],
     "credits": [
       {
-        "entity": "Karpatia",
+        "entity": "Kárpátia",
         "entity_type": "person",
         "role": "primary"
       }
@@ -13913,15 +13913,15 @@
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Karpatia\\06-Rozsdaette penge.wma",
     "title": "Rozsdaette penge",
     "primary_artists": [
-      "Karpatia"
+      "Kárpátia"
     ],
     "featuring_artists": [],
     "artists": [
-      "Karpatia"
+      "Kárpátia"
     ],
     "credits": [
       {
-        "entity": "Karpatia",
+        "entity": "Kárpátia",
         "entity_type": "person",
         "role": "primary"
       }
@@ -13933,15 +13933,15 @@
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Karpatia\\08-Szép vagy,  gyönyörű vagy Magyarország.wma",
     "title": "Szép vagy, gyönyörű vagy Magyarország",
     "primary_artists": [
-      "Karpatia"
+      "Kárpátia"
     ],
     "featuring_artists": [],
     "artists": [
-      "Karpatia"
+      "Kárpátia"
     ],
     "credits": [
       {
-        "entity": "Karpatia",
+        "entity": "Kárpátia",
         "entity_type": "person",
         "role": "primary"
       }
@@ -13953,15 +13953,15 @@
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Karpatia\\Hol vagytok székelyek\\01 Hol vagytok székelyek.mp3",
     "title": "Hol vagytok székelyek",
     "primary_artists": [
-      "Karpatia"
+      "Kárpátia"
     ],
     "featuring_artists": [],
     "artists": [
-      "Karpatia"
+      "Kárpátia"
     ],
     "credits": [
       {
-        "entity": "Karpatia",
+        "entity": "Kárpátia",
         "entity_type": "person",
         "role": "primary"
       }
@@ -13973,15 +13973,15 @@
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Karpatia\\Istenért, Hazáért!\\01 Egy nap az élet.mp3",
     "title": "Egy nap az élet",
     "primary_artists": [
-      "Karpatia"
+      "Kárpátia"
     ],
     "featuring_artists": [],
     "artists": [
-      "Karpatia"
+      "Kárpátia"
     ],
     "credits": [
       {
-        "entity": "Karpatia",
+        "entity": "Kárpátia",
         "entity_type": "person",
         "role": "primary"
       }
@@ -13993,15 +13993,15 @@
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Karpatia\\Istenért, Hazáért!\\02 Magyarnak születtem.mp3",
     "title": "Magyarnak születtem",
     "primary_artists": [
-      "Karpatia"
+      "Kárpátia"
     ],
     "featuring_artists": [],
     "artists": [
-      "Karpatia"
+      "Kárpátia"
     ],
     "credits": [
       {
-        "entity": "Karpatia",
+        "entity": "Kárpátia",
         "entity_type": "person",
         "role": "primary"
       }
@@ -14013,15 +14013,15 @@
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Karpatia\\Istenért, Hazáért!\\05 Barátom mond merre vagy.mp3",
     "title": "Barátom mond merre vagy",
     "primary_artists": [
-      "Karpatia"
+      "Kárpátia"
     ],
     "featuring_artists": [],
     "artists": [
-      "Karpatia"
+      "Kárpátia"
     ],
     "credits": [
       {
-        "entity": "Karpatia",
+        "entity": "Kárpátia",
         "entity_type": "person",
         "role": "primary"
       }
@@ -14033,15 +14033,15 @@
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Karpatia\\Istenért, Hazáért!\\09 A világtól elzárva.mp3",
     "title": "A világtól elzárva",
     "primary_artists": [
-      "Karpatia"
+      "Kárpátia"
     ],
     "featuring_artists": [],
     "artists": [
-      "Karpatia"
+      "Kárpátia"
     ],
     "credits": [
       {
-        "entity": "Karpatia",
+        "entity": "Kárpátia",
         "entity_type": "person",
         "role": "primary"
       }
@@ -14053,15 +14053,15 @@
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Karpatia\\Istenért, Hazáért!\\11 Erdély szabad!.mp3",
     "title": "Erdély szabad!",
     "primary_artists": [
-      "Karpatia"
+      "Kárpátia"
     ],
     "featuring_artists": [],
     "artists": [
-      "Karpatia"
+      "Kárpátia"
     ],
     "credits": [
       {
-        "entity": "Karpatia",
+        "entity": "Kárpátia",
         "entity_type": "person",
         "role": "primary"
       }

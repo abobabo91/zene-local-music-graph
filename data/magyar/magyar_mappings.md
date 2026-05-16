@@ -45,7 +45,7 @@
 - `Kis Grofó: Kis Grofo, Kis grofo`
 - `Gáspár Laci: Gáspár Laci`
 - `Rúzsa Magdi: Rúzsa Magdi`
-- `Kárpátia: Karpatia`
+- `Kárpátia: Karpatia, Karpatia 2006, Karpátia`
 - `Mulatós: _Mulatós, Mulatós`
 - `G.w.M: GwM`
 - `L.L. Junior: LL Junior`
