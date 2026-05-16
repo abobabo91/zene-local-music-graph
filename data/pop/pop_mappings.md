@@ -46,3 +46,15 @@
 - `Will.I.Am: will i am`
 - `T-Pain: T Pain`
 - `Kaytranada: Kaytranada`
+- `Eve: EVE`
+- `Jay-Z: JAY-Z`
+- `Nickelback: NickelBack`
+- `Snoop Dogg: snoop dogg`
+- `Timbaland: timbaland`
+- `OneRepublic: onerepublic, Onerepublic`
+- `PSY: Psy`
+- `Icona Pop: icona pop`
+- `AlunaGeorge: Alunageorge`
+- `gnash: Gnash`
+- `The Doors: The doors`
+- `BTS: BTS 방탄소년단)`

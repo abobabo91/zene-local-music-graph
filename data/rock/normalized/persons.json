@@ -1,67 +1,16 @@
 {
-  "Supermassive Black Hole": {
+  "Muse": {
     "song_ids": [
-      "rk-00002"
+      "rk-00002",
+      "rk-00176",
+      "rk-00177",
+      "rk-00178"
     ],
     "primary_song_ids": [
-      "rk-00002"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Capricorn": {
-    "song_ids": [
-      "rk-00003"
-    ],
-    "primary_song_ids": [
-      "rk-00003"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Attack": {
-    "song_ids": [
-      "rk-00004"
-    ],
-    "primary_song_ids": [
-      "rk-00004"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "From Yesterday": {
-    "song_ids": [
-      "rk-00005"
-    ],
-    "primary_song_ids": [
-      "rk-00005"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Hurricane": {
-    "song_ids": [
-      "rk-00006"
-    ],
-    "primary_song_ids": [
-      "rk-00006"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "60s-70s Stoner Psychedelic Rock": {
-    "song_ids": [
-      "rk-00007",
-      "rk-00012"
-    ],
-    "primary_song_ids": [
-      "rk-00007",
-      "rk-00012"
+      "rk-00002",
+      "rk-00176",
+      "rk-00177",
+      "rk-00178"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -78,7 +27,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Derek": {
+  "Derek and the Dominos": {
     "song_ids": [
       "rk-00009"
     ],
@@ -138,42 +87,13 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "The Mamas": {
+  "The Mamas & the Papas": {
     "song_ids": [
       "rk-00014"
     ],
     "primary_song_ids": [
+      "rk-00014",
       "rk-00014"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "The Papas": {
-    "song_ids": [
-      "rk-00014"
-    ],
-    "primary_song_ids": [
-      "rk-00014"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Ambiance": {
-    "song_ids": [
-      "rk-00015",
-      "rk-00016",
-      "rk-00017",
-      "rk-00018",
-      "rk-00019"
-    ],
-    "primary_song_ids": [
-      "rk-00015",
-      "rk-00016",
-      "rk-00017",
-      "rk-00018",
-      "rk-00019"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -195,17 +115,6 @@
       "rk-00082",
       "rk-00083",
       "rk-00084"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Green Onions": {
-    "song_ids": [
-      "rk-00021"
-    ],
-    "primary_song_ids": [
-      "rk-00021"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -244,83 +153,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "mod stuff": {
-    "song_ids": [
-      "rk-00025"
-    ],
-    "primary_song_ids": [
-      "rk-00025"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Cluster One": {
-    "song_ids": [
-      "rk-00027"
-    ],
-    "primary_song_ids": [
-      "rk-00027"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "High Hopes": {
-    "song_ids": [
-      "rk-00028"
-    ],
-    "primary_song_ids": [
-      "rk-00028"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Keep Talking": {
-    "song_ids": [
-      "rk-00029"
-    ],
-    "primary_song_ids": [
-      "rk-00029"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Lost for Words": {
-    "song_ids": [
-      "rk-00030"
-    ],
-    "primary_song_ids": [
-      "rk-00030"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Pigs": {
-    "song_ids": [
-      "rk-00033"
-    ],
-    "primary_song_ids": [
-      "rk-00033"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Crumb": {
-    "song_ids": [
-      "rk-00039"
-    ],
-    "primary_song_ids": [
-      "rk-00039"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Das Kope": {
     "song_ids": [
       "rk-00040"
@@ -332,36 +164,12 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Psychedelic Rock Modern": {
-    "song_ids": [
-      "rk-00041"
-    ],
-    "primary_song_ids": [
-      "rk-00041"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "The Black Angels": {
     "song_ids": [
       "rk-00042"
     ],
     "primary_song_ids": [
       "rk-00042"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "The Ultimate Psychedelic Acid Rock": {
-    "song_ids": [
-      "rk-00043",
-      "rk-00046"
-    ],
-    "primary_song_ids": [
-      "rk-00043",
-      "rk-00046"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -474,23 +282,12 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Be lakor": {
+  "Be'lakor": {
     "song_ids": [
       "rk-00072"
     ],
     "primary_song_ids": [
       "rk-00072"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Scarface Soundtrack": {
-    "song_ids": [
-      "rk-00073"
-    ],
-    "primary_song_ids": [
-      "rk-00073"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -520,34 +317,16 @@
   },
   "Bullet for My Valentine": {
     "song_ids": [
-      "rk-00076"
-    ],
-    "primary_song_ids": [
-      "rk-00076"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Bullet For My Valentine": {
-    "song_ids": [
+      "rk-00076",
       "rk-00077",
+      "rk-00078",
       "rk-00079"
     ],
     "primary_song_ids": [
+      "rk-00076",
       "rk-00077",
+      "rk-00078",
       "rk-00079"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Bullet for my Valentine": {
-    "song_ids": [
-      "rk-00078"
-    ],
-    "primary_song_ids": [
-      "rk-00078"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -604,17 +383,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "and life": {
-    "song_ids": [
-      "rk-00095"
-    ],
-    "primary_song_ids": [
-      "rk-00095"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Bon Jovi": {
     "song_ids": [
       "rk-00096",
@@ -631,17 +399,6 @@
       "rk-00100",
       "rk-00101",
       "rk-00156"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Dirty Dancing": {
-    "song_ids": [
-      "rk-00098"
-    ],
-    "primary_song_ids": [
-      "rk-00098"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -736,17 +493,6 @@
     "primary_song_ids": [
       "rk-00110",
       "rk-00289"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Celebration Rock": {
-    "song_ids": [
-      "rk-00111"
-    ],
-    "primary_song_ids": [
-      "rk-00111"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -874,29 +620,20 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Evanescence - Fallen": {
-    "song_ids": [
-      "rk-00128",
-      "rk-00129",
-      "rk-00130",
-      "rk-00132"
-    ],
-    "primary_song_ids": [
-      "rk-00128",
-      "rk-00129",
-      "rk-00130",
-      "rk-00132"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Evanescence": {
     "song_ids": [
-      "rk-00131"
+      "rk-00128",
+      "rk-00129",
+      "rk-00130",
+      "rk-00131",
+      "rk-00132"
     ],
     "primary_song_ids": [
-      "rk-00131"
+      "rk-00128",
+      "rk-00129",
+      "rk-00130",
+      "rk-00131",
+      "rk-00132"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -941,17 +678,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "The Pretender": {
-    "song_ids": [
-      "rk-00139"
-    ],
-    "primary_song_ids": [
-      "rk-00139"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "TURNSTILE": {
     "song_ids": [
       "rk-00140",
@@ -967,7 +693,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "good charlotte": {
+  "Good Charlotte": {
     "song_ids": [
       "rk-00143",
       "rk-00144",
@@ -986,7 +712,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "GunsNRoses": {
+  "Guns N' Roses": {
     "song_ids": [
       "rk-00148"
     ],
@@ -997,7 +723,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Hall": {
+  "Hall & Oates": {
     "song_ids": [
       "rk-00149",
       "rk-00150",
@@ -1038,17 +764,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Love Said No": {
-    "song_ids": [
-      "rk-00152"
-    ],
-    "primary_song_ids": [
-      "rk-00152"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Iggy Pop": {
     "song_ids": [
       "rk-00153"
@@ -1071,7 +786,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "AC DC": {
+  "AC/DC": {
     "song_ids": [
       "rk-00155"
     ],
@@ -1190,7 +905,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Metallica - Garage": {
+  "Metallica": {
     "song_ids": [
       "rk-00174"
     ],
@@ -1201,18 +916,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Inc": {
-    "song_ids": [
-      "rk-00174"
-    ],
-    "primary_song_ids": [
-      "rk-00174"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Millencolin - 2012 - The Melancholy Connection": {
+  "Millencolin": {
     "song_ids": [
       "rk-00175"
     ],
@@ -1223,27 +927,14 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Muse": {
+  "My Chemical Romance": {
     "song_ids": [
-      "rk-00176",
-      "rk-00177",
-      "rk-00178"
+      "rk-00179",
+      "rk-00281"
     ],
     "primary_song_ids": [
-      "rk-00176",
-      "rk-00177",
-      "rk-00178"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "My Chemical Romance-May Death Never Stop You Mp3": {
-    "song_ids": [
-      "rk-00179"
-    ],
-    "primary_song_ids": [
-      "rk-00179"
+      "rk-00179",
+      "rk-00281"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -1262,20 +953,11 @@
   },
   "Nirvana": {
     "song_ids": [
-      "rk-00181"
-    ],
-    "primary_song_ids": [
-      "rk-00181"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Nirvana - Nirvana": {
-    "song_ids": [
+      "rk-00181",
       "rk-00182"
     ],
     "primary_song_ids": [
+      "rk-00181",
       "rk-00182"
     ],
     "feature_song_ids": [],
@@ -1299,18 +981,30 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Oasis - Stop The Clocks": {
+  "Oasis": {
     "song_ids": [
       "rk-00187",
       "rk-00188",
       "rk-00189",
-      "rk-00190"
+      "rk-00190",
+      "rk-00472",
+      "rk-00473",
+      "rk-00474",
+      "rk-00475",
+      "rk-00476",
+      "rk-00477"
     ],
     "primary_song_ids": [
       "rk-00187",
       "rk-00188",
       "rk-00189",
-      "rk-00190"
+      "rk-00190",
+      "rk-00472",
+      "rk-00473",
+      "rk-00474",
+      "rk-00475",
+      "rk-00476",
+      "rk-00477"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -1362,7 +1056,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "p!nk": {
+  "P!nk": {
     "song_ids": [
       "rk-00197",
       "rk-00198",
@@ -1422,7 +1116,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Rush - Chronicles": {
+  "Rush": {
     "song_ids": [
       "rk-00209"
     ],
@@ -1458,14 +1152,18 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Sex Pistols - Never Mind The Bollocks Here s The Sex Pistols": {
+  "Sex Pistols": {
     "song_ids": [
       "rk-00218",
-      "rk-00219"
+      "rk-00219",
+      "rk-00264",
+      "rk-00265"
     ],
     "primary_song_ids": [
       "rk-00218",
-      "rk-00219"
+      "rk-00219",
+      "rk-00264",
+      "rk-00265"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -1479,59 +1177,6 @@
       "rk-00220"
     ],
     "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Sled Storm Soundtrack": {
-    "song_ids": [
-      "rk-00221",
-      "rk-00222",
-      "rk-00223",
-      "rk-00224",
-      "rk-00225"
-    ],
-    "primary_song_ids": [
-      "rk-00221",
-      "rk-00222",
-      "rk-00223",
-      "rk-00224",
-      "rk-00225"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Sleeping": {
-    "song_ids": [
-      "rk-00226",
-      "rk-00227",
-      "rk-00228",
-      "rk-00229"
-    ],
-    "primary_song_ids": [
-      "rk-00226",
-      "rk-00227",
-      "rk-00228",
-      "rk-00229"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Sirens": {
-    "song_ids": [
-      "rk-00226",
-      "rk-00227",
-      "rk-00228",
-      "rk-00229"
-    ],
-    "primary_song_ids": [],
-    "feature_song_ids": [
-      "rk-00226",
-      "rk-00227",
-      "rk-00228",
-      "rk-00229"
-    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -1675,19 +1320,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Sex Pistols": {
-    "song_ids": [
-      "rk-00264",
-      "rk-00265"
-    ],
-    "primary_song_ids": [
-      "rk-00264",
-      "rk-00265"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "The Casualties": {
     "song_ids": [
       "rk-00266"
@@ -1769,17 +1401,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "The Ultimate Pop Punk": {
-    "song_ids": [
-      "rk-00276"
-    ],
-    "primary_song_ids": [
-      "rk-00276"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Fountains of Wayne": {
     "song_ids": [
       "rk-00277"
@@ -1819,17 +1440,6 @@
     ],
     "primary_song_ids": [
       "rk-00280"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "My Chemical Romance": {
-    "song_ids": [
-      "rk-00281"
-    ],
-    "primary_song_ids": [
-      "rk-00281"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -1910,12 +1520,14 @@
   "Three Days Grace": {
     "song_ids": [
       "rk-00292",
+      "rk-00303",
       "rk-00304",
       "rk-00305",
       "rk-00306"
     ],
     "primary_song_ids": [
       "rk-00292",
+      "rk-00303",
       "rk-00304",
       "rk-00305",
       "rk-00306"
@@ -1971,17 +1583,6 @@
     ],
     "primary_song_ids": [
       "rk-00300"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Three Days Grace Official": {
-    "song_ids": [
-      "rk-00303"
-    ],
-    "primary_song_ids": [
-      "rk-00303"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -2092,7 +1693,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "U2 - U218 Singles": {
+  "U2": {
     "song_ids": [
       "rk-00328",
       "rk-00329"
@@ -2105,7 +1706,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Warpaint - Warpaint": {
+  "Warpaint": {
     "song_ids": [
       "rk-00330"
     ],
@@ -2311,17 +1912,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "A Curse": {
-    "song_ids": [
-      "rk-00377"
-    ],
-    "primary_song_ids": [],
-    "feature_song_ids": [
-      "rk-00377"
-    ],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Green Day": {
     "song_ids": [
       "rk-00405",
@@ -2419,9 +2009,16 @@
       "rk-00433",
       "rk-00434",
       "rk-00435",
+      "rk-00436",
       "rk-00437",
       "rk-00438",
       "rk-00439",
+      "rk-00440",
+      "rk-00441",
+      "rk-00442",
+      "rk-00443",
+      "rk-00444",
+      "rk-00445",
       "rk-00446",
       "rk-00447",
       "rk-00448",
@@ -2435,9 +2032,16 @@
       "rk-00433",
       "rk-00434",
       "rk-00435",
+      "rk-00436",
       "rk-00437",
       "rk-00438",
       "rk-00439",
+      "rk-00440",
+      "rk-00441",
+      "rk-00442",
+      "rk-00443",
+      "rk-00444",
+      "rk-00445",
       "rk-00446",
       "rk-00447",
       "rk-00448",
@@ -2446,83 +2050,6 @@
       "rk-00451",
       "rk-00452",
       "rk-00453"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Burning In The Skies": {
-    "song_ids": [
-      "rk-00436"
-    ],
-    "primary_song_ids": [
-      "rk-00436"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Bleed It Out": {
-    "song_ids": [
-      "rk-00440"
-    ],
-    "primary_song_ids": [
-      "rk-00440"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Given Up": {
-    "song_ids": [
-      "rk-00441"
-    ],
-    "primary_song_ids": [
-      "rk-00441"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Leave Out All The Rest": {
-    "song_ids": [
-      "rk-00442"
-    ],
-    "primary_song_ids": [
-      "rk-00442"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "No More Sorrow": {
-    "song_ids": [
-      "rk-00443"
-    ],
-    "primary_song_ids": [
-      "rk-00443"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "What I've Done": {
-    "song_ids": [
-      "rk-00444"
-    ],
-    "primary_song_ids": [
-      "rk-00444"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Wastelands": {
-    "song_ids": [
-      "rk-00445"
-    ],
-    "primary_song_ids": [
-      "rk-00445"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -2542,6 +2069,7 @@
   "Nick Cave and the Bad Seeds": {
     "song_ids": [
       "rk-00457",
+      "rk-00458",
       "rk-00459",
       "rk-00460",
       "rk-00461",
@@ -2559,6 +2087,7 @@
     "primary_song_ids": [
       "rk-00457",
       "rk-00457",
+      "rk-00458",
       "rk-00459",
       "rk-00460",
       "rk-00461",
@@ -2581,38 +2110,6 @@
       "rk-00470",
       "rk-00471",
       "rk-00471"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Grinderman": {
-    "song_ids": [
-      "rk-00458"
-    ],
-    "primary_song_ids": [
-      "rk-00458"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Oasis": {
-    "song_ids": [
-      "rk-00472",
-      "rk-00473",
-      "rk-00474",
-      "rk-00475",
-      "rk-00476",
-      "rk-00477"
-    ],
-    "primary_song_ids": [
-      "rk-00472",
-      "rk-00473",
-      "rk-00474",
-      "rk-00475",
-      "rk-00476",
-      "rk-00477"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -2799,17 +2296,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "I Call Your Name (Montezuma Demo": {
-    "song_ids": [
-      "rk-00543"
-    ],
-    "primary_song_ids": [
-      "rk-00543"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "The Cranberries": {
     "song_ids": [
       "rk-00548",
@@ -2900,39 +2386,6 @@
       "rk-00591",
       "rk-00592",
       "rk-00593"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Hollywood": {
-    "song_ids": [
-      "rk-00573"
-    ],
-    "primary_song_ids": [
-      "rk-00573"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Electric Blue": {
-    "song_ids": [
-      "rk-00574"
-    ],
-    "primary_song_ids": [
-      "rk-00574"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Bosnia": {
-    "song_ids": [
-      "rk-00575"
-    ],
-    "primary_song_ids": [
-      "rk-00575"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],

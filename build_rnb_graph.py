@@ -60,6 +60,8 @@ BLOCKLIST_ARTISTS = {
     "snoop dogg victory in stores now",
     "g o o d music s cyhi the prynce party bullshit",
     "me do it well",
+    "step up 2 soundtrack", "medicine", "flow", "houston", "nathan",
+    "claude", "bubba spar", "anderson",
 }
 UNKNOWN_ARTIST = "N/A"
 

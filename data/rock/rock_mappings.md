@@ -4,7 +4,7 @@
 
 - `30 Seconds to Mars: 30 Seconds To Mars`
 - `Green Day: GreenDay, Green Day - Discography`
-- `Linkin Park: Linkin Park Discography`
+- `Linkin Park: Linkin Park Discography, Burning In The Skies, Bleed It Out, Given Up, Leave Out All The Rest, No More Sorrow, What I've Done, Wastelands`
 - `Limp Bizkit: Limp Bizkit - Greatest Hitz`
 - `The Cranberries: The Cranberries - Discography`
 - `Placebo: Placebo - Greatest Hits`
@@ -13,19 +13,35 @@
 - `Rammstein: rammstein`
 - `Roxette: roxette`
 - `Tokio Hotel: tokio hotel`
-- `Nick Cave and the Bad Seeds: Nick Cave and the Bad Seeds - Best Songs, the Bad Seeds - Best Songs - YouTube, Nick Cave, NICK CAVE, Nick Cave The Bad Seeds, the Bad Seeds`
+- `Nick Cave and the Bad Seeds: Nick Cave and the Bad Seeds - Best Songs, the Bad Seeds - Best Songs - YouTube, Nick Cave, NICK CAVE, Nick Cave The Bad Seeds, the Bad Seeds, Grinderman`
 - `Apocalyptica: Apocalyptica TOP TRACKS Playlist`
-- `Oasis: Oasis playlist - BEST songs`
+- `Oasis: Oasis playlist - BEST songs, Oasis - Stop The Clocks`
 - `Queen: Queen Playlist`
-- `Muse: muse`
+- `Muse: muse, Supermassive Black Hole`
 - `The Pretty Reckless: The Pretty Reckless`
 - `Marilyn Manson: Marilyn Manson tracks`
 - `Billy Idol: billy idol, Billy idol`
 - `Black Sabbath: BLACK SABBATH`
-- `Sex Pistols: SEX PISTOLS`
+- `Sex Pistols: SEX PISTOLS, Sex Pistols - Never Mind The Bollocks Here s The Sex Pistols`
 - `Kings of Leon: Kings Of Leon`
 - `Bon Jovi: Bon Jovi Greatest Hits`
-- `Hall & Oates: Oates Greatest Hits Remastered - YouTube`
+- `Hall & Oates: Oates Greatest Hits Remastered - YouTube, Hall`
 - `Seether: Seether - YouTube`
 - `Creed: Creed - YouTube`
-- `Trip: TRIP`
+- `Bullet for My Valentine: Bullet For My Valentine, Bullet for my Valentine`
+- `Evanescence: Evanescence - Fallen`
+- `Nirvana: Nirvana - Nirvana`
+- `Three Days Grace: Three Days Grace Official`
+- `Good Charlotte: good charlotte`
+- `Guns N' Roses: GunsNRoses`
+- `AC/DC: AC DC`
+- `P!nk: p!nk`
+- `Derek and the Dominos: Derek`
+- `The Mamas & the Papas: The Mamas, The Papas`
+- `Be'lakor: Be lakor`
+- `U2: U2 - U218 Singles`
+- `Rush: Rush - Chronicles`
+- `Metallica: Metallica - Garage`
+- `Warpaint: Warpaint - Warpaint`
+- `Millencolin: Millencolin - 2012 - The Melancholy Connection`
+- `My Chemical Romance: My Chemical Romance-May Death Never Stop You Mp3`

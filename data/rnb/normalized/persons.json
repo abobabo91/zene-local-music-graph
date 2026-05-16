@@ -498,17 +498,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "MEDICINE": {
-    "song_ids": [
-      "r-00142"
-    ],
-    "primary_song_ids": [
-      "r-00142"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Isaiah Rashad": {
     "song_ids": [
       "r-00151"
@@ -523,25 +512,6 @@
   "The Weeknd": {
     "song_ids": [
       "r-00153",
-      "r-00162",
-      "r-00163",
-      "r-00164",
-      "r-00165",
-      "r-00166",
-      "r-00167",
-      "r-00168",
-      "r-00169",
-      "r-00170",
-      "r-00171",
-      "r-00172",
-      "r-00173",
-      "r-00174",
-      "r-00175",
-      "r-00176",
-      "r-00177",
-      "r-00178",
-      "r-00179",
-      "r-00180",
       "r-00181",
       "r-00182",
       "r-00183",
@@ -562,39 +532,11 @@
       "r-00198",
       "r-00199",
       "r-00200",
-      "r-00202",
-      "r-00203",
-      "r-00204",
-      "r-00205",
-      "r-00206",
-      "r-00207",
-      "r-00208",
-      "r-00209",
-      "r-00210",
-      "r-00211",
+      "r-00201",
       "r-00367"
     ],
     "primary_song_ids": [
       "r-00153",
-      "r-00162",
-      "r-00163",
-      "r-00164",
-      "r-00165",
-      "r-00166",
-      "r-00167",
-      "r-00168",
-      "r-00169",
-      "r-00170",
-      "r-00171",
-      "r-00172",
-      "r-00173",
-      "r-00174",
-      "r-00175",
-      "r-00176",
-      "r-00177",
-      "r-00178",
-      "r-00179",
-      "r-00180",
       "r-00181",
       "r-00182",
       "r-00183",
@@ -615,16 +557,7 @@
       "r-00198",
       "r-00199",
       "r-00200",
-      "r-00202",
-      "r-00203",
-      "r-00204",
-      "r-00205",
-      "r-00206",
-      "r-00207",
-      "r-00208",
-      "r-00209",
-      "r-00210",
-      "r-00211",
+      "r-00201",
       "r-00367"
     ],
     "feature_song_ids": [],
@@ -680,12 +613,68 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "The Weekend": {
+  "weeknd": {
     "song_ids": [
-      "r-00201"
+      "r-00162",
+      "r-00163",
+      "r-00164",
+      "r-00165",
+      "r-00166",
+      "r-00167",
+      "r-00168",
+      "r-00169",
+      "r-00170",
+      "r-00171",
+      "r-00172",
+      "r-00173",
+      "r-00174",
+      "r-00175",
+      "r-00176",
+      "r-00177",
+      "r-00178",
+      "r-00179",
+      "r-00180",
+      "r-00202",
+      "r-00203",
+      "r-00204",
+      "r-00205",
+      "r-00206",
+      "r-00207",
+      "r-00208",
+      "r-00209",
+      "r-00210",
+      "r-00211"
     ],
     "primary_song_ids": [
-      "r-00201"
+      "r-00162",
+      "r-00163",
+      "r-00164",
+      "r-00165",
+      "r-00166",
+      "r-00167",
+      "r-00168",
+      "r-00169",
+      "r-00170",
+      "r-00171",
+      "r-00172",
+      "r-00173",
+      "r-00174",
+      "r-00175",
+      "r-00176",
+      "r-00177",
+      "r-00178",
+      "r-00179",
+      "r-00180",
+      "r-00202",
+      "r-00203",
+      "r-00204",
+      "r-00205",
+      "r-00206",
+      "r-00207",
+      "r-00208",
+      "r-00209",
+      "r-00210",
+      "r-00211"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -835,6 +824,7 @@
       "r-00233",
       "r-00234",
       "r-00235",
+      "r-00236",
       "r-00238",
       "r-00440",
       "r-00441",
@@ -852,6 +842,7 @@
       "r-00233",
       "r-00234",
       "r-00235",
+      "r-00236",
       "r-00238",
       "r-00440",
       "r-00441",
@@ -862,17 +853,6 @@
       "r-00446",
       "r-00447",
       "r-00448"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "aSHANTI top tracks": {
-    "song_ids": [
-      "r-00236"
-    ],
-    "primary_song_ids": [
-      "r-00236"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -1229,6 +1209,15 @@
   "Frank Ocean": {
     "song_ids": [
       "r-00309",
+      "r-00346",
+      "r-00347",
+      "r-00348",
+      "r-00349",
+      "r-00350",
+      "r-00351",
+      "r-00352",
+      "r-00353",
+      "r-00354",
       "r-00590",
       "r-00591",
       "r-00592",
@@ -1238,6 +1227,15 @@
     ],
     "primary_song_ids": [
       "r-00309",
+      "r-00346",
+      "r-00347",
+      "r-00348",
+      "r-00349",
+      "r-00350",
+      "r-00351",
+      "r-00352",
+      "r-00353",
+      "r-00354",
       "r-00590",
       "r-00591",
       "r-00592",
@@ -1312,20 +1310,11 @@
   },
   "Fantasia": {
     "song_ids": [
-      "r-00316"
-    ],
-    "primary_song_ids": [
-      "r-00316"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Fantasia s": {
-    "song_ids": [
+      "r-00316",
       "r-00317"
     ],
     "primary_song_ids": [
+      "r-00316",
       "r-00317"
     ],
     "feature_song_ids": [],
@@ -1556,50 +1545,16 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Ocean": {
+  "PARTYNEXTDOOR": {
     "song_ids": [
-      "r-00346",
-      "r-00347",
-      "r-00348",
-      "r-00349",
-      "r-00350",
-      "r-00351",
-      "r-00352",
-      "r-00353",
-      "r-00354"
+      "r-00355",
+      "r-00366"
     ],
     "primary_song_ids": [
-      "r-00346",
-      "r-00347",
-      "r-00348",
-      "r-00349",
-      "r-00350",
-      "r-00351",
-      "r-00352",
-      "r-00353",
-      "r-00354"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "PARTYNE": {
-    "song_ids": [
-      "r-00355"
-    ],
-    "primary_song_ids": [
-      "r-00355"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "TDOOR": {
-    "song_ids": [
-      "r-00355"
-    ],
-    "primary_song_ids": [
-      "r-00355"
+      "r-00355",
+      "r-00355",
+      "r-00366",
+      "r-00366"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -1695,17 +1650,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Flow": {
-    "song_ids": [
-      "r-00362"
-    ],
-    "primary_song_ids": [
-      "r-00362"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Christian Radke Turk": {
     "song_ids": [
       "r-00362"
@@ -1770,28 +1714,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Party Ne": {
-    "song_ids": [
-      "r-00366"
-    ],
-    "primary_song_ids": [
-      "r-00366"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "t Door": {
-    "song_ids": [
-      "r-00366"
-    ],
-    "primary_song_ids": [
-      "r-00366"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Jeremih": {
     "song_ids": [
       "r-00368",
@@ -1822,17 +1744,6 @@
     ],
     "primary_song_ids": [
       "r-00370"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Bubba Spar": {
-    "song_ids": [
-      "r-00371"
-    ],
-    "primary_song_ids": [
-      "r-00371"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -2079,17 +1990,6 @@
       "r-00386"
     ],
     "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Anderson": {
-    "song_ids": [
-      "r-00386"
-    ],
-    "primary_song_ids": [],
-    "feature_song_ids": [
-      "r-00386"
-    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -2766,17 +2666,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Claude": {
-    "song_ids": [
-      "r-00561"
-    ],
-    "primary_song_ids": [
-      "r-00561"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Dreezy": {
     "song_ids": [
       "r-00563",
@@ -2864,17 +2753,6 @@
       "r-00587",
       "r-00588",
       "r-00589"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Houston": {
-    "song_ids": [
-      "r-00597"
-    ],
-    "primary_song_ids": [
-      "r-00597"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -3157,17 +3035,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Nathan": {
-    "song_ids": [
-      "r-00650"
-    ],
-    "primary_song_ids": [
-      "r-00650"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Ne-Yo": {
     "song_ids": [
       "r-00651",
@@ -3280,17 +3147,6 @@
     ],
     "primary_song_ids": [
       "r-00669"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Step Up 2 Soundtrack": {
-    "song_ids": [
-      "r-00670"
-    ],
-    "primary_song_ids": [
-      "r-00670"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],

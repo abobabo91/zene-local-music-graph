@@ -191,15 +191,15 @@
     "file": "_other\\_alternate\\_chill\\West Sussex\\The War On Drugs - Thinking Of A Place [Official Audio].mp3",
     "title": "Thinking Of A Place []",
     "primary_artists": [
-      "The War On Drugs"
+      "The War on Drugs"
     ],
     "featuring_artists": [],
     "artists": [
-      "The War On Drugs"
+      "The War on Drugs"
     ],
     "credits": [
       {
-        "entity": "The War On Drugs",
+        "entity": "The War on Drugs",
         "entity_type": "person",
         "role": "primary"
       }
@@ -311,20 +311,20 @@
     "file": "_other\\_alternate\\_random\\a fine selection of nice music\\when i fall in love-ken boothe.mp3",
     "title": "when i fall in love-ken boothe",
     "primary_artists": [
-      "a fine selection of nice music"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "a fine selection of nice music"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "a fine selection of nice music",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "al-00017",
@@ -685,15 +685,15 @@
     "file": "_other\\_alternate\\_random\\Big Thief - U.F.O.F (2019) (MP3 320)\\01. contact.mp3",
     "title": "contact",
     "primary_artists": [
-      "Big Thief - U.F.O.F"
+      "Big Thief"
     ],
     "featuring_artists": [],
     "artists": [
-      "Big Thief - U.F.O.F"
+      "Big Thief"
     ],
     "credits": [
       {
-        "entity": "Big Thief - U.F.O.F",
+        "entity": "Big Thief",
         "entity_type": "person",
         "role": "primary"
       }
@@ -705,15 +705,15 @@
     "file": "_other\\_alternate\\_random\\Big Thief - U.F.O.F (2019) (MP3 320)\\02. ufof.mp3",
     "title": "ufof",
     "primary_artists": [
-      "Big Thief - U.F.O.F"
+      "Big Thief"
     ],
     "featuring_artists": [],
     "artists": [
-      "Big Thief - U.F.O.F"
+      "Big Thief"
     ],
     "credits": [
       {
-        "entity": "Big Thief - U.F.O.F",
+        "entity": "Big Thief",
         "entity_type": "person",
         "role": "primary"
       }
@@ -725,15 +725,15 @@
     "file": "_other\\_alternate\\_random\\Big Thief - U.F.O.F (2019) (MP3 320)\\03. cattails.mp3",
     "title": "cattails",
     "primary_artists": [
-      "Big Thief - U.F.O.F"
+      "Big Thief"
     ],
     "featuring_artists": [],
     "artists": [
-      "Big Thief - U.F.O.F"
+      "Big Thief"
     ],
     "credits": [
       {
-        "entity": "Big Thief - U.F.O.F",
+        "entity": "Big Thief",
         "entity_type": "person",
         "role": "primary"
       }
@@ -745,15 +745,15 @@
     "file": "_other\\_alternate\\_random\\Big Thief - U.F.O.F (2019) (MP3 320)\\07. century.mp3",
     "title": "century",
     "primary_artists": [
-      "Big Thief - U.F.O.F"
+      "Big Thief"
     ],
     "featuring_artists": [],
     "artists": [
-      "Big Thief - U.F.O.F"
+      "Big Thief"
     ],
     "credits": [
       {
-        "entity": "Big Thief - U.F.O.F",
+        "entity": "Big Thief",
         "entity_type": "person",
         "role": "primary"
       }
@@ -785,15 +785,15 @@
     "file": "_other\\_alternate\\_random\\Black_Lips-Arabia_Mountain-2011-JUST\\01-black_lips-family_tree.mp3",
     "title": "black lips-family tree",
     "primary_artists": [
-      "Black Lips-Arabia Mountain-2011-JUST"
+      "Black Lips"
     ],
     "featuring_artists": [],
     "artists": [
-      "Black Lips-Arabia Mountain-2011-JUST"
+      "Black Lips"
     ],
     "credits": [
       {
-        "entity": "Black Lips-Arabia Mountain-2011-JUST",
+        "entity": "Black Lips",
         "entity_type": "person",
         "role": "primary"
       }
@@ -925,22 +925,15 @@
     "file": "_other\\_alternate\\_random\\Bon Iver - 22, A Million [2016] [MP3~320Kbps]~[Hunter] [FRG]\\Bon Iver - 22, A Million [2016]\\04 33 _GOD_.mp3",
     "title": "33 GOD",
     "primary_artists": [
-      "Bon Iver",
-      "A Million ~"
+      "Bon Iver"
     ],
     "featuring_artists": [],
     "artists": [
-      "Bon Iver",
-      "A Million ~"
+      "Bon Iver"
     ],
     "credits": [
       {
         "entity": "Bon Iver",
-        "entity_type": "person",
-        "role": "primary"
-      },
-      {
-        "entity": "A Million ~",
         "entity_type": "person",
         "role": "primary"
       }
@@ -952,22 +945,15 @@
     "file": "_other\\_alternate\\_random\\Bon Iver - 22, A Million [2016] [MP3~320Kbps]~[Hunter] [FRG]\\Bon Iver - 22, A Million [2016]\\10 00000 Million.mp3",
     "title": "00000 Million",
     "primary_artists": [
-      "Bon Iver",
-      "A Million ~"
+      "Bon Iver"
     ],
     "featuring_artists": [],
     "artists": [
-      "Bon Iver",
-      "A Million ~"
+      "Bon Iver"
     ],
     "credits": [
       {
         "entity": "Bon Iver",
-        "entity_type": "person",
-        "role": "primary"
-      },
-      {
-        "entity": "A Million ~",
         "entity_type": "person",
         "role": "primary"
       }
@@ -1219,15 +1205,15 @@
     "file": "_other\\_alternate\\_random\\Cloud Nothings - Attack on Memory (2012)\\01 No Future No Past.mp3",
     "title": "No Future No Past",
     "primary_artists": [
-      "Cloud Nothings - Attack on Memory"
+      "Cloud Nothings"
     ],
     "featuring_artists": [],
     "artists": [
-      "Cloud Nothings - Attack on Memory"
+      "Cloud Nothings"
     ],
     "credits": [
       {
-        "entity": "Cloud Nothings - Attack on Memory",
+        "entity": "Cloud Nothings",
         "entity_type": "person",
         "role": "primary"
       }
@@ -1299,15 +1285,15 @@
     "file": "_other\\_alternate\\_random\\daniel johnston\\Daniel Johnston- Honey i sure miss you.mp3",
     "title": "Daniel Johnston- Honey i sure miss you",
     "primary_artists": [
-      "daniel johnston"
+      "Daniel Johnston"
     ],
     "featuring_artists": [],
     "artists": [
-      "daniel johnston"
+      "Daniel Johnston"
     ],
     "credits": [
       {
-        "entity": "daniel johnston",
+        "entity": "Daniel Johnston",
         "entity_type": "person",
         "role": "primary"
       }
@@ -1319,15 +1305,15 @@
     "file": "_other\\_alternate\\_random\\David Bowie Blackstar [2016] CDRIP\\★\\David_Bowie_-_Blackstar-2016-DDS\\06_dollar_days.mp3",
     "title": "dollar days",
     "primary_artists": [
-      "David Bowie Blackstar CDRIP"
+      "David Bowie"
     ],
     "featuring_artists": [],
     "artists": [
-      "David Bowie Blackstar CDRIP"
+      "David Bowie"
     ],
     "credits": [
       {
-        "entity": "David Bowie Blackstar CDRIP",
+        "entity": "David Bowie",
         "entity_type": "person",
         "role": "primary"
       }
@@ -1359,15 +1345,15 @@
     "file": "_other\\_alternate\\_random\\DIIV - Is The Is Are (2016)\\05 - Blue Boredom (Sky_s Song).mp3",
     "title": "Blue Boredom (Sky s Song)",
     "primary_artists": [
-      "DIIV - Is The Is Are"
+      "DIIV"
     ],
     "featuring_artists": [],
     "artists": [
-      "DIIV - Is The Is Are"
+      "DIIV"
     ],
     "credits": [
       {
-        "entity": "DIIV - Is The Is Are",
+        "entity": "DIIV",
         "entity_type": "person",
         "role": "primary"
       }
@@ -1379,15 +1365,15 @@
     "file": "_other\\_alternate\\_random\\DIIV - Is The Is Are (2016)\\07 - Yr Not Far.mp3",
     "title": "Yr Not Far",
     "primary_artists": [
-      "DIIV - Is The Is Are"
+      "DIIV"
     ],
     "featuring_artists": [],
     "artists": [
-      "DIIV - Is The Is Are"
+      "DIIV"
     ],
     "credits": [
       {
-        "entity": "DIIV - Is The Is Are",
+        "entity": "DIIV",
         "entity_type": "person",
         "role": "primary"
       }
@@ -1399,15 +1385,15 @@
     "file": "_other\\_alternate\\_random\\DIIV - Is The Is Are (2016)\\08 - Take Your Time.mp3",
     "title": "Take Your Time",
     "primary_artists": [
-      "DIIV - Is The Is Are"
+      "DIIV"
     ],
     "featuring_artists": [],
     "artists": [
-      "DIIV - Is The Is Are"
+      "DIIV"
     ],
     "credits": [
       {
-        "entity": "DIIV - Is The Is Are",
+        "entity": "DIIV",
         "entity_type": "person",
         "role": "primary"
       }
@@ -1419,15 +1405,15 @@
     "file": "_other\\_alternate\\_random\\EL CERRO RARO Y ME VIO UN PINCHE CUERVO\\NocheSiamesa.blogspot.com --- Mount Eerie - A Crow Looked At Me (2017)\\10 - Soria Moria.mp3",
     "title": "Soria Moria",
     "primary_artists": [
-      "NocheSiamesa.blogspot.com --- Mount Eerie - A Crow Looked At Me"
+      "Mount Eerie"
     ],
     "featuring_artists": [],
     "artists": [
-      "NocheSiamesa.blogspot.com --- Mount Eerie - A Crow Looked At Me"
+      "Mount Eerie"
     ],
     "credits": [
       {
-        "entity": "NocheSiamesa.blogspot.com --- Mount Eerie - A Crow Looked At Me",
+        "entity": "Mount Eerie",
         "entity_type": "person",
         "role": "primary"
       }
@@ -1705,7 +1691,7 @@
   {
     "song_id": "al-00084",
     "file": "_other\\_alternate\\_random\\Jake Bugg FULL ALBUM - YouTube\\jake bugg - someplace   lyrics in description.mp3",
-    "title": "someplace lyrics in description",
+    "title": "someplace in description",
     "primary_artists": [
       "Jake Bugg"
     ],
@@ -1767,15 +1753,15 @@
     "file": "_other\\_alternate\\_random\\Jens Lekman - Life Will See You Now (2017)\\09 Postcard #17.mp3",
     "title": "Postcard #17",
     "primary_artists": [
-      "Jens Lekman - Life Will See You Now"
+      "Jens Lekman"
     ],
     "featuring_artists": [],
     "artists": [
-      "Jens Lekman - Life Will See You Now"
+      "Jens Lekman"
     ],
     "credits": [
       {
-        "entity": "Jens Lekman - Life Will See You Now",
+        "entity": "Jens Lekman",
         "entity_type": "person",
         "role": "primary"
       }
@@ -1805,7 +1791,7 @@
   {
     "song_id": "al-00089",
     "file": "_other\\_alternate\\_random\\Jessie Reyez\\Jessie Reyez - F  Being Friends (Lyrics).mp3",
-    "title": "F Being Friends (Lyrics)",
+    "title": "F Being Friends ()",
     "primary_artists": [
       "Jessie Reyez"
     ],
@@ -2165,7 +2151,7 @@
   {
     "song_id": "al-00107",
     "file": "_other\\_alternate\\_random\\Last Night - Copy\\Snoh Aalegra - Nothing Burns Like The Cold (Lyric Video) ft. Vince Staples.mp3",
-    "title": "Nothing Burns Like The Cold (Lyric Video) ft",
+    "title": "Nothing Burns Like The Cold () ft",
     "primary_artists": [
       "Snoh Aalegra"
     ],
@@ -2205,17 +2191,17 @@
   {
     "song_id": "al-00109",
     "file": "_other\\_alternate\\_random\\Legnépszerűbb számok -- LD - YouTube\\Blanka (Original Mix).mp3",
-    "title": "Blanka (Original Mix)",
+    "title": "Blanka",
     "primary_artists": [
-      "Legnépszerűbb számok -- LD"
+      "LD"
     ],
     "featuring_artists": [],
     "artists": [
-      "Legnépszerűbb számok -- LD"
+      "LD"
     ],
     "credits": [
       {
-        "entity": "Legnépszerűbb számok -- LD",
+        "entity": "LD",
         "entity_type": "person",
         "role": "primary"
       }
@@ -2227,15 +2213,15 @@
     "file": "_other\\_alternate\\_random\\Legnépszerűbb számok -- LD - YouTube\\shake it off.mp3",
     "title": "shake it off",
     "primary_artists": [
-      "Legnépszerűbb számok -- LD"
+      "LD"
     ],
     "featuring_artists": [],
     "artists": [
-      "Legnépszerűbb számok -- LD"
+      "LD"
     ],
     "credits": [
       {
-        "entity": "Legnépszerűbb számok -- LD",
+        "entity": "LD",
         "entity_type": "person",
         "role": "primary"
       }
@@ -2245,7 +2231,7 @@
   {
     "song_id": "al-00111",
     "file": "_other\\_alternate\\_random\\Lorde - A World Alone (Lyrics).mp3",
-    "title": "A World Alone (Lyrics)",
+    "title": "A World Alone ()",
     "primary_artists": [
       "Lorde"
     ],
@@ -2425,7 +2411,7 @@
   {
     "song_id": "al-00120",
     "file": "_other\\_alternate\\_random\\Lorde - MELODRAMA (album) Playlist 2018 - YouTube\\Peter Manos - In My Head (Lyrics   Lyric Video).mp3",
-    "title": "In My Head (Lyrics Lyric Video)",
+    "title": "In My Head ( )",
     "primary_artists": [
       "Peter Manos"
     ],
@@ -2855,20 +2841,20 @@
     "file": "_other\\_alternate\\_random\\Mix – AURORA - Running With The Wolves\\Scarborough Fair - Aurora Aksnes (Official Music Video).mp3",
     "title": "Aurora Aksnes ()",
     "primary_artists": [
-      "Scarborough Fair"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Scarborough Fair"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Scarborough Fair",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "al-00142",
@@ -2933,17 +2919,17 @@
   {
     "song_id": "al-00145",
     "file": "_other\\_alternate\\_random\\Mix – Kreayshawn\\Kreayshawn Rich Whore Lyrics.mp3",
-    "title": "Kreayshawn Rich Whore Lyrics",
+    "title": "Kreayshawn Rich Whore",
     "primary_artists": [
-      "Mix - Kreayshawn"
+      "Kreayshawn"
     ],
     "featuring_artists": [],
     "artists": [
-      "Mix - Kreayshawn"
+      "Kreayshawn"
     ],
     "credits": [
       {
-        "entity": "Mix - Kreayshawn",
+        "entity": "Kreayshawn",
         "entity_type": "person",
         "role": "primary"
       }
@@ -3053,7 +3039,7 @@
   {
     "song_id": "al-00151",
     "file": "_other\\_alternate\\_random\\Mix – Phil Collins - Another Day In Paradise (Official Music Video)\\In The Air Tonight - Phil Collins [Lyrics on screen].mp3",
-    "title": "Phil Collins [Lyrics on screen]",
+    "title": "Phil Collins [ on screen]",
     "primary_artists": [
       "N/A"
     ],
@@ -3173,7 +3159,7 @@
   {
     "song_id": "al-00157",
     "file": "_other\\_alternate\\_random\\Mix – Phil Collins - Another Day In Paradise (Official Music Video)\\Phil Collins - You Can_t Hurry Love (Official Lyrics Video).mp3",
-    "title": "You Can t Hurry Love (Official Lyrics Video)",
+    "title": "You Can t Hurry Love ()",
     "primary_artists": [
       "Phil Collins"
     ],
@@ -3355,15 +3341,15 @@
     "file": "_other\\_alternate\\_random\\Mix – Xavier Rudd - Spirit Bird (audio HQ)\\True Love.mp3",
     "title": "True Love",
     "primary_artists": [
-      "Mix - Xavier Rudd - Spirit Bird"
+      "Xavier Rudd - Spirit Bird"
     ],
     "featuring_artists": [],
     "artists": [
-      "Mix - Xavier Rudd - Spirit Bird"
+      "Xavier Rudd - Spirit Bird"
     ],
     "credits": [
       {
-        "entity": "Mix - Xavier Rudd - Spirit Bird",
+        "entity": "Xavier Rudd - Spirit Bird",
         "entity_type": "person",
         "role": "primary"
       }
@@ -3455,15 +3441,15 @@
     "file": "_other\\_alternate\\_random\\Noah Lindsey Cyrus - YouTu\\Noah Cyrus _ Lil Xan - Live or Die (Official Audio.mp3",
     "title": "Live or Die (",
     "primary_artists": [
-      "Noah Cyrus Lil Xan"
+      "Noah Cyrus"
     ],
     "featuring_artists": [],
     "artists": [
-      "Noah Cyrus Lil Xan"
+      "Noah Cyrus"
     ],
     "credits": [
       {
-        "entity": "Noah Cyrus Lil Xan",
+        "entity": "Noah Cyrus",
         "entity_type": "person",
         "role": "primary"
       }
@@ -3475,15 +3461,15 @@
     "file": "_other\\_alternate\\_random\\Noah Lindsey Cyrus - YouTu\\Noah Cyrus Riptide SiriusXM Hits 1.mp3",
     "title": "Noah Cyrus Riptide SiriusXM Hits 1",
     "primary_artists": [
-      "Noah Lindsey Cyrus - YouTu"
+      "Noah Cyrus"
     ],
     "featuring_artists": [],
     "artists": [
-      "Noah Lindsey Cyrus - YouTu"
+      "Noah Cyrus"
     ],
     "credits": [
       {
-        "entity": "Noah Lindsey Cyrus - YouTu",
+        "entity": "Noah Cyrus",
         "entity_type": "person",
         "role": "primary"
       }
@@ -3495,20 +3481,20 @@
     "file": "_other\\_alternate\\_random\\OFFICIAL Somewhere over the Rainbow - Israel  IZ  Kamakawiwoʻole.mp3",
     "title": "Israel IZ Kamakawiwoʻole",
     "primary_artists": [
-      "OFFICIAL Somewhere over the Rainbow"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "OFFICIAL Somewhere over the Rainbow"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "OFFICIAL Somewhere over the Rainbow",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "al-00174",
@@ -3542,15 +3528,15 @@
     "file": "_other\\_alternate\\_random\\PJ Harvey - Let England Shake [mp3-256-2011]\\08 - In The Dark Places.mp3",
     "title": "In The Dark Places",
     "primary_artists": [
-      "PJ Harvey - Let England Shake"
+      "PJ Harvey"
     ],
     "featuring_artists": [],
     "artists": [
-      "PJ Harvey - Let England Shake"
+      "PJ Harvey"
     ],
     "credits": [
       {
-        "entity": "PJ Harvey - Let England Shake",
+        "entity": "PJ Harvey",
         "entity_type": "person",
         "role": "primary"
       }
@@ -3562,15 +3548,15 @@
     "file": "_other\\_alternate\\_random\\Porter Robinson - Nurture (FULL ALBUM)\\Blossom.mp3",
     "title": "Blossom",
     "primary_artists": [
-      "Porter Robinson - Nurture"
+      "Porter Robinson"
     ],
     "featuring_artists": [],
     "artists": [
-      "Porter Robinson - Nurture"
+      "Porter Robinson"
     ],
     "credits": [
       {
-        "entity": "Porter Robinson - Nurture",
+        "entity": "Porter Robinson",
         "entity_type": "person",
         "role": "primary"
       }
@@ -3582,15 +3568,15 @@
     "file": "_other\\_alternate\\_random\\Porter Robinson - Nurture (FULL ALBUM)\\dullscythe.mp3",
     "title": "dullscythe",
     "primary_artists": [
-      "Porter Robinson - Nurture"
+      "Porter Robinson"
     ],
     "featuring_artists": [],
     "artists": [
-      "Porter Robinson - Nurture"
+      "Porter Robinson"
     ],
     "credits": [
       {
-        "entity": "Porter Robinson - Nurture",
+        "entity": "Porter Robinson",
         "entity_type": "person",
         "role": "primary"
       }
@@ -3602,15 +3588,15 @@
     "file": "_other\\_alternate\\_random\\Porter Robinson - Nurture (FULL ALBUM)\\Get Your Wish.mp3",
     "title": "Get Your Wish",
     "primary_artists": [
-      "Porter Robinson - Nurture"
+      "Porter Robinson"
     ],
     "featuring_artists": [],
     "artists": [
-      "Porter Robinson - Nurture"
+      "Porter Robinson"
     ],
     "credits": [
       {
-        "entity": "Porter Robinson - Nurture",
+        "entity": "Porter Robinson",
         "entity_type": "person",
         "role": "primary"
       }
@@ -3622,15 +3608,15 @@
     "file": "_other\\_alternate\\_random\\Porter Robinson - Nurture (FULL ALBUM)\\Mirror.mp3",
     "title": "Mirror",
     "primary_artists": [
-      "Porter Robinson - Nurture"
+      "Porter Robinson"
     ],
     "featuring_artists": [],
     "artists": [
-      "Porter Robinson - Nurture"
+      "Porter Robinson"
     ],
     "credits": [
       {
-        "entity": "Porter Robinson - Nurture",
+        "entity": "Porter Robinson",
         "entity_type": "person",
         "role": "primary"
       }
@@ -3749,27 +3735,20 @@
     "file": "_other\\_alternate\\_random\\Russian   Slavic Music\\Лолита Кокс & оносамо - тёмное время.mp3",
     "title": "тёмное время",
     "primary_artists": [
-      "Лолита Кокс",
-      "оносамо"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Лолита Кокс",
-      "оносамо"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Лолита Кокс",
-        "entity_type": "person",
-        "role": "primary"
-      },
-      {
-        "entity": "оносамо",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "al-00186",
@@ -4196,15 +4175,15 @@
     "file": "_other\\_alternate\\_random\\Sufjan Stevens - Carrie _ Lowell (2015)\\06 Fourth of July.mp3",
     "title": "Fourth of July",
     "primary_artists": [
-      "Sufjan Stevens - Carrie Lowell"
+      "Sufjan Stevens"
     ],
     "featuring_artists": [],
     "artists": [
-      "Sufjan Stevens - Carrie Lowell"
+      "Sufjan Stevens"
     ],
     "credits": [
       {
-        "entity": "Sufjan Stevens - Carrie Lowell",
+        "entity": "Sufjan Stevens",
         "entity_type": "person",
         "role": "primary"
       }
@@ -4216,15 +4195,15 @@
     "file": "_other\\_alternate\\_random\\Sufjan Stevens - Carrie _ Lowell (2015)\\08 Carrie _ Lowell.mp3",
     "title": "Carrie Lowell",
     "primary_artists": [
-      "Sufjan Stevens - Carrie Lowell"
+      "Sufjan Stevens"
     ],
     "featuring_artists": [],
     "artists": [
-      "Sufjan Stevens - Carrie Lowell"
+      "Sufjan Stevens"
     ],
     "credits": [
       {
-        "entity": "Sufjan Stevens - Carrie Lowell",
+        "entity": "Sufjan Stevens",
         "entity_type": "person",
         "role": "primary"
       }
@@ -4256,15 +4235,15 @@
     "file": "_other\\_alternate\\_random\\TG_CF\\The Growlers (2014) - Chinese Foundation\\11 Purgatory Drive.mp3",
     "title": "Purgatory Drive",
     "primary_artists": [
-      "TG CF"
+      "The Growlers - Chinese Foundation"
     ],
     "featuring_artists": [],
     "artists": [
-      "TG CF"
+      "The Growlers - Chinese Foundation"
     ],
     "credits": [
       {
-        "entity": "TG CF",
+        "entity": "The Growlers - Chinese Foundation",
         "entity_type": "person",
         "role": "primary"
       }
@@ -4276,15 +4255,15 @@
     "file": "_other\\_alternate\\_random\\The Black Keys - Brothers [smb]\\08 - Too Afraid To Love You.mp3",
     "title": "Too Afraid To Love You",
     "primary_artists": [
-      "The Black Keys - Brothers"
+      "The Black Keys"
     ],
     "featuring_artists": [],
     "artists": [
-      "The Black Keys - Brothers"
+      "The Black Keys"
     ],
     "credits": [
       {
-        "entity": "The Black Keys - Brothers",
+        "entity": "The Black Keys",
         "entity_type": "person",
         "role": "primary"
       }
@@ -4314,22 +4293,22 @@
   {
     "song_id": "al-00213",
     "file": "_other\\_alternate\\_random\\The Less I Know The Better - Tame Impala Lyrics.mp3",
-    "title": "Tame Impala Lyrics",
+    "title": "Tame Impala",
     "primary_artists": [
-      "The Less I Know The Better"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "The Less I Know The Better"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "The Less I Know The Better",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "al-00214",
@@ -4356,15 +4335,15 @@
     "file": "_other\\_alternate\\_random\\The War On Drugs - A Deeper Understanding (2017)\\05 - Knocked Down.mp3",
     "title": "Knocked Down",
     "primary_artists": [
-      "The War On Drugs - A Deeper Understanding"
+      "The War on Drugs"
     ],
     "featuring_artists": [],
     "artists": [
-      "The War On Drugs - A Deeper Understanding"
+      "The War on Drugs"
     ],
     "credits": [
       {
-        "entity": "The War On Drugs - A Deeper Understanding",
+        "entity": "The War on Drugs",
         "entity_type": "person",
         "role": "primary"
       }
@@ -4376,15 +4355,15 @@
     "file": "_other\\_alternate\\_random\\The xx - I See You [2017]\\03 Lips.mp3",
     "title": "Lips",
     "primary_artists": [
-      "The xx - I See You"
+      "The xx"
     ],
     "featuring_artists": [],
     "artists": [
-      "The xx - I See You"
+      "The xx"
     ],
     "credits": [
       {
-        "entity": "The xx - I See You",
+        "entity": "The xx",
         "entity_type": "person",
         "role": "primary"
       }
@@ -4396,15 +4375,15 @@
     "file": "_other\\_alternate\\_random\\The xx - I See You [2017]\\04 A Violent Noise.mp3",
     "title": "A Violent Noise",
     "primary_artists": [
-      "The xx - I See You"
+      "The xx"
     ],
     "featuring_artists": [],
     "artists": [
-      "The xx - I See You"
+      "The xx"
     ],
     "credits": [
       {
-        "entity": "The xx - I See You",
+        "entity": "The xx",
         "entity_type": "person",
         "role": "primary"
       }
@@ -4416,15 +4395,15 @@
     "file": "_other\\_alternate\\_random\\The xx - I See You [2017]\\07 Brave For You.mp3",
     "title": "Brave For You",
     "primary_artists": [
-      "The xx - I See You"
+      "The xx"
     ],
     "featuring_artists": [],
     "artists": [
-      "The xx - I See You"
+      "The xx"
     ],
     "credits": [
       {
-        "entity": "The xx - I See You",
+        "entity": "The xx",
         "entity_type": "person",
         "role": "primary"
       }
@@ -4436,15 +4415,15 @@
     "file": "_other\\_alternate\\_random\\The xx - I See You [2017]\\10 Test Me.mp3",
     "title": "Test Me",
     "primary_artists": [
-      "The xx - I See You"
+      "The xx"
     ],
     "featuring_artists": [],
     "artists": [
-      "The xx - I See You"
+      "The xx"
     ],
     "credits": [
       {
-        "entity": "The xx - I See You",
+        "entity": "The xx",
         "entity_type": "person",
         "role": "primary"
       }
@@ -4496,20 +4475,20 @@
     "file": "_other\\_alternate\\_random\\These Boots Are Made For Walking or In These Shoes\\Shoe.mp3",
     "title": "Shoe",
     "primary_artists": [
-      "These Boots Are Made For Walking or In These Shoes"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "These Boots Are Made For Walking or In These Shoes"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "These Boots Are Made For Walking or In These Shoes",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "al-00223",
@@ -4556,15 +4535,15 @@
     "file": "_other\\_alternate\\_random\\Thundercat - Drunk (2017) [Mp3~320kbps]\\Thundercat - Drunk (2017)\\16 Where I_m Going.mp3",
     "title": "Where I m Going",
     "primary_artists": [
-      "Thundercat - Drunk"
+      "Thundercat"
     ],
     "featuring_artists": [],
     "artists": [
-      "Thundercat - Drunk"
+      "Thundercat"
     ],
     "credits": [
       {
-        "entity": "Thundercat - Drunk",
+        "entity": "Thundercat",
         "entity_type": "person",
         "role": "primary"
       }
@@ -4616,18 +4595,18 @@
     "file": "_other\\_alternate\\_random\\Titiyo\\Tityio feat Stephen Simmonds - Comin Home.mp3",
     "title": "Comin Home",
     "primary_artists": [
-      "Tityio"
+      "Titiyo"
     ],
     "featuring_artists": [
       "Stephen Simmonds"
     ],
     "artists": [
-      "Tityio",
+      "Titiyo",
       "Stephen Simmonds"
     ],
     "credits": [
       {
-        "entity": "Tityio",
+        "entity": "Titiyo",
         "entity_type": "person",
         "role": "primary"
       },
@@ -4904,15 +4883,15 @@
     "file": "_other\\_alternate\\_random\\zara larsson\\Zara Larsson - Never Gonna Die ( new 2014 ).mp3",
     "title": "Never Gonna Die ( new 2014 )",
     "primary_artists": [
-      "zara larsson"
+      "Zara Larsson"
     ],
     "featuring_artists": [],
     "artists": [
-      "zara larsson"
+      "Zara Larsson"
     ],
     "credits": [
       {
-        "entity": "zara larsson",
+        "entity": "Zara Larsson",
         "entity_type": "person",
         "role": "primary"
       }
@@ -4922,17 +4901,17 @@
   {
     "song_id": "al-00243",
     "file": "_other\\_alternate\\_random\\zara larsson\\Zara Larsson - Secret lyrics.mp3",
-    "title": "Secret lyrics",
+    "title": "Secret",
     "primary_artists": [
-      "zara larsson"
+      "Zara Larsson"
     ],
     "featuring_artists": [],
     "artists": [
-      "zara larsson"
+      "Zara Larsson"
     ],
     "credits": [
       {
-        "entity": "zara larsson",
+        "entity": "Zara Larsson",
         "entity_type": "person",
         "role": "primary"
       }
@@ -4944,15 +4923,15 @@
     "file": "_other\\_alternate\\_random\\zara larsson\\Zara Larsson - Uncover.mp3",
     "title": "Uncover",
     "primary_artists": [
-      "zara larsson"
+      "Zara Larsson"
     ],
     "featuring_artists": [],
     "artists": [
-      "zara larsson"
+      "Zara Larsson"
     ],
     "credits": [
       {
-        "entity": "zara larsson",
+        "entity": "Zara Larsson",
         "entity_type": "person",
         "role": "primary"
       }
@@ -5082,7 +5061,7 @@
   {
     "song_id": "al-00251",
     "file": "_other\\_alternate\\Billie Eilish\\billie eilish - fingers crossed lyrics.mp3",
-    "title": "fingers crossed lyrics",
+    "title": "fingers crossed",
     "primary_artists": [
       "Billie Eilish"
     ],
@@ -5202,7 +5181,7 @@
   {
     "song_id": "al-00257",
     "file": "_other\\_alternate\\Billie Eilish\\Billie Eilish - Six Feet Under (Lyrics).mp3",
-    "title": "Six Feet Under (Lyrics)",
+    "title": "Six Feet Under ()",
     "primary_artists": [
       "Billie Eilish"
     ],
@@ -5734,23 +5713,15 @@
     "primary_artists": [
       "Marshmello"
     ],
-    "featuring_artists": [
-      "Me Feat"
-    ],
+    "featuring_artists": [],
     "artists": [
-      "Marshmello",
-      "Me Feat"
+      "Marshmello"
     ],
     "credits": [
       {
         "entity": "Marshmello",
         "entity_type": "person",
         "role": "primary"
-      },
-      {
-        "entity": "Me Feat",
-        "entity_type": "person",
-        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -6487,20 +6458,20 @@
     "file": "_other\\_alternate\\foxylizabet\\Мой Воздух Наполнен Тобой - foxy (official).mp3",
     "title": "foxy (official)",
     "primary_artists": [
-      "Мой Воздух Наполнен Тобой"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Мой Воздух Наполнен Тобой"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Мой Воздух Наполнен Тобой",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "al-00321",
@@ -6607,15 +6578,15 @@
     "file": "_other\\_alternate\\Grimes\\Grimes - Anthropocene (Full Album) (Deluxe Edition) - YouTube\\Grimes _ i_o - Violence (Official Video).mp3",
     "title": "Violence ()",
     "primary_artists": [
-      "Grimes i o"
+      "Grimes"
     ],
     "featuring_artists": [],
     "artists": [
-      "Grimes i o"
+      "Grimes"
     ],
     "credits": [
       {
-        "entity": "Grimes i o",
+        "entity": "Grimes",
         "entity_type": "person",
         "role": "primary"
       }
@@ -7213,7 +7184,7 @@
   {
     "song_id": "al-00356",
     "file": "_other\\_alternate\\halsey\\Halsey - Still Learning (Lyric Video).mp3",
-    "title": "Still Learning (Lyric Video)",
+    "title": "Still Learning ()",
     "primary_artists": [
       "Halsey"
     ],
@@ -7770,20 +7741,20 @@
     "file": "_other\\_alternate\\josh rouse\\Flight Attendant - Josh Rouse (HD).mp3",
     "title": "Josh Rouse ()",
     "primary_artists": [
-      "Flight Attendant"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Flight Attendant"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Flight Attendant",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "al-00384",
@@ -8338,15 +8309,15 @@
     "file": "_other\\_alternate\\lauryn hill\\Lauryn Hill - The Miseducation of Lauryn Hill\\Lauryn Hill - The Miseducation Of Lauryn Hill [05] -- Doo Wop (That Thing).MP3",
     "title": "The Miseducation Of Lauryn Hill [05] -- Doo Wop (That Thing)",
     "primary_artists": [
-      "lauryn hill"
+      "Lauryn Hill"
     ],
     "featuring_artists": [],
     "artists": [
-      "lauryn hill"
+      "Lauryn Hill"
     ],
     "credits": [
       {
-        "entity": "lauryn hill",
+        "entity": "Lauryn Hill",
         "entity_type": "person",
         "role": "primary"
       }
@@ -8358,15 +8329,15 @@
     "file": "_other\\_alternate\\lauryn hill\\Lauryn Hill - The Miseducation of Lauryn Hill\\Lauryn Hill - The Miseducation Of Lauryn Hill [07] -- Final Hour.MP3",
     "title": "The Miseducation Of Lauryn Hill [07] -- Final Hour",
     "primary_artists": [
-      "lauryn hill"
+      "Lauryn Hill"
     ],
     "featuring_artists": [],
     "artists": [
-      "lauryn hill"
+      "Lauryn Hill"
     ],
     "credits": [
       {
-        "entity": "lauryn hill",
+        "entity": "Lauryn Hill",
         "entity_type": "person",
         "role": "primary"
       }
@@ -8378,15 +8349,15 @@
     "file": "_other\\_alternate\\lauryn hill\\Lauryn Hill - The Miseducation of Lauryn Hill\\Lauryn Hill - The Miseducation Of Lauryn Hill [13] -- Everything Is Everything.MP3",
     "title": "The Miseducation Of Lauryn Hill [13] -- Everything Is Everything",
     "primary_artists": [
-      "lauryn hill"
+      "Lauryn Hill"
     ],
     "featuring_artists": [],
     "artists": [
-      "lauryn hill"
+      "Lauryn Hill"
     ],
     "credits": [
       {
-        "entity": "lauryn hill",
+        "entity": "Lauryn Hill",
         "entity_type": "person",
         "role": "primary"
       }
@@ -8398,15 +8369,15 @@
     "file": "_other\\_alternate\\lauryn hill\\Lauryn Hill - The Miseducation of Lauryn Hill\\Lauryn Hill - The Miseducation Of Lauryn Hill [15] -- Can_t Take My Eyes Off Of You.MP3",
     "title": "The Miseducation Of Lauryn Hill [15] -- Can t Take My Eyes Off Of You",
     "primary_artists": [
-      "lauryn hill"
+      "Lauryn Hill"
     ],
     "featuring_artists": [],
     "artists": [
-      "lauryn hill"
+      "Lauryn Hill"
     ],
     "credits": [
       {
-        "entity": "lauryn hill",
+        "entity": "Lauryn Hill",
         "entity_type": "person",
         "role": "primary"
       }
@@ -8418,15 +8389,15 @@
     "file": "_other\\_alternate\\lauryn hill\\Lauryn Hill MTV Unplugged 2 0\\Lauryn Hill - The Conquering Lion (Unplugged).mp3",
     "title": "The Conquering Lion (Unplugged)",
     "primary_artists": [
-      "lauryn hill"
+      "Lauryn Hill"
     ],
     "featuring_artists": [],
     "artists": [
-      "lauryn hill"
+      "Lauryn Hill"
     ],
     "credits": [
       {
-        "entity": "lauryn hill",
+        "entity": "Lauryn Hill",
         "entity_type": "person",
         "role": "primary"
       }

@@ -80,6 +80,25 @@
 - `Turnstile: Turnstile-Time Space`
 - `Daniel Norgren: Daniel Norgren Buck`
 - `Darkside: Darkside - Psychic`
+- `Tiësto: DJ Tiësto, Dj Tiesto, Dj tiesto`
+- `deadmau5: Deadmau5`
+- `David Guetta: david guetta`
+- `Bastille: BASTILLE`
+- `Hilight Tribe: Hilight tribe`
+- `RAYE: Raye`
+- `Ólafur Arnalds: Ólafur Arnalds - Living Room Songs`
+- `Mauro Picotto: Mauro Picotto - Komodo`
+- `Nico & Vinz: Nico Vinz, Nico Vinz - Am I Wrong`
+- `Yves LaRock: Yves LaRock - Rise Up`
+- `Janieck Devy: Janieck Devy - Reality`
+- `Four Tet: Four Tet - New Energy`
+- `Desire: Desire - Under Your Spell`
+- `Apparat: Apparat - The Devil s Walk`
+- `PJ Harvey: PJ Harvey - Let England Shake`
+- `Porter Robinson: Porter Robinson - Nurture`
+- `Kiiara: kiiara`
+- `STWO: Stwo`
+- `ZYON: Zyon`
 - `Ayla: Ayla - Ayla`
 - `Daft Punk: daft punk`
 - `Pantha du Prince: Pantha Du Prince - Black Noise`

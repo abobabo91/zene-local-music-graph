@@ -47,3 +47,14 @@
 - `Rúzsa Magdi: Rúzsa Magdi`
 - `Kárpátia: Karpatia`
 - `Mulatós: _Mulatós, Mulatós`
+- `G.w.M: GwM`
+- `L.L. Junior: LL Junior`
+- `Rúzsa Magdi: Rúzsa Magdolna`
+- `Pápai Joci: Pápai József`
+- `Csík Zenekar: Csík Zeneker`
+- `Kelemen Kabátban: Kelemen Kabtban`
+- `Kárpátia: Kárpátia - Hősi énekek, Kárpátia Tűzzel, Kárpátia Így volt! Így lesz! rock`
+- `Egészséges Fejbőr: Egészséges fejbőr - Nem adjuk fel 2003, Egészséges Fejbőr - Kronológia`
+- `Szűcs Judit: Szűcs Judith`
+- `Emilio: Emilio Ne nézz vissza rám`
+- `Groovehouse: Groovehouse szívvel`

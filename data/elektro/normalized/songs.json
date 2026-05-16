@@ -1753,15 +1753,15 @@
     "file": "_other\\_elektro\\deep_house\\kiiara - feels.mp3",
     "title": "feels",
     "primary_artists": [
-      "kiiara"
+      "Kiiara"
     ],
     "featuring_artists": [],
     "artists": [
-      "kiiara"
+      "Kiiara"
     ],
     "credits": [
       {
-        "entity": "kiiara",
+        "entity": "Kiiara",
         "entity_type": "person",
         "role": "primary"
       }
@@ -1941,15 +1941,15 @@
     "file": "_other\\_elektro\\deep_house\\Nico _ Vinz - Am I Wrong ft. RUNAGROUND (Dj Dark _ Dj Vianu Remix).mp3",
     "title": "Am I Wrong ft",
     "primary_artists": [
-      "Nico Vinz"
+      "Nico & Vinz"
     ],
     "featuring_artists": [],
     "artists": [
-      "Nico Vinz"
+      "Nico & Vinz"
     ],
     "credits": [
       {
-        "entity": "Nico Vinz",
+        "entity": "Nico & Vinz",
         "entity_type": "person",
         "role": "primary"
       }
@@ -2804,15 +2804,15 @@
     "file": "_other\\_elektro\\dnb_dubstep\\Deadmau5 - Ghosts N Stuff (Nero Remix).mp3",
     "title": "Ghosts N Stuff (Nero Remix)",
     "primary_artists": [
-      "Deadmau5"
+      "deadmau5"
     ],
     "featuring_artists": [],
     "artists": [
-      "Deadmau5"
+      "deadmau5"
     ],
     "credits": [
       {
-        "entity": "Deadmau5",
+        "entity": "deadmau5",
         "entity_type": "person",
         "role": "primary"
       }
@@ -2824,15 +2824,15 @@
     "file": "_other\\_elektro\\dnb_dubstep\\Deadmau5 - HR 8938 Cephei (Original Mix).mp3",
     "title": "HR 8938 Cephei",
     "primary_artists": [
-      "Deadmau5"
+      "deadmau5"
     ],
     "featuring_artists": [],
     "artists": [
-      "Deadmau5"
+      "deadmau5"
     ],
     "credits": [
       {
-        "entity": "Deadmau5",
+        "entity": "deadmau5",
         "entity_type": "person",
         "role": "primary"
       }
@@ -3827,20 +3827,20 @@
     "file": "_other\\_elektro\\dnb_dubstep\\Sanctuary - EP\\02 Starlite.m4a",
     "title": "Starlite",
     "primary_artists": [
-      "Sanctuary - EP"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Sanctuary - EP"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Sanctuary - EP",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "el-00179",
@@ -4755,23 +4755,15 @@
     "primary_artists": [
       "Marshmello"
     ],
-    "featuring_artists": [
-      "Me Feat"
-    ],
+    "featuring_artists": [],
     "artists": [
-      "Marshmello",
-      "Me Feat"
+      "Marshmello"
     ],
     "credits": [
       {
         "entity": "Marshmello",
         "entity_type": "person",
         "role": "primary"
-      },
-      {
-        "entity": "Me Feat",
-        "entity_type": "person",
-        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -5132,18 +5124,18 @@
     "file": "_other\\_elektro\\edm_electronic_pop\\david guetta feat will i am - i wanna go crazy (radio edit).mp3",
     "title": "i wanna go crazy",
     "primary_artists": [
-      "david guetta"
+      "David Guetta"
     ],
     "featuring_artists": [
       "will i am"
     ],
     "artists": [
-      "david guetta",
+      "David Guetta",
       "will i am"
     ],
     "credits": [
       {
-        "entity": "david guetta",
+        "entity": "David Guetta",
         "entity_type": "person",
         "role": "primary"
       },
@@ -7148,11 +7140,11 @@
       "Lost Frequencies"
     ],
     "featuring_artists": [
-      "Janieck Devy - Reality"
+      "Janieck Devy"
     ],
     "artists": [
       "Lost Frequencies",
-      "Janieck Devy - Reality"
+      "Janieck Devy"
     ],
     "credits": [
       {
@@ -7161,7 +7153,7 @@
         "role": "primary"
       },
       {
-        "entity": "Janieck Devy - Reality",
+        "entity": "Janieck Devy",
         "entity_type": "person",
         "role": "feature"
       }
@@ -7393,15 +7385,15 @@
     "file": "_other\\_elektro\\edm_electronic_pop\\Mix – Nico _ Vinz - Am I Wrong [Official Lyric Video]\\Nico _ Vinz - Am I Wrong [Official Lyric Video].mp3",
     "title": "Am I Wrong []",
     "primary_artists": [
-      "Nico Vinz"
+      "Nico & Vinz"
     ],
     "featuring_artists": [],
     "artists": [
-      "Nico Vinz"
+      "Nico & Vinz"
     ],
     "credits": [
       {
-        "entity": "Nico Vinz",
+        "entity": "Nico & Vinz",
         "entity_type": "person",
         "role": "primary"
       }
@@ -7453,15 +7445,22 @@
     "file": "_other\\_elektro\\edm_electronic_pop\\Mix – Nico _ Vinz - Am I Wrong [Official Lyric Video]\\Take Me To Church Hozier Notes.mp3",
     "title": "Take Me To Church Hozier Notes",
     "primary_artists": [
-      "Nico Vinz - Am I Wrong"
+      "Nico",
+      "Vinz"
     ],
     "featuring_artists": [],
     "artists": [
-      "Nico Vinz - Am I Wrong"
+      "Nico",
+      "Vinz"
     ],
     "credits": [
       {
-        "entity": "Nico Vinz - Am I Wrong",
+        "entity": "Nico",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Vinz",
         "entity_type": "person",
         "role": "primary"
       }
@@ -7673,18 +7672,18 @@
     "file": "_other\\_elektro\\edm_electronic_pop\\Mix – Yves LaRock - Rise Up\\Bob Sinclar _ Cutee B. Feat. Gary Pine _ Dollarman - Sound Of Freedom.mp3",
     "title": "Bob Sinclar Cutee B.",
     "primary_artists": [
-      "Yves LaRock - Rise Up"
+      "Yves LaRock"
     ],
     "featuring_artists": [
       "Gary Pine Dollarman - Sound Of Freedom"
     ],
     "artists": [
-      "Yves LaRock - Rise Up",
+      "Yves LaRock",
       "Gary Pine Dollarman - Sound Of Freedom"
     ],
     "credits": [
       {
-        "entity": "Yves LaRock - Rise Up",
+        "entity": "Yves LaRock",
         "entity_type": "person",
         "role": "primary"
       },
@@ -7928,20 +7927,20 @@
     "file": "_other\\_elektro\\edm_electronic_pop\\pop dance - YouTube\\1991 - Azealia Banks.mp3",
     "title": "Azealia Banks",
     "primary_artists": [
-      "1991"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "1991"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "1991",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "el-00371",
@@ -8988,20 +8987,20 @@
     "file": "_other\\_elektro\\edm_electronic_pop\\top\\MØ - Final Song.mp3",
     "title": "Final Song",
     "primary_artists": [
-      "MØ"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "MØ"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "MØ",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "el-00418",
@@ -9678,15 +9677,15 @@
     "file": "_other\\_elektro\\experimental\\ft-ne-17\\Four Tet - New Energy (2017)\\14 Planet.mp3",
     "title": "Planet",
     "primary_artists": [
-      "Four Tet - New Energy"
+      "Four Tet"
     ],
     "featuring_artists": [],
     "artists": [
-      "Four Tet - New Energy"
+      "Four Tet"
     ],
     "credits": [
       {
-        "entity": "Four Tet - New Energy",
+        "entity": "Four Tet",
         "entity_type": "person",
         "role": "primary"
       }
@@ -9846,15 +9845,15 @@
     "file": "_other\\_elektro\\experimental\\Mix – Desire - Under Your Spell\\CHROMATICS  INTO THE BLACK.mp3",
     "title": "CHROMATICS INTO THE BLACK",
     "primary_artists": [
-      "Desire - Under Your Spell"
+      "Desire"
     ],
     "featuring_artists": [],
     "artists": [
-      "Desire - Under Your Spell"
+      "Desire"
     ],
     "credits": [
       {
-        "entity": "Desire - Under Your Spell",
+        "entity": "Desire",
         "entity_type": "person",
         "role": "primary"
       }
@@ -9866,15 +9865,15 @@
     "file": "_other\\_elektro\\experimental\\Mix – Desire - Under Your Spell\\CHROMATICS  SHADOW.mp3",
     "title": "CHROMATICS SHADOW",
     "primary_artists": [
-      "Desire - Under Your Spell"
+      "Desire"
     ],
     "featuring_artists": [],
     "artists": [
-      "Desire - Under Your Spell"
+      "Desire"
     ],
     "credits": [
       {
-        "entity": "Desire - Under Your Spell",
+        "entity": "Desire",
         "entity_type": "person",
         "role": "primary"
       }
@@ -10741,15 +10740,15 @@
     "file": "_other\\_elektro\\experimental_chill\\(2011) Ólafur Arnalds - Living Room Songs\\2 - Near Light.mp3",
     "title": "Near Light",
     "primary_artists": [
-      "Ólafur Arnalds - Living Room Songs"
+      "Ólafur Arnalds"
     ],
     "featuring_artists": [],
     "artists": [
-      "Ólafur Arnalds - Living Room Songs"
+      "Ólafur Arnalds"
     ],
     "credits": [
       {
-        "entity": "Ólafur Arnalds - Living Room Songs",
+        "entity": "Ólafur Arnalds",
         "entity_type": "person",
         "role": "primary"
       }
@@ -10761,15 +10760,15 @@
     "file": "_other\\_elektro\\experimental_chill\\(2011) Ólafur Arnalds - Living Room Songs\\7 - This Place Is a Shelter.mp3",
     "title": "This Place Is a Shelter",
     "primary_artists": [
-      "Ólafur Arnalds - Living Room Songs"
+      "Ólafur Arnalds"
     ],
     "featuring_artists": [],
     "artists": [
-      "Ólafur Arnalds - Living Room Songs"
+      "Ólafur Arnalds"
     ],
     "credits": [
       {
-        "entity": "Ólafur Arnalds - Living Room Songs",
+        "entity": "Ólafur Arnalds",
         "entity_type": "person",
         "role": "primary"
       }
@@ -10801,15 +10800,15 @@
     "file": "_other\\_elektro\\experimental_chill\\[2011] Apparat - The Devil_s Walk (MP3-320)\\04. Goodbye.mp3",
     "title": "Goodbye",
     "primary_artists": [
-      "Apparat - The Devil s Walk"
+      "Apparat"
     ],
     "featuring_artists": [],
     "artists": [
-      "Apparat - The Devil s Walk"
+      "Apparat"
     ],
     "credits": [
       {
-        "entity": "Apparat - The Devil s Walk",
+        "entity": "Apparat",
         "entity_type": "person",
         "role": "primary"
       }
@@ -11301,20 +11300,20 @@
     "file": "_other\\_elektro\\goa_psytrance\\after LSD\\AL039 - Stephan Jolk - Enlighted.mp3",
     "title": "Stephan Jolk - Enlighted",
     "primary_artists": [
-      "AL039"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "AL039"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "AL039",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "el-00531",
@@ -11502,15 +11501,15 @@
     "file": "_other\\_elektro\\goa_psytrance\\Hilight tribe - free tibet (Vini Vinci remix) short version.mp3",
     "title": "free tibet (Vini Vinci remix) short version",
     "primary_artists": [
-      "Hilight tribe"
+      "Hilight Tribe"
     ],
     "featuring_artists": [],
     "artists": [
-      "Hilight tribe"
+      "Hilight Tribe"
     ],
     "credits": [
       {
-        "entity": "Hilight tribe",
+        "entity": "Hilight Tribe",
         "entity_type": "person",
         "role": "primary"
       }
@@ -12854,20 +12853,20 @@
     "file": "_other\\_elektro\\house_afro_organic\\Keinemusik - The Party is Over\\Lost at Night (Aaaron Remix - Club Version).mp3",
     "title": "Club Version)",
     "primary_artists": [
-      "Lost at Night (Aaaron Remix"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Lost at Night (Aaaron Remix"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Lost at Night (Aaaron Remix",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "el-00603",
@@ -13789,20 +13788,20 @@
     "file": "_other\\_elektro\\house_techno\\fnknschlg\\AL001 - Monoloc - Phoenix.mp3",
     "title": "Monoloc - Phoenix",
     "primary_artists": [
-      "AL001"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "AL001"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "AL001",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "el-00647",
@@ -14737,15 +14736,15 @@
     "file": "_other\\_elektro\\house_techno\\house\\Raye - Flowers.mp3",
     "title": "Flowers",
     "primary_artists": [
-      "Raye"
+      "RAYE"
     ],
     "featuring_artists": [],
     "artists": [
-      "Raye"
+      "RAYE"
     ],
     "credits": [
       {
-        "entity": "Raye",
+        "entity": "RAYE",
         "entity_type": "person",
         "role": "primary"
       }
@@ -14837,15 +14836,15 @@
     "file": "_other\\_elektro\\house_techno\\house\\Stwo - Lovin U.mp3",
     "title": "Lovin U",
     "primary_artists": [
-      "Stwo"
+      "STWO"
     ],
     "featuring_artists": [],
     "artists": [
-      "Stwo"
+      "STWO"
     ],
     "credits": [
       {
-        "entity": "Stwo",
+        "entity": "STWO",
         "entity_type": "person",
         "role": "primary"
       }
@@ -16227,27 +16226,20 @@
     "file": "_other\\_elektro\\house_techno\\Melodic Techno ❤️ Progressive House Playlist 2025 - Best & Top 100 Tracks\\Move.mp3",
     "title": "Move",
     "primary_artists": [
-      "Melodic Techno ❤️ Progressive House Playlist 2025 - Best",
-      "Top 100 Tracks"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Melodic Techno ❤️ Progressive House Playlist 2025 - Best",
-      "Top 100 Tracks"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Melodic Techno ❤️ Progressive House Playlist 2025 - Best",
-        "entity_type": "person",
-        "role": "primary"
-      },
-      {
-        "entity": "Top 100 Tracks",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "el-00767",
@@ -17764,15 +17756,15 @@
     "file": "_other\\_elektro\\house_techno\\random\\10 - Deadmau5 - For Lack Of A Better Name - Strobe.mp3",
     "title": "For Lack Of A Better Name - Strobe",
     "primary_artists": [
-      "Deadmau5"
+      "deadmau5"
     ],
     "featuring_artists": [],
     "artists": [
-      "Deadmau5"
+      "deadmau5"
     ],
     "credits": [
       {
-        "entity": "Deadmau5",
+        "entity": "deadmau5",
         "entity_type": "person",
         "role": "primary"
       }
@@ -17804,20 +17796,20 @@
     "file": "_other\\_elektro\\house_techno\\random\\A - Ha - Take On Me (Kygo Remix).mp3",
     "title": "Ha - Take On Me (Kygo Remix)",
     "primary_artists": [
-      "A"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "A"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "A",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "el-00841",
@@ -18132,18 +18124,18 @@
     "file": "_other\\_elektro\\house_techno\\random\\BASTILLE feat. Ella - No Angels.mp3",
     "title": "No Angels",
     "primary_artists": [
-      "BASTILLE"
+      "Bastille"
     ],
     "featuring_artists": [
       "Ella"
     ],
     "artists": [
-      "BASTILLE",
+      "Bastille",
       "Ella"
     ],
     "credits": [
       {
-        "entity": "BASTILLE",
+        "entity": "Bastille",
         "entity_type": "person",
         "role": "primary"
       },
@@ -18592,15 +18584,15 @@
     "file": "_other\\_elektro\\house_techno\\random\\DJ Tiesto - Welcome To Ibiza.mp3",
     "title": "Welcome To Ibiza",
     "primary_artists": [
-      "DJ Tiesto"
+      "Tiësto"
     ],
     "featuring_artists": [],
     "artists": [
-      "DJ Tiesto"
+      "Tiësto"
     ],
     "credits": [
       {
-        "entity": "DJ Tiesto",
+        "entity": "Tiësto",
         "entity_type": "person",
         "role": "primary"
       }
@@ -19875,15 +19867,15 @@
     "file": "_other\\_elektro\\house_techno\\random\\Raye - Bet U Wish.mp3",
     "title": "Bet U Wish",
     "primary_artists": [
-      "Raye"
+      "RAYE"
     ],
     "featuring_artists": [],
     "artists": [
-      "Raye"
+      "RAYE"
     ],
     "credits": [
       {
-        "entity": "Raye",
+        "entity": "RAYE",
         "entity_type": "person",
         "role": "primary"
       }
@@ -20343,18 +20335,18 @@
     "file": "_other\\_elektro\\house_techno\\random\\Topic ft. Lili Pistorius - Fly Away (Official Music Video).mp3",
     "title": "Fly Away ()",
     "primary_artists": [
-      "Topic"
+      "N/A"
     ],
     "featuring_artists": [
       "Lili Pistorius"
     ],
     "artists": [
-      "Topic",
+      "N/A",
       "Lili Pistorius"
     ],
     "credits": [
       {
-        "entity": "Topic",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       },
@@ -20364,7 +20356,7 @@
         "role": "feature"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "el-00964",
@@ -23141,15 +23133,15 @@
     "file": "_other\\_elektro\\trance_dance_rave\\Dj Tiesto - Tell my why.mp3",
     "title": "Tell my why",
     "primary_artists": [
-      "Dj Tiesto"
+      "Tiësto"
     ],
     "featuring_artists": [],
     "artists": [
-      "Dj Tiesto"
+      "Tiësto"
     ],
     "credits": [
       {
-        "entity": "Dj Tiesto",
+        "entity": "Tiësto",
         "entity_type": "person",
         "role": "primary"
       }
@@ -23161,15 +23153,15 @@
     "file": "_other\\_elektro\\trance_dance_rave\\Dj tiesto - Titanic remix (Dj Titanic).mp3",
     "title": "Titanic remix (Dj Titanic)",
     "primary_artists": [
-      "Dj tiesto"
+      "Tiësto"
     ],
     "featuring_artists": [],
     "artists": [
-      "Dj tiesto"
+      "Tiësto"
     ],
     "credits": [
       {
-        "entity": "Dj tiesto",
+        "entity": "Tiësto",
         "entity_type": "person",
         "role": "primary"
       }
@@ -24264,15 +24256,15 @@
     "file": "_other\\_elektro\\trance_dance_rave\\Mix – Mauro Picotto - Komodo\\Gigi D_Agostino Bla Bla Bla.mp3",
     "title": "Gigi D Agostino Bla Bla Bla",
     "primary_artists": [
-      "Mauro Picotto - Komodo"
+      "Mauro Picotto"
     ],
     "featuring_artists": [],
     "artists": [
-      "Mauro Picotto - Komodo"
+      "Mauro Picotto"
     ],
     "credits": [
       {
-        "entity": "Mauro Picotto - Komodo",
+        "entity": "Mauro Picotto",
         "entity_type": "person",
         "role": "primary"
       }
@@ -24840,15 +24832,15 @@
     "file": "_other\\_elektro\\trance_dance_rave\\Zyon - No Fate (No Fate Mix _93).mp3",
     "title": "No Fate (No Fate Mix 93)",
     "primary_artists": [
-      "Zyon"
+      "ZYON"
     ],
     "featuring_artists": [],
     "artists": [
-      "Zyon"
+      "ZYON"
     ],
     "credits": [
       {
-        "entity": "Zyon",
+        "entity": "ZYON",
         "entity_type": "person",
         "role": "primary"
       }

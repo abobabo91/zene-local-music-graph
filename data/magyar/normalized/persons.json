@@ -264,17 +264,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "magyar mulatos zene": {
-    "song_ids": [
-      "mg-00066"
-    ],
-    "primary_song_ids": [
-      "mg-00066"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Nád a házam teteje": {
     "song_ids": [
       "mg-00068"
@@ -399,6 +388,12 @@
       "mg-00081",
       "mg-00089",
       "mg-00097",
+      "mg-00112",
+      "mg-00113",
+      "mg-00114",
+      "mg-00115",
+      "mg-00116",
+      "mg-00117",
       "mg-00119",
       "mg-00120",
       "mg-00312"
@@ -407,6 +402,12 @@
       "mg-00081",
       "mg-00089",
       "mg-00097",
+      "mg-00112",
+      "mg-00113",
+      "mg-00114",
+      "mg-00115",
+      "mg-00116",
+      "mg-00117",
       "mg-00119",
       "mg-00120",
       "mg-00312"
@@ -441,7 +442,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Emilio Ne nézz vissza rám": {
+  "Emilio": {
     "song_ids": [
       "mg-00086",
       "mg-00087"
@@ -545,27 +546,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "LL Junior": {
-    "song_ids": [
-      "mg-00112",
-      "mg-00113",
-      "mg-00114",
-      "mg-00115",
-      "mg-00116",
-      "mg-00117"
-    ],
-    "primary_song_ids": [
-      "mg-00112",
-      "mg-00113",
-      "mg-00114",
-      "mg-00115",
-      "mg-00116",
-      "mg-00117"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Kamikaze": {
     "song_ids": [
       "mg-00120"
@@ -607,26 +587,17 @@
       "mg-00131",
       "mg-00132",
       "mg-00133",
-      "mg-00135"
+      "mg-00134",
+      "mg-00135",
+      "mg-00136"
     ],
     "primary_song_ids": [
       "mg-00130",
       "mg-00131",
       "mg-00132",
       "mg-00133",
-      "mg-00135"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "GwM": {
-    "song_ids": [
       "mg-00134",
-      "mg-00136"
-    ],
-    "primary_song_ids": [
-      "mg-00134",
+      "mg-00135",
       "mg-00136"
     ],
     "feature_song_ids": [],
@@ -791,48 +762,24 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "PREMIUM STUDIO": {
-    "song_ids": [
-      "mg-00168",
-      "mg-00169",
-      "mg-00170"
-    ],
-    "primary_song_ids": [
-      "mg-00168",
-      "mg-00169",
-      "mg-00170"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Pápai József": {
-    "song_ids": [
-      "mg-00171",
-      "mg-00177"
-    ],
-    "primary_song_ids": [
-      "mg-00171",
-      "mg-00177"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Pápai Joci": {
     "song_ids": [
+      "mg-00171",
       "mg-00172",
       "mg-00173",
       "mg-00174",
       "mg-00175",
-      "mg-00176"
+      "mg-00176",
+      "mg-00177"
     ],
     "primary_song_ids": [
+      "mg-00171",
       "mg-00172",
       "mg-00173",
       "mg-00174",
       "mg-00175",
-      "mg-00176"
+      "mg-00176",
+      "mg-00177"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -1211,6 +1158,7 @@
       "mg-00230",
       "mg-00231",
       "mg-00243",
+      "mg-00244",
       "mg-00270",
       "mg-00271",
       "mg-00272",
@@ -1221,6 +1169,7 @@
       "mg-00230",
       "mg-00231",
       "mg-00243",
+      "mg-00244",
       "mg-00270",
       "mg-00271",
       "mg-00272",
@@ -1300,17 +1249,6 @@
     "feature_song_ids": [
       "mg-00243"
     ],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Csík Zeneker": {
-    "song_ids": [
-      "mg-00244"
-    ],
-    "primary_song_ids": [
-      "mg-00244"
-    ],
-    "feature_song_ids": [],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -1990,22 +1928,13 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Kelemen Kabtban": {
-    "song_ids": [
-      "mg-00352"
-    ],
-    "primary_song_ids": [
-      "mg-00352"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Kelemen Kabátban": {
     "song_ids": [
+      "mg-00352",
       "mg-00353"
     ],
     "primary_song_ids": [
+      "mg-00352",
       "mg-00353"
     ],
     "feature_song_ids": [],
@@ -2170,14 +2099,15 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Rúzsa Magdolna": {
+  "Rúzsa Magdi": {
     "song_ids": [
       "mg-00375",
       "mg-00376",
       "mg-00377",
       "mg-00413",
       "mg-00414",
-      "mg-00415"
+      "mg-00415",
+      "mg-00416"
     ],
     "primary_song_ids": [
       "mg-00375",
@@ -2185,7 +2115,8 @@
       "mg-00377",
       "mg-00413",
       "mg-00414",
-      "mg-00415"
+      "mg-00415",
+      "mg-00416"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -2197,17 +2128,6 @@
     ],
     "primary_song_ids": [
       "mg-00379"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Szeresd a testem baby": {
-    "song_ids": [
-      "mg-00380"
-    ],
-    "primary_song_ids": [
-      "mg-00380"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -2370,11 +2290,13 @@
     "song_ids": [
       "mg-00401",
       "mg-00402",
+      "mg-00439",
       "mg-00440"
     ],
     "primary_song_ids": [
       "mg-00401",
       "mg-00402",
+      "mg-00439",
       "mg-00440"
     ],
     "feature_song_ids": [],
@@ -2455,17 +2377,6 @@
     ],
     "primary_song_ids": [
       "mg-00412"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Rúzsa Magdi": {
-    "song_ids": [
-      "mg-00416"
-    ],
-    "primary_song_ids": [
-      "mg-00416"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -2665,17 +2576,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Groovehouse szívvel": {
-    "song_ids": [
-      "mg-00439"
-    ],
-    "primary_song_ids": [
-      "mg-00439"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "ha mégegyszer láthatnám": {
     "song_ids": [
       "mg-00441"
@@ -2865,10 +2765,12 @@
   },
   "Szűcs Judit": {
     "song_ids": [
-      "mg-00461"
+      "mg-00461",
+      "mg-00603"
     ],
     "primary_song_ids": [
-      "mg-00461"
+      "mg-00461",
+      "mg-00603"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -3354,17 +3256,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Open Stage": {
-    "song_ids": [
-      "mg-00578"
-    ],
-    "primary_song_ids": [
-      "mg-00578"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Ossian": {
     "song_ids": [
       "mg-00579",
@@ -3451,17 +3342,6 @@
     ],
     "primary_song_ids": [
       "mg-00602"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Szűcs Judith": {
-    "song_ids": [
-      "mg-00603"
-    ],
-    "primary_song_ids": [
-      "mg-00603"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -3678,34 +3558,16 @@
   "Egészséges Fejbőr": {
     "song_ids": [
       "mg-00673",
-      "mg-00674"
-    ],
-    "primary_song_ids": [
-      "mg-00673",
-      "mg-00674"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Egészséges Fejbőr - Kronológia": {
-    "song_ids": [
-      "mg-00676"
-    ],
-    "primary_song_ids": [
-      "mg-00676"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Egészséges fejbőr - Nem adjuk fel 2003": {
-    "song_ids": [
+      "mg-00674",
+      "mg-00676",
       "mg-00677",
       "mg-00678",
       "mg-00679"
     ],
     "primary_song_ids": [
+      "mg-00673",
+      "mg-00674",
+      "mg-00676",
       "mg-00677",
       "mg-00678",
       "mg-00679"
@@ -3729,22 +3591,43 @@
     "song_ids": [
       "mg-00681",
       "mg-00682",
-      "mg-00683",
-      "mg-00684",
-      "mg-00685",
-      "mg-00686",
-      "mg-00687",
-      "mg-00688",
-      "mg-00689",
-      "mg-00690",
-      "mg-00691",
       "mg-00692",
       "mg-00693",
-      "mg-00694"
+      "mg-00694",
+      "mg-00696",
+      "mg-00697",
+      "mg-00698",
+      "mg-00699",
+      "mg-00700",
+      "mg-00701",
+      "mg-00702",
+      "mg-00703",
+      "mg-00704",
+      "mg-00705"
     ],
     "primary_song_ids": [
       "mg-00681",
       "mg-00682",
+      "mg-00692",
+      "mg-00693",
+      "mg-00694",
+      "mg-00696",
+      "mg-00697",
+      "mg-00698",
+      "mg-00699",
+      "mg-00700",
+      "mg-00701",
+      "mg-00702",
+      "mg-00703",
+      "mg-00704",
+      "mg-00705"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Karpatia": {
+    "song_ids": [
       "mg-00683",
       "mg-00684",
       "mg-00685",
@@ -3753,10 +3636,18 @@
       "mg-00688",
       "mg-00689",
       "mg-00690",
-      "mg-00691",
-      "mg-00692",
-      "mg-00693",
-      "mg-00694"
+      "mg-00691"
+    ],
+    "primary_song_ids": [
+      "mg-00683",
+      "mg-00684",
+      "mg-00685",
+      "mg-00686",
+      "mg-00687",
+      "mg-00688",
+      "mg-00689",
+      "mg-00690",
+      "mg-00691"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -3773,94 +3664,12 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Kárpátia - Hősi énekek": {
-    "song_ids": [
-      "mg-00696",
-      "mg-00697",
-      "mg-00698",
-      "mg-00699",
-      "mg-00700"
-    ],
-    "primary_song_ids": [
-      "mg-00696",
-      "mg-00697",
-      "mg-00698",
-      "mg-00699",
-      "mg-00700"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Kárpátia Tűzzel": {
-    "song_ids": [
-      "mg-00701"
-    ],
-    "primary_song_ids": [
-      "mg-00701"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "vassal rock": {
-    "song_ids": [
-      "mg-00701"
-    ],
-    "primary_song_ids": [
-      "mg-00701"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Kárpátia Így volt! Így lesz! rock": {
-    "song_ids": [
-      "mg-00702",
-      "mg-00703",
-      "mg-00704",
-      "mg-00705"
-    ],
-    "primary_song_ids": [
-      "mg-00702",
-      "mg-00703",
-      "mg-00704",
-      "mg-00705"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "revizios dalok": {
-    "song_ids": [
-      "mg-00706",
-      "mg-00707"
-    ],
-    "primary_song_ids": [
-      "mg-00706",
-      "mg-00707"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "proSECTURA": {
     "song_ids": [
       "mg-00711"
     ],
     "primary_song_ids": [
       "mg-00711"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "subscribe": {
-    "song_ids": [
-      "mg-00712"
-    ],
-    "primary_song_ids": [
-      "mg-00712"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],

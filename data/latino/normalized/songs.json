@@ -175,23 +175,15 @@
     "primary_artists": [
       "Baby Bash"
     ],
-    "featuring_artists": [
-      "Oral B - Image Of A Pimp"
-    ],
+    "featuring_artists": [],
     "artists": [
-      "Baby Bash",
-      "Oral B - Image Of A Pimp"
+      "Baby Bash"
     ],
     "credits": [
       {
         "entity": "Baby Bash",
         "entity_type": "person",
         "role": "primary"
-      },
-      {
-        "entity": "Oral B - Image Of A Pimp",
-        "entity_type": "person",
-        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -199,7 +191,7 @@
   {
     "song_id": "lt-00009",
     "file": "_other\\_latino\\_oldschool\\Baby bash\\Baby I_m Back- Baby Bash  Lyrics.mp3",
-    "title": "Baby I m Back- Baby Bash Lyrics",
+    "title": "Baby I m Back- Baby Bash",
     "primary_artists": [
       "Baby Bash"
     ],
@@ -239,22 +231,22 @@
   {
     "song_id": "lt-00011",
     "file": "_other\\_latino\\_oldschool\\bachata\\Aventura- Obsesion lyrics.flv.mp3",
-    "title": "Aventura- Obsesion lyrics.flv",
+    "title": "Aventura- Obsesion .flv",
     "primary_artists": [
-      "bachata"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "bachata"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "bachata",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "lt-00012",
@@ -321,22 +313,21 @@
     "file": "_other\\_latino\\_oldschool\\bachata\\Monchy & Alexandra - Dos Locos - Video Lyric.mp3",
     "title": "Dos Locos - Video Lyric",
     "primary_artists": [
-      "Monchy",
-      "Alexandra"
+      "Monchy y Alexandra",
+      "Monchy y Alexandra"
     ],
     "featuring_artists": [],
     "artists": [
-      "Monchy",
-      "Alexandra"
+      "Monchy y Alexandra"
     ],
     "credits": [
       {
-        "entity": "Monchy",
+        "entity": "Monchy y Alexandra",
         "entity_type": "person",
         "role": "primary"
       },
       {
-        "entity": "Alexandra",
+        "entity": "Monchy y Alexandra",
         "entity_type": "person",
         "role": "primary"
       }
@@ -435,20 +426,20 @@
     "file": "_other\\_latino\\_oldschool\\bachata\\Sweet Dreams (Are Made of This).mp3",
     "title": "Sweet Dreams (Are Made of This)",
     "primary_artists": [
-      "bachata"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "bachata"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "bachata",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "lt-00021",
@@ -560,7 +551,7 @@
   {
     "song_id": "lt-00026",
     "file": "_other\\_latino\\_oldschool\\Calema\\Calema - Tempo (Official Lyrics).mp3",
-    "title": "Tempo (Official Lyrics)",
+    "title": "Tempo (Official )",
     "primary_artists": [
       "Calema"
     ],
@@ -848,7 +839,7 @@
   {
     "song_id": "lt-00040",
     "file": "_other\\_latino\\_oldschool\\kizomba\\C4 Pedro - Não Me Pede [Video Lyrics].mp3",
-    "title": "Não Me Pede [Video Lyrics]",
+    "title": "Não Me Pede [Video ]",
     "primary_artists": [
       "C4 Pedro"
     ],
@@ -1138,18 +1129,18 @@
     "file": "_other\\_latino\\_oldschool\\kizomba\\KIZNYOU PRODUCTIONS - EU E TU - JUVENCIO FEAT JULLY TAMIRES (OFFICIAL VIDEO).mp3",
     "title": "EU E TU - JUVENCIO",
     "primary_artists": [
-      "KIZNYOU PRODUCTIONS"
+      "N/A"
     ],
     "featuring_artists": [
       "JULLY TAMIRES"
     ],
     "artists": [
-      "KIZNYOU PRODUCTIONS",
+      "N/A",
       "JULLY TAMIRES"
     ],
     "credits": [
       {
-        "entity": "KIZNYOU PRODUCTIONS",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       },
@@ -1159,7 +1150,7 @@
         "role": "feature"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "lt-00055",
@@ -1374,20 +1365,20 @@
     "file": "_other\\_latino\\_oldschool\\latin old academia\\Dura.mp3",
     "title": "Dura",
     "primary_artists": [
-      "latin old academia"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "latin old academia"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "latin old academia",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "lt-00066",
@@ -1542,78 +1533,78 @@
     "file": "_other\\_latino\\_oldschool\\soca\\Voice - Far From Finished  2017 Soca  (Official Audio).mp3",
     "title": "Far From Finished 2017 Soca ()",
     "primary_artists": [
-      "Voice"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Voice"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Voice",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "lt-00074",
     "file": "_other\\_latino\\_oldschool\\The fast and the furious soundtrack-Live - Deep enough.mp3",
     "title": "Deep enough",
     "primary_artists": [
-      "The fast"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "The fast"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "The fast",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "lt-00075",
     "file": "_other\\_latino\\_oldschool\\Xtreme\\Friday Nigh - Xtreme.mp3",
     "title": "Xtreme",
     "primary_artists": [
-      "Friday Nigh"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Friday Nigh"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Friday Nigh",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "lt-00076",
     "file": "_other\\_latino\\_oldschool\\Xtreme\\XTREME  MY FANTASY  ft Sofla Kings - New English Track.mp3",
     "title": "New English Track",
     "primary_artists": [
-      "XTREME MY FANTASY"
+      "N/A"
     ],
     "featuring_artists": [
       "Sofla Kings"
     ],
     "artists": [
-      "XTREME MY FANTASY",
+      "N/A",
       "Sofla Kings"
     ],
     "credits": [
       {
-        "entity": "XTREME MY FANTASY",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       },
@@ -1623,7 +1614,7 @@
         "role": "feature"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "lt-00077",
@@ -2078,15 +2069,15 @@
     "file": "_other\\_latino\\_random\\latin FELIPE\\BLESSD  ❌ Ovy On The Drums - BILLBOARD (Official Video).mp3",
     "title": "BILLBOARD ()",
     "primary_artists": [
-      "BLESSD ❌ Ovy On The Drums"
+      "Blessd"
     ],
     "featuring_artists": [],
     "artists": [
-      "BLESSD ❌ Ovy On The Drums"
+      "Blessd"
     ],
     "credits": [
       {
-        "entity": "BLESSD ❌ Ovy On The Drums",
+        "entity": "Blessd",
         "entity_type": "person",
         "role": "primary"
       }
@@ -2158,20 +2149,20 @@
     "file": "_other\\_latino\\_random\\latin FELIPE\\Ella Baila Sola  - (Video Con Letras) - Eslabon Armado y Peso Pluma - DEL Records 2023.mp3",
     "title": "(Video Con Letras) - Eslabon Armado y Peso Pluma - DEL Records 2023",
     "primary_artists": [
-      "Ella Baila Sola"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Ella Baila Sola"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Ella Baila Sola",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "lt-00103",
@@ -2360,20 +2351,20 @@
     "file": "_other\\_latino\\_random\\Manuel Turizo Mix\\La Bachata - MTZ Manuel Turizo   Video Oficial.mp3",
     "title": "MTZ Manuel Turizo",
     "primary_artists": [
-      "La Bachata"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "La Bachata"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "La Bachata",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "lt-00112",
@@ -2447,20 +2438,20 @@
     "file": "_other\\_latino\\_random\\reguetoneo del bueno\\BLESSD   INSTAGRAM 😈 ( OFFICIAL VIDEO ).mp3",
     "title": "BLESSD INSTAGRAM 😈 ( )",
     "primary_artists": [
-      "reguetoneo del bueno"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "reguetoneo del bueno"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "reguetoneo del bueno",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "lt-00116",
@@ -3306,14 +3297,12 @@
     ],
     "featuring_artists": [
       "Selena Gomez",
-      "Ozuna",
-      "Cardi B - Taki Taki"
+      "Ozuna"
     ],
     "artists": [
       "N/A",
       "Selena Gomez",
-      "Ozuna",
-      "Cardi B - Taki Taki"
+      "Ozuna"
     ],
     "credits": [
       {
@@ -3328,11 +3317,6 @@
       },
       {
         "entity": "Ozuna",
-        "entity_type": "person",
-        "role": "feature"
-      },
-      {
-        "entity": "Cardi B - Taki Taki",
         "entity_type": "person",
         "role": "feature"
       }
@@ -3378,20 +3362,20 @@
     "file": "_other\\_latino\\Ella Quiere - DARIO (Video Oficial).mp3",
     "title": "DARIO ()",
     "primary_artists": [
-      "Ella Quiere"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Ella Quiere"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Ella Quiere",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "lt-00156",
@@ -3850,7 +3834,7 @@
   {
     "song_id": "lt-00178",
     "file": "_other\\_latino\\feid\\59. Feid - TX VXS (Lyrics Letra).mp3",
-    "title": "TX VXS (Lyrics Letra)",
+    "title": "TX VXS ( Letra)",
     "primary_artists": [
       "Feid"
     ],
@@ -4239,7 +4223,7 @@
   {
     "song_id": "lt-00195",
     "file": "_other\\_latino\\feid\\MANIFESTING 20-05\\Feid, Yandel - De Negro (Lyric Video).mp3",
-    "title": "De Negro (Lyric Video)",
+    "title": "De Negro ()",
     "primary_artists": [
       "Feid",
       "Yandel"
@@ -4470,13 +4454,13 @@
     "title": "Como Si Nah (feat",
     "primary_artists": [
       "Justin Quiles",
-      "Arcangel",
+      "Arcángel",
       "Dalex"
     ],
     "featuring_artists": [],
     "artists": [
       "Justin Quiles",
-      "Arcangel",
+      "Arcángel",
       "Dalex"
     ],
     "credits": [
@@ -4486,7 +4470,7 @@
         "role": "primary"
       },
       {
-        "entity": "Arcangel",
+        "entity": "Arcángel",
         "entity_type": "person",
         "role": "primary"
       },
@@ -4716,7 +4700,7 @@
   {
     "song_id": "lt-00215",
     "file": "_other\\_latino\\Nicky Jam x J. Balvin - X (EQUIS)- Lyrics.mp3",
-    "title": "X (EQUIS)- Lyrics",
+    "title": "X (EQUIS)",
     "primary_artists": [
       "Nicky Jam",
       "J Balvin"
@@ -5400,20 +5384,20 @@
     "file": "_other\\_latino\\Rauw Alejandro mix\\LEJOS DEL CIELO - Rauw Alejandro (Official Video).mp3",
     "title": "Rauw Alejandro ()",
     "primary_artists": [
-      "LEJOS DEL CIELO"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "LEJOS DEL CIELO"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "LEJOS DEL CIELO",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "lt-00248",

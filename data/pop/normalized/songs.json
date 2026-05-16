@@ -454,23 +454,15 @@
     "primary_artists": [
       "Puff Daddy Faith Evans"
     ],
-    "featuring_artists": [
-      "112"
-    ],
+    "featuring_artists": [],
     "artists": [
-      "Puff Daddy Faith Evans",
-      "112"
+      "Puff Daddy Faith Evans"
     ],
     "credits": [
       {
         "entity": "Puff Daddy Faith Evans",
         "entity_type": "person",
         "role": "primary"
-      },
-      {
-        "entity": "112",
-        "entity_type": "person",
-        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -807,20 +799,20 @@
     "file": "_other\\_pop\\_billboard\\1999\\1999-011 702 - Where My Girls At.mp3",
     "title": "Where My Girls At",
     "primary_artists": [
-      "702"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "702"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "702",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "pp-00041",
@@ -1431,20 +1423,20 @@
     "file": "_other\\_pop\\_billboard\\2001\\2001-020 112 - Peaches _ Cream.mp3",
     "title": "Peaches Cream",
     "primary_artists": [
-      "112"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "112"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "112",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "pp-00071",
@@ -1799,15 +1791,15 @@
     "file": "_other\\_pop\\_billboard\\2002\\2002-001 NickelBack - How You Remind Me.mp3",
     "title": "How You Remind Me",
     "primary_artists": [
-      "NickelBack"
+      "Nickelback"
     ],
     "featuring_artists": [],
     "artists": [
-      "NickelBack"
+      "Nickelback"
     ],
     "credits": [
       {
-        "entity": "NickelBack",
+        "entity": "Nickelback",
         "entity_type": "person",
         "role": "primary"
       }
@@ -2654,23 +2646,15 @@
     "primary_artists": [
       "Lil Kim"
     ],
-    "featuring_artists": [
-      "50 Cent"
-    ],
+    "featuring_artists": [],
     "artists": [
-      "Lil Kim",
-      "50 Cent"
+      "Lil Kim"
     ],
     "credits": [
       {
         "entity": "Lil Kim",
         "entity_type": "person",
         "role": "primary"
-      },
-      {
-        "entity": "50 Cent",
-        "entity_type": "person",
-        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -5231,23 +5215,15 @@
     "primary_artists": [
       "N/A"
     ],
-    "featuring_artists": [
-      "R"
-    ],
+    "featuring_artists": [],
     "artists": [
-      "N/A",
-      "R"
+      "N/A"
     ],
     "credits": [
       {
         "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
-      },
-      {
-        "entity": "R",
-        "entity_type": "person",
-        "role": "feature"
       }
     ],
     "attribution_status": "unattributed"
@@ -5457,23 +5433,23 @@
     "file": "_other\\_pop\\_billboard\\2008\\005-timbaland_feat._onerepublic_-_apologize.mp3",
     "title": "apologize",
     "primary_artists": [
-      "timbaland"
+      "Timbaland"
     ],
     "featuring_artists": [
-      "onerepublic"
+      "OneRepublic"
     ],
     "artists": [
-      "timbaland",
-      "onerepublic"
+      "Timbaland",
+      "OneRepublic"
     ],
     "credits": [
       {
-        "entity": "timbaland",
+        "entity": "Timbaland",
         "entity_type": "person",
         "role": "primary"
       },
       {
-        "entity": "onerepublic",
+        "entity": "OneRepublic",
         "entity_type": "person",
         "role": "feature"
       }
@@ -5913,15 +5889,15 @@
     "file": "_other\\_pop\\_billboard\\2008\\050_snoop_dogg_-_sensual_seduction.mp3",
     "title": "sensual seduction",
     "primary_artists": [
-      "snoop dogg"
+      "Snoop Dogg"
     ],
     "featuring_artists": [],
     "artists": [
-      "snoop dogg"
+      "Snoop Dogg"
     ],
     "credits": [
       {
-        "entity": "snoop dogg",
+        "entity": "Snoop Dogg",
         "entity_type": "person",
         "role": "primary"
       }
@@ -9648,7 +9624,7 @@
   {
     "song_id": "pp-00447",
     "file": "_other\\_pop\\_billboard\\2013\\06. Justin Timberlake - Mirrors (Radio Edit).m4a",
-    "title": "Mirrors (Radio Edit)",
+    "title": "Mirrors",
     "primary_artists": [
       "Justin Timberlake"
     ],
@@ -9688,7 +9664,7 @@
   {
     "song_id": "pp-00449",
     "file": "_other\\_pop\\_billboard\\2013\\14. Daft Punk - Get Lucky (Radio Edit) [Feat. Pharrell Williams].m4a",
-    "title": "Get Lucky (Radio Edit) [Feat",
+    "title": "Get Lucky [Feat",
     "primary_artists": [
       "Daft Punk"
     ],
@@ -9808,7 +9784,7 @@
   {
     "song_id": "pp-00455",
     "file": "_other\\_pop\\_billboard\\2013\\26. Swedish House Mafia - Don_t You Worry Child (Radio Edit) [Feat. John Martin].m4a",
-    "title": "Don t You Worry Child (Radio Edit) [Feat",
+    "title": "Don t You Worry Child [Feat",
     "primary_artists": [
       "Swedish House Mafia"
     ],
@@ -10030,15 +10006,15 @@
     "file": "_other\\_pop\\_billboard\\2013\\55. Psy - Gangnam Style.m4a",
     "title": "Gangnam Style",
     "primary_artists": [
-      "Psy"
+      "PSY"
     ],
     "featuring_artists": [],
     "artists": [
-      "Psy"
+      "PSY"
     ],
     "credits": [
       {
-        "entity": "Psy",
+        "entity": "PSY",
         "entity_type": "person",
         "role": "primary"
       }
@@ -10090,15 +10066,15 @@
     "file": "_other\\_pop\\_billboard\\2013\\63. Onerepublic - Counting Stars.m4a",
     "title": "Counting Stars",
     "primary_artists": [
-      "Onerepublic"
+      "OneRepublic"
     ],
     "featuring_artists": [],
     "artists": [
-      "Onerepublic"
+      "OneRepublic"
     ],
     "credits": [
       {
-        "entity": "Onerepublic",
+        "entity": "OneRepublic",
         "entity_type": "person",
         "role": "primary"
       }
@@ -11590,15 +11566,15 @@
     "file": "_other\\_pop\\_billboard\\2015\\59. Alunageorge - You Know You Like It[www.musicbolt.com].mp3",
     "title": "You Know You Like It",
     "primary_artists": [
-      "Alunageorge"
+      "AlunaGeorge"
     ],
     "featuring_artists": [],
     "artists": [
-      "Alunageorge"
+      "AlunaGeorge"
     ],
     "credits": [
       {
-        "entity": "Alunageorge",
+        "entity": "AlunaGeorge",
         "entity_type": "person",
         "role": "primary"
       }
@@ -11895,7 +11871,7 @@
   {
     "song_id": "pp-00559",
     "file": "_other\\_pop\\_billboard\\2015\\95. Mr. Probz - Waves (Robin Schulz Radio Edit)[www.musicbolt.com].mp3",
-    "title": "Waves (Robin Schulz Radio Edit)",
+    "title": "Waves (Robin Schulz )",
     "primary_artists": [
       "Mr. Probz"
     ],
@@ -12257,15 +12233,15 @@
     "file": "_other\\_pop\\_billboard\\2016\\Gnash - I Hate U, I Love U.mp3",
     "title": "I Hate U, I Love U",
     "primary_artists": [
-      "Gnash"
+      "gnash"
     ],
     "featuring_artists": [],
     "artists": [
-      "Gnash"
+      "gnash"
     ],
     "credits": [
       {
-        "entity": "Gnash",
+        "entity": "gnash",
         "entity_type": "person",
         "role": "primary"
       }
@@ -13304,7 +13280,7 @@
   {
     "song_id": "pp-00628",
     "file": "_other\\_pop\\_billboard\\2017\\Rihanna - Love On The Brain (lyrics).mp3",
-    "title": "Love On The Brain (lyrics)",
+    "title": "Love On The Brain ()",
     "primary_artists": [
       "Rihanna"
     ],
@@ -14751,23 +14727,15 @@
     "primary_artists": [
       "Young Thug"
     ],
-    "featuring_artists": [
-      "J"
-    ],
+    "featuring_artists": [],
     "artists": [
-      "Young Thug",
-      "J"
+      "Young Thug"
     ],
     "credits": [
       {
         "entity": "Young Thug",
         "entity_type": "person",
         "role": "primary"
-      },
-      {
-        "entity": "J",
-        "entity_type": "person",
-        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -14895,7 +14863,7 @@
   {
     "song_id": "pp-00706",
     "file": "_other\\_pop\\_kpop\\BLACKPINK - _붐바야_(BOOMBAYAH) M V\\BLACKPINK - Kick It (Color Coded Lyrics Eng Rom Han 가사).mp3",
-    "title": "Kick It (Color Coded Lyrics Eng Rom Han 가사)",
+    "title": "Kick It (Color Coded Eng Rom Han 가사)",
     "primary_artists": [
       "BLACKPINK"
     ],
@@ -15051,40 +15019,40 @@
     "file": "_other\\_pop\\_kpop\\KPOP FAV🍓🍒\\LE SSERAFIM (르세라핌) 'Smart' OFFICIAL MV.mp3",
     "title": "LE SSERAFIM (르세라핌) 'Smart' OFFICIAL MV",
     "primary_artists": [
-      "KPOP FAV🍓🍒"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "KPOP FAV🍓🍒"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "KPOP FAV🍓🍒",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "pp-00714",
     "file": "_other\\_pop\\_kpop\\KPOP FAV🍓🍒\\Touch.mp3",
     "title": "Touch",
     "primary_artists": [
-      "KPOP FAV🍓🍒"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "KPOP FAV🍓🍒"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "KPOP FAV🍓🍒",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "pp-00715",
@@ -15109,7 +15077,7 @@
   {
     "song_id": "pp-00716",
     "file": "_other\\_pop\\_kpop\\LISA's Official Playlist\\LISA - Moonlit Floor (Kiss Me) (Lyric Video).mp3",
-    "title": "Moonlit Floor (Kiss Me) (Lyric Video)",
+    "title": "Moonlit Floor (Kiss Me) ()",
     "primary_artists": [
       "LISA"
     ],
@@ -15329,7 +15297,7 @@
   {
     "song_id": "pp-00727",
     "file": "_other\\_pop\\_kpop\\MAP OF THE SOUL PERSONA (Full Album) - YouTube\\BTS (방탄소년단) - _Make It Right_ Lyrics [Color Coded Han_Rom_Eng].mp3",
-    "title": "Make It Right Lyrics [Color Coded Han Rom Eng]",
+    "title": "Make It Right [Color Coded Han Rom Eng]",
     "primary_artists": [
       "BTS"
     ],
@@ -15349,17 +15317,17 @@
   {
     "song_id": "pp-00728",
     "file": "_other\\_pop\\_kpop\\The Most Beautiful Moment in Life Young Forever - BTS Full Album (Lyrics Included) - YouTube\\BTS (Bangtan Boys) 방탄소년단) - I Need U (Color Coded Han Rom Eng Lyrics).mp3",
-    "title": "I Need U (Color Coded Han Rom Eng Lyrics)",
+    "title": "I Need U (Color Coded Han Rom Eng )",
     "primary_artists": [
-      "BTS 방탄소년단)"
+      "BTS"
     ],
     "featuring_artists": [],
     "artists": [
-      "BTS 방탄소년단)"
+      "BTS"
     ],
     "credits": [
       {
-        "entity": "BTS 방탄소년단)",
+        "entity": "BTS",
         "entity_type": "person",
         "role": "primary"
       }
@@ -15369,7 +15337,7 @@
   {
     "song_id": "pp-00729",
     "file": "_other\\_pop\\_kpop\\The Most Beautiful Moment in Life Young Forever - BTS Full Album (Lyrics Included) - YouTube\\BTS (방탄소년단) - I Need U (Remix) (HAN ROM ENG) Color Coded Lyrics.mp3",
-    "title": "I Need U (Remix) (HAN ROM ENG) Color Coded Lyrics",
+    "title": "I Need U (Remix) (HAN ROM ENG) Color Coded",
     "primary_artists": [
       "BTS"
     ],
@@ -15389,7 +15357,7 @@
   {
     "song_id": "pp-00730",
     "file": "_other\\_pop\\_kpop\\The Most Beautiful Moment in Life Young Forever - BTS Full Album (Lyrics Included) - YouTube\\BTS (방탄소년단) - Run (Color Coded Han Rom Eng Lyrics) by YankaT.mp3",
-    "title": "Run (Color Coded Han Rom Eng Lyrics) by YankaT",
+    "title": "Run (Color Coded Han Rom Eng ) by YankaT",
     "primary_artists": [
       "BTS"
     ],
@@ -15409,7 +15377,7 @@
   {
     "song_id": "pp-00731",
     "file": "_other\\_pop\\_kpop\\The Most Beautiful Moment in Life Young Forever - BTS Full Album (Lyrics Included) - YouTube\\BTS (방탄소년단) – Run (alternative Mix) Lyrics (Color Coded) (Han Rom Eng).mp3",
-    "title": "Run (alternative Mix) Lyrics (Color Coded) (Han Rom Eng)",
+    "title": "Run (alternative Mix) (Color Coded) (Han Rom Eng)",
     "primary_artists": [
       "BTS"
     ],
@@ -15449,7 +15417,7 @@
   {
     "song_id": "pp-00733",
     "file": "_other\\_pop\\_modern\\Alessia Cara - YouTube\\Best of Alessia Cara - YouTube\\Alessia Cara - Know-It-All (Deluxe Album) - YouTube\\Alessia Cara - Here (Lyric Video).mp3",
-    "title": "Here (Lyric Video)",
+    "title": "Here ()",
     "primary_artists": [
       "Alessia Cara"
     ],
@@ -15649,7 +15617,7 @@
   {
     "song_id": "pp-00743",
     "file": "_other\\_pop\\_modern\\all katseye songs in order (including mvs)\\“Touch” Lyric Video   KATSEYE.mp3",
-    "title": "“Touch” Lyric Video KATSEYE",
+    "title": "“Touch” KATSEYE",
     "primary_artists": [
       "Katseye"
     ],
@@ -16015,23 +15983,15 @@
     "primary_artists": [
       "Troye Sivan"
     ],
-    "featuring_artists": [
-      "Ariana Grande ft"
-    ],
+    "featuring_artists": [],
     "artists": [
-      "Troye Sivan",
-      "Ariana Grande ft"
+      "Troye Sivan"
     ],
     "credits": [
       {
         "entity": "Troye Sivan",
         "entity_type": "person",
         "role": "primary"
-      },
-      {
-        "entity": "Ariana Grande ft",
-        "entity_type": "person",
-        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -16059,7 +16019,7 @@
   {
     "song_id": "pp-00762",
     "file": "_other\\_pop\\_modern\\Ariana Grande - Album Discography [2013-2019] (All 320)\\Ariana Grande _Positions Deluxe_ Album\\Ariana Grande - 34+35 (lyric video).mp3",
-    "title": "34+35 (lyric video)",
+    "title": "34+35 ()",
     "primary_artists": [
       "Ariana Grande"
     ],
@@ -16626,7 +16586,7 @@
   {
     "song_id": "pp-00790",
     "file": "_other\\_pop\\_modern\\Khalid\\Khalid - YouTube\\Khalid - Lost Lyrics.mp3",
-    "title": "Lost Lyrics",
+    "title": "Lost",
     "primary_artists": [
       "Khalid"
     ],
@@ -16646,7 +16606,7 @@
   {
     "song_id": "pp-00791",
     "file": "_other\\_pop\\_modern\\Khalid\\Khalid - YouTube\\Tracy Chapman - Fast Car (Khalid cover) [Full HD] lyrics.mp3",
-    "title": "Fast Car (Khalid cover) [Full ] lyrics",
+    "title": "Fast Car (Khalid cover) [Full ]",
     "primary_artists": [
       "Tracy Chapman"
     ],
@@ -16893,7 +16853,7 @@
   {
     "song_id": "pp-00803",
     "file": "_other\\_pop\\_oldschool_pop\\Abba Songs Playlist  Abba Greatest Hits\\ABBA - Fernando (Lyrics) ♪.mp3",
-    "title": "Fernando (Lyrics) ♪",
+    "title": "Fernando () ♪",
     "primary_artists": [
       "ABBA"
     ],
@@ -17053,7 +17013,7 @@
   {
     "song_id": "pp-00811",
     "file": "_other\\_pop\\_oldschool_pop\\Abba Songs Playlist  Abba Greatest Hits\\ABBA - Voulez-Vous (Lyric Video).mp3",
-    "title": "Voulez-Vous (Lyric Video)",
+    "title": "Voulez-Vous ()",
     "primary_artists": [
       "ABBA"
     ],
@@ -18287,7 +18247,7 @@
   {
     "song_id": "pp-00872",
     "file": "_other\\_pop\\_oldschool_pop\\Felicita y mas\\Al Bano - Felicita (Lyric Video).mp3",
-    "title": "Felicita (Lyric Video)",
+    "title": "Felicita ()",
     "primary_artists": [
       "Al Bano"
     ],
@@ -18327,7 +18287,7 @@
   {
     "song_id": "pp-00874",
     "file": "_other\\_pop\\_oldschool_pop\\Felicita y mas\\Lambada (Original Radio Edit).mp3",
-    "title": "Lambada (Original Radio Edit)",
+    "title": "Lambada (Original )",
     "primary_artists": [
       "N/A"
     ],
@@ -18409,100 +18369,100 @@
     "file": "_other\\_pop\\_oldschool_pop\\fifa 2000 - YouTube\\Fifa 2000 Soundtrack - Apollo 440 - Stop At The Rock.mp3",
     "title": "Apollo 440 - Stop At The Rock",
     "primary_artists": [
-      "Fifa 2000 Soundtrack"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Fifa 2000 Soundtrack"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Fifa 2000 Soundtrack",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "pp-00879",
     "file": "_other\\_pop\\_oldschool_pop\\fifa 2000 - YouTube\\Fifa 2000 Soundtrack - Dj Sniper - Crossfade Dominator.mp3",
     "title": "Dj Sniper - Crossfade Dominator",
     "primary_artists": [
-      "Fifa 2000 Soundtrack"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Fifa 2000 Soundtrack"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Fifa 2000 Soundtrack",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "pp-00880",
     "file": "_other\\_pop\\_oldschool_pop\\fifa 2000 - YouTube\\Fifa 2000 Soundtrack - Lunatic Calm - LC001.mp3",
     "title": "Lunatic Calm - LC001",
     "primary_artists": [
-      "Fifa 2000 Soundtrack"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Fifa 2000 Soundtrack"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Fifa 2000 Soundtrack",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "pp-00881",
     "file": "_other\\_pop\\_oldschool_pop\\fifa 2000 - YouTube\\Fifa 2000 Soundtrack - Reel Big Fish - Sell Out.mp3",
     "title": "Reel Big Fish - Sell Out",
     "primary_artists": [
-      "Fifa 2000 Soundtrack"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Fifa 2000 Soundtrack"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Fifa 2000 Soundtrack",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "pp-00882",
     "file": "_other\\_pop\\_oldschool_pop\\fifa 2000 - YouTube\\Fifa 2000 Soundtrack - Robbie williams - It_s Only Us.mp3",
     "title": "Robbie williams - It s Only Us",
     "primary_artists": [
-      "Fifa 2000 Soundtrack"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Fifa 2000 Soundtrack"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Fifa 2000 Soundtrack",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "pp-00883",
@@ -20413,15 +20373,15 @@
     "file": "_other\\_pop\\_oldschool_pop\\Time Walk with Me\\The doors - Break On Through ( To The Other Side ).mp3",
     "title": "Break On Through ( To The Other Side )",
     "primary_artists": [
-      "The doors"
+      "The Doors"
     ],
     "featuring_artists": [],
     "artists": [
-      "The doors"
+      "The Doors"
     ],
     "credits": [
       {
-        "entity": "The doors",
+        "entity": "The Doors",
         "entity_type": "person",
         "role": "primary"
       }
@@ -20675,23 +20635,15 @@
     "primary_artists": [
       "Tina turner"
     ],
-    "featuring_artists": [
-      "it"
-    ],
+    "featuring_artists": [],
     "artists": [
-      "Tina turner",
-      "it"
+      "Tina turner"
     ],
     "credits": [
       {
         "entity": "Tina turner",
         "entity_type": "person",
         "role": "primary"
-      },
-      {
-        "entity": "it",
-        "entity_type": "person",
-        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -21119,7 +21071,7 @@
   {
     "song_id": "pp-01012",
     "file": "_other\\_pop\\_random\\00s - YouTube\\Moi Lolita - Alizée (Lyrics video).mp3",
-    "title": "Alizée (Lyrics video)",
+    "title": "Alizée ( video)",
     "primary_artists": [
       "Moi Lolita"
     ],
@@ -22243,7 +22195,7 @@
   {
     "song_id": "pp-01067",
     "file": "_other\\_pop\\_random\\Bedrock - Heaven Scent (Original Mix)  Bedrock Records  1999.mp3",
-    "title": "Heaven Scent (Original Mix) Bedrock Records 1999",
+    "title": "Heaven Scent Bedrock Records 1999",
     "primary_artists": [
       "Bedrock"
     ],
@@ -23039,7 +22991,7 @@
   {
     "song_id": "pp-01106",
     "file": "_other\\_pop\\_random\\Die Antwoord - Baby_s On Fire [HQ WITH LYRICS].mp3",
-    "title": "Baby s On Fire [ WITH LYRICS]",
+    "title": "Baby s On Fire [ WITH ]",
     "primary_artists": [
       "Die Antwoord"
     ],
@@ -23356,7 +23308,7 @@
   {
     "song_id": "pp-01120",
     "file": "_other\\_pop\\_random\\Drinking From the Bottle (Lyric Video).mp3",
-    "title": "Drinking From the Bottle (Lyric Video)",
+    "title": "Drinking From the Bottle ()",
     "primary_artists": [
       "N/A"
     ],
@@ -23446,15 +23398,15 @@
     "file": "_other\\_pop\\_random\\EVE\\Audition music video (eve give it too you).mp3",
     "title": "Audition music video (eve give it too you)",
     "primary_artists": [
-      "EVE"
+      "Eve"
     ],
     "featuring_artists": [],
     "artists": [
-      "EVE"
+      "Eve"
     ],
     "credits": [
       {
-        "entity": "EVE",
+        "entity": "Eve",
         "entity_type": "person",
         "role": "primary"
       }
@@ -23466,23 +23418,20 @@
     "file": "_other\\_pop\\_random\\EVE\\Damian Marley Ft. Stephen Marley & Eve - No, no, no.mp3",
     "title": "Damian Marley",
     "primary_artists": [
-      "EVE"
+      "Eve"
     ],
     "featuring_artists": [
       "Stephen Marley",
-      "Eve - No",
-      "no",
-      "no"
+      "Eve - No"
     ],
     "artists": [
-      "EVE",
+      "Eve",
       "Stephen Marley",
-      "Eve - No",
-      "no"
+      "Eve - No"
     ],
     "credits": [
       {
-        "entity": "EVE",
+        "entity": "Eve",
         "entity_type": "person",
         "role": "primary"
       },
@@ -23495,16 +23444,6 @@
         "entity": "Eve - No",
         "entity_type": "person",
         "role": "feature"
-      },
-      {
-        "entity": "no",
-        "entity_type": "person",
-        "role": "feature"
-      },
-      {
-        "entity": "no",
-        "entity_type": "person",
-        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -23514,15 +23453,15 @@
     "file": "_other\\_pop\\_random\\EVE\\Eve - Let Me Blow Ya Mind.mp3",
     "title": "Let Me Blow Ya Mind",
     "primary_artists": [
-      "EVE"
+      "Eve"
     ],
     "featuring_artists": [],
     "artists": [
-      "EVE"
+      "Eve"
     ],
     "credits": [
       {
-        "entity": "EVE",
+        "entity": "Eve",
         "entity_type": "person",
         "role": "primary"
       }
@@ -23534,15 +23473,15 @@
     "file": "_other\\_pop\\_random\\EVE\\Eve - Who_s That Girl (Official Music Video).mp3",
     "title": "Who s That Girl ()",
     "primary_artists": [
-      "EVE"
+      "Eve"
     ],
     "featuring_artists": [],
     "artists": [
-      "EVE"
+      "Eve"
     ],
     "credits": [
       {
-        "entity": "EVE",
+        "entity": "Eve",
         "entity_type": "person",
         "role": "primary"
       }
@@ -24273,15 +24212,15 @@
     "file": "_other\\_pop\\_random\\icona pop - i love it.mp3",
     "title": "i love it",
     "primary_artists": [
-      "icona pop"
+      "Icona Pop"
     ],
     "featuring_artists": [],
     "artists": [
-      "icona pop"
+      "Icona Pop"
     ],
     "credits": [
       {
-        "entity": "icona pop",
+        "entity": "Icona Pop",
         "entity_type": "person",
         "role": "primary"
       }
@@ -24724,11 +24663,11 @@
       "N/A"
     ],
     "featuring_artists": [
-      "Quave (lyric video"
+      "Quave ("
     ],
     "artists": [
       "N/A",
-      "Quave (lyric video"
+      "Quave ("
     ],
     "credits": [
       {
@@ -24737,7 +24676,7 @@
         "role": "primary"
       },
       {
-        "entity": "Quave (lyric video",
+        "entity": "Quave (",
         "entity_type": "person",
         "role": "feature"
       }
@@ -24834,7 +24773,7 @@
   {
     "song_id": "pp-01189",
     "file": "_other\\_pop\\_random\\Kate Perry - I Kissed A Girl (With Lyrics!).mp3",
-    "title": "I Kissed A Girl (With Lyrics!)",
+    "title": "I Kissed A Girl (With !)",
     "primary_artists": [
       "Kate Perry"
     ],
@@ -25225,7 +25164,7 @@
   {
     "song_id": "pp-01207",
     "file": "_other\\_pop\\_random\\LMFAO - Champange Showers With Lyrics.mp3",
-    "title": "Champange Showers",
+    "title": "Champange Showers With",
     "primary_artists": [
       "LMFAO"
     ],
@@ -25395,15 +25334,15 @@
     "file": "_other\\_pop\\_random\\LYRICS   Games - Alex Wiley.mp3",
     "title": "Alex Wiley",
     "primary_artists": [
-      "LYRICS Games"
+      "Games"
     ],
     "featuring_artists": [],
     "artists": [
-      "LYRICS Games"
+      "Games"
     ],
     "credits": [
       {
-        "entity": "LYRICS Games",
+        "entity": "Games",
         "entity_type": "person",
         "role": "primary"
       }
@@ -25453,7 +25392,7 @@
   {
     "song_id": "pp-01218",
     "file": "_other\\_pop\\_random\\Madonna - Girl Gone Wild (Lyric Video).mp3",
-    "title": "Girl Gone Wild (Lyric Video)",
+    "title": "Girl Gone Wild ()",
     "primary_artists": [
       "Madonna"
     ],
@@ -25689,7 +25628,7 @@
   {
     "song_id": "pp-01229",
     "file": "_other\\_pop\\_random\\Mike Posner __ Cooler than Me Lyrics.mp3",
-    "title": "Mike Posner Cooler than Me Lyrics",
+    "title": "Mike Posner Cooler than Me",
     "primary_artists": [
       "N/A"
     ],
@@ -25799,20 +25738,20 @@
     "file": "_other\\_pop\\_random\\MØ - Final Song (Official Video).mp3",
     "title": "Final Song ()",
     "primary_artists": [
-      "MØ"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "MØ"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "MØ",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "pp-01235",
@@ -26093,7 +26032,7 @@
   {
     "song_id": "pp-01248",
     "file": "_other\\_pop\\_random\\Philip George - Wish You Were Mine (Radio Edit).mp3",
-    "title": "Wish You Were Mine (Radio Edit)",
+    "title": "Wish You Were Mine",
     "primary_artists": [
       "Philip George"
     ],
@@ -26281,7 +26220,7 @@
   {
     "song_id": "pp-01257",
     "file": "_other\\_pop\\_random\\Reboot - Caminando (Original Mix).mp3",
-    "title": "Caminando (Original Mix)",
+    "title": "Caminando",
     "primary_artists": [
       "Reboot"
     ],
@@ -26545,7 +26484,7 @@
   {
     "song_id": "pp-01269",
     "file": "_other\\_pop\\_random\\Sia - Cheap Thrills (Lyric Video) ft. Sean Paul.mp3",
-    "title": "Cheap Thrills (Lyric Video) ft",
+    "title": "Cheap Thrills () ft",
     "primary_artists": [
       "Sia"
     ],
@@ -26768,7 +26707,7 @@
   {
     "song_id": "pp-01279",
     "file": "_other\\_pop\\_random\\The Chainsmokers - Closer (Lyric Video).mp3",
-    "title": "Closer (Lyric Video)",
+    "title": "Closer ()",
     "primary_artists": [
       "The Chainsmokers"
     ],
@@ -26866,20 +26805,20 @@
     "file": "_other\\_pop\\_random\\The Matrix Soundtrack - Clubbed To Death (HD).mp3",
     "title": "Clubbed To Death ()",
     "primary_artists": [
-      "The Matrix Soundtrack"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "The Matrix Soundtrack"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "The Matrix Soundtrack",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "pp-01284",
@@ -27256,7 +27195,7 @@
   {
     "song_id": "pp-01301",
     "file": "_other\\_pop\\_random\\X Ambassadors - Renegades (Lyric Video).mp3",
-    "title": "Renegades (Lyric Video)",
+    "title": "Renegades ()",
     "primary_artists": [
       "X Ambassadors"
     ],
@@ -27444,7 +27383,7 @@
   {
     "song_id": "pp-01310",
     "file": "_other\\_pop\\_random\\Zara Larsson playlist\\Zara Larsson - Lush Life (lyrics).mp3",
-    "title": "Lush Life (lyrics)",
+    "title": "Lush Life ()",
     "primary_artists": [
       "Zara Larsson"
     ],
@@ -29372,7 +29311,7 @@
   {
     "song_id": "pp-01400",
     "file": "_other\\_pop\\Claude Kelly\\Claude Kelly - Always A Day Too Late (lyrics).mp3",
-    "title": "Always A Day Too Late (lyrics)",
+    "title": "Always A Day Too Late ()",
     "primary_artists": [
       "Claude Kelly"
     ],
@@ -29532,7 +29471,7 @@
   {
     "song_id": "pp-01408",
     "file": "_other\\_pop\\Claude Kelly\\Claude Kelly - I Hate Love [HQ] with Lyrics.mp3",
-    "title": "I Hate Love []",
+    "title": "I Hate Love [] with",
     "primary_artists": [
       "Claude Kelly"
     ],
@@ -30172,7 +30111,7 @@
   {
     "song_id": "pp-01440",
     "file": "_other\\_pop\\Gorillaz Greatest Hits\\Feel Good Inc - Gorillaz Lyrics.mp3",
-    "title": "Gorillaz Lyrics",
+    "title": "Gorillaz",
     "primary_artists": [
       "Feel Good Inc"
     ],
@@ -30212,7 +30151,7 @@
   {
     "song_id": "pp-01442",
     "file": "_other\\_pop\\Gorillaz Greatest Hits\\Gorillaz-Clint Eastwood (Lyrics).mp3",
-    "title": "Gorillaz-Clint Eastwood (Lyrics)",
+    "title": "Gorillaz-Clint Eastwood ()",
     "primary_artists": [
       "Gorillaz"
     ],
@@ -30332,7 +30271,7 @@
   {
     "song_id": "pp-01448",
     "file": "_other\\_pop\\Julia Michaels - YouTube\\Julia Michaels - Jump (Lyric Video) ft. Trippie Redd.mp3",
-    "title": "Jump (Lyric Video) ft",
+    "title": "Jump () ft",
     "primary_artists": [
       "Julia Michaels"
     ],
@@ -31496,7 +31435,7 @@
   {
     "song_id": "pp-01505",
     "file": "_other\\_pop\\Pharrell Williams\\Get Lucky - Daft Punk (OFFICIAL RADIO EDIT).mp3",
-    "title": "Daft Punk (OFFICIAL RADIO EDIT)",
+    "title": "Daft Punk (OFFICIAL )",
     "primary_artists": [
       "Get Lucky"
     ],
@@ -31518,15 +31457,15 @@
     "file": "_other\\_pop\\Pharrell Williams\\JAY-Z - Excuse Me Miss ft. Pharrell.mp3",
     "title": "Excuse Me Miss ft",
     "primary_artists": [
-      "JAY-Z"
+      "Jay-Z"
     ],
     "featuring_artists": [],
     "artists": [
-      "JAY-Z"
+      "Jay-Z"
     ],
     "credits": [
       {
-        "entity": "JAY-Z",
+        "entity": "Jay-Z",
         "entity_type": "person",
         "role": "primary"
       }
@@ -31840,7 +31779,7 @@
   {
     "song_id": "pp-01521",
     "file": "_other\\_pop\\Pharrell Williams\\Swedish House Mafia - One (Radio Edit).mp3",
-    "title": "One (Radio Edit)",
+    "title": "One",
     "primary_artists": [
       "Swedish House Mafia"
     ],
@@ -32343,7 +32282,7 @@
   {
     "song_id": "pp-01545",
     "file": "_other\\_pop\\Rihanna\\Rihanna - Diamonds (Lyric Video).mp3",
-    "title": "Diamonds (Lyric Video)",
+    "title": "Diamonds ()",
     "primary_artists": [
       "Rihanna"
     ],
@@ -32543,7 +32482,7 @@
   {
     "song_id": "pp-01555",
     "file": "_other\\_pop\\Songbook  Julia Michaels - YouTube\\Julia Michaels - Jump (featuring Trippie Redd) New Trending Single - YouTube\\Julia Michaels - Nervous System (Full Album) - YouTube\\Julia Michaels - Issues (Alan Walker Remix) [Lyric Video].mp3",
-    "title": "Issues (Alan Walker Remix) [Lyric Video]",
+    "title": "Issues (Alan Walker Remix) []",
     "primary_artists": [
       "Julia Michaels"
     ],
@@ -32723,7 +32662,7 @@
   {
     "song_id": "pp-01564",
     "file": "_other\\_pop\\Taylor Swift\\I Don_t Wanna Live Forever-ZAYN Taylor Swift Lyrics+Pictures.mp3",
-    "title": "I Don t Wanna Live Forever-ZAYN Taylor Swift Lyrics+Pictures",
+    "title": "I Don t Wanna Live Forever-ZAYN Taylor Swift +Pictures",
     "primary_artists": [
       "Taylor Swift"
     ],

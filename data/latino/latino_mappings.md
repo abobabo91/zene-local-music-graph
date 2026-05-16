@@ -16,4 +16,6 @@
 - `Jhay Cortez: JHAY CORTEZ`
 - `Karol G: karol g, KAROL G, karol g - Tropicoqueta`
 - `Anitta: Anitta Best Hits`
-- `Blessd: ? LO MEJOR DE BLESSD?`
+- `Blessd: ? LO MEJOR DE BLESSD?, BLESSD ❌ Ovy On The Drums`
+- `Arcángel: Arcangel`
+- `Monchy y Alexandra: Monchy, Alexandra`

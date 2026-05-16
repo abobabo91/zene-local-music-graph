@@ -93,7 +93,13 @@ Examples to expand later:
 - `Royce Da 5'9": Royce Da 5 9`
 - `SchoolBoy Q: Schoolboy Q`
 - `A$AP Rocky: A$AP`
-- `Dilated Peoples: Dilated Peoples Discography @320`
+- `Dilated Peoples: Dilated Peoples Discography @320, Dilated Peoples - 20 20, Dilated Peoples - Expansion Team, Dilated Peoples - The Platform`
+- `Chief Keef: Cheif Keef`
+- `A$AP Ferg: AAP Ferg`
+- `DJ Clue: DJ Clue - The Professional, DJ Clue - The Professional 2, DJ Clue Backstage Mixtape`
+- `Calboy: Calboy - Long Live The Kings`
+- `SpaceGhostPurrp: SpaceGhostPurrp - Blackland Radio 66 6 BLVCKLVND RVDIX 66 6`
+- `scarlxrd: scarlxrd`
 
 ## Groups
 

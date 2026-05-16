@@ -1311,20 +1311,20 @@
     "file": "_other\\_magyar\\_cigany\\_Mulatós\\magyar mulatos zene(by ame3ycanu)\\Bunyós Pityu  Cigánylány.mp3",
     "title": "Bunyós Pityu Cigánylány",
     "primary_artists": [
-      "magyar mulatos zene"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "magyar mulatos zene"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "magyar mulatos zene",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "mg-00067",
@@ -1726,15 +1726,15 @@
     "file": "_other\\_magyar\\_cigany\\Emilio  Ne nézz vissza rám\\Emilio  Ne nézz vissza rám.mp3",
     "title": "Emilio Ne nézz vissza rám",
     "primary_artists": [
-      "Emilio Ne nézz vissza rám"
+      "Emilio"
     ],
     "featuring_artists": [],
     "artists": [
-      "Emilio Ne nézz vissza rám"
+      "Emilio"
     ],
     "credits": [
       {
-        "entity": "Emilio Ne nézz vissza rám",
+        "entity": "Emilio",
         "entity_type": "person",
         "role": "primary"
       }
@@ -1746,15 +1746,15 @@
     "file": "_other\\_magyar\\_cigany\\Emilio  Ne nézz vissza rám\\Emilio  Valamit el kell mondjak.mp3",
     "title": "Emilio Valamit el kell mondjak",
     "primary_artists": [
-      "Emilio Ne nézz vissza rám"
+      "Emilio"
     ],
     "featuring_artists": [],
     "artists": [
-      "Emilio Ne nézz vissza rám"
+      "Emilio"
     ],
     "credits": [
       {
-        "entity": "Emilio Ne nézz vissza rám",
+        "entity": "Emilio",
         "entity_type": "person",
         "role": "primary"
       }
@@ -2254,15 +2254,15 @@
     "file": "_other\\_magyar\\_cigany\\fekete vonat\\ll junior\\LL Junior  Köszönöm Nektek (2002)\\01. LL Junior - Raggamoffin.mp3",
     "title": "Raggamoffin",
     "primary_artists": [
-      "LL Junior"
+      "L.L. Junior"
     ],
     "featuring_artists": [],
     "artists": [
-      "LL Junior"
+      "L.L. Junior"
     ],
     "credits": [
       {
-        "entity": "LL Junior",
+        "entity": "L.L. Junior",
         "entity_type": "person",
         "role": "primary"
       }
@@ -2274,15 +2274,15 @@
     "file": "_other\\_magyar\\_cigany\\fekete vonat\\ll junior\\LL Junior  Köszönöm Nektek (2002)\\05. LL Junior - ÁLLok Az Esőben.mp3",
     "title": "ÁLLok Az Esőben",
     "primary_artists": [
-      "LL Junior"
+      "L.L. Junior"
     ],
     "featuring_artists": [],
     "artists": [
-      "LL Junior"
+      "L.L. Junior"
     ],
     "credits": [
       {
-        "entity": "LL Junior",
+        "entity": "L.L. Junior",
         "entity_type": "person",
         "role": "primary"
       }
@@ -2294,15 +2294,15 @@
     "file": "_other\\_magyar\\_cigany\\fekete vonat\\ll junior\\LL Junior  Köszönöm Nektek (2002)\\06. LL Junior - Korkorro (Egyedül).mp3",
     "title": "Korkorro (Egyedül)",
     "primary_artists": [
-      "LL Junior"
+      "L.L. Junior"
     ],
     "featuring_artists": [],
     "artists": [
-      "LL Junior"
+      "L.L. Junior"
     ],
     "credits": [
       {
-        "entity": "LL Junior",
+        "entity": "L.L. Junior",
         "entity_type": "person",
         "role": "primary"
       }
@@ -2314,15 +2314,15 @@
     "file": "_other\\_magyar\\_cigany\\fekete vonat\\ll junior\\LL Junior  Köszönöm Nektek (2002)\\07. LL Junior - Kinn A Soron.mp3",
     "title": "Kinn A Soron",
     "primary_artists": [
-      "LL Junior"
+      "L.L. Junior"
     ],
     "featuring_artists": [],
     "artists": [
-      "LL Junior"
+      "L.L. Junior"
     ],
     "credits": [
       {
-        "entity": "LL Junior",
+        "entity": "L.L. Junior",
         "entity_type": "person",
         "role": "primary"
       }
@@ -2334,15 +2334,15 @@
     "file": "_other\\_magyar\\_cigany\\fekete vonat\\ll junior\\LL Junior  Köszönöm Nektek (2002)\\14. LL Junior - Raggamoffin (Rmx).mp3",
     "title": "Raggamoffin (Rmx)",
     "primary_artists": [
-      "LL Junior"
+      "L.L. Junior"
     ],
     "featuring_artists": [],
     "artists": [
-      "LL Junior"
+      "L.L. Junior"
     ],
     "credits": [
       {
-        "entity": "LL Junior",
+        "entity": "L.L. Junior",
         "entity_type": "person",
         "role": "primary"
       }
@@ -2354,15 +2354,15 @@
     "file": "_other\\_magyar\\_cigany\\fekete vonat\\ll junior\\LL Junior Az Én Világom (2004)\\05. LL Junior - Mr. Raggamoffin.mp3",
     "title": "Mr",
     "primary_artists": [
-      "LL Junior"
+      "L.L. Junior"
     ],
     "featuring_artists": [],
     "artists": [
-      "LL Junior"
+      "L.L. Junior"
     ],
     "credits": [
       {
-        "entity": "LL Junior",
+        "entity": "L.L. Junior",
         "entity_type": "person",
         "role": "primary"
       }
@@ -2702,15 +2702,15 @@
     "file": "_other\\_magyar\\_cigany\\GwMOfficialMusik\\G.w.M _ Curtis-Piszkos  2014.mp3",
     "title": "G.w.M Curtis-Piszkos 2014",
     "primary_artists": [
-      "GwM"
+      "G.w.M"
     ],
     "featuring_artists": [],
     "artists": [
-      "GwM"
+      "G.w.M"
     ],
     "credits": [
       {
-        "entity": "GwM",
+        "entity": "G.w.M",
         "entity_type": "person",
         "role": "primary"
       }
@@ -2749,15 +2749,15 @@
     "file": "_other\\_magyar\\_cigany\\GwMOfficialMusik\\G.w.M x Fehér Krisztián x Dobozi Lacika - CSEREPAD  Official Videoclip.mp3",
     "title": "G.w.M x Fehér Krisztián x Dobozi Lacika - CSEREPAD Official Videoclip",
     "primary_artists": [
-      "GwM"
+      "G.w.M"
     ],
     "featuring_artists": [],
     "artists": [
-      "GwM"
+      "G.w.M"
     ],
     "credits": [
       {
-        "entity": "GwM",
+        "entity": "G.w.M",
         "entity_type": "person",
         "role": "primary"
       }
@@ -3411,75 +3411,75 @@
     "file": "_other\\_magyar\\_cigany\\PREMIUM STUDIO\\Jaki x Krisz -Prikezsia (Official Music Video).mp3",
     "title": "Jaki x Krisz -Prikezsia ()",
     "primary_artists": [
-      "PREMIUM STUDIO"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "PREMIUM STUDIO"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "PREMIUM STUDIO",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "mg-00169",
     "file": "_other\\_magyar\\_cigany\\PREMIUM STUDIO\\Krisz- Testvéri Tanács  (Official Music Video).mp3",
     "title": "Krisz- Testvéri Tanács ()",
     "primary_artists": [
-      "PREMIUM STUDIO"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "PREMIUM STUDIO"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "PREMIUM STUDIO",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "mg-00170",
     "file": "_other\\_magyar\\_cigany\\PREMIUM STUDIO\\Németh Krisztián Kevin -Be gurul az AMG (STUDIO VERSION) COVER.mp3",
     "title": "Németh Krisztián Kevin -Be gurul az AMG (STUDIO VERSION) COVER",
     "primary_artists": [
-      "PREMIUM STUDIO"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "PREMIUM STUDIO"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "PREMIUM STUDIO",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "mg-00171",
     "file": "_other\\_magyar\\_cigany\\Pápai József - YouTube\\NIhÀN ∞KEMÀl,, Pàpai joci Kirakos.mp3",
     "title": "NIhÀN ∞KEMÀl,, Pàpai joci Kirakos",
     "primary_artists": [
-      "Pápai József"
+      "Pápai Joci"
     ],
     "featuring_artists": [],
     "artists": [
-      "Pápai József"
+      "Pápai Joci"
     ],
     "credits": [
       {
-        "entity": "Pápai József",
+        "entity": "Pápai Joci",
         "entity_type": "person",
         "role": "primary"
       }
@@ -3591,15 +3591,15 @@
     "file": "_other\\_magyar\\_cigany\\Pápai József - YouTube\\Pápai Joci- Mint egy álom.mp3",
     "title": "Pápai Joci- Mint egy álom",
     "primary_artists": [
-      "Pápai József"
+      "Pápai Joci"
     ],
     "featuring_artists": [],
     "artists": [
-      "Pápai József"
+      "Pápai Joci"
     ],
     "credits": [
       {
-        "entity": "Pápai József",
+        "entity": "Pápai Joci",
         "entity_type": "person",
         "role": "primary"
       }
@@ -3998,7 +3998,7 @@
   {
     "song_id": "mg-00196",
     "file": "_other\\_magyar\\_cigany\\young g\\YOUNG G _ MARIO Vezessen az éjszaka (lyrics).mp3",
-    "title": "YOUNG G MARIO Vezessen az éjszaka (lyrics)",
+    "title": "YOUNG G MARIO Vezessen az éjszaka ()",
     "primary_artists": [
       "Young G"
     ],
@@ -4018,7 +4018,7 @@
   {
     "song_id": "mg-00197",
     "file": "_other\\_magyar\\_cigany\\young g\\YOUNG G _ MARIO-Csak is én leszek Dalszöveg Lyrics (by $lip).mp3",
-    "title": "YOUNG G MARIO-Csak is én leszek Dalszöveg Lyrics (by $lip)",
+    "title": "YOUNG G MARIO-Csak is én leszek Dalszöveg (by $lip)",
     "primary_artists": [
       "Young G"
     ],
@@ -5022,15 +5022,15 @@
     "file": "_other\\_magyar\\_nepzene\\Csík Zeneker - Most múlik pontosan [OFFICIAL].mp3",
     "title": "Most múlik pontosan [OFFICIAL]",
     "primary_artists": [
-      "Csík Zeneker"
+      "Csík Zenekar"
     ],
     "featuring_artists": [],
     "artists": [
-      "Csík Zeneker"
+      "Csík Zenekar"
     ],
     "credits": [
       {
-        "entity": "Csík Zeneker",
+        "entity": "Csík Zenekar",
         "entity_type": "person",
         "role": "primary"
       }
@@ -5180,7 +5180,7 @@
   {
     "song_id": "mg-00252",
     "file": "_other\\_magyar\\_nepzene\\Music - YouTube\\Kalyi Jag   Keren Savorale Drom   Lyrics Vorbi.mp3",
-    "title": "Kalyi Jag Keren Savorale Drom Lyrics Vorbi",
+    "title": "Kalyi Jag Keren Savorale Drom Vorbi",
     "primary_artists": [
       "N/A"
     ],
@@ -5200,7 +5200,7 @@
   {
     "song_id": "mg-00253",
     "file": "_other\\_magyar\\_nepzene\\Music - YouTube\\Kalyi Jag   Muri Sey Sabina   Lyrics Vorbi.mp3",
-    "title": "Kalyi Jag Muri Sey Sabina Lyrics Vorbi",
+    "title": "Kalyi Jag Muri Sey Sabina Vorbi",
     "primary_artists": [
       "N/A"
     ],
@@ -5260,7 +5260,7 @@
   {
     "song_id": "mg-00256",
     "file": "_other\\_magyar\\_nepzene\\Music - YouTube\\Ternipe   Lina - Losan le Roma   Lyrics Vorbi.mp3",
-    "title": "Losan le Roma Lyrics Vorbi",
+    "title": "Losan le Roma Vorbi",
     "primary_artists": [
       "Ternipe Lina"
     ],
@@ -6878,7 +6878,7 @@
   {
     "song_id": "mg-00335",
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Caramel - Szállok a dallal [with lyrics - dalszöveggel].mp3",
-    "title": "Szállok a dallal [with lyrics - dalszöveggel]",
+    "title": "Szállok a dallal [with - dalszöveggel]",
     "primary_artists": [
       "Caramel"
     ],
@@ -7220,15 +7220,15 @@
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Kelemen Kabtban - Nyri Dallam.mp3",
     "title": "Nyri Dallam",
     "primary_artists": [
-      "Kelemen Kabtban"
+      "Kelemen Kabátban"
     ],
     "featuring_artists": [],
     "artists": [
-      "Kelemen Kabtban"
+      "Kelemen Kabátban"
     ],
     "credits": [
       {
-        "entity": "Kelemen Kabtban",
+        "entity": "Kelemen Kabátban",
         "entity_type": "person",
         "role": "primary"
       }
@@ -7680,15 +7680,15 @@
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Rúzsa Magdolna - Nélküled (Lotfi Begi Remix).mp3",
     "title": "Nélküled (Lotfi Begi Remix)",
     "primary_artists": [
-      "Rúzsa Magdolna"
+      "Rúzsa Magdi"
     ],
     "featuring_artists": [],
     "artists": [
-      "Rúzsa Magdolna"
+      "Rúzsa Magdi"
     ],
     "credits": [
       {
-        "entity": "Rúzsa Magdolna",
+        "entity": "Rúzsa Magdi",
         "entity_type": "person",
         "role": "primary"
       }
@@ -7700,15 +7700,15 @@
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Rúzsa Magdolna - Szerelem (Album Version Official Video).mp3",
     "title": "Szerelem (Album Version )",
     "primary_artists": [
-      "Rúzsa Magdolna"
+      "Rúzsa Magdi"
     ],
     "featuring_artists": [],
     "artists": [
-      "Rúzsa Magdolna"
+      "Rúzsa Magdi"
     ],
     "credits": [
       {
-        "entity": "Rúzsa Magdolna",
+        "entity": "Rúzsa Magdi",
         "entity_type": "person",
         "role": "primary"
       }
@@ -7720,15 +7720,15 @@
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Rúzsa Magdolna - Szerelem.mp3",
     "title": "Szerelem",
     "primary_artists": [
-      "Rúzsa Magdolna"
+      "Rúzsa Magdi"
     ],
     "featuring_artists": [],
     "artists": [
-      "Rúzsa Magdolna"
+      "Rúzsa Magdi"
     ],
     "credits": [
       {
-        "entity": "Rúzsa Magdolna",
+        "entity": "Rúzsa Magdi",
         "entity_type": "person",
         "role": "primary"
       }
@@ -7780,20 +7780,20 @@
     "file": "_other\\_magyar\\_pop\\magyar pop zenék\\Szeresd a testem baby - Baby Sisters.mp3",
     "title": "Baby Sisters",
     "primary_artists": [
-      "Szeresd a testem baby"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Szeresd a testem baby"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Szeresd a testem baby",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "mg-00381",
@@ -8455,15 +8455,15 @@
     "file": "_other\\_magyar\\_pop\\Rúzsa Magdi\\Rúzsa Magdolna - Egyszer (Official Music Video).mp3",
     "title": "Egyszer ()",
     "primary_artists": [
-      "Rúzsa Magdolna"
+      "Rúzsa Magdi"
     ],
     "featuring_artists": [],
     "artists": [
-      "Rúzsa Magdolna"
+      "Rúzsa Magdi"
     ],
     "credits": [
       {
-        "entity": "Rúzsa Magdolna",
+        "entity": "Rúzsa Magdi",
         "entity_type": "person",
         "role": "primary"
       }
@@ -8475,15 +8475,15 @@
     "file": "_other\\_magyar\\_pop\\Rúzsa Magdi\\Rúzsa Magdolna - Szerelem.mp3",
     "title": "Szerelem",
     "primary_artists": [
-      "Rúzsa Magdolna"
+      "Rúzsa Magdi"
     ],
     "featuring_artists": [],
     "artists": [
-      "Rúzsa Magdolna"
+      "Rúzsa Magdi"
     ],
     "credits": [
       {
-        "entity": "Rúzsa Magdolna",
+        "entity": "Rúzsa Magdi",
         "entity_type": "person",
         "role": "primary"
       }
@@ -8495,15 +8495,15 @@
     "file": "_other\\_magyar\\_pop\\Rúzsa Magdi\\Rúzsa Magdolna - Április (Official Audio).mp3",
     "title": "Április ()",
     "primary_artists": [
-      "Rúzsa Magdolna"
+      "Rúzsa Magdi"
     ],
     "featuring_artists": [],
     "artists": [
-      "Rúzsa Magdolna"
+      "Rúzsa Magdi"
     ],
     "credits": [
       {
-        "entity": "Rúzsa Magdolna",
+        "entity": "Rúzsa Magdi",
         "entity_type": "person",
         "role": "primary"
       }
@@ -8661,7 +8661,7 @@
   {
     "song_id": "mg-00423",
     "file": "_other\\_magyar\\_retro\\1990-2000-es évek magyar retró slágerei\\A.D. stúdió - Páratlan páros dalszöveg [ lyrics ].mp3",
-    "title": "Páratlan páros dalszöveg [ lyrics ]",
+    "title": "Páratlan páros dalszöveg [ ]",
     "primary_artists": [
       "A.D. stúdió"
     ],
@@ -8983,15 +8983,15 @@
     "file": "_other\\_magyar\\_retro\\1990-2000-es évek magyar retró slágerei\\Groovehouse  szívvel - lélekkel (dalszöveggel).mp3",
     "title": "lélekkel (dalszöveggel)",
     "primary_artists": [
-      "Groovehouse szívvel"
+      "Groovehouse"
     ],
     "featuring_artists": [],
     "artists": [
-      "Groovehouse szívvel"
+      "Groovehouse"
     ],
     "credits": [
       {
-        "entity": "Groovehouse szívvel",
+        "entity": "Groovehouse",
         "entity_type": "person",
         "role": "primary"
       }
@@ -11779,20 +11779,20 @@
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Open Stage - Aranka Szeretlek (www.openstageproduction.ro) TVR Magyar Adás.mp3",
     "title": "Aranka Szeretlek (www.openstageproduction",
     "primary_artists": [
-      "Open Stage"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Open Stage"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Open Stage",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "mg-00579",
@@ -12286,15 +12286,15 @@
     "file": "_other\\_magyar\\_retro\\Magyar Retro Zenék - A 60-as - 70-es - 80-as évekből\\Szűcs Judith - Járd el a Zorba dalát.mp3",
     "title": "Járd el a Zorba dalát",
     "primary_artists": [
-      "Szűcs Judith"
+      "Szűcs Judit"
     ],
     "featuring_artists": [],
     "artists": [
-      "Szűcs Judith"
+      "Szűcs Judit"
     ],
     "credits": [
       {
-        "entity": "Szűcs Judith",
+        "entity": "Szűcs Judit",
         "entity_type": "person",
         "role": "primary"
       }
@@ -13753,15 +13753,15 @@
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Egészséges Fejbőr - Kronológia\\15 Fekete majmok.wma",
     "title": "Fekete majmok",
     "primary_artists": [
-      "Egészséges Fejbőr - Kronológia"
+      "Egészséges Fejbőr"
     ],
     "featuring_artists": [],
     "artists": [
-      "Egészséges Fejbőr - Kronológia"
+      "Egészséges Fejbőr"
     ],
     "credits": [
       {
-        "entity": "Egészséges Fejbőr - Kronológia",
+        "entity": "Egészséges Fejbőr",
         "entity_type": "person",
         "role": "primary"
       }
@@ -13773,15 +13773,15 @@
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Egészséges fejbőr - Nem adjuk fel 2003\\01-Nem_adjuk_fel_!.wma",
     "title": "Nem adjuk fel !",
     "primary_artists": [
-      "Egészséges fejbőr - Nem adjuk fel 2003"
+      "Egészséges Fejbőr"
     ],
     "featuring_artists": [],
     "artists": [
-      "Egészséges fejbőr - Nem adjuk fel 2003"
+      "Egészséges Fejbőr"
     ],
     "credits": [
       {
-        "entity": "Egészséges fejbőr - Nem adjuk fel 2003",
+        "entity": "Egészséges Fejbőr",
         "entity_type": "person",
         "role": "primary"
       }
@@ -13793,15 +13793,15 @@
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Egészséges fejbőr - Nem adjuk fel 2003\\08-Requiem.wma",
     "title": "Requiem",
     "primary_artists": [
-      "Egészséges fejbőr - Nem adjuk fel 2003"
+      "Egészséges Fejbőr"
     ],
     "featuring_artists": [],
     "artists": [
-      "Egészséges fejbőr - Nem adjuk fel 2003"
+      "Egészséges Fejbőr"
     ],
     "credits": [
       {
-        "entity": "Egészséges fejbőr - Nem adjuk fel 2003",
+        "entity": "Egészséges Fejbőr",
         "entity_type": "person",
         "role": "primary"
       }
@@ -13813,15 +13813,15 @@
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Egészséges fejbőr - Nem adjuk fel 2003\\14-Holdvilagarok.wma",
     "title": "Holdvilagarok",
     "primary_artists": [
-      "Egészséges fejbőr - Nem adjuk fel 2003"
+      "Egészséges Fejbőr"
     ],
     "featuring_artists": [],
     "artists": [
-      "Egészséges fejbőr - Nem adjuk fel 2003"
+      "Egészséges Fejbőr"
     ],
     "credits": [
       {
-        "entity": "Egészséges fejbőr - Nem adjuk fel 2003",
+        "entity": "Egészséges Fejbőr",
         "entity_type": "person",
         "role": "primary"
       }
@@ -13893,15 +13893,15 @@
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Karpatia\\02-Veterán.wma",
     "title": "Veterán",
     "primary_artists": [
-      "Kárpátia"
+      "Karpatia"
     ],
     "featuring_artists": [],
     "artists": [
-      "Kárpátia"
+      "Karpatia"
     ],
     "credits": [
       {
-        "entity": "Kárpátia",
+        "entity": "Karpatia",
         "entity_type": "person",
         "role": "primary"
       }
@@ -13913,15 +13913,15 @@
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Karpatia\\06-Rozsdaette penge.wma",
     "title": "Rozsdaette penge",
     "primary_artists": [
-      "Kárpátia"
+      "Karpatia"
     ],
     "featuring_artists": [],
     "artists": [
-      "Kárpátia"
+      "Karpatia"
     ],
     "credits": [
       {
-        "entity": "Kárpátia",
+        "entity": "Karpatia",
         "entity_type": "person",
         "role": "primary"
       }
@@ -13933,15 +13933,15 @@
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Karpatia\\08-Szép vagy,  gyönyörű vagy Magyarország.wma",
     "title": "Szép vagy, gyönyörű vagy Magyarország",
     "primary_artists": [
-      "Kárpátia"
+      "Karpatia"
     ],
     "featuring_artists": [],
     "artists": [
-      "Kárpátia"
+      "Karpatia"
     ],
     "credits": [
       {
-        "entity": "Kárpátia",
+        "entity": "Karpatia",
         "entity_type": "person",
         "role": "primary"
       }
@@ -13953,15 +13953,15 @@
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Karpatia\\Hol vagytok székelyek\\01 Hol vagytok székelyek.mp3",
     "title": "Hol vagytok székelyek",
     "primary_artists": [
-      "Kárpátia"
+      "Karpatia"
     ],
     "featuring_artists": [],
     "artists": [
-      "Kárpátia"
+      "Karpatia"
     ],
     "credits": [
       {
-        "entity": "Kárpátia",
+        "entity": "Karpatia",
         "entity_type": "person",
         "role": "primary"
       }
@@ -13973,15 +13973,15 @@
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Karpatia\\Istenért, Hazáért!\\01 Egy nap az élet.mp3",
     "title": "Egy nap az élet",
     "primary_artists": [
-      "Kárpátia"
+      "Karpatia"
     ],
     "featuring_artists": [],
     "artists": [
-      "Kárpátia"
+      "Karpatia"
     ],
     "credits": [
       {
-        "entity": "Kárpátia",
+        "entity": "Karpatia",
         "entity_type": "person",
         "role": "primary"
       }
@@ -13993,15 +13993,15 @@
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Karpatia\\Istenért, Hazáért!\\02 Magyarnak születtem.mp3",
     "title": "Magyarnak születtem",
     "primary_artists": [
-      "Kárpátia"
+      "Karpatia"
     ],
     "featuring_artists": [],
     "artists": [
-      "Kárpátia"
+      "Karpatia"
     ],
     "credits": [
       {
-        "entity": "Kárpátia",
+        "entity": "Karpatia",
         "entity_type": "person",
         "role": "primary"
       }
@@ -14013,15 +14013,15 @@
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Karpatia\\Istenért, Hazáért!\\05 Barátom mond merre vagy.mp3",
     "title": "Barátom mond merre vagy",
     "primary_artists": [
-      "Kárpátia"
+      "Karpatia"
     ],
     "featuring_artists": [],
     "artists": [
-      "Kárpátia"
+      "Karpatia"
     ],
     "credits": [
       {
-        "entity": "Kárpátia",
+        "entity": "Karpatia",
         "entity_type": "person",
         "role": "primary"
       }
@@ -14033,15 +14033,15 @@
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Karpatia\\Istenért, Hazáért!\\09 A világtól elzárva.mp3",
     "title": "A világtól elzárva",
     "primary_artists": [
-      "Kárpátia"
+      "Karpatia"
     ],
     "featuring_artists": [],
     "artists": [
-      "Kárpátia"
+      "Karpatia"
     ],
     "credits": [
       {
-        "entity": "Kárpátia",
+        "entity": "Karpatia",
         "entity_type": "person",
         "role": "primary"
       }
@@ -14053,15 +14053,15 @@
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Karpatia\\Istenért, Hazáért!\\11 Erdély szabad!.mp3",
     "title": "Erdély szabad!",
     "primary_artists": [
-      "Kárpátia"
+      "Karpatia"
     ],
     "featuring_artists": [],
     "artists": [
-      "Kárpátia"
+      "Karpatia"
     ],
     "credits": [
       {
-        "entity": "Kárpátia",
+        "entity": "Karpatia",
         "entity_type": "person",
         "role": "primary"
       }
@@ -14153,15 +14153,15 @@
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Kárpátia - Hősi énekek\\01 - KÁRPÁTOK, ZENGJETEK.wma",
     "title": "KÁRPÁTOK, ZENGJETEK",
     "primary_artists": [
-      "Kárpátia - Hősi énekek"
+      "Kárpátia"
     ],
     "featuring_artists": [],
     "artists": [
-      "Kárpátia - Hősi énekek"
+      "Kárpátia"
     ],
     "credits": [
       {
-        "entity": "Kárpátia - Hősi énekek",
+        "entity": "Kárpátia",
         "entity_type": "person",
         "role": "primary"
       }
@@ -14173,15 +14173,15 @@
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Kárpátia - Hősi énekek\\02 - ABBÓL A FÁBÓL.wma",
     "title": "ABBÓL A FÁBÓL",
     "primary_artists": [
-      "Kárpátia - Hősi énekek"
+      "Kárpátia"
     ],
     "featuring_artists": [],
     "artists": [
-      "Kárpátia - Hősi énekek"
+      "Kárpátia"
     ],
     "credits": [
       {
-        "entity": "Kárpátia - Hősi énekek",
+        "entity": "Kárpátia",
         "entity_type": "person",
         "role": "primary"
       }
@@ -14193,15 +14193,15 @@
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Kárpátia - Hősi énekek\\03 - LESZ MÉG.wma",
     "title": "LESZ MÉG",
     "primary_artists": [
-      "Kárpátia - Hősi énekek"
+      "Kárpátia"
     ],
     "featuring_artists": [],
     "artists": [
-      "Kárpátia - Hősi énekek"
+      "Kárpátia"
     ],
     "credits": [
       {
-        "entity": "Kárpátia - Hősi énekek",
+        "entity": "Kárpátia",
         "entity_type": "person",
         "role": "primary"
       }
@@ -14213,15 +14213,15 @@
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Kárpátia - Hősi énekek\\04 - HŐSÖK.wma",
     "title": "HŐSÖK",
     "primary_artists": [
-      "Kárpátia - Hősi énekek"
+      "Kárpátia"
     ],
     "featuring_artists": [],
     "artists": [
-      "Kárpátia - Hősi énekek"
+      "Kárpátia"
     ],
     "credits": [
       {
-        "entity": "Kárpátia - Hősi énekek",
+        "entity": "Kárpátia",
         "entity_type": "person",
         "role": "primary"
       }
@@ -14233,15 +14233,15 @@
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Kárpátia - Hősi énekek\\10 - FELVIDÉKI TÁJ.wma",
     "title": "FELVIDÉKI TÁJ",
     "primary_artists": [
-      "Kárpátia - Hősi énekek"
+      "Kárpátia"
     ],
     "featuring_artists": [],
     "artists": [
-      "Kárpátia - Hősi énekek"
+      "Kárpátia"
     ],
     "credits": [
       {
-        "entity": "Kárpátia - Hősi énekek",
+        "entity": "Kárpátia",
         "entity_type": "person",
         "role": "primary"
       }
@@ -14253,22 +14253,15 @@
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Kárpátia_Tűzzel,vassal_rock\\04-Egy az Isten, egy a nemzet.wma",
     "title": "Egy az Isten, egy a nemzet",
     "primary_artists": [
-      "Kárpátia Tűzzel",
-      "vassal rock"
+      "Kárpátia"
     ],
     "featuring_artists": [],
     "artists": [
-      "Kárpátia Tűzzel",
-      "vassal rock"
+      "Kárpátia"
     ],
     "credits": [
       {
-        "entity": "Kárpátia Tűzzel",
-        "entity_type": "person",
-        "role": "primary"
-      },
-      {
-        "entity": "vassal rock",
+        "entity": "Kárpátia",
         "entity_type": "person",
         "role": "primary"
       }
@@ -14280,15 +14273,15 @@
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Kárpátia_Így volt! Így lesz!_rock\\01-Magyarország katonái.wma",
     "title": "Magyarország katonái",
     "primary_artists": [
-      "Kárpátia Így volt! Így lesz! rock"
+      "Kárpátia"
     ],
     "featuring_artists": [],
     "artists": [
-      "Kárpátia Így volt! Így lesz! rock"
+      "Kárpátia"
     ],
     "credits": [
       {
-        "entity": "Kárpátia Így volt! Így lesz! rock",
+        "entity": "Kárpátia",
         "entity_type": "person",
         "role": "primary"
       }
@@ -14300,15 +14293,15 @@
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Kárpátia_Így volt! Így lesz!_rock\\02-Mesélj még nekem.wma",
     "title": "Mesélj még nekem",
     "primary_artists": [
-      "Kárpátia Így volt! Így lesz! rock"
+      "Kárpátia"
     ],
     "featuring_artists": [],
     "artists": [
-      "Kárpátia Így volt! Így lesz! rock"
+      "Kárpátia"
     ],
     "credits": [
       {
-        "entity": "Kárpátia Így volt! Így lesz! rock",
+        "entity": "Kárpátia",
         "entity_type": "person",
         "role": "primary"
       }
@@ -14320,15 +14313,15 @@
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Kárpátia_Így volt! Így lesz!_rock\\05-Ott, ahol zúg a négy folyó.wma",
     "title": "Ott, ahol zúg a négy folyó",
     "primary_artists": [
-      "Kárpátia Így volt! Így lesz! rock"
+      "Kárpátia"
     ],
     "featuring_artists": [],
     "artists": [
-      "Kárpátia Így volt! Így lesz! rock"
+      "Kárpátia"
     ],
     "credits": [
       {
-        "entity": "Kárpátia Így volt! Így lesz! rock",
+        "entity": "Kárpátia",
         "entity_type": "person",
         "role": "primary"
       }
@@ -14340,15 +14333,15 @@
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\Kárpátia_Így volt! Így lesz!_rock\\08-Ugye, gondolsz néha rám.wma",
     "title": "Ugye, gondolsz néha rám",
     "primary_artists": [
-      "Kárpátia Így volt! Így lesz! rock"
+      "Kárpátia"
     ],
     "featuring_artists": [],
     "artists": [
-      "Kárpátia Így volt! Így lesz! rock"
+      "Kárpátia"
     ],
     "credits": [
       {
-        "entity": "Kárpátia Így volt! Így lesz! rock",
+        "entity": "Kárpátia",
         "entity_type": "person",
         "role": "primary"
       }
@@ -14360,40 +14353,40 @@
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\revizios dalok\\Bácska,Bánát akarja.mp3",
     "title": "Bácska,Bánát akarja",
     "primary_artists": [
-      "revizios dalok"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "revizios dalok"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "revizios dalok",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "mg-00707",
     "file": "_other\\_magyar\\_rock\\nemzeti rock\\revizios dalok\\Hazánk része,Kárpátalja.mp3",
     "title": "Hazánk része,Kárpátalja",
     "primary_artists": [
-      "revizios dalok"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "revizios dalok"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "revizios dalok",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "mg-00708",
@@ -14480,20 +14473,20 @@
     "file": "_other\\_magyar\\_rock\\subscribe válogatás\\SUBSCRIBE - Álomtégla.mp3",
     "title": "Álomtégla",
     "primary_artists": [
-      "subscribe"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "subscribe"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "subscribe",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "mg-00713",
@@ -14518,7 +14511,7 @@
   {
     "song_id": "mg-00714",
     "file": "_other\\_magyar\\_rock\\Tankcsapda-A_legjobb_mergek-HU-2004-LegacyMP3\\101-tankcsapda-alm-azt_mondom_allj-legacy.mp3",
-    "title": "101-tankcsapda-alm-azt mondom allj-legacy",
+    "title": "tankcsapda-alm-azt mondom allj-legacy",
     "primary_artists": [
       "Tankcsapda"
     ],
@@ -14538,7 +14531,7 @@
   {
     "song_id": "mg-00715",
     "file": "_other\\_magyar\\_rock\\Tankcsapda-A_legjobb_mergek-HU-2004-LegacyMP3\\102-tankcsapda-alm-be_vagyok_rugva-legacy.mp3",
-    "title": "102-tankcsapda-alm-be vagyok rugva-legacy",
+    "title": "tankcsapda-alm-be vagyok rugva-legacy",
     "primary_artists": [
       "Tankcsapda"
     ],
@@ -14558,7 +14551,7 @@
   {
     "song_id": "mg-00716",
     "file": "_other\\_magyar\\_rock\\Tankcsapda-A_legjobb_mergek-HU-2004-LegacyMP3\\104-tankcsapda-alm-ez_az_a_haz-legacy.mp3",
-    "title": "104-tankcsapda-alm-ez az a haz-legacy",
+    "title": "tankcsapda-alm-ez az a haz-legacy",
     "primary_artists": [
       "Tankcsapda"
     ],
@@ -14578,7 +14571,7 @@
   {
     "song_id": "mg-00717",
     "file": "_other\\_magyar\\_rock\\Tankcsapda-A_legjobb_mergek-HU-2004-LegacyMP3\\114-tankcsapda-alm-adjon_az_eg-legacy.mp3",
-    "title": "114-tankcsapda-alm-adjon az eg-legacy",
+    "title": "tankcsapda-alm-adjon az eg-legacy",
     "primary_artists": [
       "Tankcsapda"
     ],
@@ -14598,7 +14591,7 @@
   {
     "song_id": "mg-00718",
     "file": "_other\\_magyar\\_rock\\Tankcsapda-A_legjobb_mergek-HU-2004-LegacyMP3\\115-tankcsapda-alm-mennyorszag_tourist-legacy.mp3",
-    "title": "115-tankcsapda-alm-mennyorszag tourist-legacy",
+    "title": "tankcsapda-alm-mennyorszag tourist-legacy",
     "primary_artists": [
       "Tankcsapda"
     ],
@@ -14618,7 +14611,7 @@
   {
     "song_id": "mg-00719",
     "file": "_other\\_magyar\\_rock\\Tankcsapda-A_legjobb_mergek-HU-2004-LegacyMP3\\201-tankcsapda-alm-fiuk_olebe_a_lanyok-legacy.mp3",
-    "title": "201-tankcsapda-alm-fiuk olebe a lanyok-legacy",
+    "title": "tankcsapda-alm-fiuk olebe a lanyok-legacy",
     "primary_artists": [
       "Tankcsapda"
     ],

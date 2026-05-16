@@ -42,6 +42,11 @@
 - `2 Chainz: 2Chainz`
 - `Alicia Keys: Alicia Key`
 - `Ray J: Ray J Playlist`
+- `The Weeknd: The Weekend`
+- `Frank Ocean: Ocean`
+- `Fantasia: Fantasia s`
+- `Ashanti: aSHANTI top tracks`
+- `PARTYNEXTDOOR: Party Ne, PARTYNE, t Door, TDOOR`
 
 ## Groups
 

@@ -96,7 +96,15 @@ COMPILATION_PREFIXES = {
 }
 UPLOADER_NAMES = {"wshh", "worldstarhiphop", "hiphoptxl", "lyrical lemonade", "youtube"}
 # Names that should never be treated as artist credits
-BLOCKLIST_ARTISTS = {"nothing", "cd1", "cd2", "cd 1", "cd 2", "n/a", "unknown", "various"}
+BLOCKLIST_ARTISTS = {
+    "nothing", "cd1", "cd2", "cd 1", "cd 2", "n/a", "unknown", "various",
+    "intro", "intro a million", "volume 1", "my swag", "my type", "topless",
+    "act like that", "double life", "crank", "f",
+    "illmixtapes com", "offthechain movie com",
+    "underground hip hop mega pack", "alphadog soundtrack",
+    "ipahone 6 music video", "random trap 15niggaz",
+    "swisha house", "lil",
+}
 UNKNOWN_ARTIST = "N/A"
 LABEL_LIKE_ARTISTS = {"cmg the label"}
 YO_GOTTI_GANGSTA_ART_TITLE_ARTISTS = {
@@ -473,14 +481,29 @@ def canonical_group_name(name: str, mappings: dict) -> str | None:
     return mappings["group_lookup"].get(normalize_key(cleaned))
 
 
+def _is_junk_artist(key: str) -> bool:
+    """Detect track numbers, pure numbers, unclosed parens, and other junk."""
+    if key in BLOCKLIST_ARTISTS:
+        return True
+    if re.match(r"^\d+$", key):
+        return True  # pure numbers like "100", "049"
+    if re.match(r"^\d{1,2}\s+", key):
+        return True  # track number prefix like "01 dancin", "05 drama"
+    if key.endswith("(") or "(" in key and ")" not in key:
+        return True  # unclosed parens like "Brand New Choppa ("
+    if re.match(r"^\d{1,2}\s*-\s*", key):
+        return True  # "01 - title" pattern
+    return False
+
+
 def prefer_display_name(name: str, mappings: dict) -> str:
     canonical = canonicalize_artist(name, mappings)
     if canonical:
-        if normalize_key(canonical) in BLOCKLIST_ARTISTS:
+        if _is_junk_artist(normalize_key(canonical)):
             return UNKNOWN_ARTIST
         return canonical
     cleaned = clean_artist_text(name)
-    if normalize_key(cleaned) in BLOCKLIST_ARTISTS:
+    if _is_junk_artist(normalize_key(cleaned)):
         return UNKNOWN_ARTIST
     return cleaned
 

@@ -38,3 +38,24 @@
 - `Danit: Danit`
 - `Phil Collins: Phil Collins`
 - `Mazzy Star: Mazzy Star`
+- `Big Thief: Big Thief - U.F.O.F`
+- `Black Lips: Black Lips-Arabia Mountain-2011-JUST`
+- `Cloud Nothings: Cloud Nothings - Attack on Memory`
+- `DIIV: DIIV - Is The Is Are`
+- `David Bowie: David Bowie Blackstar CDRIP`
+- `Jens Lekman: Jens Lekman - Life Will See You Now`
+- `PJ Harvey: PJ Harvey - Let England Shake`
+- `Porter Robinson: Porter Robinson - Nurture`
+- `Sufjan Stevens: Sufjan Stevens - Carrie Lowell`
+- `The Black Keys: The Black Keys - Brothers`
+- `The War on Drugs: The War On Drugs - A Deeper Understanding`
+- `The xx: The xx - I See You`
+- `Thundercat: Thundercat - Drunk`
+- `Mount Eerie: NocheSiamesa.blogspot.com --- Mount Eerie - A Crow Looked At Me`
+- `Daniel Johnston: daniel johnston`
+- `Lauryn Hill: lauryn hill`
+- `Zara Larsson: zara larsson`
+- `Titiyo: Tityio`
+- `Grimes: Grimes i o`
+- `Noah Cyrus: Noah Lindsey Cyrus - YouTu, Noah Cyrus Lil Xan`
+- `Kreayshawn: Mix - Kreayshawn`

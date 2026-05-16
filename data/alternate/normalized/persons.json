@@ -84,12 +84,14 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "The War On Drugs": {
+  "The War on Drugs": {
     "song_ids": [
-      "al-00010"
+      "al-00010",
+      "al-00215"
     ],
     "primary_song_ids": [
-      "al-00010"
+      "al-00010",
+      "al-00215"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -145,17 +147,6 @@
     ],
     "primary_song_ids": [
       "al-00015"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "a fine selection of nice music": {
-    "song_ids": [
-      "al-00016"
-    ],
-    "primary_song_ids": [
-      "al-00016"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -327,7 +318,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Big Thief - U.F.O.F": {
+  "Big Thief": {
     "song_ids": [
       "al-00034",
       "al-00035",
@@ -355,7 +346,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Black Lips-Arabia Mountain-2011-JUST": {
+  "Black Lips": {
     "song_ids": [
       "al-00039"
     ],
@@ -440,19 +431,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "A Million ~": {
-    "song_ids": [
-      "al-00046",
-      "al-00047"
-    ],
-    "primary_song_ids": [
-      "al-00046",
-      "al-00047"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Broods": {
     "song_ids": [
       "al-00049",
@@ -495,7 +473,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Cloud Nothings - Attack on Memory": {
+  "Cloud Nothings": {
     "song_ids": [
       "al-00060"
     ],
@@ -530,7 +508,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "daniel johnston": {
+  "Daniel Johnston": {
     "song_ids": [
       "al-00064"
     ],
@@ -541,7 +519,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "David Bowie Blackstar CDRIP": {
+  "David Bowie": {
     "song_ids": [
       "al-00065"
     ],
@@ -563,7 +541,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "DIIV - Is The Is Are": {
+  "DIIV": {
     "song_ids": [
       "al-00067",
       "al-00068",
@@ -578,7 +556,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "NocheSiamesa.blogspot.com --- Mount Eerie - A Crow Looked At Me": {
+  "Mount Eerie": {
     "song_ids": [
       "al-00070"
     ],
@@ -689,7 +667,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Jens Lekman - Life Will See You Now": {
+  "Jens Lekman": {
     "song_ids": [
       "al-00087"
     ],
@@ -860,7 +838,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Legnépszerűbb számok -- LD": {
+  "LD": {
     "song_ids": [
       "al-00109",
       "al-00110"
@@ -1018,37 +996,17 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Scarborough Fair": {
-    "song_ids": [
-      "al-00141"
-    ],
-    "primary_song_ids": [
-      "al-00141"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Kreayshawn": {
     "song_ids": [
       "al-00142",
       "al-00143",
-      "al-00144"
+      "al-00144",
+      "al-00145"
     ],
     "primary_song_ids": [
       "al-00142",
       "al-00143",
-      "al-00144"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Mix - Kreayshawn": {
-    "song_ids": [
-      "al-00145"
-    ],
-    "primary_song_ids": [
+      "al-00144",
       "al-00145"
     ],
     "feature_song_ids": [],
@@ -1137,7 +1095,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Mix - Xavier Rudd - Spirit Bird": {
+  "Xavier Rudd - Spirit Bird": {
     "song_ids": [
       "al-00166"
     ],
@@ -1174,43 +1132,14 @@
   },
   "Noah Cyrus": {
     "song_ids": [
-      "al-00170"
-    ],
-    "primary_song_ids": [
-      "al-00170"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Noah Cyrus Lil Xan": {
-    "song_ids": [
-      "al-00171"
-    ],
-    "primary_song_ids": [
-      "al-00171"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Noah Lindsey Cyrus - YouTu": {
-    "song_ids": [
+      "al-00170",
+      "al-00171",
       "al-00172"
     ],
     "primary_song_ids": [
+      "al-00170",
+      "al-00171",
       "al-00172"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "OFFICIAL Somewhere over the Rainbow": {
-    "song_ids": [
-      "al-00173"
-    ],
-    "primary_song_ids": [
-      "al-00173"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -1238,7 +1167,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "PJ Harvey - Let England Shake": {
+  "PJ Harvey": {
     "song_ids": [
       "al-00175"
     ],
@@ -1249,7 +1178,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Porter Robinson - Nurture": {
+  "Porter Robinson": {
     "song_ids": [
       "al-00176",
       "al-00177",
@@ -1309,28 +1238,6 @@
     ],
     "primary_song_ids": [
       "al-00184"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Лолита Кокс": {
-    "song_ids": [
-      "al-00185"
-    ],
-    "primary_song_ids": [
-      "al-00185"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "оносамо": {
-    "song_ids": [
-      "al-00185"
-    ],
-    "primary_song_ids": [
-      "al-00185"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -1468,7 +1375,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Sufjan Stevens - Carrie Lowell": {
+  "Sufjan Stevens": {
     "song_ids": [
       "al-00207",
       "al-00208"
@@ -1492,7 +1399,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "TG CF": {
+  "The Growlers - Chinese Foundation": {
     "song_ids": [
       "al-00210"
     ],
@@ -1503,7 +1410,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "The Black Keys - Brothers": {
+  "The Black Keys": {
     "song_ids": [
       "al-00211"
     ],
@@ -1525,17 +1432,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "The Less I Know The Better": {
-    "song_ids": [
-      "al-00213"
-    ],
-    "primary_song_ids": [
-      "al-00213"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Khruangbin": {
     "song_ids": [
       "al-00214"
@@ -1547,18 +1443,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "The War On Drugs - A Deeper Understanding": {
-    "song_ids": [
-      "al-00215"
-    ],
-    "primary_song_ids": [
-      "al-00215"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "The xx - I See You": {
+  "The xx": {
     "song_ids": [
       "al-00216",
       "al-00217",
@@ -1597,17 +1482,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "These Boots Are Made For Walking or In These Shoes": {
-    "song_ids": [
-      "al-00222"
-    ],
-    "primary_song_ids": [
-      "al-00222"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "T. Rex": {
     "song_ids": [
       "al-00223"
@@ -1630,7 +1504,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Thundercat - Drunk": {
+  "Thundercat": {
     "song_ids": [
       "al-00225"
     ],
@@ -1644,21 +1518,12 @@
   "Titiyo": {
     "song_ids": [
       "al-00226",
-      "al-00227"
-    ],
-    "primary_song_ids": [
-      "al-00226",
-      "al-00227"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Tityio": {
-    "song_ids": [
+      "al-00227",
       "al-00228"
     ],
     "primary_song_ids": [
+      "al-00226",
+      "al-00227",
       "al-00228"
     ],
     "feature_song_ids": [],
@@ -1724,7 +1589,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "zara larsson": {
+  "Zara Larsson": {
     "song_ids": [
       "al-00242",
       "al-00243",
@@ -1880,17 +1745,6 @@
       "al-00283"
     ],
     "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Me Feat": {
-    "song_ids": [
-      "al-00283"
-    ],
-    "primary_song_ids": [],
-    "feature_song_ids": [
-      "al-00283"
-    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -2072,17 +1926,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Мой Воздух Наполнен Тобой": {
-    "song_ids": [
-      "al-00320"
-    ],
-    "primary_song_ids": [
-      "al-00320"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Funkadelic": {
     "song_ids": [
       "al-00321"
@@ -2100,6 +1943,7 @@
       "al-00323",
       "al-00324",
       "al-00325",
+      "al-00326",
       "al-00327",
       "al-00328",
       "al-00329",
@@ -2118,6 +1962,7 @@
       "al-00323",
       "al-00324",
       "al-00325",
+      "al-00326",
       "al-00327",
       "al-00328",
       "al-00329",
@@ -2130,17 +1975,6 @@
       "al-00336",
       "al-00337",
       "al-00338"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Grimes i o": {
-    "song_ids": [
-      "al-00326"
-    ],
-    "primary_song_ids": [
-      "al-00326"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -2321,17 +2155,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Flight Attendant": {
-    "song_ids": [
-      "al-00383"
-    ],
-    "primary_song_ids": [
-      "al-00383"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Josh Rouse": {
     "song_ids": [
       "al-00384"
@@ -2415,7 +2238,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "lauryn hill": {
+  "Lauryn Hill": {
     "song_ids": [
       "al-00411",
       "al-00412",

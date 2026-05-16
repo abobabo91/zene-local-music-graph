@@ -27,11 +27,13 @@
   "Arcángel": {
     "song_ids": [
       "lt-00002",
-      "lt-00097"
+      "lt-00097",
+      "lt-00205"
     ],
     "primary_song_ids": [
       "lt-00002",
-      "lt-00097"
+      "lt-00097",
+      "lt-00205"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -124,36 +126,12 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Oral B - Image Of A Pimp": {
-    "song_ids": [
-      "lt-00008"
-    ],
-    "primary_song_ids": [],
-    "feature_song_ids": [
-      "lt-00008"
-    ],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Shaggy": {
     "song_ids": [
       "lt-00010"
     ],
     "primary_song_ids": [
       "lt-00010"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "bachata": {
-    "song_ids": [
-      "lt-00011",
-      "lt-00020"
-    ],
-    "primary_song_ids": [
-      "lt-00011",
-      "lt-00020"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -192,22 +170,12 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Monchy": {
+  "Monchy y Alexandra": {
     "song_ids": [
       "lt-00015"
     ],
     "primary_song_ids": [
-      "lt-00015"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Alexandra": {
-    "song_ids": [
-      "lt-00015"
-    ],
-    "primary_song_ids": [
+      "lt-00015",
       "lt-00015"
     ],
     "feature_song_ids": [],
@@ -614,17 +582,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "KIZNYOU PRODUCTIONS": {
-    "song_ids": [
-      "lt-00054"
-    ],
-    "primary_song_ids": [
-      "lt-00054"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "JULLY TAMIRES": {
     "song_ids": [
       "lt-00054"
@@ -735,17 +692,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "latin old academia": {
-    "song_ids": [
-      "lt-00065"
-    ],
-    "primary_song_ids": [
-      "lt-00065"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Pachanga": {
     "song_ids": [
       "lt-00066",
@@ -811,50 +757,6 @@
     ],
     "primary_song_ids": [
       "lt-00072"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Voice": {
-    "song_ids": [
-      "lt-00073"
-    ],
-    "primary_song_ids": [
-      "lt-00073"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "The fast": {
-    "song_ids": [
-      "lt-00074"
-    ],
-    "primary_song_ids": [
-      "lt-00074"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Friday Nigh": {
-    "song_ids": [
-      "lt-00075"
-    ],
-    "primary_song_ids": [
-      "lt-00075"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "XTREME MY FANTASY": {
-    "song_ids": [
-      "lt-00076"
-    ],
-    "primary_song_ids": [
-      "lt-00076"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -976,12 +878,24 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "BLESSD ❌ Ovy On The Drums": {
+  "Blessd": {
     "song_ids": [
-      "lt-00098"
+      "lt-00098",
+      "lt-00116",
+      "lt-00123",
+      "lt-00124",
+      "lt-00125",
+      "lt-00126",
+      "lt-00127"
     ],
     "primary_song_ids": [
-      "lt-00098"
+      "lt-00098",
+      "lt-00116",
+      "lt-00123",
+      "lt-00124",
+      "lt-00125",
+      "lt-00126",
+      "lt-00127"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -1006,17 +920,6 @@
     ],
     "primary_song_ids": [
       "lt-00101"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Ella Baila Sola": {
-    "song_ids": [
-      "lt-00102"
-    ],
-    "primary_song_ids": [
-      "lt-00102"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -1094,17 +997,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "La Bachata": {
-    "song_ids": [
-      "lt-00111"
-    ],
-    "primary_song_ids": [
-      "lt-00111"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Myke towers 👀": {
     "song_ids": [
       "lt-00112",
@@ -1137,38 +1029,6 @@
     "primary_song_ids": [
       "lt-00114",
       "lt-00261"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "reguetoneo del bueno": {
-    "song_ids": [
-      "lt-00115"
-    ],
-    "primary_song_ids": [
-      "lt-00115"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Blessd": {
-    "song_ids": [
-      "lt-00116",
-      "lt-00123",
-      "lt-00124",
-      "lt-00125",
-      "lt-00126",
-      "lt-00127"
-    ],
-    "primary_song_ids": [
-      "lt-00116",
-      "lt-00123",
-      "lt-00124",
-      "lt-00125",
-      "lt-00126",
-      "lt-00127"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -1520,17 +1380,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Cardi B - Taki Taki": {
-    "song_ids": [
-      "lt-00153"
-    ],
-    "primary_song_ids": [],
-    "feature_song_ids": [
-      "lt-00153"
-    ],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "DUKI": {
     "song_ids": [
       "lt-00154"
@@ -1567,17 +1416,6 @@
     ],
     "primary_song_ids": [
       "lt-00154"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Ella Quiere": {
-    "song_ids": [
-      "lt-00155"
-    ],
-    "primary_song_ids": [
-      "lt-00155"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -1731,17 +1569,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Arcangel": {
-    "song_ids": [
-      "lt-00205"
-    ],
-    "primary_song_ids": [
-      "lt-00205"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Dalex": {
     "song_ids": [
       "lt-00205"
@@ -1890,17 +1717,6 @@
       "lt-00257",
       "lt-00258",
       "lt-00259"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "LEJOS DEL CIELO": {
-    "song_ids": [
-      "lt-00247"
-    ],
-    "primary_song_ids": [
-      "lt-00247"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],

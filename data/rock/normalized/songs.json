@@ -24,15 +24,15 @@
     "file": "_other\\_rock\\1 Supermassive Black Hole - Muse.mp3",
     "title": "Muse",
     "primary_artists": [
-      "Supermassive Black Hole"
+      "Muse"
     ],
     "featuring_artists": [],
     "artists": [
-      "Supermassive Black Hole"
+      "Muse"
     ],
     "credits": [
       {
-        "entity": "Supermassive Black Hole",
+        "entity": "Muse",
         "entity_type": "person",
         "role": "primary"
       }
@@ -44,100 +44,100 @@
     "file": "_other\\_rock\\30 Seconds To Mars (2002-2013) Complete Discography\\01. 30 Seconds To Mars - 30 Seconds To Mars\\01.Capricorn (A Brand New Name) - 30 Seconds To Mars.mp3",
     "title": "Seconds To Mars",
     "primary_artists": [
-      "Capricorn"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Capricorn"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Capricorn",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "rk-00004",
     "file": "_other\\_rock\\30 Seconds To Mars (2002-2013) Complete Discography\\02. A Beautiful Lie - 30 Seconds To Mars\\1. Attack - 30 Seconds To Mars.mp3",
     "title": "Seconds To Mars",
     "primary_artists": [
-      "Attack"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Attack"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Attack",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "rk-00005",
     "file": "_other\\_rock\\30 Seconds To Mars (2002-2013) Complete Discography\\02. A Beautiful Lie - 30 Seconds To Mars\\7. From Yesterday - 30 Seconds To Mars.mp3",
     "title": "Seconds To Mars",
     "primary_artists": [
-      "From Yesterday"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "From Yesterday"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "From Yesterday",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "rk-00006",
     "file": "_other\\_rock\\30 Seconds To Mars (2002-2013) Complete Discography\\03. This Is War - 30 Seconds To Mars\\06.Hurricane - 30 Seconds To Mars.mp3",
     "title": "Seconds To Mars",
     "primary_artists": [
-      "Hurricane"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Hurricane"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Hurricane",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "rk-00007",
     "file": "_other\\_rock\\_psychedelic rock\\60s-70s Stoner Psychedelic Rock\\Blinded by the Light ~ Manfred Mann_s Earth Band with lyrics.mp3",
     "title": "Blinded by the Light ~ Manfred Mann s Earth Band with",
     "primary_artists": [
-      "60s-70s Stoner Psychedelic Rock"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "60s-70s Stoner Psychedelic Rock"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "60s-70s Stoner Psychedelic Rock",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "rk-00008",
@@ -164,17 +164,17 @@
     "file": "_other\\_rock\\_psychedelic rock\\60s-70s Stoner Psychedelic Rock\\Derek And The Dominos - Layla.mp3",
     "title": "Layla",
     "primary_artists": [
-      "Derek",
+      "Derek and the Dominos",
       "The Dominos"
     ],
     "featuring_artists": [],
     "artists": [
-      "Derek",
+      "Derek and the Dominos",
       "The Dominos"
     ],
     "credits": [
       {
-        "entity": "Derek",
+        "entity": "Derek and the Dominos",
         "entity_type": "person",
         "role": "primary"
       },
@@ -231,20 +231,20 @@
     "file": "_other\\_rock\\_psychedelic rock\\60s-70s Stoner Psychedelic Rock\\somebody to love-jefferson airplane.mp3",
     "title": "somebody to love-jefferson airplane",
     "primary_artists": [
-      "60s-70s Stoner Psychedelic Rock"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "60s-70s Stoner Psychedelic Rock"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "60s-70s Stoner Psychedelic Rock",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "rk-00013",
@@ -271,22 +271,21 @@
     "file": "_other\\_rock\\_psychedelic rock\\60s-70s Stoner Psychedelic Rock\\The Mamas & The Papas - California Dreamin_.mp3",
     "title": "California Dreamin",
     "primary_artists": [
-      "The Mamas",
-      "The Papas"
+      "The Mamas & the Papas",
+      "The Mamas & the Papas"
     ],
     "featuring_artists": [],
     "artists": [
-      "The Mamas",
-      "The Papas"
+      "The Mamas & the Papas"
     ],
     "credits": [
       {
-        "entity": "The Mamas",
+        "entity": "The Mamas & the Papas",
         "entity_type": "person",
         "role": "primary"
       },
       {
-        "entity": "The Papas",
+        "entity": "The Mamas & the Papas",
         "entity_type": "person",
         "role": "primary"
       }
@@ -298,100 +297,100 @@
     "file": "_other\\_rock\\_psychedelic rock\\Ambiance\\Firestone.mp3",
     "title": "Firestone",
     "primary_artists": [
-      "Ambiance"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Ambiance"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Ambiance",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "rk-00016",
     "file": "_other\\_rock\\_psychedelic rock\\Ambiance\\Howling Around My Happy Home.mp3",
     "title": "Howling Around My Happy Home",
     "primary_artists": [
-      "Ambiance"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Ambiance"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Ambiance",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "rk-00017",
     "file": "_other\\_rock\\_psychedelic rock\\Ambiance\\Remember Me (Sure Is Pure 7 Inch Edit).mp3",
     "title": "Remember Me (Sure Is Pure 7 Inch Edit)",
     "primary_artists": [
-      "Ambiance"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Ambiance"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Ambiance",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "rk-00018",
     "file": "_other\\_rock\\_psychedelic rock\\Ambiance\\Sumthin_ Sumthin_ (Remastered 2021).mp3",
     "title": "Sumthin Sumthin (Remastered 2021)",
     "primary_artists": [
-      "Ambiance"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Ambiance"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Ambiance",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "rk-00019",
     "file": "_other\\_rock\\_psychedelic rock\\Ambiance\\Wicked Games (feat. Anna Naklab) (Radio Edit).mp3",
     "title": "Wicked Games (feat. Anna Naklab)",
     "primary_artists": [
-      "Ambiance"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Ambiance"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Ambiance",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "rk-00020",
@@ -418,20 +417,20 @@
     "file": "_other\\_rock\\_psychedelic rock\\Green Onions\\green onions.mp3",
     "title": "green onions",
     "primary_artists": [
-      "Green Onions"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Green Onions"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Green Onions",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "rk-00022",
@@ -498,20 +497,20 @@
     "file": "_other\\_rock\\_psychedelic rock\\green onions ect,, mod stuff\\The Kinks- All Day and All of the Night.mp3",
     "title": "The Kinks- All Day and All of the Night",
     "primary_artists": [
-      "mod stuff"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "mod stuff"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "mod stuff",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "rk-00026",
@@ -538,80 +537,80 @@
     "file": "_other\\_rock\\_psychedelic rock\\Pink Floyd - A Foot In The Door The Best Of Pink Floyd (2011)MP3 Nlt-release\\PINK FLOYD ACID TRIPPING CHILL GET STONED PLAYLIST\\Cluster One - Pink Floyd.mp3",
     "title": "Pink Floyd",
     "primary_artists": [
-      "Cluster One"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Cluster One"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Cluster One",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "rk-00028",
     "file": "_other\\_rock\\_psychedelic rock\\Pink Floyd - A Foot In The Door The Best Of Pink Floyd (2011)MP3 Nlt-release\\PINK FLOYD ACID TRIPPING CHILL GET STONED PLAYLIST\\High Hopes - Pink Floyd.mp3",
     "title": "Pink Floyd",
     "primary_artists": [
-      "High Hopes"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "High Hopes"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "High Hopes",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "rk-00029",
     "file": "_other\\_rock\\_psychedelic rock\\Pink Floyd - A Foot In The Door The Best Of Pink Floyd (2011)MP3 Nlt-release\\PINK FLOYD ACID TRIPPING CHILL GET STONED PLAYLIST\\Keep Talking - Pink Floyd.mp3",
     "title": "Pink Floyd",
     "primary_artists": [
-      "Keep Talking"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Keep Talking"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Keep Talking",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "rk-00030",
     "file": "_other\\_rock\\_psychedelic rock\\Pink Floyd - A Foot In The Door The Best Of Pink Floyd (2011)MP3 Nlt-release\\PINK FLOYD ACID TRIPPING CHILL GET STONED PLAYLIST\\Lost for Words - Pink Floyd.mp3",
     "title": "Pink Floyd",
     "primary_artists": [
-      "Lost for Words"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Lost for Words"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Lost for Words",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "rk-00031",
@@ -658,20 +657,20 @@
     "file": "_other\\_rock\\_psychedelic rock\\Pink Floyd - A Foot In The Door The Best Of Pink Floyd (2011)MP3 Nlt-release\\PINK FLOYD ACID TRIPPING CHILL GET STONED PLAYLIST\\Pigs - Pink Floyd visuals by DKCGI.mp3",
     "title": "Pink Floyd visuals by DKCGI",
     "primary_artists": [
-      "Pigs"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Pigs"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Pigs",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "rk-00034",
@@ -778,20 +777,20 @@
     "file": "_other\\_rock\\_psychedelic rock\\Psychedelic Rock Modern\\Crumb - Locket [Official Video].mp3",
     "title": "Locket []",
     "primary_artists": [
-      "Crumb"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Crumb"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Crumb",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "rk-00040",
@@ -818,20 +817,20 @@
     "file": "_other\\_rock\\_psychedelic rock\\Psychedelic Rock Modern\\Fake Reality.mp3",
     "title": "Fake Reality",
     "primary_artists": [
-      "Psychedelic Rock Modern"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Psychedelic Rock Modern"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Psychedelic Rock Modern",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "rk-00042",
@@ -858,20 +857,20 @@
     "file": "_other\\_rock\\_psychedelic rock\\The Ultimate Psychedelic Acid Rock Mix\\For What It_s Worth.mp3",
     "title": "For What It s Worth",
     "primary_artists": [
-      "The Ultimate Psychedelic Acid Rock"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "The Ultimate Psychedelic Acid Rock"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "The Ultimate Psychedelic Acid Rock",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "rk-00044",
@@ -918,20 +917,20 @@
     "file": "_other\\_rock\\_psychedelic rock\\The Ultimate Psychedelic Acid Rock Mix\\The Zombies ~ She_s Not There (1964).mp3",
     "title": "The Zombies ~ She s Not There (1964)",
     "primary_artists": [
-      "The Ultimate Psychedelic Acid Rock"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "The Ultimate Psychedelic Acid Rock"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "The Ultimate Psychedelic Acid Rock",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "rk-00047",
@@ -1438,15 +1437,15 @@
     "file": "_other\\_rock\\_random\\Best Melodeath Melodic Metal [75+ SONGS]\\Be_lakor - Aspect.mp3",
     "title": "Aspect",
     "primary_artists": [
-      "Be lakor"
+      "Be'lakor"
     ],
     "featuring_artists": [],
     "artists": [
-      "Be lakor"
+      "Be'lakor"
     ],
     "credits": [
       {
-        "entity": "Be lakor",
+        "entity": "Be'lakor",
         "entity_type": "person",
         "role": "primary"
       }
@@ -1458,20 +1457,20 @@
     "file": "_other\\_rock\\_random\\Best Melodeath Melodic Metal [75+ SONGS]\\Scarface Soundtrack - Push It To The Limit (12  Extended Version).mp3",
     "title": "Push It To The Limit (12 Extended Version)",
     "primary_artists": [
-      "Scarface Soundtrack"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Scarface Soundtrack"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Scarface Soundtrack",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "rk-00074",
@@ -1538,15 +1537,15 @@
     "file": "_other\\_rock\\_random\\BFMV greatest hits\\Bullet For My Valentine - One Good Reason Why (with lyrics).mp3",
     "title": "One Good Reason Why (with )",
     "primary_artists": [
-      "Bullet For My Valentine"
+      "Bullet for My Valentine"
     ],
     "featuring_artists": [],
     "artists": [
-      "Bullet For My Valentine"
+      "Bullet for My Valentine"
     ],
     "credits": [
       {
-        "entity": "Bullet For My Valentine",
+        "entity": "Bullet for My Valentine",
         "entity_type": "person",
         "role": "primary"
       }
@@ -1558,15 +1557,15 @@
     "file": "_other\\_rock\\_random\\BFMV greatest hits\\Bullet for my Valentine - Say Goodnight.mp3",
     "title": "Say Goodnight",
     "primary_artists": [
-      "Bullet for my Valentine"
+      "Bullet for My Valentine"
     ],
     "featuring_artists": [],
     "artists": [
-      "Bullet for my Valentine"
+      "Bullet for My Valentine"
     ],
     "credits": [
       {
-        "entity": "Bullet for my Valentine",
+        "entity": "Bullet for My Valentine",
         "entity_type": "person",
         "role": "primary"
       }
@@ -1578,15 +1577,15 @@
     "file": "_other\\_rock\\_random\\BFMV greatest hits\\Bullet For My Valentine - Tears Don_t Fall (Album Edit - with Scream   with Lighter).mp3",
     "title": "Tears Don t Fall (Album Edit - with Scream with Lighter)",
     "primary_artists": [
-      "Bullet For My Valentine"
+      "Bullet for My Valentine"
     ],
     "featuring_artists": [],
     "artists": [
-      "Bullet For My Valentine"
+      "Bullet for My Valentine"
     ],
     "credits": [
       {
-        "entity": "Bullet For My Valentine",
+        "entity": "Bullet for My Valentine",
         "entity_type": "person",
         "role": "primary"
       }
@@ -1898,20 +1897,20 @@
     "file": "_other\\_rock\\_random\\Bon Jovi Greatest Hits - The Ultimate Collection [ChattChitto RG]\\Bon Jovi You Give Love A Bad Name - YouTube\\18 and life - skid row.mp3",
     "title": "skid row",
     "primary_artists": [
-      "and life"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "and life"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "and life",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "rk-00096",
@@ -1958,20 +1957,20 @@
     "file": "_other\\_rock\\_random\\Bon Jovi Greatest Hits - The Ultimate Collection [ChattChitto RG]\\Bon Jovi You Give Love A Bad Name - YouTube\\Dirty Dancing - Time of my Life (Final Dance) - Hi.mp3",
     "title": "Time of my Life (Final Dance) - Hi",
     "primary_artists": [
-      "Dirty Dancing"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Dirty Dancing"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Dirty Dancing",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "rk-00099",
@@ -2225,20 +2224,20 @@
     "file": "_other\\_rock\\_random\\Celebration Rock\\1-06 Younger Us.mp3",
     "title": "Younger Us",
     "primary_artists": [
-      "Celebration Rock"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Celebration Rock"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Celebration Rock",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "rk-00112",
@@ -2565,15 +2564,15 @@
     "file": "_other\\_rock\\_random\\Evanescence - Fallen\\02 - Bring Me to Life.mp3",
     "title": "Bring Me to Life",
     "primary_artists": [
-      "Evanescence - Fallen"
+      "Evanescence"
     ],
     "featuring_artists": [],
     "artists": [
-      "Evanescence - Fallen"
+      "Evanescence"
     ],
     "credits": [
       {
-        "entity": "Evanescence - Fallen",
+        "entity": "Evanescence",
         "entity_type": "person",
         "role": "primary"
       }
@@ -2585,15 +2584,15 @@
     "file": "_other\\_rock\\_random\\Evanescence - Fallen\\04 - My Immortal.mp3",
     "title": "My Immortal",
     "primary_artists": [
-      "Evanescence - Fallen"
+      "Evanescence"
     ],
     "featuring_artists": [],
     "artists": [
-      "Evanescence - Fallen"
+      "Evanescence"
     ],
     "credits": [
       {
-        "entity": "Evanescence - Fallen",
+        "entity": "Evanescence",
         "entity_type": "person",
         "role": "primary"
       }
@@ -2605,15 +2604,15 @@
     "file": "_other\\_rock\\_random\\Evanescence - Fallen\\06 - Tourniquet.mp3",
     "title": "Tourniquet",
     "primary_artists": [
-      "Evanescence - Fallen"
+      "Evanescence"
     ],
     "featuring_artists": [],
     "artists": [
-      "Evanescence - Fallen"
+      "Evanescence"
     ],
     "credits": [
       {
-        "entity": "Evanescence - Fallen",
+        "entity": "Evanescence",
         "entity_type": "person",
         "role": "primary"
       }
@@ -2645,15 +2644,15 @@
     "file": "_other\\_rock\\_random\\Evanescence - Fallen\\Evanescence- Everybody_s Fool lyrics.mp3",
     "title": "Evanescence- Everybody s Fool",
     "primary_artists": [
-      "Evanescence - Fallen"
+      "Evanescence"
     ],
     "featuring_artists": [],
     "artists": [
-      "Evanescence - Fallen"
+      "Evanescence"
     ],
     "credits": [
       {
-        "entity": "Evanescence - Fallen",
+        "entity": "Evanescence",
         "entity_type": "person",
         "role": "primary"
       }
@@ -2785,20 +2784,20 @@
     "file": "_other\\_rock\\_random\\Foo Fighters - Greatest Hits CDRip 2009 [Cov+CD][Bubanee]\\04. The Pretender - Foo Fighters.mp3",
     "title": "Foo Fighters",
     "primary_artists": [
-      "The Pretender"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "The Pretender"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "The Pretender",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "rk-00140",
@@ -2865,15 +2864,15 @@
     "file": "_other\\_rock\\_random\\good charlotte\\Good Charlotte - Girls & Boys (Official Video).mp3",
     "title": "Girls & Boys ()",
     "primary_artists": [
-      "good charlotte"
+      "Good Charlotte"
     ],
     "featuring_artists": [],
     "artists": [
-      "good charlotte"
+      "Good Charlotte"
     ],
     "credits": [
       {
-        "entity": "good charlotte",
+        "entity": "Good Charlotte",
         "entity_type": "person",
         "role": "primary"
       }
@@ -2885,15 +2884,15 @@
     "file": "_other\\_rock\\_random\\good charlotte\\Good Charlotte - I Just Wanna Live (Official Video).mp3",
     "title": "I Just Wanna Live ()",
     "primary_artists": [
-      "good charlotte"
+      "Good Charlotte"
     ],
     "featuring_artists": [],
     "artists": [
-      "good charlotte"
+      "Good Charlotte"
     ],
     "credits": [
       {
-        "entity": "good charlotte",
+        "entity": "Good Charlotte",
         "entity_type": "person",
         "role": "primary"
       }
@@ -2905,15 +2904,15 @@
     "file": "_other\\_rock\\_random\\good charlotte\\Good Charlotte - Lifestyles of the Rich & Famous (Official Video).mp3",
     "title": "Lifestyles of the Rich & Famous ()",
     "primary_artists": [
-      "good charlotte"
+      "Good Charlotte"
     ],
     "featuring_artists": [],
     "artists": [
-      "good charlotte"
+      "Good Charlotte"
     ],
     "credits": [
       {
-        "entity": "good charlotte",
+        "entity": "Good Charlotte",
         "entity_type": "person",
         "role": "primary"
       }
@@ -2925,15 +2924,15 @@
     "file": "_other\\_rock\\_random\\good charlotte\\Good Charlotte - The Anthem (Official Video).mp3",
     "title": "The Anthem ()",
     "primary_artists": [
-      "good charlotte"
+      "Good Charlotte"
     ],
     "featuring_artists": [],
     "artists": [
-      "good charlotte"
+      "Good Charlotte"
     ],
     "credits": [
       {
-        "entity": "good charlotte",
+        "entity": "Good Charlotte",
         "entity_type": "person",
         "role": "primary"
       }
@@ -2945,15 +2944,15 @@
     "file": "_other\\_rock\\_random\\good charlotte\\Good Charlotte - The River ft. M. Shadows, Synyster Gates (Official Music Video).mp3",
     "title": "The River",
     "primary_artists": [
-      "good charlotte"
+      "Good Charlotte"
     ],
     "featuring_artists": [],
     "artists": [
-      "good charlotte"
+      "Good Charlotte"
     ],
     "credits": [
       {
-        "entity": "good charlotte",
+        "entity": "Good Charlotte",
         "entity_type": "person",
         "role": "primary"
       }
@@ -2965,15 +2964,15 @@
     "file": "_other\\_rock\\_random\\GunsNRoses Greatest Hits\\[11] Yesterdays.mp3",
     "title": "[11] Yesterdays",
     "primary_artists": [
-      "GunsNRoses"
+      "Guns N' Roses"
     ],
     "featuring_artists": [],
     "artists": [
-      "GunsNRoses"
+      "Guns N' Roses"
     ],
     "credits": [
       {
-        "entity": "GunsNRoses",
+        "entity": "Guns N' Roses",
         "entity_type": "person",
         "role": "primary"
       }
@@ -2985,17 +2984,17 @@
     "file": "_other\\_rock\\_random\\Hall and Oates Greatest Hits Remastered - YouTube\\Out of Touch (Remastered).mp3",
     "title": "Out of Touch (Remastered)",
     "primary_artists": [
-      "Hall",
+      "Hall & Oates",
       "Oates Greatest Hits Remastered"
     ],
     "featuring_artists": [],
     "artists": [
-      "Hall",
+      "Hall & Oates",
       "Oates Greatest Hits Remastered"
     ],
     "credits": [
       {
-        "entity": "Hall",
+        "entity": "Hall & Oates",
         "entity_type": "person",
         "role": "primary"
       },
@@ -3012,17 +3011,17 @@
     "file": "_other\\_rock\\_random\\Hall and Oates Greatest Hits Remastered - YouTube\\Sara Smile.mp3",
     "title": "Sara Smile",
     "primary_artists": [
-      "Hall",
+      "Hall & Oates",
       "Oates Greatest Hits Remastered"
     ],
     "featuring_artists": [],
     "artists": [
-      "Hall",
+      "Hall & Oates",
       "Oates Greatest Hits Remastered"
     ],
     "credits": [
       {
-        "entity": "Hall",
+        "entity": "Hall & Oates",
         "entity_type": "person",
         "role": "primary"
       },
@@ -3039,17 +3038,17 @@
     "file": "_other\\_rock\\_random\\Hall and Oates Greatest Hits Remastered - YouTube\\You Make My Dreams (Remastered).mp3",
     "title": "You Make My Dreams (Remastered)",
     "primary_artists": [
-      "Hall",
+      "Hall & Oates",
       "Oates Greatest Hits Remastered"
     ],
     "featuring_artists": [],
     "artists": [
-      "Hall",
+      "Hall & Oates",
       "Oates Greatest Hits Remastered"
     ],
     "credits": [
       {
-        "entity": "Hall",
+        "entity": "Hall & Oates",
         "entity_type": "person",
         "role": "primary"
       },
@@ -3066,22 +3065,15 @@
     "file": "_other\\_rock\\_random\\HIM - And Love Said No (The Greates Hits 1997 - 2004) (2004)\\11_Wicked Game.mp3",
     "title": "Wicked Game",
     "primary_artists": [
-      "HIM",
-      "Love Said No"
+      "HIM"
     ],
     "featuring_artists": [],
     "artists": [
-      "HIM",
-      "Love Said No"
+      "HIM"
     ],
     "credits": [
       {
         "entity": "HIM",
-        "entity_type": "person",
-        "role": "primary"
-      },
-      {
-        "entity": "Love Said No",
         "entity_type": "person",
         "role": "primary"
       }
@@ -3133,15 +3125,15 @@
     "file": "_other\\_rock\\_random\\Joan Jett\\AC DC - You Shook Me All Night Long (Official Vide.mp3",
     "title": "You Shook Me All Night Long (Official Vide",
     "primary_artists": [
-      "AC DC"
+      "AC/DC"
     ],
     "featuring_artists": [],
     "artists": [
-      "AC DC"
+      "AC/DC"
     ],
     "credits": [
       {
-        "entity": "AC DC",
+        "entity": "AC/DC",
         "entity_type": "person",
         "role": "primary"
       }
@@ -3513,22 +3505,15 @@
     "file": "_other\\_rock\\_random\\Metallica - Garage, Inc\\08 Astronomy.mp3",
     "title": "Astronomy",
     "primary_artists": [
-      "Metallica - Garage",
-      "Inc"
+      "Metallica"
     ],
     "featuring_artists": [],
     "artists": [
-      "Metallica - Garage",
-      "Inc"
+      "Metallica"
     ],
     "credits": [
       {
-        "entity": "Metallica - Garage",
-        "entity_type": "person",
-        "role": "primary"
-      },
-      {
-        "entity": "Inc",
+        "entity": "Metallica",
         "entity_type": "person",
         "role": "primary"
       }
@@ -3540,15 +3525,15 @@
     "file": "_other\\_rock\\_random\\Millencolin - 2012 - The Melancholy Connection\\08 - Junkie For Success.mp3",
     "title": "Junkie For Success",
     "primary_artists": [
-      "Millencolin - 2012 - The Melancholy Connection"
+      "Millencolin"
     ],
     "featuring_artists": [],
     "artists": [
-      "Millencolin - 2012 - The Melancholy Connection"
+      "Millencolin"
     ],
     "credits": [
       {
-        "entity": "Millencolin - 2012 - The Melancholy Connection",
+        "entity": "Millencolin",
         "entity_type": "person",
         "role": "primary"
       }
@@ -3620,15 +3605,15 @@
     "file": "_other\\_rock\\_random\\My Chemical Romance-May Death Never Stop You (2014) Mp3@320 [chaoshoffa]\\05. You Know What They Do to Guys Like Us in Prison.mp3",
     "title": "You Know What They Do to Guys Like Us in Prison",
     "primary_artists": [
-      "My Chemical Romance-May Death Never Stop You Mp3"
+      "My Chemical Romance"
     ],
     "featuring_artists": [],
     "artists": [
-      "My Chemical Romance-May Death Never Stop You Mp3"
+      "My Chemical Romance"
     ],
     "credits": [
       {
-        "entity": "My Chemical Romance-May Death Never Stop You Mp3",
+        "entity": "My Chemical Romance",
         "entity_type": "person",
         "role": "primary"
       }
@@ -3680,15 +3665,15 @@
     "file": "_other\\_rock\\_random\\Nirvana - Nirvana (2002)\\Smells Like Teen Spirit.mp3",
     "title": "Smells Like Teen Spirit",
     "primary_artists": [
-      "Nirvana - Nirvana"
+      "Nirvana"
     ],
     "featuring_artists": [],
     "artists": [
-      "Nirvana - Nirvana"
+      "Nirvana"
     ],
     "credits": [
       {
-        "entity": "Nirvana - Nirvana",
+        "entity": "Nirvana",
         "entity_type": "person",
         "role": "primary"
       }
@@ -3780,15 +3765,15 @@
     "file": "_other\\_rock\\_random\\Oasis - Stop The Clocks [2006]\\06 Wonderwall.mp3",
     "title": "Wonderwall",
     "primary_artists": [
-      "Oasis - Stop The Clocks"
+      "Oasis"
     ],
     "featuring_artists": [],
     "artists": [
-      "Oasis - Stop The Clocks"
+      "Oasis"
     ],
     "credits": [
       {
-        "entity": "Oasis - Stop The Clocks",
+        "entity": "Oasis",
         "entity_type": "person",
         "role": "primary"
       }
@@ -3800,15 +3785,15 @@
     "file": "_other\\_rock\\_random\\Oasis - Stop The Clocks [2006]\\204 Half The World Away.mp3",
     "title": "204 Half The World Away",
     "primary_artists": [
-      "Oasis - Stop The Clocks"
+      "Oasis"
     ],
     "featuring_artists": [],
     "artists": [
-      "Oasis - Stop The Clocks"
+      "Oasis"
     ],
     "credits": [
       {
-        "entity": "Oasis - Stop The Clocks",
+        "entity": "Oasis",
         "entity_type": "person",
         "role": "primary"
       }
@@ -3820,15 +3805,15 @@
     "file": "_other\\_rock\\_random\\Oasis - Stop The Clocks [2006]\\207 Morning Glory.mp3",
     "title": "207 Morning Glory",
     "primary_artists": [
-      "Oasis - Stop The Clocks"
+      "Oasis"
     ],
     "featuring_artists": [],
     "artists": [
-      "Oasis - Stop The Clocks"
+      "Oasis"
     ],
     "credits": [
       {
-        "entity": "Oasis - Stop The Clocks",
+        "entity": "Oasis",
         "entity_type": "person",
         "role": "primary"
       }
@@ -3840,15 +3825,15 @@
     "file": "_other\\_rock\\_random\\Oasis - Stop The Clocks [2006]\\209 Don_t Look Back In Anger.mp3",
     "title": "209 Don t Look Back In Anger",
     "primary_artists": [
-      "Oasis - Stop The Clocks"
+      "Oasis"
     ],
     "featuring_artists": [],
     "artists": [
-      "Oasis - Stop The Clocks"
+      "Oasis"
     ],
     "credits": [
       {
-        "entity": "Oasis - Stop The Clocks",
+        "entity": "Oasis",
         "entity_type": "person",
         "role": "primary"
       }
@@ -3980,15 +3965,15 @@
     "file": "_other\\_rock\\_random\\p!nk\\P!NK - Don_t Let Me Get Me (Video).mp3",
     "title": "Don t Let Me Get Me (Video)",
     "primary_artists": [
-      "p!nk"
+      "P!nk"
     ],
     "featuring_artists": [],
     "artists": [
-      "p!nk"
+      "P!nk"
     ],
     "credits": [
       {
-        "entity": "p!nk",
+        "entity": "P!nk",
         "entity_type": "person",
         "role": "primary"
       }
@@ -4000,15 +3985,15 @@
     "file": "_other\\_rock\\_random\\p!nk\\P!nk - Family Portrait (Official Video).mp3",
     "title": "Family Portrait ()",
     "primary_artists": [
-      "p!nk"
+      "P!nk"
     ],
     "featuring_artists": [],
     "artists": [
-      "p!nk"
+      "P!nk"
     ],
     "credits": [
       {
-        "entity": "p!nk",
+        "entity": "P!nk",
         "entity_type": "person",
         "role": "primary"
       }
@@ -4020,15 +4005,15 @@
     "file": "_other\\_rock\\_random\\p!nk\\P!nk - Get The Party Started (Official Video).mp3",
     "title": "Get The Party Started ()",
     "primary_artists": [
-      "p!nk"
+      "P!nk"
     ],
     "featuring_artists": [],
     "artists": [
-      "p!nk"
+      "P!nk"
     ],
     "credits": [
       {
-        "entity": "p!nk",
+        "entity": "P!nk",
         "entity_type": "person",
         "role": "primary"
       }
@@ -4040,15 +4025,15 @@
     "file": "_other\\_rock\\_random\\p!nk\\P!nk - Just Like A Pill (Official Video).mp3",
     "title": "Just Like A Pill ()",
     "primary_artists": [
-      "p!nk"
+      "P!nk"
     ],
     "featuring_artists": [],
     "artists": [
-      "p!nk"
+      "P!nk"
     ],
     "credits": [
       {
-        "entity": "p!nk",
+        "entity": "P!nk",
         "entity_type": "person",
         "role": "primary"
       }
@@ -4060,15 +4045,15 @@
     "file": "_other\\_rock\\_random\\p!nk\\P!nk - So What (Official Video).mp3",
     "title": "So What ()",
     "primary_artists": [
-      "p!nk"
+      "P!nk"
     ],
     "featuring_artists": [],
     "artists": [
-      "p!nk"
+      "P!nk"
     ],
     "credits": [
       {
-        "entity": "p!nk",
+        "entity": "P!nk",
         "entity_type": "person",
         "role": "primary"
       }
@@ -4220,15 +4205,15 @@
     "file": "_other\\_rock\\_random\\Rush - Chronicles [smb]\\Disc 2\\03 Limelight.mp3",
     "title": "Limelight",
     "primary_artists": [
-      "Rush - Chronicles"
+      "Rush"
     ],
     "featuring_artists": [],
     "artists": [
-      "Rush - Chronicles"
+      "Rush"
     ],
     "credits": [
       {
-        "entity": "Rush - Chronicles",
+        "entity": "Rush",
         "entity_type": "person",
         "role": "primary"
       }
@@ -4400,15 +4385,15 @@
     "file": "_other\\_rock\\_random\\Sex Pistols - Never Mind The Bollocks Here_s The Sex Pistols [Deluxe Edition] [2012]\\Disc 01 Never Mind The Bollocks Here_s The Sex Pistols\\05 - God Save The Queen.mp3",
     "title": "God Save The Queen",
     "primary_artists": [
-      "Sex Pistols - Never Mind The Bollocks Here s The Sex Pistols"
+      "Sex Pistols"
     ],
     "featuring_artists": [],
     "artists": [
-      "Sex Pistols - Never Mind The Bollocks Here s The Sex Pistols"
+      "Sex Pistols"
     ],
     "credits": [
       {
-        "entity": "Sex Pistols - Never Mind The Bollocks Here s The Sex Pistols",
+        "entity": "Sex Pistols",
         "entity_type": "person",
         "role": "primary"
       }
@@ -4420,15 +4405,15 @@
     "file": "_other\\_rock\\_random\\Sex Pistols - Never Mind The Bollocks Here_s The Sex Pistols [Deluxe Edition] [2012]\\Disc 01 Never Mind The Bollocks Here_s The Sex Pistols\\08 - Anarchy In The UK.mp3",
     "title": "Anarchy In The UK",
     "primary_artists": [
-      "Sex Pistols - Never Mind The Bollocks Here s The Sex Pistols"
+      "Sex Pistols"
     ],
     "featuring_artists": [],
     "artists": [
-      "Sex Pistols - Never Mind The Bollocks Here s The Sex Pistols"
+      "Sex Pistols"
     ],
     "credits": [
       {
-        "entity": "Sex Pistols - Never Mind The Bollocks Here s The Sex Pistols",
+        "entity": "Sex Pistols",
         "entity_type": "person",
         "role": "primary"
       }
@@ -4460,212 +4445,180 @@
     "file": "_other\\_rock\\_random\\Sled Storm Soundtrack - YouTube\\Sled Storm Soundtrack #1 Dragula by Rob Zombie(Hot Rod Herman Remix).mp3",
     "title": "Sled Storm Soundtrack #1 Dragula by Rob Zombie(Hot Rod Herman Remix)",
     "primary_artists": [
-      "Sled Storm Soundtrack"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Sled Storm Soundtrack"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Sled Storm Soundtrack",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "rk-00222",
     "file": "_other\\_rock\\_random\\Sled Storm Soundtrack - YouTube\\Sled Storm Soundtrack #2 Sparkle and Shine (Throttle Mix) by Econoline Crush.mp3",
     "title": "Sled Storm Soundtrack #2 Sparkle and Shine (Throttle Mix) by Econoline Crush",
     "primary_artists": [
-      "Sled Storm Soundtrack"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Sled Storm Soundtrack"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Sled Storm Soundtrack",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "rk-00223",
     "file": "_other\\_rock\\_random\\Sled Storm Soundtrack - YouTube\\Sled Storm Soundtrack #3 Nowhere Now (White Out Mix) by Econoline Crush.mp3",
     "title": "Sled Storm Soundtrack #3 Nowhere Now (White Out Mix) by Econoline Crush",
     "primary_artists": [
-      "Sled Storm Soundtrack"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Sled Storm Soundtrack"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Sled Storm Soundtrack",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "rk-00224",
     "file": "_other\\_rock\\_random\\Sled Storm Soundtrack - YouTube\\Sled Storm Soundtrack #4 Surefire (Avalanche Mix) by Econoline Crush.mp3",
     "title": "Sled Storm Soundtrack #4 Surefire (Avalanche Mix) by Econoline Crush",
     "primary_artists": [
-      "Sled Storm Soundtrack"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Sled Storm Soundtrack"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Sled Storm Soundtrack",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "rk-00225",
     "file": "_other\\_rock\\_random\\Sled Storm Soundtrack - YouTube\\Sled Storm Soundtrack #8 Sweet Baby by Uberzone.mp3",
     "title": "Sled Storm Soundtrack #8 Sweet Baby by Uberzone",
     "primary_artists": [
-      "Sled Storm Soundtrack"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Sled Storm Soundtrack"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Sled Storm Soundtrack",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "rk-00226",
     "file": "_other\\_rock\\_random\\Sleeping with sirens playlist♥\\Sleeping With Sirens - A Trophy Father_s Trophy Son.mp3",
     "title": "A Trophy Father s Trophy Son",
     "primary_artists": [
-      "Sleeping"
+      "N/A"
     ],
-    "featuring_artists": [
-      "Sirens"
-    ],
+    "featuring_artists": [],
     "artists": [
-      "Sleeping",
-      "Sirens"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Sleeping",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
-      },
-      {
-        "entity": "Sirens",
-        "entity_type": "person",
-        "role": "feature"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "rk-00227",
     "file": "_other\\_rock\\_random\\Sleeping with sirens playlist♥\\Sleeping With Sirens - Don_t Fall Asleep At The Helm.mp3",
     "title": "Don t Fall Asleep At The Helm",
     "primary_artists": [
-      "Sleeping"
+      "N/A"
     ],
-    "featuring_artists": [
-      "Sirens"
-    ],
+    "featuring_artists": [],
     "artists": [
-      "Sleeping",
-      "Sirens"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Sleeping",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
-      },
-      {
-        "entity": "Sirens",
-        "entity_type": "person",
-        "role": "feature"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "rk-00228",
     "file": "_other\\_rock\\_random\\Sleeping with sirens playlist♥\\Sleeping With Sirens - Four Corners and Two Sides.mp3",
     "title": "Four Corners and Two Sides",
     "primary_artists": [
-      "Sleeping"
+      "N/A"
     ],
-    "featuring_artists": [
-      "Sirens"
-    ],
+    "featuring_artists": [],
     "artists": [
-      "Sleeping",
-      "Sirens"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Sleeping",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
-      },
-      {
-        "entity": "Sirens",
-        "entity_type": "person",
-        "role": "feature"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "rk-00229",
     "file": "_other\\_rock\\_random\\Sleeping with sirens playlist♥\\Sleeping With Sirens - I_ll Take You There (Feat. Shayley Bourget).mp3",
     "title": "I ll Take You There (Feat",
     "primary_artists": [
-      "Sleeping"
+      "N/A"
     ],
-    "featuring_artists": [
-      "Sirens"
-    ],
+    "featuring_artists": [],
     "artists": [
-      "Sleeping",
-      "Sirens"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Sleeping",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
-      },
-      {
-        "entity": "Sirens",
-        "entity_type": "person",
-        "role": "feature"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "rk-00230",
@@ -5592,20 +5545,20 @@
     "file": "_other\\_rock\\_random\\The Ultimate Pop Punk Playlist\\Chris Barclay-Las Vegas Alien (Official Music Video).mp3",
     "title": "Chris Barclay-Las Vegas Alien ()",
     "primary_artists": [
-      "The Ultimate Pop Punk"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "The Ultimate Pop Punk"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "The Ultimate Pop Punk",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "rk-00277",
@@ -6132,15 +6085,15 @@
     "file": "_other\\_rock\\_random\\Three Days Grace Official Music Videos\\Never Too Late.mp3",
     "title": "Never Too Late",
     "primary_artists": [
-      "Three Days Grace Official"
+      "Three Days Grace"
     ],
     "featuring_artists": [],
     "artists": [
-      "Three Days Grace Official"
+      "Three Days Grace"
     ],
     "credits": [
       {
-        "entity": "Three Days Grace Official",
+        "entity": "Three Days Grace",
         "entity_type": "person",
         "role": "primary"
       }
@@ -6632,15 +6585,15 @@
     "file": "_other\\_rock\\_random\\U2 - U218  Singles [UK Bonus Track] [ChattChitto RG]\\U218 Singles\\06 Vertigo [Radio Edit].mp3",
     "title": "Vertigo []",
     "primary_artists": [
-      "U2 - U218 Singles"
+      "U2"
     ],
     "featuring_artists": [],
     "artists": [
-      "U2 - U218 Singles"
+      "U2"
     ],
     "credits": [
       {
-        "entity": "U2 - U218 Singles",
+        "entity": "U2",
         "entity_type": "person",
         "role": "primary"
       }
@@ -6652,15 +6605,15 @@
     "file": "_other\\_rock\\_random\\U2 - U218  Singles [UK Bonus Track] [ChattChitto RG]\\U218 Singles\\13 One.mp3",
     "title": "One",
     "primary_artists": [
-      "U2 - U218 Singles"
+      "U2"
     ],
     "featuring_artists": [],
     "artists": [
-      "U2 - U218 Singles"
+      "U2"
     ],
     "credits": [
       {
-        "entity": "U2 - U218 Singles",
+        "entity": "U2",
         "entity_type": "person",
         "role": "primary"
       }
@@ -6672,15 +6625,15 @@
     "file": "_other\\_rock\\_random\\Warpaint - Warpaint [2014]\\WARPAINT\\02. Keep It Healthy.mp3",
     "title": "Keep It Healthy",
     "primary_artists": [
-      "Warpaint - Warpaint"
+      "Warpaint"
     ],
     "featuring_artists": [],
     "artists": [
-      "Warpaint - Warpaint"
+      "Warpaint"
     ],
     "credits": [
       {
-        "entity": "Warpaint - Warpaint",
+        "entity": "Warpaint",
         "entity_type": "person",
         "role": "primary"
       }
@@ -7638,23 +7591,15 @@
     "primary_artists": [
       "Bring Me the Horizon"
     ],
-    "featuring_artists": [
-      "A Curse"
-    ],
+    "featuring_artists": [],
     "artists": [
-      "Bring Me the Horizon",
-      "A Curse"
+      "Bring Me the Horizon"
     ],
     "credits": [
       {
         "entity": "Bring Me the Horizon",
         "entity_type": "person",
         "role": "primary"
-      },
-      {
-        "entity": "A Curse",
-        "entity_type": "person",
-        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -8824,15 +8769,15 @@
     "file": "_other\\_rock\\Linkin Park Discography\\Linkin Park - A Thousand Suns (Full Album)\\Burning In The Skies (Official International Video) - Linkin Park.mp3",
     "title": "Linkin Park",
     "primary_artists": [
-      "Burning In The Skies"
+      "Linkin Park"
     ],
     "featuring_artists": [],
     "artists": [
-      "Burning In The Skies"
+      "Linkin Park"
     ],
     "credits": [
       {
-        "entity": "Burning In The Skies",
+        "entity": "Linkin Park",
         "entity_type": "person",
         "role": "primary"
       }
@@ -8904,15 +8849,15 @@
     "file": "_other\\_rock\\Linkin Park Discography\\Linkin Park - Minutes To Midnight (Full Album)\\Bleed It Out (Official Music Video) [4K Upgrade] - Linkin Park.mp3",
     "title": "Linkin Park",
     "primary_artists": [
-      "Bleed It Out"
+      "Linkin Park"
     ],
     "featuring_artists": [],
     "artists": [
-      "Bleed It Out"
+      "Linkin Park"
     ],
     "credits": [
       {
-        "entity": "Bleed It Out",
+        "entity": "Linkin Park",
         "entity_type": "person",
         "role": "primary"
       }
@@ -8924,15 +8869,15 @@
     "file": "_other\\_rock\\Linkin Park Discography\\Linkin Park - Minutes To Midnight (Full Album)\\Given Up [Official Music Video] - Linkin Park.mp3",
     "title": "Linkin Park",
     "primary_artists": [
-      "Given Up"
+      "Linkin Park"
     ],
     "featuring_artists": [],
     "artists": [
-      "Given Up"
+      "Linkin Park"
     ],
     "credits": [
       {
-        "entity": "Given Up",
+        "entity": "Linkin Park",
         "entity_type": "person",
         "role": "primary"
       }
@@ -8944,15 +8889,15 @@
     "file": "_other\\_rock\\Linkin Park Discography\\Linkin Park - Minutes To Midnight (Full Album)\\Leave Out All The Rest (Official Music Video) [4K Upgrade] - Linkin Park.mp3",
     "title": "Linkin Park",
     "primary_artists": [
-      "Leave Out All The Rest"
+      "Linkin Park"
     ],
     "featuring_artists": [],
     "artists": [
-      "Leave Out All The Rest"
+      "Linkin Park"
     ],
     "credits": [
       {
-        "entity": "Leave Out All The Rest",
+        "entity": "Linkin Park",
         "entity_type": "person",
         "role": "primary"
       }
@@ -8964,15 +8909,15 @@
     "file": "_other\\_rock\\Linkin Park Discography\\Linkin Park - Minutes To Midnight (Full Album)\\No More Sorrow - Linkin Park (Minutes To Midnight).mp3",
     "title": "Linkin Park (Minutes To Midnight)",
     "primary_artists": [
-      "No More Sorrow"
+      "Linkin Park"
     ],
     "featuring_artists": [],
     "artists": [
-      "No More Sorrow"
+      "Linkin Park"
     ],
     "credits": [
       {
-        "entity": "No More Sorrow",
+        "entity": "Linkin Park",
         "entity_type": "person",
         "role": "primary"
       }
@@ -8984,15 +8929,15 @@
     "file": "_other\\_rock\\Linkin Park Discography\\Linkin Park - Minutes To Midnight (Full Album)\\What I've Done (Official Music Video) [4K Upgrade] - Linkin Park.mp3",
     "title": "Linkin Park",
     "primary_artists": [
-      "What I've Done"
+      "Linkin Park"
     ],
     "featuring_artists": [],
     "artists": [
-      "What I've Done"
+      "Linkin Park"
     ],
     "credits": [
       {
-        "entity": "What I've Done",
+        "entity": "Linkin Park",
         "entity_type": "person",
         "role": "primary"
       }
@@ -9004,15 +8949,15 @@
     "file": "_other\\_rock\\Linkin Park Discography\\Linkin Park - The Hunting Party (Full Album)\\Wastelands (Official Lyric Video) - Linkin Park.mp3",
     "title": "Linkin Park",
     "primary_artists": [
-      "Wastelands"
+      "Linkin Park"
     ],
     "featuring_artists": [],
     "artists": [
-      "Wastelands"
+      "Linkin Park"
     ],
     "credits": [
       {
-        "entity": "Wastelands",
+        "entity": "Linkin Park",
         "entity_type": "person",
         "role": "primary"
       }
@@ -9270,15 +9215,15 @@
     "file": "_other\\_rock\\Nick Cave and the Bad Seeds - Best Songs (1 14 25) - YouTube\\Grinderman - Man In The Moon.mp3",
     "title": "Man In The Moon",
     "primary_artists": [
-      "Grinderman"
+      "Nick Cave and the Bad Seeds"
     ],
     "featuring_artists": [],
     "artists": [
-      "Grinderman"
+      "Nick Cave and the Bad Seeds"
     ],
     "credits": [
       {
-        "entity": "Grinderman",
+        "entity": "Nick Cave and the Bad Seeds",
         "entity_type": "person",
         "role": "primary"
       }
@@ -11024,20 +10969,20 @@
     "file": "_other\\_rock\\roxette\\Roxette - 1986 - Pearls of Passion\\18 I Call Your Name (Montezuma Demo - 26.07.86) (eXtra track).mp3",
     "title": "07",
     "primary_artists": [
-      "I Call Your Name (Montezuma Demo"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "I Call Your Name (Montezuma Demo"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "I Call Your Name (Montezuma Demo",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "rk-00544",
@@ -11624,60 +11569,60 @@
     "file": "_other\\_rock\\The Cranberries - Discography (1992-2017) (320)\\1996 To the Faithful Departed\\01. Hollywood - The Cranberries.mp3",
     "title": "The Cranberries",
     "primary_artists": [
-      "Hollywood"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Hollywood"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Hollywood",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "rk-00574",
     "file": "_other\\_rock\\The Cranberries - Discography (1992-2017) (320)\\1996 To the Faithful Departed\\09. Electric Blue - The Cranberries.mp3",
     "title": "The Cranberries",
     "primary_artists": [
-      "Electric Blue"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Electric Blue"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Electric Blue",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "rk-00575",
     "file": "_other\\_rock\\The Cranberries - Discography (1992-2017) (320)\\1996 To the Faithful Departed\\13. Bosnia - The Cranberries.mp3",
     "title": "The Cranberries",
     "primary_artists": [
-      "Bosnia"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Bosnia"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Bosnia",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "rk-00576",

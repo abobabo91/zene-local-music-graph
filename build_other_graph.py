@@ -46,7 +46,16 @@ AREA_CONFIG = {
             "n/a", "unknown", "various", "nothing", "you", "me",
             "lyrics", "audio", "download link", "m", "marooned",
             "deafheaven sunbather amusladmin", "green onions ect",
-            "best of lou reed",
+            "best of lou reed", "scarface soundtrack", "dirty dancing",
+            "sled storm soundtrack", "the ultimate psychedelic acid rock",
+            "60s 70s stoner psychedelic rock", "psychedelic rock modern",
+            "the ultimate pop punk", "mod stuff", "celebration rock",
+            "capricorn", "attack", "from yesterday", "hurricane",
+            "high hopes", "keep talking", "lost for words", "pigs",
+            "cluster one", "crumb", "green onions", "the pretender",
+            "love said no", "and life", "inc", "ambiance",
+            "sleeping", "sirens", "a curse", "hollywood", "electric blue", "bosnia",
+            "i call your name montezuma demo",
         },
         "split_groups": set(),
     },
@@ -74,6 +83,10 @@ AREA_CONFIG = {
             "nem arról hajnallik",
             "rávágok a zongorára hit the piano - youtube",
             "ég az erdő - klemencz kollar laszlo",
+            "subscribe", "open stage", "premium studio",
+            "magyar mulatos zene", "revizios dalok", "vassal rock",
+            "szeresd a testem baby", "ha megegyszer lathatnam",
+            "omega nepstadion",
         },
         "split_groups": set(),
     },
@@ -89,6 +102,11 @@ AREA_CONFIG = {
             "lyrics", "audio", "download link",
             "the furious soundtrack live", "the furious soundtrack-live",
             "latin felipe", "latin sabia que no",
+            "bachata", "latin old academia", "reguetoneo del bueno",
+            "deseandote", "ella baila sola", "ella quiere", "la bachata",
+            "lejos del cielo", "voice", "the fast", "friday nigh",
+            "xtreme my fantasy", "kiznyou productions",
+            "oral b image of a pimp", "cardi b taki taki",
         },
         "split_groups": set(),
     },
@@ -135,6 +153,9 @@ AREA_CONFIG = {
             "lyrics", "audio", "download link",
             "billboard top 100 hits of 2007",
             "uk hot 100 best of 2014",
+            "fifa 2000 soundtrack", "the matrix soundtrack",
+            "kpop fav", "quave lyric video",
+            "ariana grande ft", "it", "no",
         },
         "split_groups": set(),
     },
@@ -179,6 +200,10 @@ AREA_CONFIG = {
             "original mix", "original", "vip", "remix",
             "2000s dance", "90s dance", "old dance",
             "sharon den adel in", "out of love",
+            "topic", "top 100 tracks", "me feat",
+            "al001", "al039", "1991",
+            "melodic techno progressive house playlist 2025 best",
+            "lost at night aaaron remix", "sanctuary ep",
         },
         "split_groups": set(),
     },
@@ -197,6 +222,11 @@ AREA_CONFIG = {
             "the fault in our stars", "against all odds",
             "in the air tonight", "i am stretched on your grave",
             "planet caravan", "el cerro raro y me vio un pinche cuervo",
+            "official somewhere over the rainbow", "scarborough fair",
+            "the less i know the better", "these boots are made for walking or in these shoes",
+            "a fine selection of nice music", "me feat",
+            "a million", "kimbra somebody that i used to know official film clip",
+            "flight attendant", "tg cf",
         },
         "split_groups": set(),
     },
@@ -346,9 +376,26 @@ def _normalized_blocklist(config: dict) -> set[str]:
     return {normalize_key(b) for b in config["blocklist"]}
 
 
+def _is_junk(key: str, bl: set[str]) -> bool:
+    if key in bl:
+        return True
+    if re.match(r"^\d+$", key):
+        return True
+    if re.match(r"^\d{1,2}\s+", key):
+        return True
+    if key.endswith("(") or ("(" in key and ")" not in key):
+        return True
+    if re.match(r"^\d{1,2}\s*-\s*", key):
+        return True
+    if len(key) <= 1:
+        return True
+    return False
+
+
 def prefer_display(name: str, mappings: dict, config: dict) -> str:
+    bl = _normalized_blocklist(config)
     c = canonicalize(name, mappings)
-    if c and normalize_key(c) not in _normalized_blocklist(config):
+    if c and not _is_junk(normalize_key(c), bl):
         return c
     return "N/A"
 
@@ -378,7 +425,7 @@ def first_artist_context(path_parts: list[str], mappings: dict, config: dict) ->
         if not candidate:
             continue
         canonical = canonicalize(candidate, mappings)
-        if canonical and normalize_key(canonical) not in _normalized_blocklist(config):
+        if canonical and not _is_junk(normalize_key(canonical), _normalized_blocklist(config)):
             return canonical
     return None
 
