@@ -57,4 +57,5 @@
 - `AlunaGeorge: Alunageorge`
 - `gnash: Gnash`
 - `The Doors: The doors`
-- `BTS: BTS 방탄소년단)`
+- `BTS: BTS 방탄소년단), BTS - MAP OF THE SOUL PERSONA`
+- `Claude Kelly: Copy of Claude Kelly`

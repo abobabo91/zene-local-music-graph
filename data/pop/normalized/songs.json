@@ -1463,20 +1463,20 @@
     "file": "_other\\_pop\\_billboard\\2001\\2001-024 Christina Aquilera Lil Kim Mya Pink - Lady Marmalade.mp3",
     "title": "Lady Marmalade",
     "primary_artists": [
-      "Christina Aquilera Lil Kim Mya Pink"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Christina Aquilera Lil Kim Mya Pink"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Christina Aquilera Lil Kim Mya Pink",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "pp-00073",
@@ -2755,13 +2755,11 @@
       "N/A"
     ],
     "featuring_artists": [
-      "Pharrell",
-      "Uncle Charlie Wilson - Beautiful"
+      "Pharrell"
     ],
     "artists": [
       "N/A",
-      "Pharrell",
-      "Uncle Charlie Wilson - Beautiful"
+      "Pharrell"
     ],
     "credits": [
       {
@@ -2771,11 +2769,6 @@
       },
       {
         "entity": "Pharrell",
-        "entity_type": "person",
-        "role": "feature"
-      },
-      {
-        "entity": "Uncle Charlie Wilson - Beautiful",
         "entity_type": "person",
         "role": "feature"
       }
@@ -3548,23 +3541,15 @@
     "primary_artists": [
       "N/A"
     ],
-    "featuring_artists": [
-      "Ying Yang Twins - Get Low"
-    ],
+    "featuring_artists": [],
     "artists": [
-      "N/A",
-      "Ying Yang Twins - Get Low"
+      "N/A"
     ],
     "credits": [
       {
         "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
-      },
-      {
-        "entity": "Ying Yang Twins - Get Low",
-        "entity_type": "person",
-        "role": "feature"
       }
     ],
     "attribution_status": "unattributed"
@@ -3861,13 +3846,11 @@
       "N/A"
     ],
     "featuring_artists": [
-      "T.I",
-      "Lil Wayne - Soldier"
+      "T.I"
     ],
     "artists": [
       "N/A",
-      "T.I",
-      "Lil Wayne - Soldier"
+      "T.I"
     ],
     "credits": [
       {
@@ -3877,11 +3860,6 @@
       },
       {
         "entity": "T.I",
-        "entity_type": "person",
-        "role": "feature"
-      },
-      {
-        "entity": "Lil Wayne - Soldier",
         "entity_type": "person",
         "role": "feature"
       }
@@ -5187,23 +5165,15 @@
     "primary_artists": [
       "N/A"
     ],
-    "featuring_artists": [
-      "Christina Aguilera - Tell Me"
-    ],
+    "featuring_artists": [],
     "artists": [
-      "N/A",
-      "Christina Aguilera - Tell Me"
+      "N/A"
     ],
     "credits": [
       {
         "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
-      },
-      {
-        "entity": "Christina Aguilera - Tell Me",
-        "entity_type": "person",
-        "role": "feature"
       }
     ],
     "attribution_status": "unattributed"
@@ -6642,23 +6612,15 @@
     "primary_artists": [
       "N/A"
     ],
-    "featuring_artists": [
-      "The-Dream-Throw It In The Bag"
-    ],
+    "featuring_artists": [],
     "artists": [
-      "N/A",
-      "The-Dream-Throw It In The Bag"
+      "N/A"
     ],
     "credits": [
       {
         "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
-      },
-      {
-        "entity": "The-Dream-Throw It In The Bag",
-        "entity_type": "person",
-        "role": "feature"
       }
     ],
     "attribution_status": "unattributed"
@@ -7660,14 +7622,12 @@
     ],
     "featuring_artists": [
       "T-Pain",
-      "Ludacris",
-      "Snoop Dogg Rick Ross-All I Do Is Win"
+      "Ludacris"
     ],
     "artists": [
       "N/A",
       "T-Pain",
-      "Ludacris",
-      "Snoop Dogg Rick Ross-All I Do Is Win"
+      "Ludacris"
     ],
     "credits": [
       {
@@ -7682,11 +7642,6 @@
       },
       {
         "entity": "Ludacris",
-        "entity_type": "person",
-        "role": "feature"
-      },
-      {
-        "entity": "Snoop Dogg Rick Ross-All I Do Is Win",
         "entity_type": "person",
         "role": "feature"
       }
@@ -14925,15 +14880,15 @@
     "file": "_other\\_pop\\_kpop\\BTS - MAP OF THE SOUL _ PERSONA [2019-Album]\\04 Make It Right.mp3",
     "title": "Make It Right",
     "primary_artists": [
-      "BTS - MAP OF THE SOUL PERSONA"
+      "BTS"
     ],
     "featuring_artists": [],
     "artists": [
-      "BTS - MAP OF THE SOUL PERSONA"
+      "BTS"
     ],
     "credits": [
       {
-        "entity": "BTS - MAP OF THE SOUL PERSONA",
+        "entity": "BTS",
         "entity_type": "person",
         "role": "primary"
       }
@@ -15059,20 +15014,20 @@
     "file": "_other\\_pop\\_kpop\\LEE HI - All Songs\\Yours (feat. LeeHi, CHANGMO).mp3",
     "title": "Yours (feat. LeeHi, CHANGMO)",
     "primary_artists": [
-      "LEE HI - All Songs"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "LEE HI - All Songs"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "LEE HI - All Songs",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "pp-00716",
@@ -23137,14 +23092,12 @@
     ],
     "featuring_artists": [
       "Kayna Samet",
-      "Lartiste",
-      "Rimk du 113 - Déconnectés"
+      "Lartiste"
     ],
     "artists": [
       "N/A",
       "Kayna Samet",
-      "Lartiste",
-      "Rimk du 113 - Déconnectés"
+      "Lartiste"
     ],
     "credits": [
       {
@@ -23159,11 +23112,6 @@
       },
       {
         "entity": "Lartiste",
-        "entity_type": "person",
-        "role": "feature"
-      },
-      {
-        "entity": "Rimk du 113 - Déconnectés",
         "entity_type": "person",
         "role": "feature"
       }
@@ -23284,23 +23232,15 @@
     "primary_artists": [
       "N/A"
     ],
-    "featuring_artists": [
-      "Cassie Tyga Trey Songz Wale Fabolous - Diced Pineapples"
-    ],
+    "featuring_artists": [],
     "artists": [
-      "N/A",
-      "Cassie Tyga Trey Songz Wale Fabolous - Diced Pineapples"
+      "N/A"
     ],
     "credits": [
       {
         "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
-      },
-      {
-        "entity": "Cassie Tyga Trey Songz Wale Fabolous - Diced Pineapples",
-        "entity_type": "person",
-        "role": "feature"
       }
     ],
     "attribution_status": "unattributed"
@@ -23421,13 +23361,11 @@
       "Eve"
     ],
     "featuring_artists": [
-      "Stephen Marley",
-      "Eve - No"
+      "Stephen Marley"
     ],
     "artists": [
       "Eve",
-      "Stephen Marley",
-      "Eve - No"
+      "Stephen Marley"
     ],
     "credits": [
       {
@@ -23437,11 +23375,6 @@
       },
       {
         "entity": "Stephen Marley",
-        "entity_type": "person",
-        "role": "feature"
-      },
-      {
-        "entity": "Eve - No",
         "entity_type": "person",
         "role": "feature"
       }
@@ -26460,23 +26393,15 @@
     "primary_artists": [
       "N/A"
     ],
-    "featuring_artists": [
-      "Nino Mochella - Kiss The Sky"
-    ],
+    "featuring_artists": [],
     "artists": [
-      "N/A",
-      "Nino Mochella - Kiss The Sky"
+      "N/A"
     ],
     "credits": [
       {
         "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
-      },
-      {
-        "entity": "Nino Mochella - Kiss The Sky",
-        "entity_type": "person",
-        "role": "feature"
       }
     ],
     "attribution_status": "unattributed"
@@ -27137,20 +27062,20 @@
     "file": "_other\\_pop\\_random\\Willa Ford - Willa Was Here (2001) (FULL ALBUM)\\Don't You Wish.mp3",
     "title": "Don't You Wish",
     "primary_artists": [
-      "Willa Ford - Willa Was Here"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Willa Ford - Willa Was Here"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Willa Ford - Willa Was Here",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "pp-01299",
@@ -28311,14 +28236,12 @@
     ],
     "featuring_artists": [
       "Rick Ross",
-      "Yung Joc",
-      "Lil Wayne - Im Da Man"
+      "Yung Joc"
     ],
     "artists": [
       "Akon",
       "Rick Ross",
-      "Yung Joc",
-      "Lil Wayne - Im Da Man"
+      "Yung Joc"
     ],
     "credits": [
       {
@@ -28333,11 +28256,6 @@
       },
       {
         "entity": "Yung Joc",
-        "entity_type": "person",
-        "role": "feature"
-      },
-      {
-        "entity": "Lil Wayne - Im Da Man",
         "entity_type": "person",
         "role": "feature"
       }
@@ -28374,14 +28292,12 @@
     "featuring_artists": [
       "Diddy",
       "Akon",
-      "Ludacris",
-      "Lil Jon - Get Buck In Here"
+      "Ludacris"
     ],
     "artists": [
       "Akon",
       "Diddy",
-      "Ludacris",
-      "Lil Jon - Get Buck In Here"
+      "Ludacris"
     ],
     "credits": [
       {
@@ -28401,11 +28317,6 @@
       },
       {
         "entity": "Ludacris",
-        "entity_type": "person",
-        "role": "feature"
-      },
-      {
-        "entity": "Lil Jon - Get Buck In Here",
         "entity_type": "person",
         "role": "feature"
       }
@@ -29813,15 +29724,15 @@
     "file": "_other\\_pop\\Claude Kelly\\Copy of Claude Kelly - Step Up.mp3",
     "title": "Step Up",
     "primary_artists": [
-      "Copy of Claude Kelly"
+      "Claude Kelly"
     ],
     "featuring_artists": [],
     "artists": [
-      "Copy of Claude Kelly"
+      "Claude Kelly"
     ],
     "credits": [
       {
-        "entity": "Copy of Claude Kelly",
+        "entity": "Claude Kelly",
         "entity_type": "person",
         "role": "primary"
       }
@@ -29833,15 +29744,15 @@
     "file": "_other\\_pop\\Claude Kelly\\Copy of Claude Kelly - Superhero (Prod. By Brian Kennedy).mp3",
     "title": "Superhero (",
     "primary_artists": [
-      "Copy of Claude Kelly"
+      "Claude Kelly"
     ],
     "featuring_artists": [],
     "artists": [
-      "Copy of Claude Kelly"
+      "Claude Kelly"
     ],
     "credits": [
       {
-        "entity": "Copy of Claude Kelly",
+        "entity": "Claude Kelly",
         "entity_type": "person",
         "role": "primary"
       }

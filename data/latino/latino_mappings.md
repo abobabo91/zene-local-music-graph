@@ -7,7 +7,7 @@
 - `Ozuna: Ozuna - Videos Oficiales`
 - `Rauw Alejandro: Rauw Alejandro mix`
 - `Feid: feid`
-- `Beéle: Beéle`
+- `Beéle: Beéle, Beéle Tus Labios`
 - `Anuel AA: Anuel AA`
 - `Justin Quiles: Justin Quiles`
 - `Baby Bash: Baby bash`

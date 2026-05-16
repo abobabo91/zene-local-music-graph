@@ -45,3 +45,5 @@
 - `Warpaint: Warpaint - Warpaint`
 - `Millencolin: Millencolin - 2012 - The Melancholy Connection`
 - `My Chemical Romance: My Chemical Romance-May Death Never Stop You Mp3`
+- `The Velvet Underground: The Velvet Underground by thephoenixforlove`
+- `Deafheaven: Deafheaven - Sunbather`

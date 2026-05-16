@@ -3124,20 +3124,20 @@
     "file": "_other\\_rnb\\_modern\\tinashe\\Jacques Greene _ Tinashe - Painted Faces.mp3",
     "title": "Painted Faces",
     "primary_artists": [
-      "Jacques Greene Tinashe"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Jacques Greene Tinashe"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Jacques Greene Tinashe",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "r-00155",
@@ -4792,20 +4792,20 @@
     "file": "_other\\_rnb\\_random\\90s 00s rnb\\aSHANTI top tracks\\Ashanti w  Biggie - UNFOOLISH -.mp3",
     "title": "UNFOOLISH",
     "primary_artists": [
-      "Ashanti w Biggie"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Ashanti w Biggie"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Ashanti w Biggie",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "r-00238",
@@ -7385,23 +7385,15 @@
     "primary_artists": [
       "ChrisBrownAkonFrankOceanKidInkUsherAlicia Key"
     ],
-    "featuring_artists": [
-      "Red Cafe Gucci Mane - Shake Dat"
-    ],
+    "featuring_artists": [],
     "artists": [
-      "ChrisBrownAkonFrankOceanKidInkUsherAlicia Key",
-      "Red Cafe Gucci Mane - Shake Dat"
+      "ChrisBrownAkonFrankOceanKidInkUsherAlicia Key"
     ],
     "credits": [
       {
         "entity": "ChrisBrownAkonFrankOceanKidInkUsherAlicia Key",
         "entity_type": "person",
         "role": "primary"
-      },
-      {
-        "entity": "Red Cafe Gucci Mane - Shake Dat",
-        "entity_type": "person",
-        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -7413,23 +7405,15 @@
     "primary_artists": [
       "K-Major"
     ],
-    "featuring_artists": [
-      "2 Chainz Spoaty"
-    ],
+    "featuring_artists": [],
     "artists": [
-      "K-Major",
-      "2 Chainz Spoaty"
+      "K-Major"
     ],
     "credits": [
       {
         "entity": "K-Major",
         "entity_type": "person",
         "role": "primary"
-      },
-      {
-        "entity": "2 Chainz Spoaty",
-        "entity_type": "person",
-        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -7439,20 +7423,20 @@
     "file": "_other\\_rnb\\_random\\rap caviar\\Rnb_Heaven_Vol11-(DatPiff.com)\\Chris BrownFrank OceanThe Weeknd The Dream Jay (DatPiff.com)\\05 - Jeremih ftLoveRance - All The Time (Remix).mp3",
     "title": "All The Time (Remix)",
     "primary_artists": [
-      "Jeremih ftLoveRance"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Jeremih ftLoveRance"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Jeremih ftLoveRance",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "r-00362",
@@ -7461,23 +7445,15 @@
     "primary_artists": [
       "N/A"
     ],
-    "featuring_artists": [
-      "Christian Radke Turk"
-    ],
+    "featuring_artists": [],
     "artists": [
-      "N/A",
-      "Christian Radke Turk"
+      "N/A"
     ],
     "credits": [
       {
         "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
-      },
-      {
-        "entity": "Christian Radke Turk",
-        "entity_type": "person",
-        "role": "feature"
       }
     ],
     "attribution_status": "unattributed"
@@ -7507,28 +7483,20 @@
     "file": "_other\\_rnb\\_random\\rap caviar\\Rnb_Heaven_Vol_13-(DatPiff.com)\\The Weeknd  Omarion Trey songs  more - Rnb Heav (DatPiff.com)\\13 - Kid Ink ft 2 Chainz Juicy J Chris Brown Trey Songz - Show Me ( Remix ).mp3",
     "title": "Kid Ink",
     "primary_artists": [
-      "The Weeknd Omarion Trey songs more - Rnb Heav"
+      "N/A"
     ],
-    "featuring_artists": [
-      "2 Chainz Juicy J Chris Brown Trey Songz - Show Me"
-    ],
+    "featuring_artists": [],
     "artists": [
-      "The Weeknd Omarion Trey songs more - Rnb Heav",
-      "2 Chainz Juicy J Chris Brown Trey Songz - Show Me"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "The Weeknd Omarion Trey songs more - Rnb Heav",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
-      },
-      {
-        "entity": "2 Chainz Juicy J Chris Brown Trey Songz - Show Me",
-        "entity_type": "person",
-        "role": "feature"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "r-00365",
@@ -7831,20 +7799,20 @@
     "file": "_other\\_rnb\\_random\\rnb\\Chris Brown Usher ZAYN - Back To Sleep REMIX.mp3",
     "title": "Back To Sleep REMIX",
     "primary_artists": [
-      "Chris Brown Usher ZAYN"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Chris Brown Usher ZAYN"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Chris Brown Usher ZAYN",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "r-00379",
@@ -7891,60 +7859,60 @@
     "file": "_other\\_rnb\\_random\\rnb\\DJ Mustard Nicki Minaj Jeremih - Don_t Hurt Me.mp3",
     "title": "Don t Hurt Me",
     "primary_artists": [
-      "DJ Mustard Nicki Minaj Jeremih"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "DJ Mustard Nicki Minaj Jeremih"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "DJ Mustard Nicki Minaj Jeremih",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "r-00382",
     "file": "_other\\_rnb\\_random\\rnb\\Enrique Iglesias Tinashe Javada - DUELE EL CORAZON (English Version).mp3",
     "title": "DUELE EL CORAZON (English Version)",
     "primary_artists": [
-      "Enrique Iglesias Tinashe Javada"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Enrique Iglesias Tinashe Javada"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Enrique Iglesias Tinashe Javada",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "r-00383",
     "file": "_other\\_rnb\\_random\\rnb\\Jeremih Stefflon Don Krept _ Konan - London.mp3",
     "title": "London",
     "primary_artists": [
-      "Jeremih Stefflon Don Krept Konan"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Jeremih Stefflon Don Krept Konan"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Jeremih Stefflon Don Krept Konan",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "r-00384",
@@ -7991,20 +7959,20 @@
     "file": "_other\\_rnb\\_random\\rnb\\Mac Miller Anderson Paak - Dang! (feat. Anderson .Paak).mp3",
     "title": "Dang! (",
     "primary_artists": [
-      "Mac Miller Anderson Paak"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Mac Miller Anderson Paak"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Mac Miller Anderson Paak",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "r-00387",
@@ -8131,20 +8099,20 @@
     "file": "_other\\_rnb\\_random\\rnb\\O.T. Genasis Young Dolph - Cut It (feat. Young Dolph).mp3",
     "title": "Cut It (feat",
     "primary_artists": [
-      "O.T. Genasis Young Dolph"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "O.T. Genasis Young Dolph"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "O.T. Genasis Young Dolph",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "r-00394",
@@ -8191,20 +8159,20 @@
     "file": "_other\\_rnb\\_random\\rnb\\Snakehips ZAYN - Cruel.mp3",
     "title": "Cruel",
     "primary_artists": [
-      "Snakehips ZAYN"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Snakehips ZAYN"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Snakehips ZAYN",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "r-00397",
@@ -10242,23 +10210,15 @@
     "primary_artists": [
       "Casely"
     ],
-    "featuring_artists": [
-      "Lil Jon Machel Montano"
-    ],
+    "featuring_artists": [],
     "artists": [
-      "Casely",
-      "Lil Jon Machel Montano"
+      "Casely"
     ],
     "credits": [
       {
         "entity": "Casely",
         "entity_type": "person",
         "role": "primary"
-      },
-      {
-        "entity": "Lil Jon Machel Montano",
-        "entity_type": "person",
-        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -10764,30 +10724,15 @@
     "primary_artists": [
       "Chris Brown"
     ],
-    "featuring_artists": [
-      "Rihanna Wiz Khalifa",
-      "Kelly Chris Brown"
-    ],
+    "featuring_artists": [],
     "artists": [
-      "Chris Brown",
-      "Rihanna Wiz Khalifa",
-      "Kelly Chris Brown"
+      "Chris Brown"
     ],
     "credits": [
       {
         "entity": "Chris Brown",
         "entity_type": "person",
         "role": "primary"
-      },
-      {
-        "entity": "Rihanna Wiz Khalifa",
-        "entity_type": "person",
-        "role": "feature"
-      },
-      {
-        "entity": "Kelly Chris Brown",
-        "entity_type": "person",
-        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -10799,23 +10744,15 @@
     "primary_artists": [
       "Chris Brown"
     ],
-    "featuring_artists": [
-      "Tyga Chris Brown"
-    ],
+    "featuring_artists": [],
     "artists": [
-      "Chris Brown",
-      "Tyga Chris Brown"
+      "Chris Brown"
     ],
     "credits": [
       {
         "entity": "Chris Brown",
         "entity_type": "person",
         "role": "primary"
-      },
-      {
-        "entity": "Tyga Chris Brown",
-        "entity_type": "person",
-        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -11175,13 +11112,11 @@
       "Chris Brown"
     ],
     "featuring_artists": [
-      "Ray J",
-      "TJ Luva Boy - New Gang"
+      "Ray J"
     ],
     "artists": [
       "Chris Brown",
-      "Ray J",
-      "TJ Luva Boy - New Gang"
+      "Ray J"
     ],
     "credits": [
       {
@@ -11191,11 +11126,6 @@
       },
       {
         "entity": "Ray J",
-        "entity_type": "person",
-        "role": "feature"
-      },
-      {
-        "entity": "TJ Luva Boy - New Gang",
         "entity_type": "person",
         "role": "feature"
       }
@@ -11210,13 +11140,11 @@
       "Chris Brown"
     ],
     "featuring_artists": [
-      "Young Lo",
-      "Young Blacc - In Love With The Bitches"
+      "Young Lo"
     ],
     "artists": [
       "Chris Brown",
-      "Young Lo",
-      "Young Blacc - In Love With The Bitches"
+      "Young Lo"
     ],
     "credits": [
       {
@@ -11226,11 +11154,6 @@
       },
       {
         "entity": "Young Lo",
-        "entity_type": "person",
-        "role": "feature"
-      },
-      {
-        "entity": "Young Blacc - In Love With The Bitches",
         "entity_type": "person",
         "role": "feature"
       }
@@ -12380,13 +12303,11 @@
       "N/A"
     ],
     "featuring_artists": [
-      "I-20",
-      "Chingy Nate Dogg"
+      "I-20"
     ],
     "artists": [
       "N/A",
-      "I-20",
-      "Chingy Nate Dogg"
+      "I-20"
     ],
     "credits": [
       {
@@ -12396,11 +12317,6 @@
       },
       {
         "entity": "I-20",
-        "entity_type": "person",
-        "role": "feature"
-      },
-      {
-        "entity": "Chingy Nate Dogg",
         "entity_type": "person",
         "role": "feature"
       }
@@ -12454,23 +12370,15 @@
     "primary_artists": [
       "N/A"
     ],
-    "featuring_artists": [
-      "Chingy-Bed"
-    ],
+    "featuring_artists": [],
     "artists": [
-      "N/A",
-      "Chingy-Bed"
+      "N/A"
     ],
     "credits": [
       {
         "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
-      },
-      {
-        "entity": "Chingy-Bed",
-        "entity_type": "person",
-        "role": "feature"
       }
     ],
     "attribution_status": "unattributed"
@@ -12642,23 +12550,15 @@
     "primary_artists": [
       "N/A"
     ],
-    "featuring_artists": [
-      "Mariah Carey- Kiss me"
-    ],
+    "featuring_artists": [],
     "artists": [
-      "N/A",
-      "Mariah Carey- Kiss me"
+      "N/A"
     ],
     "credits": [
       {
         "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
-      },
-      {
-        "entity": "Mariah Carey- Kiss me",
-        "entity_type": "person",
-        "role": "feature"
       }
     ],
     "attribution_status": "unattributed"

@@ -3221,11 +3221,10 @@
       "Beéle"
     ],
     "featuring_artists": [
-      "Beéle Tus Labios"
+      "Beéle"
     ],
     "artists": [
-      "Beéle",
-      "Beéle Tus Labios"
+      "Beéle"
     ],
     "credits": [
       {
@@ -3234,7 +3233,7 @@
         "role": "primary"
       },
       {
-        "entity": "Beéle Tus Labios",
+        "entity": "Beéle",
         "entity_type": "person",
         "role": "feature"
       }

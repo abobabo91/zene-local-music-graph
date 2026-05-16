@@ -2,7 +2,7 @@
 
 ## Alias normalization
 
-- `The Weeknd: weeknd, WEEKND`
+- `The Weeknd: weeknd, WEEKND, The Weekend`
 - `SZA: sza`
 - `Coi Leray: coi leray`
 - `DaniLeigh: denileigh, danileigh`

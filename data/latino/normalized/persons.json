@@ -1178,7 +1178,9 @@
       "lt-00149",
       "lt-00150"
     ],
-    "feature_song_ids": [],
+    "feature_song_ids": [
+      "lt-00150"
+    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -1322,17 +1324,6 @@
       "lt-00141"
     ],
     "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Beéle Tus Labios": {
-    "song_ids": [
-      "lt-00150"
-    ],
-    "primary_song_ids": [],
-    "feature_song_ids": [
-      "lt-00150"
-    ],
     "via_group_song_ids": [],
     "groups": []
   },

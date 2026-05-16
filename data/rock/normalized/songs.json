@@ -1477,15 +1477,15 @@
     "file": "_other\\_rock\\_random\\Best of Lou Reed and The Velvet Underground by thephoenixforlove\\Candy Says.mp3",
     "title": "Candy Says",
     "primary_artists": [
-      "The Velvet Underground by thephoenixforlove"
+      "The Velvet Underground"
     ],
     "featuring_artists": [],
     "artists": [
-      "The Velvet Underground by thephoenixforlove"
+      "The Velvet Underground"
     ],
     "credits": [
       {
-        "entity": "The Velvet Underground by thephoenixforlove",
+        "entity": "The Velvet Underground",
         "entity_type": "person",
         "role": "primary"
       }
@@ -2304,15 +2304,15 @@
     "file": "_other\\_rock\\_random\\Deafheaven - Sunbather [2013]_AmusLadmin\\Deafheaven - Sunbather [2013]\\_Sunbather_\\5. Vertigo.mp3",
     "title": "Vertigo",
     "primary_artists": [
-      "Deafheaven - Sunbather"
+      "Deafheaven"
     ],
     "featuring_artists": [],
     "artists": [
-      "Deafheaven - Sunbather"
+      "Deafheaven"
     ],
     "credits": [
       {
-        "entity": "Deafheaven - Sunbather",
+        "entity": "Deafheaven",
         "entity_type": "person",
         "role": "primary"
       }

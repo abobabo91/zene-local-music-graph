@@ -577,17 +577,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Jacques Greene Tinashe": {
-    "song_ids": [
-      "r-00154"
-    ],
-    "primary_song_ids": [
-      "r-00154"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Tinashe": {
     "song_ids": [
       "r-00155",
@@ -853,17 +842,6 @@
       "r-00446",
       "r-00447",
       "r-00448"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Ashanti w Biggie": {
-    "song_ids": [
-      "r-00237"
-    ],
-    "primary_song_ids": [
-      "r-00237"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -1606,17 +1584,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Red Cafe Gucci Mane - Shake Dat": {
-    "song_ids": [
-      "r-00359"
-    ],
-    "primary_song_ids": [],
-    "feature_song_ids": [
-      "r-00359"
-    ],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "K-Major": {
     "song_ids": [
       "r-00360"
@@ -1625,61 +1592,6 @@
       "r-00360"
     ],
     "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "2 Chainz Spoaty": {
-    "song_ids": [
-      "r-00360"
-    ],
-    "primary_song_ids": [],
-    "feature_song_ids": [
-      "r-00360"
-    ],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Jeremih ftLoveRance": {
-    "song_ids": [
-      "r-00361"
-    ],
-    "primary_song_ids": [
-      "r-00361"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Christian Radke Turk": {
-    "song_ids": [
-      "r-00362"
-    ],
-    "primary_song_ids": [],
-    "feature_song_ids": [
-      "r-00362"
-    ],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "The Weeknd Omarion Trey songs more - Rnb Heav": {
-    "song_ids": [
-      "r-00364"
-    ],
-    "primary_song_ids": [
-      "r-00364"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "2 Chainz Juicy J Chris Brown Trey Songz - Show Me": {
-    "song_ids": [
-      "r-00364"
-    ],
-    "primary_song_ids": [],
-    "feature_song_ids": [
-      "r-00364"
-    ],
     "via_group_song_ids": [],
     "groups": []
   },
@@ -1902,56 +1814,12 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Chris Brown Usher ZAYN": {
-    "song_ids": [
-      "r-00378"
-    ],
-    "primary_song_ids": [
-      "r-00378"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Desiigner": {
     "song_ids": [
       "r-00380"
     ],
     "primary_song_ids": [
       "r-00380"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "DJ Mustard Nicki Minaj Jeremih": {
-    "song_ids": [
-      "r-00381"
-    ],
-    "primary_song_ids": [
-      "r-00381"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Enrique Iglesias Tinashe Javada": {
-    "song_ids": [
-      "r-00382"
-    ],
-    "primary_song_ids": [
-      "r-00382"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Jeremih Stefflon Don Krept Konan": {
-    "song_ids": [
-      "r-00383"
-    ],
-    "primary_song_ids": [
-      "r-00383"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -1982,45 +1850,12 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Mac Miller Anderson Paak": {
-    "song_ids": [
-      "r-00386"
-    ],
-    "primary_song_ids": [
-      "r-00386"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Major Lazer MØ Justin Bieber": {
     "song_ids": [
       "r-00392"
     ],
     "primary_song_ids": [
       "r-00392"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "O.T. Genasis Young Dolph": {
-    "song_ids": [
-      "r-00393"
-    ],
-    "primary_song_ids": [
-      "r-00393"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Snakehips ZAYN": {
-    "song_ids": [
-      "r-00396"
-    ],
-    "primary_song_ids": [
-      "r-00396"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -2552,17 +2387,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Lil Jon Machel Montano": {
-    "song_ids": [
-      "r-00495"
-    ],
-    "primary_song_ids": [],
-    "feature_song_ids": [
-      "r-00495"
-    ],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Cassie": {
     "song_ids": [
       "r-00497",
@@ -2600,62 +2424,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Rihanna Wiz Khalifa": {
-    "song_ids": [
-      "r-00520"
-    ],
-    "primary_song_ids": [],
-    "feature_song_ids": [
-      "r-00520"
-    ],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Kelly Chris Brown": {
-    "song_ids": [
-      "r-00520"
-    ],
-    "primary_song_ids": [],
-    "feature_song_ids": [
-      "r-00520"
-    ],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Tyga Chris Brown": {
-    "song_ids": [
-      "r-00521"
-    ],
-    "primary_song_ids": [],
-    "feature_song_ids": [
-      "r-00521"
-    ],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "TJ Luva Boy - New Gang": {
-    "song_ids": [
-      "r-00539"
-    ],
-    "primary_song_ids": [],
-    "feature_song_ids": [
-      "r-00539"
-    ],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Young Lo": {
-    "song_ids": [
-      "r-00540"
-    ],
-    "primary_song_ids": [],
-    "feature_song_ids": [
-      "r-00540"
-    ],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Young Blacc - In Love With The Bitches": {
     "song_ids": [
       "r-00540"
     ],
@@ -2769,17 +2538,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Chingy Nate Dogg": {
-    "song_ids": [
-      "r-00597"
-    ],
-    "primary_song_ids": [],
-    "feature_song_ids": [
-      "r-00597"
-    ],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Iggy Azalea": {
     "song_ids": [
       "r-00598"
@@ -2788,28 +2546,6 @@
       "r-00598"
     ],
     "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Chingy-Bed": {
-    "song_ids": [
-      "r-00600"
-    ],
-    "primary_song_ids": [],
-    "feature_song_ids": [
-      "r-00600"
-    ],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Mariah Carey- Kiss me": {
-    "song_ids": [
-      "r-00609"
-    ],
-    "primary_song_ids": [],
-    "feature_song_ids": [
-      "r-00609"
-    ],
     "via_group_song_ids": [],
     "groups": []
   },
