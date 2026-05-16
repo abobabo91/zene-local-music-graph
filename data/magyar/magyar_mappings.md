@@ -1,0 +1,49 @@
+# Magyar (Hungarian Other) Mappings
+
+## Alias normalization
+
+- `Halott Pénz: Halott Pénz - Official Music Videos`
+- `Horváth Tomi és Raul: HORVÁTH TOMI ÉS RAUL, HORVÁTH TAMÁS RAUL`
+- `Kozmix: Kozmix`
+- `Elefánt: Elefánt zenekar`
+- `Kis Pál és a Borz: Kis Pál és a Borz, Kispál és a Borz`
+- `Hiperkarma: Hiperkarma`
+- `Caramel: Molnár Ferenc Caramel`
+- `Pápai Joci: Pápai József - YouTube`
+- `GwM: GwMOfficialMusik`
+- `Jimmy Zámbó: Jimmy Zámbó`
+- `Edda: edda`
+- `Máté Péter: Máté Péter`
+- `R-GO: R-GO - The best of R-GO`
+- `Zorán: Zorán`
+- `Ákos: Ákos best of`
+- `Nagy Feró: Nagy Feró`
+- `Tankcsapda: Tankcsapda-A legjobb mergek-HU-2004-LegacyMP3`
+- `LGT: LGT`
+- `OMEGA: OMEGA együttes, Omega Live`
+- `Pokolgép: Pokolgép - Pokoli Szinjáték`
+- `Fekete Vonat: fekete vonat`
+- `Young G: young g`
+- `Shygys: Shygys`
+- `FollowTheFlow: FollowTheFlow`
+- `Csík Zenekar: A Csík zenekar dalai - YouTube, Top-Titel – Csík zenekar - YouTube`
+- `Bohemian Betyars: Bohemian Betyars - YouTube, Top-Titel – Bohemian Betyars - YouTube`
+- `Muzsikás: Muzsikás együttes - YouTube, Top-Titel – Muzsikás - YouTube`
+- `Naptengeri: Naptengeri - YouTube, Top-Titel – Naptengeri - YouTube`
+- `Bíró Gergő: Bíró Gergő zenék - YouTube, Legnépszerűbb számok – Bíró Gergő - YouTube`
+- `Buda Folk Band: Buda Folk Band Magyar világi népzene - YouTube, Buda Folk Band Saját gyűjtés - YouTube`
+- `Zagyva Banda: Top-Titel – Zagyva Banda - YouTube`
+- `Astro Music: Astro Music`
+- `Romantic: Romantic`
+- `Mario: MARIO, Mario Official`
+- `30Y: 30y`
+- `WellHello: WELLHELLO, Wellhello`
+- `Vzs: VZS`
+- `Neoton Família: Neoton Familia, neoton familia`
+- `Curtis és G.w.M: Curtis És G.w.M`
+- `Cserpes Laura: Cserpes laura`
+- `Kis Grofó: Kis Grofo, Kis grofo`
+- `Gáspár Laci: Gáspár Laci`
+- `Rúzsa Magdi: Rúzsa Magdi`
+- `Kárpátia: Karpatia`
+- `Mulatós: _Mulatós, Mulatós`

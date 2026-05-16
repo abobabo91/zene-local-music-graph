@@ -1,0 +1,3880 @@
+{
+  "30Y": {
+    "song_ids": [
+      "mg-00001",
+      "mg-00002",
+      "mg-00003",
+      "mg-00018"
+    ],
+    "primary_song_ids": [
+      "mg-00001",
+      "mg-00002",
+      "mg-00003",
+      "mg-00018"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Elefánt": {
+    "song_ids": [
+      "mg-00004",
+      "mg-00005",
+      "mg-00006",
+      "mg-00007",
+      "mg-00008",
+      "mg-00009",
+      "mg-00010",
+      "mg-00011"
+    ],
+    "primary_song_ids": [
+      "mg-00004",
+      "mg-00005",
+      "mg-00006",
+      "mg-00007",
+      "mg-00008",
+      "mg-00009",
+      "mg-00010",
+      "mg-00011"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Hiperkarma": {
+    "song_ids": [
+      "mg-00012",
+      "mg-00013",
+      "mg-00014",
+      "mg-00015",
+      "mg-00016",
+      "mg-00017",
+      "mg-00020",
+      "mg-00021",
+      "mg-00022",
+      "mg-00024"
+    ],
+    "primary_song_ids": [
+      "mg-00012",
+      "mg-00013",
+      "mg-00014",
+      "mg-00015",
+      "mg-00016",
+      "mg-00017",
+      "mg-00020",
+      "mg-00021",
+      "mg-00022",
+      "mg-00024"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Biorobot": {
+    "song_ids": [
+      "mg-00019"
+    ],
+    "primary_song_ids": [
+      "mg-00019"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Esti Kornél": {
+    "song_ids": [
+      "mg-00023"
+    ],
+    "primary_song_ids": [
+      "mg-00023"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Kis Pál és a Borz": {
+    "song_ids": [
+      "mg-00025",
+      "mg-00026",
+      "mg-00027",
+      "mg-00028",
+      "mg-00029",
+      "mg-00030",
+      "mg-00031",
+      "mg-00032",
+      "mg-00033",
+      "mg-00034",
+      "mg-00035",
+      "mg-00036",
+      "mg-00037",
+      "mg-00038",
+      "mg-00039",
+      "mg-00040",
+      "mg-00041",
+      "mg-00043"
+    ],
+    "primary_song_ids": [
+      "mg-00025",
+      "mg-00026",
+      "mg-00027",
+      "mg-00028",
+      "mg-00029",
+      "mg-00030",
+      "mg-00031",
+      "mg-00032",
+      "mg-00033",
+      "mg-00034",
+      "mg-00035",
+      "mg-00036",
+      "mg-00037",
+      "mg-00038",
+      "mg-00039",
+      "mg-00040",
+      "mg-00041",
+      "mg-00043"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "KiSTeHéN": {
+    "song_ids": [
+      "mg-00042"
+    ],
+    "primary_song_ids": [
+      "mg-00042"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Lovasi András": {
+    "song_ids": [
+      "mg-00044",
+      "mg-00045"
+    ],
+    "primary_song_ids": [
+      "mg-00044",
+      "mg-00045"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Kolibri": {
+    "song_ids": [
+      "mg-00046"
+    ],
+    "primary_song_ids": [
+      "mg-00046"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Alex": {
+    "song_ids": [
+      "mg-00054"
+    ],
+    "primary_song_ids": [
+      "mg-00054"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Rudika": {
+    "song_ids": [
+      "mg-00054"
+    ],
+    "primary_song_ids": [
+      "mg-00054"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Rugós Beke": {
+    "song_ids": [
+      "mg-00055"
+    ],
+    "primary_song_ids": [
+      "mg-00055"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Apostol": {
+    "song_ids": [
+      "mg-00056",
+      "mg-00057"
+    ],
+    "primary_song_ids": [
+      "mg-00056",
+      "mg-00057"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Apostol együttes Nem tudok élni nélküled": {
+    "song_ids": [
+      "mg-00058"
+    ],
+    "primary_song_ids": [
+      "mg-00058"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Dupla KáVé": {
+    "song_ids": [
+      "mg-00060"
+    ],
+    "primary_song_ids": [
+      "mg-00060"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Ham Ko Ham": {
+    "song_ids": [
+      "mg-00061"
+    ],
+    "primary_song_ids": [
+      "mg-00061"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Kis Grofó": {
+    "song_ids": [
+      "mg-00063",
+      "mg-00064"
+    ],
+    "primary_song_ids": [
+      "mg-00063",
+      "mg-00064"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "magyar mulatos zene": {
+    "song_ids": [
+      "mg-00066"
+    ],
+    "primary_song_ids": [
+      "mg-00066"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Nád a házam teteje": {
+    "song_ids": [
+      "mg-00068"
+    ],
+    "primary_song_ids": [
+      "mg-00068"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Bitto Duo": {
+    "song_ids": [
+      "mg-00069"
+    ],
+    "primary_song_ids": [
+      "mg-00069"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Polgár Peti és a HungaryCool": {
+    "song_ids": [
+      "mg-00070"
+    ],
+    "primary_song_ids": [
+      "mg-00070"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "SÓS FECÓ BÓDI CSABI": {
+    "song_ids": [
+      "mg-00071"
+    ],
+    "primary_song_ids": [
+      "mg-00071"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Újvárosi Lakodalmas Együttes": {
+    "song_ids": [
+      "mg-00072"
+    ],
+    "primary_song_ids": [
+      "mg-00072"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "AW": {
+    "song_ids": [
+      "mg-00074",
+      "mg-00075",
+      "mg-00076",
+      "mg-00077"
+    ],
+    "primary_song_ids": [
+      "mg-00074",
+      "mg-00075",
+      "mg-00076",
+      "mg-00077"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "BELANO": {
+    "song_ids": [
+      "mg-00078"
+    ],
+    "primary_song_ids": [
+      "mg-00078"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Blansch": {
+    "song_ids": [
+      "mg-00079"
+    ],
+    "primary_song_ids": [
+      "mg-00079"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Fehér Krisztián": {
+    "song_ids": [
+      "mg-00080",
+      "mg-00082"
+    ],
+    "primary_song_ids": [
+      "mg-00080"
+    ],
+    "feature_song_ids": [
+      "mg-00082"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "KRSZ": {
+    "song_ids": [
+      "mg-00081"
+    ],
+    "primary_song_ids": [
+      "mg-00081"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "L.L. Junior": {
+    "song_ids": [
+      "mg-00081",
+      "mg-00089",
+      "mg-00097",
+      "mg-00119",
+      "mg-00120",
+      "mg-00312"
+    ],
+    "primary_song_ids": [
+      "mg-00081",
+      "mg-00089",
+      "mg-00097",
+      "mg-00119",
+      "mg-00120",
+      "mg-00312"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Milo": {
+    "song_ids": [
+      "mg-00082"
+    ],
+    "primary_song_ids": [
+      "mg-00082"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "ÉBERKÓMA": {
+    "song_ids": [
+      "mg-00083",
+      "mg-00084",
+      "mg-00085"
+    ],
+    "primary_song_ids": [
+      "mg-00083",
+      "mg-00084",
+      "mg-00085"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Emilio Ne nézz vissza rám": {
+    "song_ids": [
+      "mg-00086",
+      "mg-00087"
+    ],
+    "primary_song_ids": [
+      "mg-00086",
+      "mg-00087"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Gáspár Laci": {
+    "song_ids": [
+      "mg-00088",
+      "mg-00294",
+      "mg-00295"
+    ],
+    "primary_song_ids": [
+      "mg-00088",
+      "mg-00294",
+      "mg-00295"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Kenedi Veronika": {
+    "song_ids": [
+      "mg-00089",
+      "mg-00312"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "mg-00089",
+      "mg-00312"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Fekete Vonat": {
+    "song_ids": [
+      "mg-00090",
+      "mg-00091",
+      "mg-00092",
+      "mg-00093",
+      "mg-00094",
+      "mg-00095",
+      "mg-00096",
+      "mg-00098",
+      "mg-00099",
+      "mg-00100",
+      "mg-00101",
+      "mg-00102",
+      "mg-00103",
+      "mg-00104",
+      "mg-00105",
+      "mg-00106",
+      "mg-00107",
+      "mg-00108",
+      "mg-00109",
+      "mg-00110",
+      "mg-00111",
+      "mg-00118",
+      "mg-00121",
+      "mg-00122",
+      "mg-00123",
+      "mg-00124",
+      "mg-00125"
+    ],
+    "primary_song_ids": [
+      "mg-00090",
+      "mg-00091",
+      "mg-00092",
+      "mg-00093",
+      "mg-00094",
+      "mg-00095",
+      "mg-00096",
+      "mg-00098",
+      "mg-00099",
+      "mg-00100",
+      "mg-00101",
+      "mg-00102",
+      "mg-00103",
+      "mg-00104",
+      "mg-00105",
+      "mg-00106",
+      "mg-00107",
+      "mg-00108",
+      "mg-00109",
+      "mg-00110",
+      "mg-00111",
+      "mg-00118",
+      "mg-00121",
+      "mg-00122",
+      "mg-00123",
+      "mg-00124",
+      "mg-00125"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "LL Junior": {
+    "song_ids": [
+      "mg-00112",
+      "mg-00113",
+      "mg-00114",
+      "mg-00115",
+      "mg-00116",
+      "mg-00117"
+    ],
+    "primary_song_ids": [
+      "mg-00112",
+      "mg-00113",
+      "mg-00114",
+      "mg-00115",
+      "mg-00116",
+      "mg-00117"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Kamikaze": {
+    "song_ids": [
+      "mg-00120"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "mg-00120"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Gitano": {
+    "song_ids": [
+      "mg-00127"
+    ],
+    "primary_song_ids": [
+      "mg-00127"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Curtis és G.w.M": {
+    "song_ids": [
+      "mg-00128",
+      "mg-00129"
+    ],
+    "primary_song_ids": [
+      "mg-00128",
+      "mg-00129"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "G.w.M": {
+    "song_ids": [
+      "mg-00130",
+      "mg-00131",
+      "mg-00132",
+      "mg-00133",
+      "mg-00135"
+    ],
+    "primary_song_ids": [
+      "mg-00130",
+      "mg-00131",
+      "mg-00132",
+      "mg-00133",
+      "mg-00135"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "GwM": {
+    "song_ids": [
+      "mg-00134",
+      "mg-00136"
+    ],
+    "primary_song_ids": [
+      "mg-00134",
+      "mg-00136"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Curtis": {
+    "song_ids": [
+      "mg-00135"
+    ],
+    "primary_song_ids": [
+      "mg-00135"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Zámbó Jimmy": {
+    "song_ids": [
+      "mg-00137",
+      "mg-00138",
+      "mg-00139",
+      "mg-00140",
+      "mg-00141",
+      "mg-00142"
+    ],
+    "primary_song_ids": [
+      "mg-00137",
+      "mg-00138",
+      "mg-00139",
+      "mg-00140",
+      "mg-00141",
+      "mg-00142"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Mario": {
+    "song_ids": [
+      "mg-00144",
+      "mg-00145",
+      "mg-00146",
+      "mg-00148",
+      "mg-00149",
+      "mg-00150",
+      "mg-00151",
+      "mg-00152",
+      "mg-00153",
+      "mg-00154",
+      "mg-00155",
+      "mg-00182",
+      "mg-00199",
+      "mg-00201"
+    ],
+    "primary_song_ids": [
+      "mg-00144",
+      "mg-00145",
+      "mg-00146",
+      "mg-00148",
+      "mg-00149",
+      "mg-00150",
+      "mg-00151",
+      "mg-00152",
+      "mg-00153",
+      "mg-00154",
+      "mg-00155",
+      "mg-00182"
+    ],
+    "feature_song_ids": [
+      "mg-00199",
+      "mg-00201"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "BURAI": {
+    "song_ids": [
+      "mg-00145"
+    ],
+    "primary_song_ids": [
+      "mg-00145"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Weszélyes Elemek": {
+    "song_ids": [
+      "mg-00147"
+    ],
+    "primary_song_ids": [
+      "mg-00147"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "AMAGALI": {
+    "song_ids": [
+      "mg-00153"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "mg-00153"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "LACIKA- Elfáradt lelkek": {
+    "song_ids": [
+      "mg-00154"
+    ],
+    "primary_song_ids": [
+      "mg-00154"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Mário": {
+    "song_ids": [
+      "mg-00156"
+    ],
+    "primary_song_ids": [
+      "mg-00156"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Caramel": {
+    "song_ids": [
+      "mg-00157",
+      "mg-00158",
+      "mg-00159",
+      "mg-00160",
+      "mg-00161",
+      "mg-00162",
+      "mg-00163",
+      "mg-00164",
+      "mg-00165",
+      "mg-00166",
+      "mg-00167",
+      "mg-00335"
+    ],
+    "primary_song_ids": [
+      "mg-00157",
+      "mg-00158",
+      "mg-00159",
+      "mg-00160",
+      "mg-00161",
+      "mg-00162",
+      "mg-00163",
+      "mg-00164",
+      "mg-00165",
+      "mg-00166",
+      "mg-00167",
+      "mg-00335"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "PREMIUM STUDIO": {
+    "song_ids": [
+      "mg-00168",
+      "mg-00169",
+      "mg-00170"
+    ],
+    "primary_song_ids": [
+      "mg-00168",
+      "mg-00169",
+      "mg-00170"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Pápai József": {
+    "song_ids": [
+      "mg-00171",
+      "mg-00177"
+    ],
+    "primary_song_ids": [
+      "mg-00171",
+      "mg-00177"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Pápai Joci": {
+    "song_ids": [
+      "mg-00172",
+      "mg-00173",
+      "mg-00174",
+      "mg-00175",
+      "mg-00176"
+    ],
+    "primary_song_ids": [
+      "mg-00172",
+      "mg-00173",
+      "mg-00174",
+      "mg-00175",
+      "mg-00176"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Romantic": {
+    "song_ids": [
+      "mg-00178",
+      "mg-00179",
+      "mg-00180",
+      "mg-00372"
+    ],
+    "primary_song_ids": [
+      "mg-00178",
+      "mg-00179",
+      "mg-00180",
+      "mg-00372"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "ATIS": {
+    "song_ids": [
+      "mg-00181"
+    ],
+    "primary_song_ids": [
+      "mg-00181"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "IMIR": {
+    "song_ids": [
+      "mg-00181"
+    ],
+    "primary_song_ids": [
+      "mg-00181"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Kálo Bone": {
+    "song_ids": [
+      "mg-00182"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "mg-00182"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "TESWÉR": {
+    "song_ids": [
+      "mg-00183",
+      "mg-00184",
+      "mg-00185"
+    ],
+    "primary_song_ids": [
+      "mg-00183",
+      "mg-00184",
+      "mg-00185"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "TOMY": {
+    "song_ids": [
+      "mg-00186"
+    ],
+    "primary_song_ids": [
+      "mg-00186"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "KRETZ": {
+    "song_ids": [
+      "mg-00186"
+    ],
+    "primary_song_ids": [
+      "mg-00186"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Vzs": {
+    "song_ids": [
+      "mg-00187",
+      "mg-00188",
+      "mg-00189"
+    ],
+    "primary_song_ids": [
+      "mg-00187",
+      "mg-00188",
+      "mg-00189"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "VARGA NORBI": {
+    "song_ids": [
+      "mg-00188"
+    ],
+    "primary_song_ids": [
+      "mg-00188"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Young G": {
+    "song_ids": [
+      "mg-00190",
+      "mg-00191",
+      "mg-00192",
+      "mg-00193",
+      "mg-00194",
+      "mg-00196",
+      "mg-00197",
+      "mg-00198",
+      "mg-00199",
+      "mg-00200",
+      "mg-00201",
+      "mg-00202",
+      "mg-00204",
+      "mg-00313",
+      "mg-00314"
+    ],
+    "primary_song_ids": [
+      "mg-00190",
+      "mg-00191",
+      "mg-00192",
+      "mg-00193",
+      "mg-00194",
+      "mg-00196",
+      "mg-00197",
+      "mg-00198",
+      "mg-00199",
+      "mg-00200",
+      "mg-00201",
+      "mg-00202",
+      "mg-00204",
+      "mg-00313",
+      "mg-00314"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "YOUNG G MARIO": {
+    "song_ids": [
+      "mg-00195"
+    ],
+    "primary_song_ids": [
+      "mg-00195"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "DÃ BCki": {
+    "song_ids": [
+      "mg-00198"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "mg-00198"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Mario dalszöveggel": {
+    "song_ids": [
+      "mg-00200"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "mg-00200"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Young-G VV Béci": {
+    "song_ids": [
+      "mg-00203"
+    ],
+    "primary_song_ids": [
+      "mg-00203"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "ajsa luna": {
+    "song_ids": [
+      "mg-00205",
+      "mg-00206",
+      "mg-00207",
+      "mg-00208"
+    ],
+    "primary_song_ids": [
+      "mg-00205",
+      "mg-00206",
+      "mg-00207",
+      "mg-00208"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Hundred Sins": {
+    "song_ids": [
+      "mg-00208"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "mg-00208"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Analog Balaton": {
+    "song_ids": [
+      "mg-00209"
+    ],
+    "primary_song_ids": [
+      "mg-00209"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "BERRY": {
+    "song_ids": [
+      "mg-00210",
+      "mg-00211",
+      "mg-00212",
+      "mg-00213",
+      "mg-00214"
+    ],
+    "primary_song_ids": [
+      "mg-00210",
+      "mg-00211",
+      "mg-00212",
+      "mg-00213",
+      "mg-00214"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Mihályfi Luca": {
+    "song_ids": [
+      "mg-00214"
+    ],
+    "primary_song_ids": [
+      "mg-00214"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Csinszka": {
+    "song_ids": [
+      "mg-00215"
+    ],
+    "primary_song_ids": [
+      "mg-00215"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Deva": {
+    "song_ids": [
+      "mg-00216",
+      "mg-00217"
+    ],
+    "primary_song_ids": [
+      "mg-00216",
+      "mg-00217"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "MAXI": {
+    "song_ids": [
+      "mg-00218"
+    ],
+    "primary_song_ids": [
+      "mg-00218"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Moriones": {
+    "song_ids": [
+      "mg-00219",
+      "mg-00220",
+      "mg-00221"
+    ],
+    "primary_song_ids": [
+      "mg-00219",
+      "mg-00220",
+      "mg-00221"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Saya Noé": {
+    "song_ids": [
+      "mg-00222",
+      "mg-00223",
+      "mg-00224"
+    ],
+    "primary_song_ids": [
+      "mg-00222",
+      "mg-00223",
+      "mg-00224"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Solére": {
+    "song_ids": [
+      "mg-00225",
+      "mg-00226"
+    ],
+    "primary_song_ids": [
+      "mg-00225",
+      "mg-00226"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "VALMAR": {
+    "song_ids": [
+      "mg-00227",
+      "mg-00228"
+    ],
+    "primary_song_ids": [
+      "mg-00227",
+      "mg-00228"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Manuel": {
+    "song_ids": [
+      "mg-00228"
+    ],
+    "primary_song_ids": [
+      "mg-00228"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Csík Zenekar": {
+    "song_ids": [
+      "mg-00229",
+      "mg-00230",
+      "mg-00231",
+      "mg-00243",
+      "mg-00270",
+      "mg-00271",
+      "mg-00272",
+      "mg-00516"
+    ],
+    "primary_song_ids": [
+      "mg-00229",
+      "mg-00230",
+      "mg-00231",
+      "mg-00243",
+      "mg-00270",
+      "mg-00271",
+      "mg-00272",
+      "mg-00516"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Bohemian Betyars": {
+    "song_ids": [
+      "mg-00232",
+      "mg-00233",
+      "mg-00234",
+      "mg-00268"
+    ],
+    "primary_song_ids": [
+      "mg-00232",
+      "mg-00233",
+      "mg-00234",
+      "mg-00268"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Buda Folk Band Magyar világi népzene": {
+    "song_ids": [
+      "mg-00235",
+      "mg-00236"
+    ],
+    "primary_song_ids": [
+      "mg-00235",
+      "mg-00236"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Buda Folk Band Saját gyűjtés": {
+    "song_ids": [
+      "mg-00237",
+      "mg-00238",
+      "mg-00239"
+    ],
+    "primary_song_ids": [
+      "mg-00237",
+      "mg-00238",
+      "mg-00239"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Bíró Gergő": {
+    "song_ids": [
+      "mg-00240",
+      "mg-00241",
+      "mg-00242",
+      "mg-00283"
+    ],
+    "primary_song_ids": [
+      "mg-00240",
+      "mg-00241",
+      "mg-00242",
+      "mg-00283"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Kiss T": {
+    "song_ids": [
+      "mg-00243"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "mg-00243"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Csík Zeneker": {
+    "song_ids": [
+      "mg-00244"
+    ],
+    "primary_song_ids": [
+      "mg-00244"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Ez a világ nekem való This World Is Made For Me": {
+    "song_ids": [
+      "mg-00245"
+    ],
+    "primary_song_ids": [
+      "mg-00245"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Járom az utam In My World": {
+    "song_ids": [
+      "mg-00246",
+      "mg-00247",
+      "mg-00248",
+      "mg-00249"
+    ],
+    "primary_song_ids": [
+      "mg-00246",
+      "mg-00247",
+      "mg-00248",
+      "mg-00249"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Legnépszerűbb számok - Bíró Gergő": {
+    "song_ids": [
+      "mg-00250"
+    ],
+    "primary_song_ids": [
+      "mg-00250"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Bubamara": {
+    "song_ids": [
+      "mg-00251"
+    ],
+    "primary_song_ids": [
+      "mg-00251"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Ternipe Lina": {
+    "song_ids": [
+      "mg-00256"
+    ],
+    "primary_song_ids": [
+      "mg-00256"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Muzsikás": {
+    "song_ids": [
+      "mg-00257",
+      "mg-00259",
+      "mg-00274",
+      "mg-00275"
+    ],
+    "primary_song_ids": [
+      "mg-00257",
+      "mg-00259",
+      "mg-00274",
+      "mg-00275"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Muzsikás együttes": {
+    "song_ids": [
+      "mg-00258"
+    ],
+    "primary_song_ids": [
+      "mg-00258"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Máramaros The Lost Jewish Music of Transylvania": {
+    "song_ids": [
+      "mg-00259"
+    ],
+    "primary_song_ids": [
+      "mg-00259"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Naptengeri + Istvan Sky": {
+    "song_ids": [
+      "mg-00261"
+    ],
+    "primary_song_ids": [
+      "mg-00261"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Naptengeri": {
+    "song_ids": [
+      "mg-00262",
+      "mg-00263",
+      "mg-00280"
+    ],
+    "primary_song_ids": [
+      "mg-00262",
+      "mg-00263",
+      "mg-00280"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "amerről hajnallott The Prisoner s Song": {
+    "song_ids": [
+      "mg-00264"
+    ],
+    "primary_song_ids": [
+      "mg-00264"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Rabnóta": {
+    "song_ids": [
+      "mg-00265"
+    ],
+    "primary_song_ids": [
+      "mg-00265"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Kalyi Jag": {
+    "song_ids": [
+      "mg-00266"
+    ],
+    "primary_song_ids": [
+      "mg-00266"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Rávágok a zongorára Hit the piano": {
+    "song_ids": [
+      "mg-00267"
+    ],
+    "primary_song_ids": [
+      "mg-00267"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Bohemian Betyars vs. Chip Chip Chokas": {
+    "song_ids": [
+      "mg-00269"
+    ],
+    "primary_song_ids": [
+      "mg-00269"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Hungarian Folk Music": {
+    "song_ids": [
+      "mg-00273"
+    ],
+    "primary_song_ids": [
+      "mg-00273"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Top-Titel - Muzsikás": {
+    "song_ids": [
+      "mg-00276"
+    ],
+    "primary_song_ids": [
+      "mg-00276"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Pearly Clouds": {
+    "song_ids": [
+      "mg-00277"
+    ],
+    "primary_song_ids": [
+      "mg-00277"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Gary Lucas": {
+    "song_ids": [
+      "mg-00277"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "mg-00277"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Top-Titel - Naptengeri": {
+    "song_ids": [
+      "mg-00278",
+      "mg-00279",
+      "mg-00281"
+    ],
+    "primary_song_ids": [
+      "mg-00278",
+      "mg-00279",
+      "mg-00281"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Bagossy Brothers Company": {
+    "song_ids": [
+      "mg-00282"
+    ],
+    "primary_song_ids": [
+      "mg-00282"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Hungarian folk song": {
+    "song_ids": [
+      "mg-00284"
+    ],
+    "primary_song_ids": [
+      "mg-00284"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "ByeAlex és a Slepp": {
+    "song_ids": [
+      "mg-00287"
+    ],
+    "primary_song_ids": [
+      "mg-00287"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Fekete Dávid": {
+    "song_ids": [
+      "mg-00288"
+    ],
+    "primary_song_ids": [
+      "mg-00288"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Cserpes Laura": {
+    "song_ids": [
+      "mg-00288",
+      "mg-00289"
+    ],
+    "primary_song_ids": [
+      "mg-00288",
+      "mg-00289"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Follow The Flow": {
+    "song_ids": [
+      "mg-00290",
+      "mg-00291",
+      "mg-00292",
+      "mg-00293"
+    ],
+    "primary_song_ids": [
+      "mg-00290",
+      "mg-00291",
+      "mg-00292",
+      "mg-00293"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Halott Pénz": {
+    "song_ids": [
+      "mg-00296",
+      "mg-00298",
+      "mg-00299",
+      "mg-00300",
+      "mg-00301",
+      "mg-00302",
+      "mg-00303",
+      "mg-00410"
+    ],
+    "primary_song_ids": [
+      "mg-00296",
+      "mg-00298",
+      "mg-00299",
+      "mg-00300",
+      "mg-00301",
+      "mg-00302",
+      "mg-00303",
+      "mg-00410"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Halott Pénz km. Szabó Balázs": {
+    "song_ids": [
+      "mg-00297"
+    ],
+    "primary_song_ids": [
+      "mg-00297"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Horváth Tomi és Raul": {
+    "song_ids": [
+      "mg-00304",
+      "mg-00305",
+      "mg-00306",
+      "mg-00307",
+      "mg-00308",
+      "mg-00309",
+      "mg-00315",
+      "mg-00316"
+    ],
+    "primary_song_ids": [
+      "mg-00304",
+      "mg-00305",
+      "mg-00306",
+      "mg-00307",
+      "mg-00308",
+      "mg-00309",
+      "mg-00315",
+      "mg-00316"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "DENIZ": {
+    "song_ids": [
+      "mg-00309"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "mg-00309"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "JANKÓ": {
+    "song_ids": [
+      "mg-00310"
+    ],
+    "primary_song_ids": [
+      "mg-00310"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Kowalsky meg a Vega": {
+    "song_ids": [
+      "mg-00311",
+      "mg-00671"
+    ],
+    "primary_song_ids": [
+      "mg-00311",
+      "mg-00671"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Kozmix": {
+    "song_ids": [
+      "mg-00317",
+      "mg-00318",
+      "mg-00319",
+      "mg-00320",
+      "mg-00321",
+      "mg-00322",
+      "mg-00323",
+      "mg-00405"
+    ],
+    "primary_song_ids": [
+      "mg-00317",
+      "mg-00318",
+      "mg-00319",
+      "mg-00320",
+      "mg-00321",
+      "mg-00322",
+      "mg-00323",
+      "mg-00405"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Auth Csilla": {
+    "song_ids": [
+      "mg-00324",
+      "mg-00325"
+    ],
+    "primary_song_ids": [
+      "mg-00324",
+      "mg-00325"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Baby Gabi és Lányi Lala": {
+    "song_ids": [
+      "mg-00326"
+    ],
+    "primary_song_ids": [
+      "mg-00326"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Back ll Black": {
+    "song_ids": [
+      "mg-00327"
+    ],
+    "primary_song_ids": [
+      "mg-00327"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Balkan Fanatik": {
+    "song_ids": [
+      "mg-00328"
+    ],
+    "primary_song_ids": [
+      "mg-00328"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Balogh Brigi": {
+    "song_ids": [
+      "mg-00329"
+    ],
+    "primary_song_ids": [
+      "mg-00329"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Barbee": {
+    "song_ids": [
+      "mg-00330"
+    ],
+    "primary_song_ids": [
+      "mg-00330"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Bereczki Zoltán": {
+    "song_ids": [
+      "mg-00331"
+    ],
+    "primary_song_ids": [
+      "mg-00331"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Bermuda": {
+    "song_ids": [
+      "mg-00332"
+    ],
+    "primary_song_ids": [
+      "mg-00332"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Bery Eszter Váczi": {
+    "song_ids": [
+      "mg-00333"
+    ],
+    "primary_song_ids": [
+      "mg-00333"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "BLR MILÁN": {
+    "song_ids": [
+      "mg-00334"
+    ],
+    "primary_song_ids": [
+      "mg-00334"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Carpe Diem": {
+    "song_ids": [
+      "mg-00336"
+    ],
+    "primary_song_ids": [
+      "mg-00336"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Charlie": {
+    "song_ids": [
+      "mg-00337",
+      "mg-00431",
+      "mg-00511",
+      "mg-00512"
+    ],
+    "primary_song_ids": [
+      "mg-00337",
+      "mg-00431",
+      "mg-00511",
+      "mg-00512"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Compact Disco": {
+    "song_ids": [
+      "mg-00338"
+    ],
+    "primary_song_ids": [
+      "mg-00338"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Csézy": {
+    "song_ids": [
+      "mg-00340"
+    ],
+    "primary_song_ids": [
+      "mg-00340"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Desperado": {
+    "song_ids": [
+      "mg-00342",
+      "mg-00343"
+    ],
+    "primary_song_ids": [
+      "mg-00342",
+      "mg-00343"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Diaz Mentha": {
+    "song_ids": [
+      "mg-00344"
+    ],
+    "primary_song_ids": [
+      "mg-00344"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Dobrády Ákos és Szekeres Adrienn": {
+    "song_ids": [
+      "mg-00345"
+    ],
+    "primary_song_ids": [
+      "mg-00345"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Fekete Dávid és Cserpes Laura": {
+    "song_ids": [
+      "mg-00347"
+    ],
+    "primary_song_ids": [
+      "mg-00347"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "GEG": {
+    "song_ids": [
+      "mg-00348"
+    ],
+    "primary_song_ids": [
+      "mg-00348"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Holdviola": {
+    "song_ids": [
+      "mg-00349"
+    ],
+    "primary_song_ids": [
+      "mg-00349"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "KASZA TIBOR": {
+    "song_ids": [
+      "mg-00351"
+    ],
+    "primary_song_ids": [
+      "mg-00351"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Kelemen Kabtban": {
+    "song_ids": [
+      "mg-00352"
+    ],
+    "primary_song_ids": [
+      "mg-00352"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Kelemen Kabátban": {
+    "song_ids": [
+      "mg-00353"
+    ],
+    "primary_song_ids": [
+      "mg-00353"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Király Viktor": {
+    "song_ids": [
+      "mg-00354"
+    ],
+    "primary_song_ids": [
+      "mg-00354"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "KOCSIS TIBOR": {
+    "song_ids": [
+      "mg-00355"
+    ],
+    "primary_song_ids": [
+      "mg-00355"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Kállay Saunders András": {
+    "song_ids": [
+      "mg-00356",
+      "mg-00357"
+    ],
+    "primary_song_ids": [
+      "mg-00356",
+      "mg-00357"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Majka Pápai Joci": {
+    "song_ids": [
+      "mg-00361"
+    ],
+    "primary_song_ids": [
+      "mg-00361"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Majka és Curtis": {
+    "song_ids": [
+      "mg-00362"
+    ],
+    "primary_song_ids": [
+      "mg-00362"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Mujahid Zoltán": {
+    "song_ids": [
+      "mg-00364"
+    ],
+    "primary_song_ids": [
+      "mg-00364"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "NOX !!!": {
+    "song_ids": [
+      "mg-00365"
+    ],
+    "primary_song_ids": [
+      "mg-00365"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Odett": {
+    "song_ids": [
+      "mg-00366"
+    ],
+    "primary_song_ids": [
+      "mg-00366"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "OPITZ BARBI": {
+    "song_ids": [
+      "mg-00367"
+    ],
+    "primary_song_ids": [
+      "mg-00367"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Orsi": {
+    "song_ids": [
+      "mg-00368"
+    ],
+    "primary_song_ids": [
+      "mg-00368"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Puskás Peti": {
+    "song_ids": [
+      "mg-00369"
+    ],
+    "primary_song_ids": [
+      "mg-00369"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Quimby": {
+    "song_ids": [
+      "mg-00370",
+      "mg-00589"
+    ],
+    "primary_song_ids": [
+      "mg-00370",
+      "mg-00589"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Radics Gigi": {
+    "song_ids": [
+      "mg-00371"
+    ],
+    "primary_song_ids": [
+      "mg-00371"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Rúzsa Magdi Lofti Begi": {
+    "song_ids": [
+      "mg-00374"
+    ],
+    "primary_song_ids": [
+      "mg-00374"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Rúzsa Magdolna": {
+    "song_ids": [
+      "mg-00375",
+      "mg-00376",
+      "mg-00377",
+      "mg-00413",
+      "mg-00414",
+      "mg-00415"
+    ],
+    "primary_song_ids": [
+      "mg-00375",
+      "mg-00376",
+      "mg-00377",
+      "mg-00413",
+      "mg-00414",
+      "mg-00415"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Splash": {
+    "song_ids": [
+      "mg-00379"
+    ],
+    "primary_song_ids": [
+      "mg-00379"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Szeresd a testem baby": {
+    "song_ids": [
+      "mg-00380"
+    ],
+    "primary_song_ids": [
+      "mg-00380"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "TNT": {
+    "song_ids": [
+      "mg-00382",
+      "mg-00462",
+      "mg-00463",
+      "mg-00608"
+    ],
+    "primary_song_ids": [
+      "mg-00382",
+      "mg-00462",
+      "mg-00463",
+      "mg-00608"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Tolvai Reni pres. Dj Metzker ViktÃ³ria": {
+    "song_ids": [
+      "mg-00383"
+    ],
+    "primary_song_ids": [
+      "mg-00383"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Tolvai Renáta": {
+    "song_ids": [
+      "mg-00384"
+    ],
+    "primary_song_ids": [
+      "mg-00384"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Tóth Gabi": {
+    "song_ids": [
+      "mg-00385"
+    ],
+    "primary_song_ids": [
+      "mg-00385"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "United": {
+    "song_ids": [
+      "mg-00386",
+      "mg-00387"
+    ],
+    "primary_song_ids": [
+      "mg-00386",
+      "mg-00387"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "WellHello": {
+    "song_ids": [
+      "mg-00389",
+      "mg-00390",
+      "mg-00391",
+      "mg-00410"
+    ],
+    "primary_song_ids": [
+      "mg-00389",
+      "mg-00390",
+      "mg-00391",
+      "mg-00410"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Wolf Kati": {
+    "song_ids": [
+      "mg-00392",
+      "mg-00393",
+      "mg-00611"
+    ],
+    "primary_song_ids": [
+      "mg-00392",
+      "mg-00393",
+      "mg-00611"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Zséda": {
+    "song_ids": [
+      "mg-00394"
+    ],
+    "primary_song_ids": [
+      "mg-00394"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Ákos": {
+    "song_ids": [
+      "mg-00397",
+      "mg-00398",
+      "mg-00661",
+      "mg-00662",
+      "mg-00663",
+      "mg-00664",
+      "mg-00665",
+      "mg-00666"
+    ],
+    "primary_song_ids": [
+      "mg-00397",
+      "mg-00398",
+      "mg-00661",
+      "mg-00662",
+      "mg-00663",
+      "mg-00664",
+      "mg-00665",
+      "mg-00666"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Dj Szatmári": {
+    "song_ids": [
+      "mg-00400"
+    ],
+    "primary_song_ids": [
+      "mg-00400"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Jucus": {
+    "song_ids": [
+      "mg-00400"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "mg-00400"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Groovehouse": {
+    "song_ids": [
+      "mg-00401",
+      "mg-00402",
+      "mg-00440"
+    ],
+    "primary_song_ids": [
+      "mg-00401",
+      "mg-00402",
+      "mg-00440"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Hevesi Tamás": {
+    "song_ids": [
+      "mg-00404"
+    ],
+    "primary_song_ids": [
+      "mg-00404"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Napoleon Boulevard": {
+    "song_ids": [
+      "mg-00406"
+    ],
+    "primary_song_ids": [
+      "mg-00406"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Rapülők": {
+    "song_ids": [
+      "mg-00407",
+      "mg-00456"
+    ],
+    "primary_song_ids": [
+      "mg-00407",
+      "mg-00456"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "UP!": {
+    "song_ids": [
+      "mg-00408"
+    ],
+    "primary_song_ids": [
+      "mg-00408"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Venus": {
+    "song_ids": [
+      "mg-00409"
+    ],
+    "primary_song_ids": [
+      "mg-00409"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Ágnes Vanilla": {
+    "song_ids": [
+      "mg-00411"
+    ],
+    "primary_song_ids": [
+      "mg-00411"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Margaret Island": {
+    "song_ids": [
+      "mg-00412"
+    ],
+    "primary_song_ids": [
+      "mg-00412"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Rúzsa Magdi": {
+    "song_ids": [
+      "mg-00416"
+    ],
+    "primary_song_ids": [
+      "mg-00416"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Lotfi Begi Madarász Gábor - Ég és föld": {
+    "song_ids": [
+      "mg-00416"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "mg-00416"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Shygys": {
+    "song_ids": [
+      "mg-00417",
+      "mg-00418",
+      "mg-00419",
+      "mg-00458"
+    ],
+    "primary_song_ids": [
+      "mg-00417",
+      "mg-00418",
+      "mg-00419",
+      "mg-00458"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Ámokfutók": {
+    "song_ids": [
+      "mg-00420"
+    ],
+    "primary_song_ids": [
+      "mg-00420"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "4F Club": {
+    "song_ids": [
+      "mg-00422"
+    ],
+    "primary_song_ids": [
+      "mg-00422"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "A.D. stúdió": {
+    "song_ids": [
+      "mg-00423"
+    ],
+    "primary_song_ids": [
+      "mg-00423"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "AD Studio": {
+    "song_ids": [
+      "mg-00425"
+    ],
+    "primary_song_ids": [
+      "mg-00425"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Azok A Fiúk": {
+    "song_ids": [
+      "mg-00426"
+    ],
+    "primary_song_ids": [
+      "mg-00426"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Beatrice": {
+    "song_ids": [
+      "mg-00427",
+      "mg-00467",
+      "mg-00502"
+    ],
+    "primary_song_ids": [
+      "mg-00427",
+      "mg-00467",
+      "mg-00502"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Betty Love": {
+    "song_ids": [
+      "mg-00428"
+    ],
+    "primary_song_ids": [
+      "mg-00428"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Bikini": {
+    "song_ids": [
+      "mg-00429",
+      "mg-00503",
+      "mg-00504",
+      "mg-00505",
+      "mg-00629"
+    ],
+    "primary_song_ids": [
+      "mg-00429",
+      "mg-00503",
+      "mg-00504",
+      "mg-00505",
+      "mg-00629"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Bon Bon": {
+    "song_ids": [
+      "mg-00430"
+    ],
+    "primary_song_ids": [
+      "mg-00430"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Delhusa Gjon": {
+    "song_ids": [
+      "mg-00434"
+    ],
+    "primary_song_ids": [
+      "mg-00434"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Első Emelet": {
+    "song_ids": [
+      "mg-00435"
+    ],
+    "primary_song_ids": [
+      "mg-00435"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Emergency House": {
+    "song_ids": [
+      "mg-00436"
+    ],
+    "primary_song_ids": [
+      "mg-00436"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Fiesta": {
+    "song_ids": [
+      "mg-00437"
+    ],
+    "primary_song_ids": [
+      "mg-00437"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Fresh": {
+    "song_ids": [
+      "mg-00438"
+    ],
+    "primary_song_ids": [
+      "mg-00438"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Groovehouse szívvel": {
+    "song_ids": [
+      "mg-00439"
+    ],
+    "primary_song_ids": [
+      "mg-00439"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "ha mégegyszer láthatnám": {
+    "song_ids": [
+      "mg-00441"
+    ],
+    "primary_song_ids": [
+      "mg-00441"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Happy Gang": {
+    "song_ids": [
+      "mg-00442"
+    ],
+    "primary_song_ids": [
+      "mg-00442"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Ibolya Oláh": {
+    "song_ids": [
+      "mg-00443"
+    ],
+    "primary_song_ids": [
+      "mg-00443"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Kerozin": {
+    "song_ids": [
+      "mg-00444"
+    ],
+    "primary_song_ids": [
+      "mg-00444"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Kovács Kati": {
+    "song_ids": [
+      "mg-00447"
+    ],
+    "primary_song_ids": [
+      "mg-00447"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "LGT": {
+    "song_ids": [
+      "mg-00449",
+      "mg-00496",
+      "mg-00497",
+      "mg-00499",
+      "mg-00560"
+    ],
+    "primary_song_ids": [
+      "mg-00449",
+      "mg-00496",
+      "mg-00497",
+      "mg-00499",
+      "mg-00560"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Lord": {
+    "song_ids": [
+      "mg-00450"
+    ],
+    "primary_song_ids": [
+      "mg-00450"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Márk": {
+    "song_ids": [
+      "mg-00451"
+    ],
+    "primary_song_ids": [
+      "mg-00451"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Máté Péter": {
+    "song_ids": [
+      "mg-00452",
+      "mg-00616",
+      "mg-00617",
+      "mg-00618",
+      "mg-00619",
+      "mg-00620",
+      "mg-00621",
+      "mg-00622",
+      "mg-00623",
+      "mg-00624",
+      "mg-00625",
+      "mg-00626",
+      "mg-00627",
+      "mg-00628"
+    ],
+    "primary_song_ids": [
+      "mg-00452",
+      "mg-00616",
+      "mg-00617",
+      "mg-00618",
+      "mg-00619",
+      "mg-00620",
+      "mg-00621",
+      "mg-00622",
+      "mg-00623",
+      "mg-00624",
+      "mg-00625",
+      "mg-00626",
+      "mg-00627",
+      "mg-00628"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Republic": {
+    "song_ids": [
+      "mg-00457",
+      "mg-00590",
+      "mg-00591",
+      "mg-00592",
+      "mg-00593",
+      "mg-00594"
+    ],
+    "primary_song_ids": [
+      "mg-00457",
+      "mg-00590",
+      "mg-00591",
+      "mg-00592",
+      "mg-00593",
+      "mg-00594"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Sing-Sing": {
+    "song_ids": [
+      "mg-00459"
+    ],
+    "primary_song_ids": [
+      "mg-00459"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Spigiboy": {
+    "song_ids": [
+      "mg-00460"
+    ],
+    "primary_song_ids": [
+      "mg-00460"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Eros Attila": {
+    "song_ids": [
+      "mg-00460"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "mg-00460"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Szűcs Judit": {
+    "song_ids": [
+      "mg-00461"
+    ],
+    "primary_song_ids": [
+      "mg-00461"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "UFO": {
+    "song_ids": [
+      "mg-00464"
+    ],
+    "primary_song_ids": [
+      "mg-00464"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Unisex": {
+    "song_ids": [
+      "mg-00465"
+    ],
+    "primary_song_ids": [
+      "mg-00465"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "V-Tech": {
+    "song_ids": [
+      "mg-00466"
+    ],
+    "primary_song_ids": [
+      "mg-00466"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Edda": {
+    "song_ids": [
+      "mg-00469",
+      "mg-00470",
+      "mg-00471",
+      "mg-00472",
+      "mg-00473",
+      "mg-00474",
+      "mg-00475",
+      "mg-00476",
+      "mg-00477",
+      "mg-00478",
+      "mg-00480",
+      "mg-00481",
+      "mg-00482",
+      "mg-00483",
+      "mg-00484",
+      "mg-00529"
+    ],
+    "primary_song_ids": [
+      "mg-00469",
+      "mg-00470",
+      "mg-00471",
+      "mg-00472",
+      "mg-00473",
+      "mg-00474",
+      "mg-00475",
+      "mg-00476",
+      "mg-00477",
+      "mg-00478",
+      "mg-00480",
+      "mg-00481",
+      "mg-00482",
+      "mg-00483",
+      "mg-00484",
+      "mg-00529"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "EDDA Művek": {
+    "song_ids": [
+      "mg-00479"
+    ],
+    "primary_song_ids": [
+      "mg-00479"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Katona Klári": {
+    "song_ids": [
+      "mg-00494",
+      "mg-00495"
+    ],
+    "primary_song_ids": [
+      "mg-00494",
+      "mg-00495"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Locomotiv GT": {
+    "song_ids": [
+      "mg-00498",
+      "mg-00562",
+      "mg-00563"
+    ],
+    "primary_song_ids": [
+      "mg-00498",
+      "mg-00562",
+      "mg-00563"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Bonanza Banzai": {
+    "song_ids": [
+      "mg-00508",
+      "mg-00509"
+    ],
+    "primary_song_ids": [
+      "mg-00508",
+      "mg-00509"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Bródy János": {
+    "song_ids": [
+      "mg-00510"
+    ],
+    "primary_song_ids": [
+      "mg-00510"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Cserháti Zsuzsa": {
+    "song_ids": [
+      "mg-00513",
+      "mg-00514"
+    ],
+    "primary_song_ids": [
+      "mg-00513",
+      "mg-00514"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Cserháti Charlie": {
+    "song_ids": [
+      "mg-00515"
+    ],
+    "primary_song_ids": [
+      "mg-00515"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Demjén": {
+    "song_ids": [
+      "mg-00518"
+    ],
+    "primary_song_ids": [
+      "mg-00518"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Demjén Ferenc": {
+    "song_ids": [
+      "mg-00519",
+      "mg-00520",
+      "mg-00521",
+      "mg-00522",
+      "mg-00523"
+    ],
+    "primary_song_ids": [
+      "mg-00519",
+      "mg-00520",
+      "mg-00521",
+      "mg-00522",
+      "mg-00523"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Deák Bill Gyula": {
+    "song_ids": [
+      "mg-00526"
+    ],
+    "primary_song_ids": [
+      "mg-00526"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Dinamit": {
+    "song_ids": [
+      "mg-00527"
+    ],
+    "primary_song_ids": [
+      "mg-00527"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Fenyő Miklós": {
+    "song_ids": [
+      "mg-00532"
+    ],
+    "primary_song_ids": [
+      "mg-00532"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Fonográf": {
+    "song_ids": [
+      "mg-00534",
+      "mg-00535"
+    ],
+    "primary_song_ids": [
+      "mg-00534",
+      "mg-00535"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Generál": {
+    "song_ids": [
+      "mg-00536"
+    ],
+    "primary_song_ids": [
+      "mg-00536"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "HONEYBEAST": {
+    "song_ids": [
+      "mg-00538",
+      "mg-00539"
+    ],
+    "primary_song_ids": [
+      "mg-00538",
+      "mg-00539"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Hooligans": {
+    "song_ids": [
+      "mg-00540",
+      "mg-00541",
+      "mg-00542"
+    ],
+    "primary_song_ids": [
+      "mg-00540",
+      "mg-00541",
+      "mg-00542"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Hungaria": {
+    "song_ids": [
+      "mg-00543",
+      "mg-00544"
+    ],
+    "primary_song_ids": [
+      "mg-00543",
+      "mg-00544"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Hungária": {
+    "song_ids": [
+      "mg-00547",
+      "mg-00548",
+      "mg-00549"
+    ],
+    "primary_song_ids": [
+      "mg-00547",
+      "mg-00548",
+      "mg-00549"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Illés": {
+    "song_ids": [
+      "mg-00551"
+    ],
+    "primary_song_ids": [
+      "mg-00551"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Ismerős Arcok": {
+    "song_ids": [
+      "mg-00552"
+    ],
+    "primary_song_ids": [
+      "mg-00552"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Karthago": {
+    "song_ids": [
+      "mg-00553",
+      "mg-00554"
+    ],
+    "primary_song_ids": [
+      "mg-00553",
+      "mg-00554"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "KFT": {
+    "song_ids": [
+      "mg-00555",
+      "mg-00556"
+    ],
+    "primary_song_ids": [
+      "mg-00555",
+      "mg-00556"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Koncz Zsuzsa": {
+    "song_ids": [
+      "mg-00557"
+    ],
+    "primary_song_ids": [
+      "mg-00557"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Kócos ki ördögök": {
+    "song_ids": [
+      "mg-00558"
+    ],
+    "primary_song_ids": [
+      "mg-00558"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Made In Hungaria Fenyő Iván": {
+    "song_ids": [
+      "mg-00564"
+    ],
+    "primary_song_ids": [
+      "mg-00564"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Magna Cum Laude": {
+    "song_ids": [
+      "mg-00566",
+      "mg-00567",
+      "mg-00568"
+    ],
+    "primary_song_ids": [
+      "mg-00566",
+      "mg-00567",
+      "mg-00568"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Mate Peter": {
+    "song_ids": [
+      "mg-00569"
+    ],
+    "primary_song_ids": [
+      "mg-00569"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "MISSH": {
+    "song_ids": [
+      "mg-00571"
+    ],
+    "primary_song_ids": [
+      "mg-00571"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "RAUL HORVÁTH TAMÁS": {
+    "song_ids": [
+      "mg-00571"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "mg-00571"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Neoton Família": {
+    "song_ids": [
+      "mg-00572",
+      "mg-00573",
+      "mg-00574",
+      "mg-00575"
+    ],
+    "primary_song_ids": [
+      "mg-00572",
+      "mg-00573",
+      "mg-00574",
+      "mg-00575"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "OMEGA Népstadion": {
+    "song_ids": [
+      "mg-00576"
+    ],
+    "primary_song_ids": [
+      "mg-00576"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "OMEGA": {
+    "song_ids": [
+      "mg-00577",
+      "mg-00631",
+      "mg-00632",
+      "mg-00633",
+      "mg-00634"
+    ],
+    "primary_song_ids": [
+      "mg-00577",
+      "mg-00631",
+      "mg-00632",
+      "mg-00633",
+      "mg-00634"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Open Stage": {
+    "song_ids": [
+      "mg-00578"
+    ],
+    "primary_song_ids": [
+      "mg-00578"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Ossian": {
+    "song_ids": [
+      "mg-00579",
+      "mg-00580"
+    ],
+    "primary_song_ids": [
+      "mg-00579",
+      "mg-00580"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Piramis": {
+    "song_ids": [
+      "mg-00582",
+      "mg-00583",
+      "mg-00584"
+    ],
+    "primary_song_ids": [
+      "mg-00582",
+      "mg-00583",
+      "mg-00584"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Pokolgép": {
+    "song_ids": [
+      "mg-00585",
+      "mg-00586",
+      "mg-00708",
+      "mg-00709",
+      "mg-00710"
+    ],
+    "primary_song_ids": [
+      "mg-00585",
+      "mg-00586",
+      "mg-00708",
+      "mg-00709",
+      "mg-00710"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Presser Gábor": {
+    "song_ids": [
+      "mg-00587"
+    ],
+    "primary_song_ids": [
+      "mg-00587"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Pásztor Anna": {
+    "song_ids": [
+      "mg-00588"
+    ],
+    "primary_song_ids": [
+      "mg-00588"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Kiscsillag": {
+    "song_ids": [
+      "mg-00588"
+    ],
+    "primary_song_ids": [
+      "mg-00588"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Szécsi Pál": {
+    "song_ids": [
+      "mg-00602"
+    ],
+    "primary_song_ids": [
+      "mg-00602"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Szűcs Judith": {
+    "song_ids": [
+      "mg-00603"
+    ],
+    "primary_song_ids": [
+      "mg-00603"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Takáts Tamás Blues Band": {
+    "song_ids": [
+      "mg-00604"
+    ],
+    "primary_song_ids": [
+      "mg-00604"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Tankcsapda": {
+    "song_ids": [
+      "mg-00605",
+      "mg-00606",
+      "mg-00607",
+      "mg-00714",
+      "mg-00715",
+      "mg-00716",
+      "mg-00717",
+      "mg-00718",
+      "mg-00719",
+      "mg-00720",
+      "mg-00721",
+      "mg-00722"
+    ],
+    "primary_song_ids": [
+      "mg-00605",
+      "mg-00606",
+      "mg-00607",
+      "mg-00714",
+      "mg-00715",
+      "mg-00716",
+      "mg-00717",
+      "mg-00718",
+      "mg-00719",
+      "mg-00720",
+      "mg-00721",
+      "mg-00722"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Vikidál Gyula": {
+    "song_ids": [
+      "mg-00610"
+    ],
+    "primary_song_ids": [
+      "mg-00610"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Zorán": {
+    "song_ids": [
+      "mg-00612",
+      "mg-00613",
+      "mg-00653",
+      "mg-00654",
+      "mg-00655",
+      "mg-00656",
+      "mg-00657",
+      "mg-00658",
+      "mg-00659"
+    ],
+    "primary_song_ids": [
+      "mg-00612",
+      "mg-00613",
+      "mg-00653",
+      "mg-00654",
+      "mg-00655",
+      "mg-00656",
+      "mg-00657",
+      "mg-00658",
+      "mg-00659"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Zorán Presser": {
+    "song_ids": [
+      "mg-00614"
+    ],
+    "primary_song_ids": [
+      "mg-00614"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Ős-Neoton": {
+    "song_ids": [
+      "mg-00615"
+    ],
+    "primary_song_ids": [
+      "mg-00615"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Nagy Feró": {
+    "song_ids": [
+      "mg-00630"
+    ],
+    "primary_song_ids": [
+      "mg-00630"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Kormorán": {
+    "song_ids": [
+      "mg-00630"
+    ],
+    "primary_song_ids": [
+      "mg-00630"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "R-GO": {
+    "song_ids": [
+      "mg-00635",
+      "mg-00636",
+      "mg-00637",
+      "mg-00638",
+      "mg-00639",
+      "mg-00640",
+      "mg-00641",
+      "mg-00642",
+      "mg-00643",
+      "mg-00644",
+      "mg-00645",
+      "mg-00646",
+      "mg-00647",
+      "mg-00648",
+      "mg-00649",
+      "mg-00650",
+      "mg-00651",
+      "mg-00652"
+    ],
+    "primary_song_ids": [
+      "mg-00635",
+      "mg-00636",
+      "mg-00637",
+      "mg-00638",
+      "mg-00639",
+      "mg-00640",
+      "mg-00641",
+      "mg-00642",
+      "mg-00643",
+      "mg-00644",
+      "mg-00645",
+      "mg-00646",
+      "mg-00647",
+      "mg-00648",
+      "mg-00649",
+      "mg-00650",
+      "mg-00651",
+      "mg-00652"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Akosh": {
+    "song_ids": [
+      "mg-00660"
+    ],
+    "primary_song_ids": [
+      "mg-00660"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Aljas kúszóbab": {
+    "song_ids": [
+      "mg-00667"
+    ],
+    "primary_song_ids": [
+      "mg-00667"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Embör vigyázz!": {
+    "song_ids": [
+      "mg-00668",
+      "mg-00669",
+      "mg-00670"
+    ],
+    "primary_song_ids": [
+      "mg-00668",
+      "mg-00669",
+      "mg-00670"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Egészséges Fejbőr": {
+    "song_ids": [
+      "mg-00673",
+      "mg-00674"
+    ],
+    "primary_song_ids": [
+      "mg-00673",
+      "mg-00674"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Egészséges Fejbőr - Kronológia": {
+    "song_ids": [
+      "mg-00676"
+    ],
+    "primary_song_ids": [
+      "mg-00676"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Egészséges fejbőr - Nem adjuk fel 2003": {
+    "song_ids": [
+      "mg-00677",
+      "mg-00678",
+      "mg-00679"
+    ],
+    "primary_song_ids": [
+      "mg-00677",
+      "mg-00678",
+      "mg-00679"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Hungarica": {
+    "song_ids": [
+      "mg-00680"
+    ],
+    "primary_song_ids": [
+      "mg-00680"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Kárpátia": {
+    "song_ids": [
+      "mg-00681",
+      "mg-00682",
+      "mg-00683",
+      "mg-00684",
+      "mg-00685",
+      "mg-00686",
+      "mg-00687",
+      "mg-00688",
+      "mg-00689",
+      "mg-00690",
+      "mg-00691",
+      "mg-00692",
+      "mg-00693",
+      "mg-00694"
+    ],
+    "primary_song_ids": [
+      "mg-00681",
+      "mg-00682",
+      "mg-00683",
+      "mg-00684",
+      "mg-00685",
+      "mg-00686",
+      "mg-00687",
+      "mg-00688",
+      "mg-00689",
+      "mg-00690",
+      "mg-00691",
+      "mg-00692",
+      "mg-00693",
+      "mg-00694"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Kimagozva 96": {
+    "song_ids": [
+      "mg-00695"
+    ],
+    "primary_song_ids": [
+      "mg-00695"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Kárpátia - Hősi énekek": {
+    "song_ids": [
+      "mg-00696",
+      "mg-00697",
+      "mg-00698",
+      "mg-00699",
+      "mg-00700"
+    ],
+    "primary_song_ids": [
+      "mg-00696",
+      "mg-00697",
+      "mg-00698",
+      "mg-00699",
+      "mg-00700"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Kárpátia Tűzzel": {
+    "song_ids": [
+      "mg-00701"
+    ],
+    "primary_song_ids": [
+      "mg-00701"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "vassal rock": {
+    "song_ids": [
+      "mg-00701"
+    ],
+    "primary_song_ids": [
+      "mg-00701"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Kárpátia Így volt! Így lesz! rock": {
+    "song_ids": [
+      "mg-00702",
+      "mg-00703",
+      "mg-00704",
+      "mg-00705"
+    ],
+    "primary_song_ids": [
+      "mg-00702",
+      "mg-00703",
+      "mg-00704",
+      "mg-00705"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "revizios dalok": {
+    "song_ids": [
+      "mg-00706",
+      "mg-00707"
+    ],
+    "primary_song_ids": [
+      "mg-00706",
+      "mg-00707"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "proSECTURA": {
+    "song_ids": [
+      "mg-00711"
+    ],
+    "primary_song_ids": [
+      "mg-00711"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "subscribe": {
+    "song_ids": [
+      "mg-00712"
+    ],
+    "primary_song_ids": [
+      "mg-00712"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Supernem": {
+    "song_ids": [
+      "mg-00713"
+    ],
+    "primary_song_ids": [
+      "mg-00713"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  }
+}

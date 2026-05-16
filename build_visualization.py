@@ -99,7 +99,7 @@ def project_points(points_dict, proj_fn):
 def export_persons(area: str) -> list[dict]:
     base = DATA_ROOT / area / "normalized"
     persons = load_json(base / "persons.json")
-    groups = load_json(base / "groups.json")
+    groups = load_json(base / "groups.json") if (base / "groups.json").exists() else {}
     songs = load_json(base / "songs.json")
     song_map = {s["song_id"]: s for s in songs}
     person_overrides, _ = load_region_overrides(area)
@@ -268,6 +268,9 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
   <div class="tab active" data-tab="us">US Rap</div>
   <div class="tab" data-tab="hu">Hungarian Rap</div>
   <div class="tab" data-tab="rnb">R&amp;B</div>
+  <div class="tab" data-tab="rock">Rock</div>
+  <div class="tab" data-tab="magyar">Magyar</div>
+  <div class="tab" data-tab="latino">Latino</div>
 </div>
 
 <div id="panel-us" class="panel">
@@ -313,6 +316,33 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
   <div class="table-wrap"><div class="table-scroll" id="table-rnb"></div></div>
 </div>
 
+<div id="panel-rock" class="panel" style="display:none">
+  <div class="stats" id="stats-rock"></div>
+  <div class="controls">
+    <input type="text" id="search-rock" placeholder="Search artists...">
+    <label><input type="checkbox" id="top100-rock"> Top 100 only</label>
+  </div>
+  <div class="table-wrap"><div class="table-scroll" id="table-rock"></div></div>
+</div>
+
+<div id="panel-magyar" class="panel" style="display:none">
+  <div class="stats" id="stats-magyar"></div>
+  <div class="controls">
+    <input type="text" id="search-magyar" placeholder="Search artists...">
+    <label><input type="checkbox" id="top100-magyar"> Top 100 only</label>
+  </div>
+  <div class="table-wrap"><div class="table-scroll" id="table-magyar"></div></div>
+</div>
+
+<div id="panel-latino" class="panel" style="display:none">
+  <div class="stats" id="stats-latino"></div>
+  <div class="controls">
+    <input type="text" id="search-latino" placeholder="Search artists...">
+    <label><input type="checkbox" id="top100-latino"> Top 100 only</label>
+  </div>
+  <div class="table-wrap"><div class="table-scroll" id="table-latino"></div></div>
+</div>
+
 <div class="fm-bg" id="fmBg">
   <div class="fm">
     <div class="fm-head"><h3 id="fmTitle"></h3><button class="fm-close" id="fmClose">&times;</button></div>
@@ -323,6 +353,9 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
 <script>
 const TREES = __FOLDER_TREES__;
 const RNB_DATA = __RNB_DATA__;
+const ROCK_DATA = __ROCK_DATA__;
+const MAGYAR_DATA = __MAGYAR_DATA__;
+const LATINO_DATA = __LATINO_DATA__;
 const US_DATA = __US_DATA__;
 const HU_DATA = __HU_DATA__;
 const US_REGIONS = __US_REGIONS__;
@@ -607,6 +640,9 @@ document.addEventListener('keydown', function(e) { if (e.key === 'Escape') docum
 setupPanel('us', US_DATA);
 setupPanel('hu', HU_DATA);
 setupPanel('rnb', RNB_DATA);
+setupPanel('rock', ROCK_DATA);
+setupPanel('magyar', MAGYAR_DATA);
+setupPanel('latino', LATINO_DATA);
 buildMap('map-us-container', 'map-us-tooltip', 'region-us', US_DATA, US_REGIONS, US_COORDS, US_OUTLINE, [900, 560], '#3b82f6');
 buildMap('map-hu-container', 'map-hu-tooltip', 'region-hu', HU_DATA, HU_REGIONS, HU_COORDS, HU_OUTLINE, [620, 260], '#dc2626');
 </script>
@@ -690,6 +726,9 @@ def main() -> int:
     us_data = export_persons("us")
     hu_data = export_persons("hungarian")
     rnb_data = export_persons("rnb")
+    rock_data = export_persons("rock")
+    magyar_data = export_persons("magyar")
+    latino_data = export_persons("latino")
     us_regions = export_regions("us")
     hu_regions = build_hu_regions_from_overrides("hungarian", hu_data)
 
@@ -706,11 +745,17 @@ def main() -> int:
     us_trees = build_folder_trees("us", us_data)
     hu_trees = build_folder_trees("hungarian", hu_data)
     rnb_trees = build_folder_trees("rnb", rnb_data)
-    all_trees = {**us_trees, **hu_trees, **rnb_trees}
+    rock_trees = build_folder_trees("rock", rock_data)
+    magyar_trees = build_folder_trees("magyar", magyar_data)
+    latino_trees = build_folder_trees("latino", latino_data)
+    all_trees = {**us_trees, **hu_trees, **rnb_trees, **rock_trees, **magyar_trees, **latino_trees}
 
     html = HTML_TEMPLATE
     html = html.replace("__FOLDER_TREES__", json.dumps(all_trees, ensure_ascii=False, separators=(',', ':')))
     html = html.replace("__RNB_DATA__", json.dumps(rnb_data, ensure_ascii=False))
+    html = html.replace("__ROCK_DATA__", json.dumps(rock_data, ensure_ascii=False))
+    html = html.replace("__MAGYAR_DATA__", json.dumps(magyar_data, ensure_ascii=False))
+    html = html.replace("__LATINO_DATA__", json.dumps(latino_data, ensure_ascii=False))
     html = html.replace("__US_DATA__", json.dumps(us_data, ensure_ascii=False))
     html = html.replace("__HU_DATA__", json.dumps(hu_data, ensure_ascii=False))
     html = html.replace("__US_REGIONS__", json.dumps(us_regions, ensure_ascii=False))

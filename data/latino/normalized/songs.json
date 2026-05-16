@@ -1,0 +1,5773 @@
+[
+  {
+    "song_id": "lt-00001",
+    "file": "_other\\_latino\\01. Anitta - Envolver [Official Music Video].mp3",
+    "title": "Envolver []",
+    "primary_artists": [
+      "Anitta"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Anitta"
+    ],
+    "credits": [
+      {
+        "entity": "Anitta",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00002",
+    "file": "_other\\_latino\\24. Arcángel, Sech, Romeo Santos - Sigues Con Él Remix (Video Oficial).mp3",
+    "title": "Sigues Con Él Remix ()",
+    "primary_artists": [
+      "Arcángel",
+      "Sech",
+      "Romeo Santos"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Arcángel",
+      "Sech",
+      "Romeo Santos"
+    ],
+    "credits": [
+      {
+        "entity": "Arcángel",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Sech",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Romeo Santos",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00003",
+    "file": "_other\\_latino\\43. iZaak - A Veces (Video Oficial).mp3",
+    "title": "A Veces ()",
+    "primary_artists": [
+      "iZaak"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "iZaak"
+    ],
+    "credits": [
+      {
+        "entity": "iZaak",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00004",
+    "file": "_other\\_latino\\_oldschool\\34. Daddy Yankee & Snow - Con Calma (Video Oficial).mp3",
+    "title": "Con Calma ()",
+    "primary_artists": [
+      "Daddy Yankee",
+      "Snow"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Daddy Yankee",
+      "Snow"
+    ],
+    "credits": [
+      {
+        "entity": "Daddy Yankee",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Snow",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00005",
+    "file": "_other\\_latino\\_oldschool\\Baby bash\\BABY BASH  Na Na  (the yummy song).mp3",
+    "title": "BABY BASH Na Na (the yummy song)",
+    "primary_artists": [
+      "Baby Bash"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Baby Bash"
+    ],
+    "credits": [
+      {
+        "entity": "Baby Bash",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00006",
+    "file": "_other\\_latino\\_oldschool\\Baby bash\\Baby Bash - Cyclone ft. T-Pain.mp3",
+    "title": "Cyclone ft",
+    "primary_artists": [
+      "Baby Bash"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Baby Bash"
+    ],
+    "credits": [
+      {
+        "entity": "Baby Bash",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00007",
+    "file": "_other\\_latino\\_oldschool\\Baby bash\\Baby Bash ft. Frankie J - Suga Suga (Official Video).mp3",
+    "title": "Suga Suga ()",
+    "primary_artists": [
+      "Baby Bash"
+    ],
+    "featuring_artists": [
+      "Frankie J"
+    ],
+    "artists": [
+      "Baby Bash",
+      "Frankie J"
+    ],
+    "credits": [
+      {
+        "entity": "Baby Bash",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Frankie J",
+        "entity_type": "person",
+        "role": "feature"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00008",
+    "file": "_other\\_latino\\_oldschool\\Baby bash\\Baby Bash, Lucky Luciano Ft Oral B - Image Of A Pimp.mp3",
+    "title": "Baby Bash, Lucky Luciano",
+    "primary_artists": [
+      "Baby Bash"
+    ],
+    "featuring_artists": [
+      "Oral B - Image Of A Pimp"
+    ],
+    "artists": [
+      "Baby Bash",
+      "Oral B - Image Of A Pimp"
+    ],
+    "credits": [
+      {
+        "entity": "Baby Bash",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Oral B - Image Of A Pimp",
+        "entity_type": "person",
+        "role": "feature"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00009",
+    "file": "_other\\_latino\\_oldschool\\Baby bash\\Baby I_m Back- Baby Bash  Lyrics.mp3",
+    "title": "Baby I m Back- Baby Bash Lyrics",
+    "primary_artists": [
+      "Baby Bash"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Baby Bash"
+    ],
+    "credits": [
+      {
+        "entity": "Baby Bash",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00010",
+    "file": "_other\\_latino\\_oldschool\\Baby bash\\Shaggy - Angel ft. Rayvon (Official Music Video).mp3",
+    "title": "Angel ft",
+    "primary_artists": [
+      "Shaggy"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Shaggy"
+    ],
+    "credits": [
+      {
+        "entity": "Shaggy",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00011",
+    "file": "_other\\_latino\\_oldschool\\bachata\\Aventura- Obsesion lyrics.flv.mp3",
+    "title": "Aventura- Obsesion lyrics.flv",
+    "primary_artists": [
+      "bachata"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "bachata"
+    ],
+    "credits": [
+      {
+        "entity": "bachata",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00012",
+    "file": "_other\\_latino\\_oldschool\\bachata\\Don Omar - Angelito (Official Music Video).mp3",
+    "title": "Angelito ()",
+    "primary_artists": [
+      "Don Omar"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Don Omar"
+    ],
+    "credits": [
+      {
+        "entity": "Don Omar",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00013",
+    "file": "_other\\_latino\\_oldschool\\bachata\\La Factoria - Perdoname ft. Eddy Lover.mp3",
+    "title": "Perdoname ft",
+    "primary_artists": [
+      "La Factoria"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "La Factoria"
+    ],
+    "credits": [
+      {
+        "entity": "La Factoria",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00014",
+    "file": "_other\\_latino\\_oldschool\\bachata\\Michel Teló - Ai Se Eu Te Pego -  Video Oficial (Assim você me mata).mp3",
+    "title": "Ai Se Eu Te Pego - (Assim você me mata)",
+    "primary_artists": [
+      "Michel Teló"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Michel Teló"
+    ],
+    "credits": [
+      {
+        "entity": "Michel Teló",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00015",
+    "file": "_other\\_latino\\_oldschool\\bachata\\Monchy & Alexandra - Dos Locos - Video Lyric.mp3",
+    "title": "Dos Locos - Video Lyric",
+    "primary_artists": [
+      "Monchy",
+      "Alexandra"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Monchy",
+      "Alexandra"
+    ],
+    "credits": [
+      {
+        "entity": "Monchy",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Alexandra",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00016",
+    "file": "_other\\_latino\\_oldschool\\bachata\\Natti Natasha x Ozuna - Criminal ( Official Audio) Letra.mp3",
+    "title": "Criminal ( ) Letra",
+    "primary_artists": [
+      "Natti Natasha",
+      "Ozuna"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Natti Natasha",
+      "Ozuna"
+    ],
+    "credits": [
+      {
+        "entity": "Natti Natasha",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Ozuna",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00017",
+    "file": "_other\\_latino\\_oldschool\\bachata\\Prince Royce - Corazon Sin Cara (Official Video).mp3",
+    "title": "Corazon Sin Cara ()",
+    "primary_artists": [
+      "Prince Royce"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Prince Royce"
+    ],
+    "credits": [
+      {
+        "entity": "Prince Royce",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00018",
+    "file": "_other\\_latino\\_oldschool\\bachata\\Prince Royce - Darte un Beso.mp3",
+    "title": "Darte un Beso",
+    "primary_artists": [
+      "Prince Royce"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Prince Royce"
+    ],
+    "credits": [
+      {
+        "entity": "Prince Royce",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00019",
+    "file": "_other\\_latino\\_oldschool\\bachata\\Santana - Maria Maria ft. The Product G&B (Official Video).mp3",
+    "title": "Maria Maria ft",
+    "primary_artists": [
+      "Santana"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Santana"
+    ],
+    "credits": [
+      {
+        "entity": "Santana",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00020",
+    "file": "_other\\_latino\\_oldschool\\bachata\\Sweet Dreams (Are Made of This).mp3",
+    "title": "Sweet Dreams (Are Made of This)",
+    "primary_artists": [
+      "bachata"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "bachata"
+    ],
+    "credits": [
+      {
+        "entity": "bachata",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00021",
+    "file": "_other\\_latino\\_oldschool\\Becky G, Natti Natasha - Sin Pijama (Official Video).mp3",
+    "title": "Sin Pijama ()",
+    "primary_artists": [
+      "Becky G",
+      "Natti Natasha"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Becky G",
+      "Natti Natasha"
+    ],
+    "credits": [
+      {
+        "entity": "Becky G",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Natti Natasha",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00022",
+    "file": "_other\\_latino\\_oldschool\\Calema\\Calema - A Nossa Dança (Starring Toy).mp3",
+    "title": "A Nossa Dança (Starring Toy)",
+    "primary_artists": [
+      "Calema"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Calema"
+    ],
+    "credits": [
+      {
+        "entity": "Calema",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00023",
+    "file": "_other\\_latino\\_oldschool\\Calema\\Calema - Dá-me Dá-me.mp3",
+    "title": "Dá-me Dá-me",
+    "primary_artists": [
+      "Calema"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Calema"
+    ],
+    "credits": [
+      {
+        "entity": "Calema",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00024",
+    "file": "_other\\_latino\\_oldschool\\Calema\\Calema - Perfume (Oficial Music Video).mp3",
+    "title": "Perfume (Oficial Music Video)",
+    "primary_artists": [
+      "Calema"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Calema"
+    ],
+    "credits": [
+      {
+        "entity": "Calema",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00025",
+    "file": "_other\\_latino\\_oldschool\\Calema\\Calema - Regras (Starring Jacira).mp3",
+    "title": "Regras (Starring Jacira)",
+    "primary_artists": [
+      "Calema"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Calema"
+    ],
+    "credits": [
+      {
+        "entity": "Calema",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00026",
+    "file": "_other\\_latino\\_oldschool\\Calema\\Calema - Tempo (Official Lyrics).mp3",
+    "title": "Tempo (Official Lyrics)",
+    "primary_artists": [
+      "Calema"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Calema"
+    ],
+    "credits": [
+      {
+        "entity": "Calema",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00027",
+    "file": "_other\\_latino\\_oldschool\\Calema\\Calema - Vai  A Origem.mp3",
+    "title": "Vai A Origem",
+    "primary_artists": [
+      "Calema"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Calema"
+    ],
+    "credits": [
+      {
+        "entity": "Calema",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00028",
+    "file": "_other\\_latino\\_oldschool\\Calema\\Calema - Vai.mp3",
+    "title": "Vai",
+    "primary_artists": [
+      "Calema"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Calema"
+    ],
+    "credits": [
+      {
+        "entity": "Calema",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00029",
+    "file": "_other\\_latino\\_oldschool\\Calema\\Rapaz 100 Juiz - Preparado ft. Calema.mp3",
+    "title": "Preparado ft",
+    "primary_artists": [
+      "Rapaz 100 Juiz"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Rapaz 100 Juiz"
+    ],
+    "credits": [
+      {
+        "entity": "Rapaz 100 Juiz",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00030",
+    "file": "_other\\_latino\\_oldschool\\Calema\\SoulPlay - Corazón (Maluma feat. Nego do Borel) SOULPLAY COVER.mp3",
+    "title": "Corazón (Maluma feat",
+    "primary_artists": [
+      "SoulPlay"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "SoulPlay"
+    ],
+    "credits": [
+      {
+        "entity": "SoulPlay",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00031",
+    "file": "_other\\_latino\\_oldschool\\Calema\\Te Amo.mp3",
+    "title": "Te Amo",
+    "primary_artists": [
+      "Calema"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Calema"
+    ],
+    "credits": [
+      {
+        "entity": "Calema",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00032",
+    "file": "_other\\_latino\\_oldschool\\fast wine\\Gyptian - Hold You   Official Music Video.mp3",
+    "title": "Hold You",
+    "primary_artists": [
+      "Gyptian"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Gyptian"
+    ],
+    "credits": [
+      {
+        "entity": "Gyptian",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00033",
+    "file": "_other\\_latino\\_oldschool\\fast wine\\Rupee - Tempted 2 Touch.mp3",
+    "title": "Tempted 2 Touch",
+    "primary_artists": [
+      "Rupee"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Rupee"
+    ],
+    "credits": [
+      {
+        "entity": "Rupee",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00034",
+    "file": "_other\\_latino\\_oldschool\\kizomba\\3 Finer - Yonara (Official Video).mp3",
+    "title": "Yonara ()",
+    "primary_artists": [
+      "Finer"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Finer"
+    ],
+    "credits": [
+      {
+        "entity": "Finer",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00035",
+    "file": "_other\\_latino\\_oldschool\\kizomba\\Angel Fortes - Cartas de Amor [Lyric].mp3",
+    "title": "Cartas de Amor [Lyric]",
+    "primary_artists": [
+      "Angel Fortes"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Angel Fortes"
+    ],
+    "credits": [
+      {
+        "entity": "Angel Fortes",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00036",
+    "file": "_other\\_latino\\_oldschool\\kizomba\\Ben po - Natuliza boli.mp3",
+    "title": "Natuliza boli",
+    "primary_artists": [
+      "Ben po"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Ben po"
+    ],
+    "credits": [
+      {
+        "entity": "Ben po",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00037",
+    "file": "_other\\_latino\\_oldschool\\kizomba\\Binhan - Guiné Nha Terra (Feat. Monica Seka).mp3",
+    "title": "Guiné Nha Terra (Feat",
+    "primary_artists": [
+      "Binhan"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Binhan"
+    ],
+    "credits": [
+      {
+        "entity": "Binhan",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00038",
+    "file": "_other\\_latino\\_oldschool\\kizomba\\Boca Feia.mp3",
+    "title": "Boca Feia",
+    "primary_artists": [
+      "N/A"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "N/A"
+    ],
+    "credits": [
+      {
+        "entity": "N/A",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "unattributed"
+  },
+  {
+    "song_id": "lt-00039",
+    "file": "_other\\_latino\\_oldschool\\kizomba\\C4 Pedro - Love Again feat Sauti Sol.mp3",
+    "title": "Love Again",
+    "primary_artists": [
+      "C4 Pedro"
+    ],
+    "featuring_artists": [
+      "Sauti Sol"
+    ],
+    "artists": [
+      "C4 Pedro",
+      "Sauti Sol"
+    ],
+    "credits": [
+      {
+        "entity": "C4 Pedro",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Sauti Sol",
+        "entity_type": "person",
+        "role": "feature"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00040",
+    "file": "_other\\_latino\\_oldschool\\kizomba\\C4 Pedro - Não Me Pede [Video Lyrics].mp3",
+    "title": "Não Me Pede [Video Lyrics]",
+    "primary_artists": [
+      "C4 Pedro"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "C4 Pedro"
+    ],
+    "credits": [
+      {
+        "entity": "C4 Pedro",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00041",
+    "file": "_other\\_latino\\_oldschool\\kizomba\\Claudio Fénix - Volta Só Já (feat. Lil Saint)   Official Video.mp3",
+    "title": "Volta Só Já (feat",
+    "primary_artists": [
+      "Claudio Fénix"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Claudio Fénix"
+    ],
+    "credits": [
+      {
+        "entity": "Claudio Fénix",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00042",
+    "file": "_other\\_latino\\_oldschool\\kizomba\\Cláudio Pina - Até ao Fim (Vídeo Oficial).mp3",
+    "title": "Até ao Fim (Vídeo Oficial)",
+    "primary_artists": [
+      "Cláudio Pina"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Cláudio Pina"
+    ],
+    "credits": [
+      {
+        "entity": "Cláudio Pina",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00043",
+    "file": "_other\\_latino\\_oldschool\\kizomba\\Cordas do Sol - Shò Pardal.mp3",
+    "title": "Shò Pardal",
+    "primary_artists": [
+      "Cordas do Sol"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Cordas do Sol"
+    ],
+    "credits": [
+      {
+        "entity": "Cordas do Sol",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00044",
+    "file": "_other\\_latino\\_oldschool\\kizomba\\Cubitaa Tks - Me Fala.mp3",
+    "title": "Me Fala",
+    "primary_artists": [
+      "Cubitaa Tks"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Cubitaa Tks"
+    ],
+    "credits": [
+      {
+        "entity": "Cubitaa Tks",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00045",
+    "file": "_other\\_latino\\_oldschool\\kizomba\\Djeguedje - Preto Show feat Anderson Mário (Vídeo Oficial).mp3",
+    "title": "Preto Show",
+    "primary_artists": [
+      "Djeguedje"
+    ],
+    "featuring_artists": [
+      "Anderson Mário"
+    ],
+    "artists": [
+      "Djeguedje",
+      "Anderson Mário"
+    ],
+    "credits": [
+      {
+        "entity": "Djeguedje",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Anderson Mário",
+        "entity_type": "person",
+        "role": "feature"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00046",
+    "file": "_other\\_latino\\_oldschool\\kizomba\\Fantomel - Shake   Official Lyric Video.mp3",
+    "title": "Shake",
+    "primary_artists": [
+      "Fantomel"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Fantomel"
+    ],
+    "credits": [
+      {
+        "entity": "Fantomel",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00047",
+    "file": "_other\\_latino\\_oldschool\\kizomba\\FATOUMATA - KIZOMBA REMIX - DJ RADIKAL.mp3",
+    "title": "KIZOMBA REMIX - DJ RADIKAL",
+    "primary_artists": [
+      "FATOUMATA"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "FATOUMATA"
+    ],
+    "credits": [
+      {
+        "entity": "FATOUMATA",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00048",
+    "file": "_other\\_latino\\_oldschool\\kizomba\\Garry - Vida Kim Skodji (Feat. Petcha) [Video Oficial] “NovoCiclo“ Parte2 - 2023.mp3",
+    "title": "Vida Kim Skodji (Feat",
+    "primary_artists": [
+      "Garry"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Garry"
+    ],
+    "credits": [
+      {
+        "entity": "Garry",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00049",
+    "file": "_other\\_latino\\_oldschool\\kizomba\\Gerilson Insrael - Anjo Mulher  [Vídeo Oficial] 2024.mp3",
+    "title": "Anjo Mulher [Vídeo Oficial] 2024",
+    "primary_artists": [
+      "Gerilson Insrael"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Gerilson Insrael"
+    ],
+    "credits": [
+      {
+        "entity": "Gerilson Insrael",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00050",
+    "file": "_other\\_latino\\_oldschool\\kizomba\\Gerilson Insrael - Estou Paiado (Official Video).mp3",
+    "title": "Estou Paiado ()",
+    "primary_artists": [
+      "Gerilson Insrael"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Gerilson Insrael"
+    ],
+    "credits": [
+      {
+        "entity": "Gerilson Insrael",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00051",
+    "file": "_other\\_latino\\_oldschool\\kizomba\\Ir-sais - Amore (Prod.Iri).mp3",
+    "title": "Amore (Prod",
+    "primary_artists": [
+      "Ir-sais"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Ir-sais"
+    ],
+    "credits": [
+      {
+        "entity": "Ir-sais",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00052",
+    "file": "_other\\_latino\\_oldschool\\kizomba\\Irina Barros  - Kanormal (Official Video).mp3",
+    "title": "Kanormal ()",
+    "primary_artists": [
+      "Irina Barros"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Irina Barros"
+    ],
+    "credits": [
+      {
+        "entity": "Irina Barros",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00053",
+    "file": "_other\\_latino\\_oldschool\\kizomba\\Jey V - Deixa O Mundo Falar.mp3",
+    "title": "Deixa O Mundo Falar",
+    "primary_artists": [
+      "Jey V"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Jey V"
+    ],
+    "credits": [
+      {
+        "entity": "Jey V",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00054",
+    "file": "_other\\_latino\\_oldschool\\kizomba\\KIZNYOU PRODUCTIONS - EU E TU - JUVENCIO FEAT JULLY TAMIRES (OFFICIAL VIDEO).mp3",
+    "title": "EU E TU - JUVENCIO",
+    "primary_artists": [
+      "KIZNYOU PRODUCTIONS"
+    ],
+    "featuring_artists": [
+      "JULLY TAMIRES"
+    ],
+    "artists": [
+      "KIZNYOU PRODUCTIONS",
+      "JULLY TAMIRES"
+    ],
+    "credits": [
+      {
+        "entity": "KIZNYOU PRODUCTIONS",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "JULLY TAMIRES",
+        "entity_type": "person",
+        "role": "feature"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00055",
+    "file": "_other\\_latino\\_oldschool\\kizomba\\Liriany - Faço Como (Official Video).mp3",
+    "title": "Faço Como ()",
+    "primary_artists": [
+      "Liriany"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Liriany"
+    ],
+    "credits": [
+      {
+        "entity": "Liriany",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00056",
+    "file": "_other\\_latino\\_oldschool\\kizomba\\Lisandro Cuxi - Limbisa (Kriolu Version) (Clip officiel).mp3",
+    "title": "Limbisa (Kriolu Version) ()",
+    "primary_artists": [
+      "Lisandro Cuxi"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Lisandro Cuxi"
+    ],
+    "credits": [
+      {
+        "entity": "Lisandro Cuxi",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00057",
+    "file": "_other\\_latino\\_oldschool\\kizomba\\LOONY JOHNSON - NUMERO UM ( AUDIO ).mp3",
+    "title": "NUMERO UM ( AUDIO )",
+    "primary_artists": [
+      "LOONY JOHNSON"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "LOONY JOHNSON"
+    ],
+    "credits": [
+      {
+        "entity": "LOONY JOHNSON",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00058",
+    "file": "_other\\_latino\\_oldschool\\kizomba\\Mayra Andrade - Tan Kalakatan   A COLORS SHOW.mp3",
+    "title": "Tan Kalakatan A COLORS SHOW",
+    "primary_artists": [
+      "Mayra Andrade"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Mayra Andrade"
+    ],
+    "credits": [
+      {
+        "entity": "Mayra Andrade",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00059",
+    "file": "_other\\_latino\\_oldschool\\kizomba\\MDO - Me Perdoa.mp3",
+    "title": "Me Perdoa",
+    "primary_artists": [
+      "MDO"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "MDO"
+    ],
+    "credits": [
+      {
+        "entity": "MDO",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00060",
+    "file": "_other\\_latino\\_oldschool\\kizomba\\PSon Zubaboy - Beautiful Thing x Slimmz (Prod by C-Tea).mp3",
+    "title": "Beautiful Thing x Slimmz (",
+    "primary_artists": [
+      "PSon Zubaboy"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "PSon Zubaboy"
+    ],
+    "credits": [
+      {
+        "entity": "PSon Zubaboy",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00061",
+    "file": "_other\\_latino\\_oldschool\\kizomba\\Shellsy Baronet ft. Filho do Zua - Qualé [2019].mp3",
+    "title": "Qualé [2019]",
+    "primary_artists": [
+      "Shellsy Baronet"
+    ],
+    "featuring_artists": [
+      "Filho do Zua"
+    ],
+    "artists": [
+      "Shellsy Baronet",
+      "Filho do Zua"
+    ],
+    "credits": [
+      {
+        "entity": "Shellsy Baronet",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Filho do Zua",
+        "entity_type": "person",
+        "role": "feature"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00062",
+    "file": "_other\\_latino\\_oldschool\\kizomba\\Soarito - O Lamento (feat. C4 Pedro) Official Vídeo.mp3",
+    "title": "O Lamento (feat",
+    "primary_artists": [
+      "Soarito"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Soarito"
+    ],
+    "credits": [
+      {
+        "entity": "Soarito",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00063",
+    "file": "_other\\_latino\\_oldschool\\kizomba\\Voce me Kuia.mp3",
+    "title": "Voce me Kuia",
+    "primary_artists": [
+      "N/A"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "N/A"
+    ],
+    "credits": [
+      {
+        "entity": "N/A",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "unattributed"
+  },
+  {
+    "song_id": "lt-00064",
+    "file": "_other\\_latino\\_oldschool\\kizomba\\YANTUMYE   KIZOMBA REMIX   DJ RADIKAL.mp3",
+    "title": "YANTUMYE KIZOMBA REMIX DJ RADIKAL",
+    "primary_artists": [
+      "N/A"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "N/A"
+    ],
+    "credits": [
+      {
+        "entity": "N/A",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "unattributed"
+  },
+  {
+    "song_id": "lt-00065",
+    "file": "_other\\_latino\\_oldschool\\latin old academia\\Dura.mp3",
+    "title": "Dura",
+    "primary_artists": [
+      "latin old academia"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "latin old academia"
+    ],
+    "credits": [
+      {
+        "entity": "latin old academia",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00066",
+    "file": "_other\\_latino\\_oldschool\\Pachanga - Calienta.mp3",
+    "title": "Calienta",
+    "primary_artists": [
+      "Pachanga"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Pachanga"
+    ],
+    "credits": [
+      {
+        "entity": "Pachanga",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00067",
+    "file": "_other\\_latino\\_oldschool\\Pachanga - Loco.mp3",
+    "title": "Loco",
+    "primary_artists": [
+      "Pachanga"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Pachanga"
+    ],
+    "credits": [
+      {
+        "entity": "Pachanga",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00068",
+    "file": "_other\\_latino\\_oldschool\\soca\\Drastic Feat. Shal Marshall - Bam Bam (REMIX)  2014 Antigua Soca.mp3",
+    "title": "Bam Bam (REMIX) 2014 Antigua Soca",
+    "primary_artists": [
+      "Drastic"
+    ],
+    "featuring_artists": [
+      "Shal Marshall"
+    ],
+    "artists": [
+      "Drastic",
+      "Shal Marshall"
+    ],
+    "credits": [
+      {
+        "entity": "Drastic",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Shal Marshall",
+        "entity_type": "person",
+        "role": "feature"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00069",
+    "file": "_other\\_latino\\_oldschool\\soca\\GBM Nutron - Practice [2019 Soca] [HD].mp3",
+    "title": "Practice [2019 Soca] []",
+    "primary_artists": [
+      "GBM Nutron"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "GBM Nutron"
+    ],
+    "credits": [
+      {
+        "entity": "GBM Nutron",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00070",
+    "file": "_other\\_latino\\_oldschool\\soca\\Kat DeLuna - Drop It Low.mp3",
+    "title": "Drop It Low",
+    "primary_artists": [
+      "Kat DeLuna"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Kat DeLuna"
+    ],
+    "credits": [
+      {
+        "entity": "Kat DeLuna",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00071",
+    "file": "_other\\_latino\\_oldschool\\soca\\Kat DeLuna - Push Push (feat. Akon) NEW SINGLE 2010.mp3",
+    "title": "Push Push (feat",
+    "primary_artists": [
+      "Kat DeLuna"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Kat DeLuna"
+    ],
+    "credits": [
+      {
+        "entity": "Kat DeLuna",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00072",
+    "file": "_other\\_latino\\_oldschool\\soca\\Kevin Lyttle - Turn Me On (feat. Spraga Benz) [Official Video].mp3",
+    "title": "Turn Me On (feat",
+    "primary_artists": [
+      "Kevin Lyttle"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Kevin Lyttle"
+    ],
+    "credits": [
+      {
+        "entity": "Kevin Lyttle",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00073",
+    "file": "_other\\_latino\\_oldschool\\soca\\Voice - Far From Finished  2017 Soca  (Official Audio).mp3",
+    "title": "Far From Finished 2017 Soca ()",
+    "primary_artists": [
+      "Voice"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Voice"
+    ],
+    "credits": [
+      {
+        "entity": "Voice",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00074",
+    "file": "_other\\_latino\\_oldschool\\The fast and the furious soundtrack-Live - Deep enough.mp3",
+    "title": "Deep enough",
+    "primary_artists": [
+      "The fast"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "The fast"
+    ],
+    "credits": [
+      {
+        "entity": "The fast",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00075",
+    "file": "_other\\_latino\\_oldschool\\Xtreme\\Friday Nigh - Xtreme.mp3",
+    "title": "Xtreme",
+    "primary_artists": [
+      "Friday Nigh"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Friday Nigh"
+    ],
+    "credits": [
+      {
+        "entity": "Friday Nigh",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00076",
+    "file": "_other\\_latino\\_oldschool\\Xtreme\\XTREME  MY FANTASY  ft Sofla Kings - New English Track.mp3",
+    "title": "New English Track",
+    "primary_artists": [
+      "XTREME MY FANTASY"
+    ],
+    "featuring_artists": [
+      "Sofla Kings"
+    ],
+    "artists": [
+      "XTREME MY FANTASY",
+      "Sofla Kings"
+    ],
+    "credits": [
+      {
+        "entity": "XTREME MY FANTASY",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Sofla Kings",
+        "entity_type": "person",
+        "role": "feature"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00077",
+    "file": "_other\\_latino\\_oldschool\\Xtreme\\XTREME -  Por Que Será  (LETRAS).mp3",
+    "title": "Por Que Será (LETRAS)",
+    "primary_artists": [
+      "Xtreme"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Xtreme"
+    ],
+    "credits": [
+      {
+        "entity": "Xtreme",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00078",
+    "file": "_other\\_latino\\_oldschool\\Xtreme\\XTREME -  QUIERO (LETRAS).mp3",
+    "title": "QUIERO (LETRAS)",
+    "primary_artists": [
+      "Xtreme"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Xtreme"
+    ],
+    "credits": [
+      {
+        "entity": "Xtreme",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00079",
+    "file": "_other\\_latino\\_oldschool\\Xtreme\\Xtreme - Adonde Se Fue.mp3",
+    "title": "Adonde Se Fue",
+    "primary_artists": [
+      "Xtreme"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Xtreme"
+    ],
+    "credits": [
+      {
+        "entity": "Xtreme",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00080",
+    "file": "_other\\_latino\\_oldschool\\Xtreme\\Xtreme - Lloro Y Lloro.mp3",
+    "title": "Lloro Y Lloro",
+    "primary_artists": [
+      "Xtreme"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Xtreme"
+    ],
+    "credits": [
+      {
+        "entity": "Xtreme",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00081",
+    "file": "_other\\_latino\\_oldschool\\Xtreme\\Xtreme - Si La Ves.mp3",
+    "title": "Si La Ves",
+    "primary_artists": [
+      "Xtreme"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Xtreme"
+    ],
+    "credits": [
+      {
+        "entity": "Xtreme",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00082",
+    "file": "_other\\_latino\\_oldschool\\Xtreme\\Xtreme - Te Extraño (Bachata).mp3",
+    "title": "Te Extraño (Bachata)",
+    "primary_artists": [
+      "Xtreme"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Xtreme"
+    ],
+    "credits": [
+      {
+        "entity": "Xtreme",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00083",
+    "file": "_other\\_latino\\_oldschool\\Xtreme\\ya no aguanto mas- Xtreme.mp3",
+    "title": "ya no aguanto mas- Xtreme",
+    "primary_artists": [
+      "Xtreme"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Xtreme"
+    ],
+    "credits": [
+      {
+        "entity": "Xtreme",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00084",
+    "file": "_other\\_latino\\_random\\Anitta Best Hits\\BELLAKEO.mp3",
+    "title": "BELLAKEO",
+    "primary_artists": [
+      "Anitta"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Anitta"
+    ],
+    "credits": [
+      {
+        "entity": "Anitta",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00085",
+    "file": "_other\\_latino\\_random\\Anitta Best Hits\\Indecente.mp3",
+    "title": "Indecente",
+    "primary_artists": [
+      "Anitta"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Anitta"
+    ],
+    "credits": [
+      {
+        "entity": "Anitta",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00086",
+    "file": "_other\\_latino\\_random\\Anitta Best Hits\\Muito Calor.mp3",
+    "title": "Muito Calor",
+    "primary_artists": [
+      "Anitta"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Anitta"
+    ],
+    "credits": [
+      {
+        "entity": "Anitta",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00087",
+    "file": "_other\\_latino\\_random\\Anitta Best Hits\\Nu.mp3",
+    "title": "Nu",
+    "primary_artists": [
+      "Anitta"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Anitta"
+    ],
+    "credits": [
+      {
+        "entity": "Anitta",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00088",
+    "file": "_other\\_latino\\_random\\Anitta Best Hits\\TODO O NADA.mp3",
+    "title": "TODO O NADA",
+    "primary_artists": [
+      "Anitta"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Anitta"
+    ],
+    "credits": [
+      {
+        "entity": "Anitta",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00089",
+    "file": "_other\\_latino\\_random\\Anitta Best Hits\\Você Partiu Meu Coração.mp3",
+    "title": "Você Partiu Meu Coração",
+    "primary_artists": [
+      "Anitta"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Anitta"
+    ],
+    "credits": [
+      {
+        "entity": "Anitta",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00090",
+    "file": "_other\\_latino\\_random\\karol g - Tropicoqueta\\Cuando Me Muera Te Olvido.mp3",
+    "title": "Cuando Me Muera Te Olvido",
+    "primary_artists": [
+      "Karol G"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Karol G"
+    ],
+    "credits": [
+      {
+        "entity": "Karol G",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00091",
+    "file": "_other\\_latino\\_random\\karol g - Tropicoqueta\\Dile Luna.mp3",
+    "title": "Dile Luna",
+    "primary_artists": [
+      "Karol G"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Karol G"
+    ],
+    "credits": [
+      {
+        "entity": "Karol G",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00092",
+    "file": "_other\\_latino\\_random\\karol g - Tropicoqueta\\FKN Movie.mp3",
+    "title": "FKN Movie",
+    "primary_artists": [
+      "Karol G"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Karol G"
+    ],
+    "credits": [
+      {
+        "entity": "Karol G",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00093",
+    "file": "_other\\_latino\\_random\\karol g - Tropicoqueta\\Ivonny Bonita.mp3",
+    "title": "Ivonny Bonita",
+    "primary_artists": [
+      "Karol G"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Karol G"
+    ],
+    "credits": [
+      {
+        "entity": "Karol G",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00094",
+    "file": "_other\\_latino\\_random\\latin FELIPE\\Andy Rivera, Lío (Video Oficial).mp3",
+    "title": "Andy Rivera, Lío ()",
+    "primary_artists": [
+      "N/A"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "N/A"
+    ],
+    "credits": [
+      {
+        "entity": "N/A",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "unattributed"
+  },
+  {
+    "song_id": "lt-00095",
+    "file": "_other\\_latino\\_random\\latin FELIPE\\Anuel AA, Dj Luian, Mambo Kingz - Mejor Que Yo (Video Oficial).mp3",
+    "title": "Mejor Que Yo ()",
+    "primary_artists": [
+      "Anuel AA",
+      "Dj Luian",
+      "Mambo Kingz"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Anuel AA",
+      "Dj Luian",
+      "Mambo Kingz"
+    ],
+    "credits": [
+      {
+        "entity": "Anuel AA",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Dj Luian",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Mambo Kingz",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00096",
+    "file": "_other\\_latino\\_random\\latin FELIPE\\AP.mp3",
+    "title": "AP",
+    "primary_artists": [
+      "N/A"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "N/A"
+    ],
+    "credits": [
+      {
+        "entity": "N/A",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "unattributed"
+  },
+  {
+    "song_id": "lt-00097",
+    "file": "_other\\_latino\\_random\\latin FELIPE\\Arcángel, Miky Woodz, Jay Wheeler - Si Te Veo (Video Oficial).mp3",
+    "title": "Si Te Veo ()",
+    "primary_artists": [
+      "Arcángel",
+      "Miky Woodz",
+      "Jay Wheeler"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Arcángel",
+      "Miky Woodz",
+      "Jay Wheeler"
+    ],
+    "credits": [
+      {
+        "entity": "Arcángel",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Miky Woodz",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Jay Wheeler",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00098",
+    "file": "_other\\_latino\\_random\\latin FELIPE\\BLESSD  ❌ Ovy On The Drums - BILLBOARD (Official Video).mp3",
+    "title": "BILLBOARD ()",
+    "primary_artists": [
+      "BLESSD ❌ Ovy On The Drums"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "BLESSD ❌ Ovy On The Drums"
+    ],
+    "credits": [
+      {
+        "entity": "BLESSD ❌ Ovy On The Drums",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00099",
+    "file": "_other\\_latino\\_random\\latin FELIPE\\Chencho Corleone - Un Cigarrillo (Official Video).mp3",
+    "title": "Un Cigarrillo ()",
+    "primary_artists": [
+      "Chencho Corleone"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Chencho Corleone"
+    ],
+    "credits": [
+      {
+        "entity": "Chencho Corleone",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00100",
+    "file": "_other\\_latino\\_random\\latin FELIPE\\Cosculluela x Genio x Arcangel x De La Ghetto - Tirame (Audio Oficial).mp3",
+    "title": "Cosculluela x Genio x Arcangel x De La Ghetto - Tirame (Audio Oficial)",
+    "primary_artists": [
+      "N/A"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "N/A"
+    ],
+    "credits": [
+      {
+        "entity": "N/A",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "unattributed"
+  },
+  {
+    "song_id": "lt-00101",
+    "file": "_other\\_latino\\_random\\latin FELIPE\\Deseándote - Nath x Ryan Castro (Video Oficial).mp3",
+    "title": "Nath x Ryan Castro ()",
+    "primary_artists": [
+      "Deseándote"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Deseándote"
+    ],
+    "credits": [
+      {
+        "entity": "Deseándote",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00102",
+    "file": "_other\\_latino\\_random\\latin FELIPE\\Ella Baila Sola  - (Video Con Letras) - Eslabon Armado y Peso Pluma - DEL Records 2023.mp3",
+    "title": "(Video Con Letras) - Eslabon Armado y Peso Pluma - DEL Records 2023",
+    "primary_artists": [
+      "Ella Baila Sola"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Ella Baila Sola"
+    ],
+    "credits": [
+      {
+        "entity": "Ella Baila Sola",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00103",
+    "file": "_other\\_latino\\_random\\latin FELIPE\\Jowell y Randy, Maluma - Copas (Video Oficial).mp3",
+    "title": "Copas ()",
+    "primary_artists": [
+      "Jowell y Randy",
+      "Maluma"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Jowell y Randy",
+      "Maluma"
+    ],
+    "credits": [
+      {
+        "entity": "Jowell y Randy",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Maluma",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00104",
+    "file": "_other\\_latino\\_random\\latin FELIPE\\Maldy, Lenny Tavarez - La Dieta (Official Video).mp3",
+    "title": "La Dieta ()",
+    "primary_artists": [
+      "Maldy",
+      "Lenny Tavarez"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Maldy",
+      "Lenny Tavarez"
+    ],
+    "credits": [
+      {
+        "entity": "Maldy",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Lenny Tavarez",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00105",
+    "file": "_other\\_latino\\_random\\latin FELIPE\\Nanpa Básico ft. Adriel Favela - Me Falta La Mitad (Video Oficial).mp3",
+    "title": "Me Falta La Mitad ()",
+    "primary_artists": [
+      "Nanpa Básico"
+    ],
+    "featuring_artists": [
+      "Adriel Favela"
+    ],
+    "artists": [
+      "Nanpa Básico",
+      "Adriel Favela"
+    ],
+    "credits": [
+      {
+        "entity": "Nanpa Básico",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Adriel Favela",
+        "entity_type": "person",
+        "role": "feature"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00106",
+    "file": "_other\\_latino\\_random\\latin sabia que no\\Accessory.mp3",
+    "title": "Accessory",
+    "primary_artists": [
+      "N/A"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "N/A"
+    ],
+    "credits": [
+      {
+        "entity": "N/A",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "unattributed"
+  },
+  {
+    "song_id": "lt-00107",
+    "file": "_other\\_latino\\_random\\latin sabia que no\\NEW DROP.mp3",
+    "title": "NEW DROP",
+    "primary_artists": [
+      "N/A"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "N/A"
+    ],
+    "credits": [
+      {
+        "entity": "N/A",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "unattributed"
+  },
+  {
+    "song_id": "lt-00108",
+    "file": "_other\\_latino\\_random\\latin sabia que no\\SABÍA QUE NO.mp3",
+    "title": "SABÍA QUE NO",
+    "primary_artists": [
+      "N/A"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "N/A"
+    ],
+    "credits": [
+      {
+        "entity": "N/A",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "unattributed"
+  },
+  {
+    "song_id": "lt-00109",
+    "file": "_other\\_latino\\_random\\maluma\\Maluma - 11 PM (Official Video).mp3",
+    "title": "PM ()",
+    "primary_artists": [
+      "Maluma"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Maluma"
+    ],
+    "credits": [
+      {
+        "entity": "Maluma",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00110",
+    "file": "_other\\_latino\\_random\\maluma\\Maluma - HP (Official Video).mp3",
+    "title": "HP ()",
+    "primary_artists": [
+      "Maluma"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Maluma"
+    ],
+    "credits": [
+      {
+        "entity": "Maluma",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00111",
+    "file": "_other\\_latino\\_random\\Manuel Turizo Mix\\La Bachata - MTZ Manuel Turizo   Video Oficial.mp3",
+    "title": "MTZ Manuel Turizo",
+    "primary_artists": [
+      "La Bachata"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "La Bachata"
+    ],
+    "credits": [
+      {
+        "entity": "La Bachata",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00112",
+    "file": "_other\\_latino\\_random\\Myke towers 👀\\Otro.mp3",
+    "title": "Otro",
+    "primary_artists": [
+      "Myke towers 👀"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Myke towers 👀"
+    ],
+    "credits": [
+      {
+        "entity": "Myke towers 👀",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00113",
+    "file": "_other\\_latino\\_random\\Myke towers 👀\\Ponte Pa' Mi.mp3",
+    "title": "Ponte Pa' Mi",
+    "primary_artists": [
+      "Myke towers 👀"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Myke towers 👀"
+    ],
+    "credits": [
+      {
+        "entity": "Myke towers 👀",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00114",
+    "file": "_other\\_latino\\_random\\Myke towers 👀\\Yng Lvcas & Peso Pluma - La Bebe (Remix) [Video Oficial].mp3",
+    "title": "La Bebe (Remix) []",
+    "primary_artists": [
+      "Yng Lvcas",
+      "Peso Pluma"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Yng Lvcas",
+      "Peso Pluma"
+    ],
+    "credits": [
+      {
+        "entity": "Yng Lvcas",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Peso Pluma",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00115",
+    "file": "_other\\_latino\\_random\\reguetoneo del bueno\\BLESSD   INSTAGRAM 😈 ( OFFICIAL VIDEO ).mp3",
+    "title": "BLESSD INSTAGRAM 😈 ( )",
+    "primary_artists": [
+      "reguetoneo del bueno"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "reguetoneo del bueno"
+    ],
+    "credits": [
+      {
+        "entity": "reguetoneo del bueno",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00116",
+    "file": "_other\\_latino\\_random\\reguetoneo del bueno\\BLESSD - HÁGALE PUES 💙🔥 (VIDEO OFICIAL).mp3",
+    "title": "HÁGALE PUES 💙🔥 ()",
+    "primary_artists": [
+      "Blessd"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Blessd"
+    ],
+    "credits": [
+      {
+        "entity": "Blessd",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00117",
+    "file": "_other\\_latino\\_random\\reguetoneo del bueno\\Feid, ATL Jacob - Luna (Visualizer).mp3",
+    "title": "Luna (Visualizer)",
+    "primary_artists": [
+      "Feid",
+      "ATL Jacob"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Feid",
+      "ATL Jacob"
+    ],
+    "credits": [
+      {
+        "entity": "Feid",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "ATL Jacob",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00118",
+    "file": "_other\\_latino\\_random\\ROSALÍA\\ROSALÍA - BIZCOCHITO (Official Audio).mp3",
+    "title": "BIZCOCHITO ()",
+    "primary_artists": [
+      "ROSALÍA"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "ROSALÍA"
+    ],
+    "credits": [
+      {
+        "entity": "ROSALÍA",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00119",
+    "file": "_other\\_latino\\_random\\Rosalía - LUX (Full Album)\\Katie Garfield - Faith in Me.mp3",
+    "title": "Faith in Me",
+    "primary_artists": [
+      "Katie Garfield"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Katie Garfield"
+    ],
+    "credits": [
+      {
+        "entity": "Katie Garfield",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00120",
+    "file": "_other\\_latino\\_random\\Stendhal\\Ozuna, Beéle - Liberal (Visualizer).mp3",
+    "title": "Liberal (Visualizer)",
+    "primary_artists": [
+      "Ozuna",
+      "Beéle"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Ozuna",
+      "Beéle"
+    ],
+    "credits": [
+      {
+        "entity": "Ozuna",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Beéle",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00121",
+    "file": "_other\\_latino\\_random\\Stendhal\\Ozuna, Beéle, Ovy On The Drums - Enemigos (Video Oficial).mp3",
+    "title": "Enemigos ()",
+    "primary_artists": [
+      "Ozuna",
+      "Beéle",
+      "Ovy On The Drums"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Ozuna",
+      "Beéle",
+      "Ovy On The Drums"
+    ],
+    "credits": [
+      {
+        "entity": "Ozuna",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Beéle",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Ovy On The Drums",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00122",
+    "file": "_other\\_latino\\_random\\YANDEL BEST HITS\\Yandel Ft. Farina - Adicto (Visualizer Oficial)   Resistencia.mp3",
+    "title": "Adicto (Visualizer Oficial) Resistencia",
+    "primary_artists": [
+      "Yandel"
+    ],
+    "featuring_artists": [
+      "Farina"
+    ],
+    "artists": [
+      "Yandel",
+      "Farina"
+    ],
+    "credits": [
+      {
+        "entity": "Yandel",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Farina",
+        "entity_type": "person",
+        "role": "feature"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00123",
+    "file": "_other\\_latino\\_random\\🔥 LO MEJOR DE BLESSD🔥\\BLESSD   ARGENTINA 🇦🇷  (VIDEO OFICIAL).mp3",
+    "title": "BLESSD ARGENTINA 🇦🇷 ()",
+    "primary_artists": [
+      "Blessd"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Blessd"
+    ],
+    "credits": [
+      {
+        "entity": "Blessd",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00124",
+    "file": "_other\\_latino\\_random\\🔥 LO MEJOR DE BLESSD🔥\\BLESSD ❌ DE LA GHETTO ❌ DARELL   INSTAGRAM REMIX  🥵 ( VIDEO OFICIAL ).mp3",
+    "title": "BLESSD ❌ DE LA GHETTO ❌ DARELL INSTAGRAM REMIX 🥵 ( )",
+    "primary_artists": [
+      "Blessd"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Blessd"
+    ],
+    "credits": [
+      {
+        "entity": "Blessd",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00125",
+    "file": "_other\\_latino\\_random\\🔥 LO MEJOR DE BLESSD🔥\\EL CLOOY ❌ BLESSD   🔥 GANAS ( REMIX ).mp3",
+    "title": "EL CLOOY ❌ BLESSD 🔥 GANAS ( REMIX )",
+    "primary_artists": [
+      "Blessd"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Blessd"
+    ],
+    "credits": [
+      {
+        "entity": "Blessd",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00126",
+    "file": "_other\\_latino\\_random\\🔥 LO MEJOR DE BLESSD🔥\\ULTRA COMPLICADO REMIX  (VIDEO OFICIAL)   BLESSD ❌ KENNY DIE ❌ KRIS R  FEAT SEBAS.mp3",
+    "title": "ULTRA COMPLICADO REMIX () BLESSD ❌ KENNY DIE ❌ KRIS R",
+    "primary_artists": [
+      "Blessd"
+    ],
+    "featuring_artists": [
+      "SEBAS"
+    ],
+    "artists": [
+      "Blessd",
+      "SEBAS"
+    ],
+    "credits": [
+      {
+        "entity": "Blessd",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "SEBAS",
+        "entity_type": "person",
+        "role": "feature"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00127",
+    "file": "_other\\_latino\\_random\\🔥 LO MEJOR DE BLESSD🔥\\UNA NOCHE DE LOCURA   BLESSD   ( TRINIDAD BENDITA ).mp3",
+    "title": "UNA NOCHE DE LOCURA BLESSD ( TRINIDAD BENDITA )",
+    "primary_artists": [
+      "Blessd"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Blessd"
+    ],
+    "credits": [
+      {
+        "entity": "Blessd",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00128",
+    "file": "_other\\_latino\\Anuel AA\\Anuel AA - Ella Quiere Beber (Video Oficial).mp3",
+    "title": "Ella Quiere Beber ()",
+    "primary_artists": [
+      "Anuel AA"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Anuel AA"
+    ],
+    "credits": [
+      {
+        "entity": "Anuel AA",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00129",
+    "file": "_other\\_latino\\Anuel AA\\Anuel AA ➕ Haze - Amanece 🌅 [Official Video].mp3",
+    "title": "Amanece 🌅 []",
+    "primary_artists": [
+      "Anuel AA ➕ Haze"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Anuel AA ➕ Haze"
+    ],
+    "credits": [
+      {
+        "entity": "Anuel AA ➕ Haze",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00130",
+    "file": "_other\\_latino\\Anuel AA\\Anuel AA, Enrique Iglesias - Fútbol y Rumba ( Video Oficial).mp3",
+    "title": "Fútbol y Rumba ( )",
+    "primary_artists": [
+      "Anuel AA",
+      "Enrique Iglesias"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Anuel AA",
+      "Enrique Iglesias"
+    ],
+    "credits": [
+      {
+        "entity": "Anuel AA",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Enrique Iglesias",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00131",
+    "file": "_other\\_latino\\Bad Bunny\\BAD BUNNY  - LA DIFÍCIL   YHLQMDLG (Oficial Video).mp3",
+    "title": "LA DIFÍCIL YHLQMDLG (Oficial Video)",
+    "primary_artists": [
+      "Bad Bunny"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Bad Bunny"
+    ],
+    "credits": [
+      {
+        "entity": "Bad Bunny",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00132",
+    "file": "_other\\_latino\\Bad Bunny\\Bad Bunny - Debí tirar más fotos (Álbum 2025)\\Bad Bunny - DtMF (Letra).mp3",
+    "title": "DtMF (Letra)",
+    "primary_artists": [
+      "Bad Bunny"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Bad Bunny"
+    ],
+    "credits": [
+      {
+        "entity": "Bad Bunny",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00133",
+    "file": "_other\\_latino\\Bad Bunny\\Bad Bunny - Debí tirar más fotos (Álbum 2025)\\NUEVAYoL.mp3",
+    "title": "NUEVAYoL",
+    "primary_artists": [
+      "Bad Bunny"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Bad Bunny"
+    ],
+    "credits": [
+      {
+        "entity": "Bad Bunny",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00134",
+    "file": "_other\\_latino\\Bad Bunny\\BAD BUNNY - MALDITA POBREZA   EL ÚLTIMO TOUR DEL MUNDO [Visualizer].mp3",
+    "title": "MALDITA POBREZA EL ÚLTIMO TOUR DEL MUNDO [Visualizer]",
+    "primary_artists": [
+      "Bad Bunny"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Bad Bunny"
+    ],
+    "credits": [
+      {
+        "entity": "Bad Bunny",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00135",
+    "file": "_other\\_latino\\Bad Bunny\\Bad Bunny - Tití Me Preguntó (Official Video)   Un Verano Sin Ti.mp3",
+    "title": "Tití Me Preguntó () Un Verano Sin Ti",
+    "primary_artists": [
+      "Bad Bunny"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Bad Bunny"
+    ],
+    "credits": [
+      {
+        "entity": "Bad Bunny",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00136",
+    "file": "_other\\_latino\\Bad Bunny\\Bad Bunny feat. Drake - Mia ( Video Oficial ).mp3",
+    "title": "Mia ( )",
+    "primary_artists": [
+      "Bad Bunny"
+    ],
+    "featuring_artists": [
+      "Drake"
+    ],
+    "artists": [
+      "Bad Bunny",
+      "Drake"
+    ],
+    "credits": [
+      {
+        "entity": "Bad Bunny",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Drake",
+        "entity_type": "person",
+        "role": "feature"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00137",
+    "file": "_other\\_latino\\Bad Bunny\\BAD BUNNY x DRAKE - MÍA (Video Oficial).mp3",
+    "title": "MÍA ()",
+    "primary_artists": [
+      "Bad Bunny",
+      "Drake"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Bad Bunny",
+      "Drake"
+    ],
+    "credits": [
+      {
+        "entity": "Bad Bunny",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Drake",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00138",
+    "file": "_other\\_latino\\Bad Bunny\\BAD BUNNY x J BALVIN x OZUNA x ARCANGEL - SOY PEOR REMIX (Video Oficial).mp3",
+    "title": "BAD BUNNY x J BALVIN x OZUNA x ARCANGEL - SOY PEOR REMIX ()",
+    "primary_artists": [
+      "Bad Bunny"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Bad Bunny"
+    ],
+    "credits": [
+      {
+        "entity": "Bad Bunny",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00139",
+    "file": "_other\\_latino\\Bad Bunny\\BAD BUNNY x JHAY CORTEZ - DÁKITI   EL ÚLTIMO TOUR DEL MUNDO (Official Video).mp3",
+    "title": "DÁKITI EL ÚLTIMO TOUR DEL MUNDO ()",
+    "primary_artists": [
+      "Bad Bunny",
+      "Jhay Cortez"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Bad Bunny",
+      "Jhay Cortez"
+    ],
+    "credits": [
+      {
+        "entity": "Bad Bunny",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Jhay Cortez",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00140",
+    "file": "_other\\_latino\\Bad Bunny\\BAD BUNNY x JHAY CORTEZ - DÁKITI (Video Oficial).mp3",
+    "title": "DÁKITI ()",
+    "primary_artists": [
+      "Bad Bunny",
+      "Jhay Cortez"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Bad Bunny",
+      "Jhay Cortez"
+    ],
+    "credits": [
+      {
+        "entity": "Bad Bunny",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Jhay Cortez",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00141",
+    "file": "_other\\_latino\\Beéle\\Angelito - beele.mp3",
+    "title": "beele",
+    "primary_artists": [
+      "Angelito"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Angelito"
+    ],
+    "credits": [
+      {
+        "entity": "Angelito",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00142",
+    "file": "_other\\_latino\\Beéle\\borondo.mp3",
+    "title": "borondo",
+    "primary_artists": [
+      "Beéle"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Beéle"
+    ],
+    "credits": [
+      {
+        "entity": "Beéle",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00143",
+    "file": "_other\\_latino\\Beéle\\bye.mp3",
+    "title": "bye",
+    "primary_artists": [
+      "Beéle"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Beéle"
+    ],
+    "credits": [
+      {
+        "entity": "Beéle",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00144",
+    "file": "_other\\_latino\\Beéle\\Enchulao.mp3",
+    "title": "Enchulao",
+    "primary_artists": [
+      "Beéle"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Beéle"
+    ],
+    "credits": [
+      {
+        "entity": "Beéle",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00145",
+    "file": "_other\\_latino\\Beéle\\i miss you.mp3",
+    "title": "i miss you",
+    "primary_artists": [
+      "Beéle"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Beéle"
+    ],
+    "credits": [
+      {
+        "entity": "Beéle",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00146",
+    "file": "_other\\_latino\\Beéle\\morena.mp3",
+    "title": "morena",
+    "primary_artists": [
+      "Beéle"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Beéle"
+    ],
+    "credits": [
+      {
+        "entity": "Beéle",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00147",
+    "file": "_other\\_latino\\Beéle\\no tiene sentido.mp3",
+    "title": "no tiene sentido",
+    "primary_artists": [
+      "Beéle"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Beéle"
+    ],
+    "credits": [
+      {
+        "entity": "Beéle",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00148",
+    "file": "_other\\_latino\\Beéle\\OHNANA.mp3",
+    "title": "OHNANA",
+    "primary_artists": [
+      "Beéle"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Beéle"
+    ],
+    "credits": [
+      {
+        "entity": "Beéle",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00149",
+    "file": "_other\\_latino\\Beéle\\Santorini.mp3",
+    "title": "Santorini",
+    "primary_artists": [
+      "Beéle"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Beéle"
+    ],
+    "credits": [
+      {
+        "entity": "Beéle",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00150",
+    "file": "_other\\_latino\\Beéle\\Sech Ft Beéle Tus Labios (Letra Lyrics).mp3",
+    "title": "Sech",
+    "primary_artists": [
+      "Beéle"
+    ],
+    "featuring_artists": [
+      "Beéle Tus Labios"
+    ],
+    "artists": [
+      "Beéle",
+      "Beéle Tus Labios"
+    ],
+    "credits": [
+      {
+        "entity": "Beéle",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Beéle Tus Labios",
+        "entity_type": "person",
+        "role": "feature"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00151",
+    "file": "_other\\_latino\\BLESSD ❌ JUSTIN QUILES ❌ LENNY TAVAREZ   💥 MEDALLO ( OFFICIAL VIDEO ).mp3",
+    "title": "BLESSD ❌ JUSTIN QUILES ❌ LENNY TAVAREZ 💥 MEDALLO ( )",
+    "primary_artists": [
+      "N/A"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "N/A"
+    ],
+    "credits": [
+      {
+        "entity": "N/A",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "unattributed"
+  },
+  {
+    "song_id": "lt-00152",
+    "file": "_other\\_latino\\Boza, ELENA ROSE - Orion (Official Video).mp3",
+    "title": "Orion ()",
+    "primary_artists": [
+      "Boza",
+      "ELENA ROSE"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Boza",
+      "ELENA ROSE"
+    ],
+    "credits": [
+      {
+        "entity": "Boza",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "ELENA ROSE",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00153",
+    "file": "_other\\_latino\\DJ Snake ft. Selena Gomez, Ozuna & Cardi B - Taki Taki (Official Audio).mp3",
+    "title": "DJ Snake",
+    "primary_artists": [
+      "N/A"
+    ],
+    "featuring_artists": [
+      "Selena Gomez",
+      "Ozuna",
+      "Cardi B - Taki Taki"
+    ],
+    "artists": [
+      "N/A",
+      "Selena Gomez",
+      "Ozuna",
+      "Cardi B - Taki Taki"
+    ],
+    "credits": [
+      {
+        "entity": "N/A",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Selena Gomez",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Ozuna",
+        "entity_type": "person",
+        "role": "feature"
+      },
+      {
+        "entity": "Cardi B - Taki Taki",
+        "entity_type": "person",
+        "role": "feature"
+      }
+    ],
+    "attribution_status": "unattributed"
+  },
+  {
+    "song_id": "lt-00154",
+    "file": "_other\\_latino\\DUKI, Justin Quiles, Bizarrap - Unfollow.mp3",
+    "title": "Unfollow",
+    "primary_artists": [
+      "DUKI",
+      "Justin Quiles",
+      "Bizarrap"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "DUKI",
+      "Justin Quiles",
+      "Bizarrap"
+    ],
+    "credits": [
+      {
+        "entity": "DUKI",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Justin Quiles",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Bizarrap",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00155",
+    "file": "_other\\_latino\\Ella Quiere - DARIO (Video Oficial).mp3",
+    "title": "DARIO ()",
+    "primary_artists": [
+      "Ella Quiere"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Ella Quiere"
+    ],
+    "credits": [
+      {
+        "entity": "Ella Quiere",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00156",
+    "file": "_other\\_latino\\Farruko - Pepas (Official Video).mp3",
+    "title": "Pepas ()",
+    "primary_artists": [
+      "Farruko"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Farruko"
+    ],
+    "credits": [
+      {
+        "entity": "Farruko",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00157",
+    "file": "_other\\_latino\\feid\\02. REMIX EXCLUSIVO.mp3",
+    "title": "REMIX EXCLUSIVO",
+    "primary_artists": [
+      "Feid"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Feid"
+    ],
+    "credits": [
+      {
+        "entity": "Feid",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00158",
+    "file": "_other\\_latino\\feid\\05. Feid - Prohibidox (Official Video).mp3",
+    "title": "Prohibidox ()",
+    "primary_artists": [
+      "Feid"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Feid"
+    ],
+    "credits": [
+      {
+        "entity": "Feid",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00159",
+    "file": "_other\\_latino\\feid\\07. ATEO.mp3",
+    "title": "ATEO",
+    "primary_artists": [
+      "Feid"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Feid"
+    ],
+    "credits": [
+      {
+        "entity": "Feid",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00160",
+    "file": "_other\\_latino\\feid\\07. CHORRITO PA LAS ANIMAS.mp3",
+    "title": "CHORRITO PA LAS ANIMAS",
+    "primary_artists": [
+      "Feid"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Feid"
+    ],
+    "credits": [
+      {
+        "entity": "Feid",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00161",
+    "file": "_other\\_latino\\feid\\09. A Veces.mp3",
+    "title": "A Veces",
+    "primary_artists": [
+      "Feid"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Feid"
+    ],
+    "credits": [
+      {
+        "entity": "Feid",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00162",
+    "file": "_other\\_latino\\feid\\10. Feid - Si Te La Encuentras Por Ahí (Official Video).mp3",
+    "title": "Si Te La Encuentras Por Ahí ()",
+    "primary_artists": [
+      "Feid"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Feid"
+    ],
+    "credits": [
+      {
+        "entity": "Feid",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00163",
+    "file": "_other\\_latino\\feid\\13. Feid - Castigo (Official Video).mp3",
+    "title": "Castigo ()",
+    "primary_artists": [
+      "Feid"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Feid"
+    ],
+    "credits": [
+      {
+        "entity": "Feid",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00164",
+    "file": "_other\\_latino\\feid\\13. La Pasamos CXBRXN.mp3",
+    "title": "La Pasamos CXBRXN",
+    "primary_artists": [
+      "Feid"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Feid"
+    ],
+    "credits": [
+      {
+        "entity": "Feid",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00165",
+    "file": "_other\\_latino\\feid\\14. Feid - SI TÚ SUPIERAS (Official Video).mp3",
+    "title": "SI TÚ SUPIERAS ()",
+    "primary_artists": [
+      "Feid"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Feid"
+    ],
+    "credits": [
+      {
+        "entity": "Feid",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00166",
+    "file": "_other\\_latino\\feid\\14. Si Te La Encuentras Por Ahí.mp3",
+    "title": "Si Te La Encuentras Por Ahí",
+    "primary_artists": [
+      "Feid"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Feid"
+    ],
+    "credits": [
+      {
+        "entity": "Feid",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00167",
+    "file": "_other\\_latino\\feid\\16. Ferxxo 100.mp3",
+    "title": "Ferxxo 100",
+    "primary_artists": [
+      "Feid"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Feid"
+    ],
+    "credits": [
+      {
+        "entity": "Feid",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00168",
+    "file": "_other\\_latino\\feid\\19. Feid, Totoy El Frio - De Tanto Chimbiar (Official Video).mp3",
+    "title": "De Tanto Chimbiar ()",
+    "primary_artists": [
+      "Feid",
+      "Totoy El Frio"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Feid",
+      "Totoy El Frio"
+    ],
+    "credits": [
+      {
+        "entity": "Feid",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Totoy El Frio",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00169",
+    "file": "_other\\_latino\\feid\\20. Lady Mi Amor.mp3",
+    "title": "Lady Mi Amor",
+    "primary_artists": [
+      "Feid"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Feid"
+    ],
+    "credits": [
+      {
+        "entity": "Feid",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00170",
+    "file": "_other\\_latino\\feid\\32. Cuaderno.mp3",
+    "title": "Cuaderno",
+    "primary_artists": [
+      "Feid"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Feid"
+    ],
+    "credits": [
+      {
+        "entity": "Feid",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00171",
+    "file": "_other\\_latino\\feid\\32. Feid - Amor De Mi Vida (Official Video).mp3",
+    "title": "Amor De Mi Vida ()",
+    "primary_artists": [
+      "Feid"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Feid"
+    ],
+    "credits": [
+      {
+        "entity": "Feid",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00172",
+    "file": "_other\\_latino\\feid\\33. TE MATA.mp3",
+    "title": "TE MATA",
+    "primary_artists": [
+      "Feid"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Feid"
+    ],
+    "credits": [
+      {
+        "entity": "Feid",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00173",
+    "file": "_other\\_latino\\feid\\35. VACAXIONES.mp3",
+    "title": "VACAXIONES",
+    "primary_artists": [
+      "Feid"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Feid"
+    ],
+    "credits": [
+      {
+        "entity": "Feid",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00174",
+    "file": "_other\\_latino\\feid\\37. TENGO FE.mp3",
+    "title": "TENGO FE",
+    "primary_artists": [
+      "Feid"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Feid"
+    ],
+    "credits": [
+      {
+        "entity": "Feid",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00175",
+    "file": "_other\\_latino\\feid\\48. Feid, Justin Quiles - Porfa (Video Oficial).mp3",
+    "title": "Porfa ()",
+    "primary_artists": [
+      "Feid",
+      "Justin Quiles"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Feid",
+      "Justin Quiles"
+    ],
+    "credits": [
+      {
+        "entity": "Feid",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Justin Quiles",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00176",
+    "file": "_other\\_latino\\feid\\49. CHIMBITA.mp3",
+    "title": "CHIMBITA",
+    "primary_artists": [
+      "Feid"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Feid"
+    ],
+    "credits": [
+      {
+        "entity": "Feid",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00177",
+    "file": "_other\\_latino\\feid\\52. EXCXSXS.mp3",
+    "title": "EXCXSXS",
+    "primary_artists": [
+      "Feid"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Feid"
+    ],
+    "credits": [
+      {
+        "entity": "Feid",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00178",
+    "file": "_other\\_latino\\feid\\59. Feid - TX VXS (Lyrics Letra).mp3",
+    "title": "TX VXS (Lyrics Letra)",
+    "primary_artists": [
+      "Feid"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Feid"
+    ],
+    "credits": [
+      {
+        "entity": "Feid",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00179",
+    "file": "_other\\_latino\\feid\\63. Brickell.mp3",
+    "title": "Brickell",
+    "primary_artists": [
+      "Feid"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Feid"
+    ],
+    "credits": [
+      {
+        "entity": "Feid",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00180",
+    "file": "_other\\_latino\\feid\\Feid, ATL Jacob - LUNA (Official Video).mp3",
+    "title": "LUNA ()",
+    "primary_artists": [
+      "Feid",
+      "ATL Jacob"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Feid",
+      "ATL Jacob"
+    ],
+    "credits": [
+      {
+        "entity": "Feid",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "ATL Jacob",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00181",
+    "file": "_other\\_latino\\feid\\Feid, Young Miko - Classy 101 (Official Video).mp3",
+    "title": "Classy 101 ()",
+    "primary_artists": [
+      "Feid",
+      "Young Miko"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Feid",
+      "Young Miko"
+    ],
+    "credits": [
+      {
+        "entity": "Feid",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Young Miko",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00182",
+    "file": "_other\\_latino\\feid\\FERXXO VOL X Sagrado\\Feid - NOS DESCONOXIMOS (Pseudo Video).mp3",
+    "title": "NOS DESCONOXIMOS (Pseudo Video)",
+    "primary_artists": [
+      "Feid"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Feid"
+    ],
+    "credits": [
+      {
+        "entity": "Feid",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00183",
+    "file": "_other\\_latino\\feid\\FERXXO VOL X Sagrado\\Feid - PIDA LO QUE QUIERA MAMI (Pseudo Video).mp3",
+    "title": "PIDA LO QUE QUIERA MAMI (Pseudo Video)",
+    "primary_artists": [
+      "Feid"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Feid"
+    ],
+    "credits": [
+      {
+        "entity": "Feid",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00184",
+    "file": "_other\\_latino\\feid\\FERXXO VOL X Sagrado\\Feid, Maisak - SE ME OLVIDA (Official Video).mp3",
+    "title": "SE ME OLVIDA ()",
+    "primary_artists": [
+      "Feid",
+      "Maisak"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Feid",
+      "Maisak"
+    ],
+    "credits": [
+      {
+        "entity": "Feid",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Maisak",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00185",
+    "file": "_other\\_latino\\feid\\FERXXO VOL X Sagrado\\Feid, Wisin - HYPNOTIXX (Pseudo Video).mp3",
+    "title": "HYPNOTIXX (Pseudo Video)",
+    "primary_artists": [
+      "Feid",
+      "Wisin"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Feid",
+      "Wisin"
+    ],
+    "credits": [
+      {
+        "entity": "Feid",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Wisin",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00186",
+    "file": "_other\\_latino\\feid\\FERXXO VOL X Sagrado\\Maisak, Feid - SE ME OLVIDA (Pseudo Video).mp3",
+    "title": "SE ME OLVIDA (Pseudo Video)",
+    "primary_artists": [
+      "Maisak",
+      "Feid"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Maisak",
+      "Feid"
+    ],
+    "credits": [
+      {
+        "entity": "Maisak",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Feid",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00187",
+    "file": "_other\\_latino\\feid\\FERXXOCALIPSIS EP\\Feid - 50 Palos (Visualizer).mp3",
+    "title": "Palos (Visualizer)",
+    "primary_artists": [
+      "Feid"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Feid"
+    ],
+    "credits": [
+      {
+        "entity": "Feid",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00188",
+    "file": "_other\\_latino\\feid\\FERXXOCALIPSIS EP\\Feid - Desquite (Visualizer).mp3",
+    "title": "Desquite (Visualizer)",
+    "primary_artists": [
+      "Feid"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Feid"
+    ],
+    "credits": [
+      {
+        "entity": "Feid",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00189",
+    "file": "_other\\_latino\\feid\\LOS 9 DE FERXXO Y SKY ROMPINEDO\\Feid, Sky Rompiendo - 1XXX RAXONES (Audio).mp3",
+    "title": "1XXX RAXONES (Audio)",
+    "primary_artists": [
+      "Feid",
+      "Sky Rompiendo"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Feid",
+      "Sky Rompiendo"
+    ],
+    "credits": [
+      {
+        "entity": "Feid",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Sky Rompiendo",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00190",
+    "file": "_other\\_latino\\feid\\LXS PXLOS DEL FERXXO 🌞🌙💚\\Feid - Castigo (Official Video).mp3",
+    "title": "Castigo ()",
+    "primary_artists": [
+      "Feid"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Feid"
+    ],
+    "credits": [
+      {
+        "entity": "Feid",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00191",
+    "file": "_other\\_latino\\feid\\LXS PXLOS DEL FERXXO 🌞🌙💚\\Feid - Normal (Official Video).mp3",
+    "title": "Normal ()",
+    "primary_artists": [
+      "Feid"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Feid"
+    ],
+    "credits": [
+      {
+        "entity": "Feid",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00192",
+    "file": "_other\\_latino\\feid\\LXS PXLOS DEL FERXXO 🌞🌙💚\\Feid - Remix Exclusivo (Official Video).mp3",
+    "title": "Remix Exclusivo ()",
+    "primary_artists": [
+      "Feid"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Feid"
+    ],
+    "credits": [
+      {
+        "entity": "Feid",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00193",
+    "file": "_other\\_latino\\feid\\LXS PXLOS DEL FERXXO 🌞🌙💚\\Feid - Vente Conmigo (Official Video).mp3",
+    "title": "Vente Conmigo ()",
+    "primary_artists": [
+      "Feid"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Feid"
+    ],
+    "credits": [
+      {
+        "entity": "Feid",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00194",
+    "file": "_other\\_latino\\feid\\LXS PXLOS DEL FERXXO 🌞🌙💚\\Feid, Ñejo - FERXXO X ÑEJO.mp3",
+    "title": "FERXXO X ÑEJO",
+    "primary_artists": [
+      "Feid",
+      "Ñejo"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Feid",
+      "Ñejo"
+    ],
+    "credits": [
+      {
+        "entity": "Feid",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Ñejo",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00195",
+    "file": "_other\\_latino\\feid\\MANIFESTING 20-05\\Feid, Yandel - De Negro (Lyric Video).mp3",
+    "title": "De Negro (Lyric Video)",
+    "primary_artists": [
+      "Feid",
+      "Yandel"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Feid",
+      "Yandel"
+    ],
+    "credits": [
+      {
+        "entity": "Feid",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Yandel",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00196",
+    "file": "_other\\_latino\\feid\\Yandel, Feid  - Yandel 150 (Video Oficial).mp3",
+    "title": "Yandel 150 ()",
+    "primary_artists": [
+      "Yandel",
+      "Feid"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Yandel",
+      "Feid"
+    ],
+    "credits": [
+      {
+        "entity": "Yandel",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Feid",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00197",
+    "file": "_other\\_latino\\Ingratax - Paris (Official Video).mp3",
+    "title": "Paris ()",
+    "primary_artists": [
+      "Ingratax"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Ingratax"
+    ],
+    "credits": [
+      {
+        "entity": "Ingratax",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00198",
+    "file": "_other\\_latino\\J  Balvin\\J Balvin - Safari ft. Pharrell Williams, BIA, Sky.mp3",
+    "title": "Safari ft",
+    "primary_artists": [
+      "J Balvin"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "J Balvin"
+    ],
+    "credits": [
+      {
+        "entity": "J Balvin",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00199",
+    "file": "_other\\_latino\\J  Balvin\\J Balvin - Tranquila.mp3",
+    "title": "Tranquila",
+    "primary_artists": [
+      "J Balvin"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "J Balvin"
+    ],
+    "credits": [
+      {
+        "entity": "J Balvin",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00200",
+    "file": "_other\\_latino\\J  Balvin\\J Balvin, Willy William - Mi Gente (Official Video).mp3",
+    "title": "Mi Gente ()",
+    "primary_artists": [
+      "J Balvin",
+      "Willy William"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "J Balvin",
+      "Willy William"
+    ],
+    "credits": [
+      {
+        "entity": "J Balvin",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Willy William",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00201",
+    "file": "_other\\_latino\\J  Balvin\\J. Balvin - Ay Vamos.mp3",
+    "title": "Ay Vamos",
+    "primary_artists": [
+      "J Balvin"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "J Balvin"
+    ],
+    "credits": [
+      {
+        "entity": "J Balvin",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00202",
+    "file": "_other\\_latino\\J  Balvin\\J. Balvin - Ginza.mp3",
+    "title": "Ginza",
+    "primary_artists": [
+      "J Balvin"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "J Balvin"
+    ],
+    "credits": [
+      {
+        "entity": "J Balvin",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00203",
+    "file": "_other\\_latino\\J  Balvin\\Luis Fonsi, Demi Lovato - Échame La Culpa.mp3",
+    "title": "Échame La Culpa",
+    "primary_artists": [
+      "Luis Fonsi",
+      "Demi Lovato"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Luis Fonsi",
+      "Demi Lovato"
+    ],
+    "credits": [
+      {
+        "entity": "Luis Fonsi",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Demi Lovato",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00204",
+    "file": "_other\\_latino\\J  Balvin\\Ozuna - Se Preparó ( Video Oficial )   Odisea.mp3",
+    "title": "Se Preparó ( ) Odisea",
+    "primary_artists": [
+      "Ozuna"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Ozuna"
+    ],
+    "credits": [
+      {
+        "entity": "Ozuna",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00205",
+    "file": "_other\\_latino\\Justin Quiles\\03. Justin Quiles x Arcangel x Dalex -  Como Si Nah (feat. KEVVO) [Official Music Video].mp3",
+    "title": "Como Si Nah (feat",
+    "primary_artists": [
+      "Justin Quiles",
+      "Arcangel",
+      "Dalex"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Justin Quiles",
+      "Arcangel",
+      "Dalex"
+    ],
+    "credits": [
+      {
+        "entity": "Justin Quiles",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Arcangel",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Dalex",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00206",
+    "file": "_other\\_latino\\Justin Quiles\\Gadiel - Has Cambiado (Official Video) ft. Justin Quiles.mp3",
+    "title": "Has Cambiado () ft",
+    "primary_artists": [
+      "Gadiel"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Gadiel"
+    ],
+    "credits": [
+      {
+        "entity": "Gadiel",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00207",
+    "file": "_other\\_latino\\Justin Quiles\\Justin Quiles - Otra Copa ft. Farruko [Official Audio].mp3",
+    "title": "Otra Copa ft",
+    "primary_artists": [
+      "Justin Quiles"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Justin Quiles"
+    ],
+    "credits": [
+      {
+        "entity": "Justin Quiles",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00208",
+    "file": "_other\\_latino\\Justin Quiles\\Sech, Justin Quiles - Fabuloso (Video Oficial).mp3",
+    "title": "Fabuloso ()",
+    "primary_artists": [
+      "Sech",
+      "Justin Quiles"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Sech",
+      "Justin Quiles"
+    ],
+    "credits": [
+      {
+        "entity": "Sech",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Justin Quiles",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00209",
+    "file": "_other\\_latino\\KAROL G, Maldy - Gatúbela (Official Video).mp3",
+    "title": "Gatúbela ()",
+    "primary_artists": [
+      "Karol G",
+      "Maldy"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Karol G",
+      "Maldy"
+    ],
+    "credits": [
+      {
+        "entity": "Karol G",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Maldy",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00210",
+    "file": "_other\\_latino\\KAROL G, Mariah Angeliq - EL MAKINON (Official Video).mp3",
+    "title": "EL MAKINON ()",
+    "primary_artists": [
+      "Karol G",
+      "Mariah Angeliq"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Karol G",
+      "Mariah Angeliq"
+    ],
+    "credits": [
+      {
+        "entity": "Karol G",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Mariah Angeliq",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00211",
+    "file": "_other\\_latino\\LA JOAQUI, ELAGGUME, FAUNA MUSIC, GUSTY DJ - TATTOO RMX (Video Oficial).mp3",
+    "title": "LA JOAQUI, ELAGGUME, FAUNA MUSIC, GUSTY DJ - TATTOO RMX ()",
+    "primary_artists": [
+      "N/A"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "N/A"
+    ],
+    "credits": [
+      {
+        "entity": "N/A",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "unattributed"
+  },
+  {
+    "song_id": "lt-00212",
+    "file": "_other\\_latino\\La Nota - MTZ Manuel Turizo x Rauw Alejandro x Myke Towers   Video Oficial.mp3",
+    "title": "MTZ Manuel Turizo x Rauw Alejandro x Myke Towers",
+    "primary_artists": [
+      "La Nota"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "La Nota"
+    ],
+    "credits": [
+      {
+        "entity": "La Nota",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00213",
+    "file": "_other\\_latino\\Nacho, Yandel, Bad Bunny - Báilame (Remix).mp3",
+    "title": "Báilame (Remix)",
+    "primary_artists": [
+      "Nacho",
+      "Yandel",
+      "Bad Bunny"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Nacho",
+      "Yandel",
+      "Bad Bunny"
+    ],
+    "credits": [
+      {
+        "entity": "Nacho",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Yandel",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Bad Bunny",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00214",
+    "file": "_other\\_latino\\Nicki Nicole - Ojos Verdes (Official Video).mp3",
+    "title": "Ojos Verdes ()",
+    "primary_artists": [
+      "Nicki Nicole"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Nicki Nicole"
+    ],
+    "credits": [
+      {
+        "entity": "Nicki Nicole",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00215",
+    "file": "_other\\_latino\\Nicky Jam x J. Balvin - X (EQUIS)- Lyrics.mp3",
+    "title": "X (EQUIS)- Lyrics",
+    "primary_artists": [
+      "Nicky Jam",
+      "J Balvin"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Nicky Jam",
+      "J Balvin"
+    ],
+    "credits": [
+      {
+        "entity": "Nicky Jam",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "J Balvin",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00216",
+    "file": "_other\\_latino\\Ozuna - Videos Oficiales\\Alex Sensation, Ozuna - Que Va.mp3",
+    "title": "Que Va",
+    "primary_artists": [
+      "Alex Sensation",
+      "Ozuna"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Alex Sensation",
+      "Ozuna"
+    ],
+    "credits": [
+      {
+        "entity": "Alex Sensation",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Ozuna",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00217",
+    "file": "_other\\_latino\\Ozuna - Videos Oficiales\\Anuel AA, Ozuna,  DJ Luian, Mambo Kingz - Razones (Video Oficial).mp3",
+    "title": "Anuel AA, Ozuna, DJ Luian, Mambo Kingz - Razones ()",
+    "primary_artists": [
+      "Ozuna"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Ozuna"
+    ],
+    "credits": [
+      {
+        "entity": "Ozuna",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00218",
+    "file": "_other\\_latino\\Ozuna - Videos Oficiales\\Baila Baila Baila.mp3",
+    "title": "Baila Baila Baila",
+    "primary_artists": [
+      "Ozuna"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Ozuna"
+    ],
+    "credits": [
+      {
+        "entity": "Ozuna",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00219",
+    "file": "_other\\_latino\\Ozuna - Videos Oficiales\\Balenciaga.mp3",
+    "title": "Balenciaga",
+    "primary_artists": [
+      "Ozuna"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Ozuna"
+    ],
+    "credits": [
+      {
+        "entity": "Ozuna",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00220",
+    "file": "_other\\_latino\\Ozuna - Videos Oficiales\\Carita de Angel.mp3",
+    "title": "Carita de Angel",
+    "primary_artists": [
+      "Ozuna"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Ozuna"
+    ],
+    "credits": [
+      {
+        "entity": "Ozuna",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00221",
+    "file": "_other\\_latino\\Ozuna - Videos Oficiales\\Casper, Nio García, Darell, Nicky Jam, Bad Bunny, Ozuna - Te Bote Remix (Video Oficial).mp3",
+    "title": "Casper, Nio García, Darell, Nicky Jam, Bad Bunny, Ozuna - Te Bote Remix ()",
+    "primary_artists": [
+      "Ozuna"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Ozuna"
+    ],
+    "credits": [
+      {
+        "entity": "Ozuna",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00222",
+    "file": "_other\\_latino\\Ozuna - Videos Oficiales\\Este Loko.mp3",
+    "title": "Este Loko",
+    "primary_artists": [
+      "Ozuna"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Ozuna"
+    ],
+    "credits": [
+      {
+        "entity": "Ozuna",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00223",
+    "file": "_other\\_latino\\Ozuna - Videos Oficiales\\FloyyMenor, Anitta, Ozuna - GATA ONLY REMIX (Audio Oficial).mp3",
+    "title": "GATA ONLY REMIX (Audio Oficial)",
+    "primary_artists": [
+      "FloyyMenor",
+      "Anitta",
+      "Ozuna"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "FloyyMenor",
+      "Anitta",
+      "Ozuna"
+    ],
+    "credits": [
+      {
+        "entity": "FloyyMenor",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Anitta",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Ozuna",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00224",
+    "file": "_other\\_latino\\Ozuna - Videos Oficiales\\Ibiza.mp3",
+    "title": "Ibiza",
+    "primary_artists": [
+      "Ozuna"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Ozuna"
+    ],
+    "credits": [
+      {
+        "entity": "Ozuna",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00225",
+    "file": "_other\\_latino\\Ozuna - Videos Oficiales\\Ozuna - Caramelo ( Official Music Video).mp3",
+    "title": "Caramelo ( )",
+    "primary_artists": [
+      "Ozuna"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Ozuna"
+    ],
+    "credits": [
+      {
+        "entity": "Ozuna",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00226",
+    "file": "_other\\_latino\\Ozuna - Videos Oficiales\\Ozuna - DEPRIMIDA (Video Oficial).mp3",
+    "title": "DEPRIMIDA ()",
+    "primary_artists": [
+      "Ozuna"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Ozuna"
+    ],
+    "credits": [
+      {
+        "entity": "Ozuna",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00227",
+    "file": "_other\\_latino\\Ozuna - Videos Oficiales\\Ozuna - En La Intimidad (Video Oficial).mp3",
+    "title": "En La Intimidad ()",
+    "primary_artists": [
+      "Ozuna"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Ozuna"
+    ],
+    "credits": [
+      {
+        "entity": "Ozuna",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00228",
+    "file": "_other\\_latino\\Ozuna - Videos Oficiales\\Ozuna - Este Loko (Video Oficial).mp3",
+    "title": "Este Loko ()",
+    "primary_artists": [
+      "Ozuna"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Ozuna"
+    ],
+    "credits": [
+      {
+        "entity": "Ozuna",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00229",
+    "file": "_other\\_latino\\Ozuna - Videos Oficiales\\Ozuna - Mi Niña ( Official Music Video ).mp3",
+    "title": "Mi Niña ( )",
+    "primary_artists": [
+      "Ozuna"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Ozuna"
+    ],
+    "credits": [
+      {
+        "entity": "Ozuna",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00230",
+    "file": "_other\\_latino\\Ozuna - Videos Oficiales\\Ozuna - Se Preparó (Video Oficial)   Odisea.mp3",
+    "title": "Se Preparó () Odisea",
+    "primary_artists": [
+      "Ozuna"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Ozuna"
+    ],
+    "credits": [
+      {
+        "entity": "Ozuna",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00231",
+    "file": "_other\\_latino\\Ozuna - Videos Oficiales\\Ozuna - Te Pienso (Official Video).mp3",
+    "title": "Te Pienso ()",
+    "primary_artists": [
+      "Ozuna"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Ozuna"
+    ],
+    "credits": [
+      {
+        "entity": "Ozuna",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00232",
+    "file": "_other\\_latino\\Ozuna - Videos Oficiales\\Ozuna - Te Vas (Video Oficial).mp3",
+    "title": "Te Vas ()",
+    "primary_artists": [
+      "Ozuna"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Ozuna"
+    ],
+    "credits": [
+      {
+        "entity": "Ozuna",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00233",
+    "file": "_other\\_latino\\Ozuna - Videos Oficiales\\Ozuna - Una Flor (Video Oficial)   Odisea.mp3",
+    "title": "Una Flor () Odisea",
+    "primary_artists": [
+      "Ozuna"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Ozuna"
+    ],
+    "credits": [
+      {
+        "entity": "Ozuna",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00234",
+    "file": "_other\\_latino\\Ozuna - Videos Oficiales\\Ozuna X Ele A El Dominio  - Balenciaga (Video Oficial).mp3",
+    "title": "Balenciaga ()",
+    "primary_artists": [
+      "Ozuna",
+      "Ele A El Dominio"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Ozuna",
+      "Ele A El Dominio"
+    ],
+    "credits": [
+      {
+        "entity": "Ozuna",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Ele A El Dominio",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00235",
+    "file": "_other\\_latino\\Ozuna - Videos Oficiales\\Ozuna x Karol G x Myke Towers- Caramelo Remix ( Official Music Video).mp3",
+    "title": "Ozuna x Karol G x Myke Towers- Caramelo Remix ( )",
+    "primary_artists": [
+      "Ozuna"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Ozuna"
+    ],
+    "credits": [
+      {
+        "entity": "Ozuna",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00236",
+    "file": "_other\\_latino\\Ozuna - Videos Oficiales\\Ozuna, Feid - Hey Mor (Video Oficial)   Ozutochi.mp3",
+    "title": "Hey Mor () Ozutochi",
+    "primary_artists": [
+      "Ozuna",
+      "Feid"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Ozuna",
+      "Feid"
+    ],
+    "credits": [
+      {
+        "entity": "Ozuna",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Feid",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00237",
+    "file": "_other\\_latino\\Ozuna - Videos Oficiales\\Se Preparó.mp3",
+    "title": "Se Preparó",
+    "primary_artists": [
+      "Ozuna"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Ozuna"
+    ],
+    "credits": [
+      {
+        "entity": "Ozuna",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00238",
+    "file": "_other\\_latino\\Ozuna - Videos Oficiales\\Tu Olor.mp3",
+    "title": "Tu Olor",
+    "primary_artists": [
+      "Ozuna"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Ozuna"
+    ],
+    "credits": [
+      {
+        "entity": "Ozuna",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00239",
+    "file": "_other\\_latino\\Ozuna - Videos Oficiales\\Tú Foto.mp3",
+    "title": "Tú Foto",
+    "primary_artists": [
+      "Ozuna"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Ozuna"
+    ],
+    "credits": [
+      {
+        "entity": "Ozuna",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00240",
+    "file": "_other\\_latino\\Ozuna - Videos Oficiales\\Vaina Loca.mp3",
+    "title": "Vaina Loca",
+    "primary_artists": [
+      "Ozuna"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Ozuna"
+    ],
+    "credits": [
+      {
+        "entity": "Ozuna",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00241",
+    "file": "_other\\_latino\\Ozuna - Videos Oficiales\\Wisin - Escápate Conmigo (Official Video) ft. Ozuna.mp3",
+    "title": "Escápate Conmigo () ft",
+    "primary_artists": [
+      "Wisin"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Wisin"
+    ],
+    "credits": [
+      {
+        "entity": "Wisin",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00242",
+    "file": "_other\\_latino\\Rauw Alejandro mix\\Al Mismo Tiempo.mp3",
+    "title": "Al Mismo Tiempo",
+    "primary_artists": [
+      "Rauw Alejandro"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Rauw Alejandro"
+    ],
+    "credits": [
+      {
+        "entity": "Rauw Alejandro",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00243",
+    "file": "_other\\_latino\\Rauw Alejandro mix\\Aquel Nap ZzZz.mp3",
+    "title": "Aquel Nap ZzZz",
+    "primary_artists": [
+      "Rauw Alejandro"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Rauw Alejandro"
+    ],
+    "credits": [
+      {
+        "entity": "Rauw Alejandro",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00244",
+    "file": "_other\\_latino\\Rauw Alejandro mix\\Cúrame.mp3",
+    "title": "Cúrame",
+    "primary_artists": [
+      "Rauw Alejandro"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Rauw Alejandro"
+    ],
+    "credits": [
+      {
+        "entity": "Rauw Alejandro",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00245",
+    "file": "_other\\_latino\\Rauw Alejandro mix\\Desesperados.mp3",
+    "title": "Desesperados",
+    "primary_artists": [
+      "Rauw Alejandro"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Rauw Alejandro"
+    ],
+    "credits": [
+      {
+        "entity": "Rauw Alejandro",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00246",
+    "file": "_other\\_latino\\Rauw Alejandro mix\\Dile a El.mp3",
+    "title": "Dile a El",
+    "primary_artists": [
+      "Rauw Alejandro"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Rauw Alejandro"
+    ],
+    "credits": [
+      {
+        "entity": "Rauw Alejandro",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00247",
+    "file": "_other\\_latino\\Rauw Alejandro mix\\LEJOS DEL CIELO - Rauw Alejandro (Official Video).mp3",
+    "title": "Rauw Alejandro ()",
+    "primary_artists": [
+      "LEJOS DEL CIELO"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "LEJOS DEL CIELO"
+    ],
+    "credits": [
+      {
+        "entity": "LEJOS DEL CIELO",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00248",
+    "file": "_other\\_latino\\Rauw Alejandro mix\\LOKERA.mp3",
+    "title": "LOKERA",
+    "primary_artists": [
+      "Rauw Alejandro"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Rauw Alejandro"
+    ],
+    "credits": [
+      {
+        "entity": "Rauw Alejandro",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00249",
+    "file": "_other\\_latino\\Rauw Alejandro mix\\Pensándote.mp3",
+    "title": "Pensándote",
+    "primary_artists": [
+      "Rauw Alejandro"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Rauw Alejandro"
+    ],
+    "credits": [
+      {
+        "entity": "Rauw Alejandro",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00250",
+    "file": "_other\\_latino\\Rauw Alejandro mix\\Ponte Pa' Mi.mp3",
+    "title": "Ponte Pa' Mi",
+    "primary_artists": [
+      "Rauw Alejandro"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Rauw Alejandro"
+    ],
+    "credits": [
+      {
+        "entity": "Rauw Alejandro",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00251",
+    "file": "_other\\_latino\\Rauw Alejandro mix\\Que Somos.mp3",
+    "title": "Que Somos",
+    "primary_artists": [
+      "Rauw Alejandro"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Rauw Alejandro"
+    ],
+    "credits": [
+      {
+        "entity": "Rauw Alejandro",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00252",
+    "file": "_other\\_latino\\Rauw Alejandro mix\\Química.mp3",
+    "title": "Química",
+    "primary_artists": [
+      "Rauw Alejandro"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Rauw Alejandro"
+    ],
+    "credits": [
+      {
+        "entity": "Rauw Alejandro",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00253",
+    "file": "_other\\_latino\\Rauw Alejandro mix\\Rauw Alejandro & Chencho Corleone - Desesperados (Video Oficial).mp3",
+    "title": "Desesperados ()",
+    "primary_artists": [
+      "Rauw Alejandro",
+      "Chencho Corleone"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Rauw Alejandro",
+      "Chencho Corleone"
+    ],
+    "credits": [
+      {
+        "entity": "Rauw Alejandro",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Chencho Corleone",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00254",
+    "file": "_other\\_latino\\Rauw Alejandro mix\\Rauw Alejandro - 2 Catorce (Video Oficial).mp3",
+    "title": "Catorce ()",
+    "primary_artists": [
+      "Rauw Alejandro"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Rauw Alejandro"
+    ],
+    "credits": [
+      {
+        "entity": "Rauw Alejandro",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00255",
+    "file": "_other\\_latino\\Rauw Alejandro mix\\Rauw Alejandro - Dile A Él (Video Oficial).mp3",
+    "title": "Dile A Él ()",
+    "primary_artists": [
+      "Rauw Alejandro"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Rauw Alejandro"
+    ],
+    "credits": [
+      {
+        "entity": "Rauw Alejandro",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00256",
+    "file": "_other\\_latino\\Rauw Alejandro mix\\Rauw Alejandro x Anuel AA - Reloj (Video Oficial).mp3",
+    "title": "Reloj ()",
+    "primary_artists": [
+      "Rauw Alejandro",
+      "Anuel AA"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Rauw Alejandro",
+      "Anuel AA"
+    ],
+    "credits": [
+      {
+        "entity": "Rauw Alejandro",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Anuel AA",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00257",
+    "file": "_other\\_latino\\Rauw Alejandro mix\\Rauw Alejandro X Myke Towers X Sky Rompiendo - Ponte Pa' Mí (Video Oficial).mp3",
+    "title": "Rauw Alejandro X Myke Towers X Sky Rompiendo - Ponte Pa' Mí ()",
+    "primary_artists": [
+      "Rauw Alejandro"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Rauw Alejandro"
+    ],
+    "credits": [
+      {
+        "entity": "Rauw Alejandro",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00258",
+    "file": "_other\\_latino\\Rauw Alejandro mix\\Reloj.mp3",
+    "title": "Reloj",
+    "primary_artists": [
+      "Rauw Alejandro"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Rauw Alejandro"
+    ],
+    "credits": [
+      {
+        "entity": "Rauw Alejandro",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00259",
+    "file": "_other\\_latino\\Rauw Alejandro mix\\Un Sueño.mp3",
+    "title": "Un Sueño",
+    "primary_artists": [
+      "Rauw Alejandro"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Rauw Alejandro"
+    ],
+    "credits": [
+      {
+        "entity": "Rauw Alejandro",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00260",
+    "file": "_other\\_latino\\Rebotan.mp3",
+    "title": "Rebotan",
+    "primary_artists": [
+      "N/A"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "N/A"
+    ],
+    "credits": [
+      {
+        "entity": "N/A",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "unattributed"
+  },
+  {
+    "song_id": "lt-00261",
+    "file": "_other\\_latino\\Ryan Castro, Peso Pluma - QUEMA 🔥 (Video Oficial).mp3",
+    "title": "QUEMA 🔥 ()",
+    "primary_artists": [
+      "Ryan Castro",
+      "Peso Pluma"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Ryan Castro",
+      "Peso Pluma"
+    ],
+    "credits": [
+      {
+        "entity": "Ryan Castro",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Peso Pluma",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00262",
+    "file": "_other\\_latino\\Solo Canto - Flow Mafia ( Video Oficial ).mp3",
+    "title": "Flow Mafia ( )",
+    "primary_artists": [
+      "Solo Canto"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Solo Canto"
+    ],
+    "credits": [
+      {
+        "entity": "Solo Canto",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  },
+  {
+    "song_id": "lt-00263",
+    "file": "_other\\_latino\\Wisin, Jhay Cortez, Los Legendarios -  Fiel  (Official Video).mp3",
+    "title": "Fiel ()",
+    "primary_artists": [
+      "Wisin",
+      "Jhay Cortez",
+      "Los Legendarios"
+    ],
+    "featuring_artists": [],
+    "artists": [
+      "Wisin",
+      "Jhay Cortez",
+      "Los Legendarios"
+    ],
+    "credits": [
+      {
+        "entity": "Wisin",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Jhay Cortez",
+        "entity_type": "person",
+        "role": "primary"
+      },
+      {
+        "entity": "Los Legendarios",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
+  }
+]
