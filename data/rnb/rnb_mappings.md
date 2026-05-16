@@ -53,3 +53,4 @@
 - `Jagged Edge: Brian Casey, Brandon Casey, Kyle Norman, Richard Wingo`
 - `The Internet: Syd, Matt Martians`
 - `New Edition: Bobby Brown, Ralph Tresvant, Michael Bivins, Ricky Bell, Ronnie DeVoe, Johnny Gill`
+- `Destiny's Child: Beyoncé, Kelly Rowland, Michelle Williams`

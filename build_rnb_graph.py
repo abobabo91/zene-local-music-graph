@@ -43,6 +43,10 @@ GENERIC_FOLDER_NAMES = {
     "rap caviar", "the way you", "other",
 }
 COMPILATION_PREFIXES = {"dj_wispas", "dj ", "mix - ", "mix -"}
+# Groups where songs are split to individual members (like in rap)
+# All other groups are treated as a single entity
+SPLIT_GROUPS = {"Destiny's Child"}
+
 BLOCKLIST_ARTISTS = {
     "n/a", "unknown", "various", "nothing", "cd1", "cd2",
     "you", "me", "scape", "audio", "download link", "l ost", "l soundtrack",
@@ -270,10 +274,17 @@ def scan_rnb(mappings: dict) -> list[dict]:
         for a in primary:
             group_name = mappings["group_lookup"].get(normalize_key(a))
             if group_name and group_name in mappings["groups"]:
-                credits.append({"entity": group_name, "entity_type": "group", "role": "primary"})
-                for member in mappings["groups"][group_name]:
-                    if member not in all_artists:
-                        all_artists.append(member)
+                if group_name in SPLIT_GROUPS:
+                    # Split group: expand to members
+                    credits.append({"entity": group_name, "entity_type": "group", "role": "primary"})
+                    for member in mappings["groups"][group_name]:
+                        if member not in all_artists:
+                            all_artists.append(member)
+                else:
+                    # Non-split group: treat group name as a person
+                    credits.append({"entity": group_name, "entity_type": "person", "role": "primary"})
+                    if group_name not in all_artists:
+                        all_artists.append(group_name)
             else:
                 credits.append({"entity": a, "entity_type": "person", "role": "primary"})
                 if a not in all_artists:
@@ -319,16 +330,18 @@ def build_persons(songs: list[dict], mappings: dict) -> dict:
                     p["feature_song_ids"].append(s["song_id"])
             elif credit["entity_type"] == "group":
                 gname = credit["entity"]
-                members = group_members_map.get(gname, set())
-                for member in members:
-                    p = persons.setdefault(member, {
-                        "song_ids": [], "primary_song_ids": [], "feature_song_ids": [], "via_group_song_ids": [], "groups": []
-                    })
-                    if s["song_id"] not in p["song_ids"]:
-                        p["song_ids"].append(s["song_id"])
-                    p["via_group_song_ids"].append(s["song_id"])
-                    if gname not in p["groups"]:
-                        p["groups"].append(gname)
+                # Only expand members for SPLIT_GROUPS
+                if gname in SPLIT_GROUPS:
+                    members = group_members_map.get(gname, set())
+                    for member in members:
+                        p = persons.setdefault(member, {
+                            "song_ids": [], "primary_song_ids": [], "feature_song_ids": [], "via_group_song_ids": [], "groups": []
+                        })
+                        if s["song_id"] not in p["song_ids"]:
+                            p["song_ids"].append(s["song_id"])
+                        p["via_group_song_ids"].append(s["song_id"])
+                        if gname not in p["groups"]:
+                            p["groups"].append(gname)
     return persons
 
 
