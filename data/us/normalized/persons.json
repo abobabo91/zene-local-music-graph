@@ -796,25 +796,6 @@
     "feature_song_ids": [],
     "via_group_song_ids": []
   },
-  "A Dream (": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "New York"
-    ],
-    "sources": [
-      "_rap"
-    ],
-    "song_ids": [
-      "u-02271"
-    ],
-    "primary_song_ids": [
-      "u-02271"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
   "A Plus": {
     "type": "person",
     "labels": [],
@@ -2082,44 +2063,6 @@
     "feature_song_ids": [],
     "via_group_song_ids": []
   },
-  "Bankhead (": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "Atlanta"
-    ],
-    "sources": [
-      "_rap"
-    ],
-    "song_ids": [
-      "u-00980"
-    ],
-    "primary_song_ids": [
-      "u-00980"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "Bankroll (": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "USA"
-    ],
-    "sources": [
-      "_trap"
-    ],
-    "song_ids": [
-      "u-02811"
-    ],
-    "primary_song_ids": [
-      "u-02811"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
   "Bankroll Fresh": {
     "type": "person",
     "labels": [],
@@ -2177,25 +2120,6 @@
     ],
     "primary_song_ids": [
       "u-00303"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "Be Better Than Me (Produced By San Chez Holmes": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "Atlanta"
-    ],
-    "sources": [
-      "_rap"
-    ],
-    "song_ids": [
-      "u-01007"
-    ],
-    "primary_song_ids": [
-      "u-01007"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": []
@@ -3927,25 +3851,6 @@
     "feature_song_ids": [],
     "via_group_song_ids": []
   },
-  "Brand New Choppa (": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "USA"
-    ],
-    "sources": [
-      "_trap"
-    ],
-    "song_ids": [
-      "u-03827"
-    ],
-    "primary_song_ids": [
-      "u-03827"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
   "Brandy": {
     "type": "person",
     "labels": [],
@@ -4265,25 +4170,6 @@
     ],
     "via_group_song_ids": []
   },
-  "Buy The World (": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "Atlanta"
-    ],
-    "sources": [
-      "_trap"
-    ],
-    "song_ids": [
-      "u-03986"
-    ],
-    "primary_song_ids": [
-      "u-03986"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
   "C Stocks": {
     "type": "person",
     "labels": [],
@@ -4388,25 +4274,6 @@
       "u-05033",
       "u-05034",
       "u-05035"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "California Rari (": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "Atlanta"
-    ],
-    "sources": [
-      "_trap"
-    ],
-    "song_ids": [
-      "u-03987"
-    ],
-    "primary_song_ids": [
-      "u-03987"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": []
@@ -5053,25 +4920,6 @@
     ],
     "primary_song_ids": [
       "u-00940"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "Chickenhead (": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "Memphis"
-    ],
-    "sources": [
-      "_rap"
-    ],
-    "song_ids": [
-      "u-01881"
-    ],
-    "primary_song_ids": [
-      "u-01881"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": []
@@ -7779,25 +7627,6 @@
     "feature_song_ids": [],
     "via_group_song_ids": []
   },
-  "Drinks On Us (": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "Atlanta"
-    ],
-    "sources": [
-      "_trap"
-    ],
-    "song_ids": [
-      "u-03988"
-    ],
-    "primary_song_ids": [
-      "u-03988"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
   "Dugg": {
     "type": "person",
     "labels": [],
@@ -8997,25 +8826,6 @@
     ],
     "primary_song_ids": [
       "u-05560"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "Feelings (Yung Massina": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "USA"
-    ],
-    "sources": [
-      "_trap"
-    ],
-    "song_ids": [
-      "u-03792"
-    ],
-    "primary_song_ids": [
-      "u-03792"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": []
@@ -10314,25 +10124,6 @@
     ],
     "primary_song_ids": [
       "u-00483"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "Get Your Mind Right Miami (": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "New York"
-    ],
-    "sources": [
-      "_rap"
-    ],
-    "song_ids": [
-      "u-02274"
-    ],
-    "primary_song_ids": [
-      "u-02274"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": []
@@ -11821,25 +11612,6 @@
     "feature_song_ids": [],
     "via_group_song_ids": []
   },
-  "I Want Her (": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "Atlanta"
-    ],
-    "sources": [
-      "_trap"
-    ],
-    "song_ids": [
-      "u-04720"
-    ],
-    "primary_song_ids": [
-      "u-04720"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
   "IAMDDB": {
     "type": "person",
     "labels": [],
@@ -12048,26 +11820,7 @@
     "feature_song_ids": [],
     "via_group_song_ids": []
   },
-  "If You Didn t (": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "Atlanta"
-    ],
-    "sources": [
-      "_trap"
-    ],
-    "song_ids": [
-      "u-04642"
-    ],
-    "primary_song_ids": [
-      "u-04642"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "Iggy Azalea • The New Classic 2014": {
+  "Iggy Azalea": {
     "type": "person",
     "labels": [],
     "groups": [],
@@ -17281,7 +17034,6 @@
       "u-04891",
       "u-04892",
       "u-04893",
-      "u-04894",
       "u-04895",
       "u-04896",
       "u-04897",
@@ -17378,7 +17130,6 @@
       "u-04891",
       "u-04892",
       "u-04893",
-      "u-04894",
       "u-04895",
       "u-04896",
       "u-04897",
@@ -23781,25 +23532,6 @@
     ],
     "via_group_song_ids": []
   },
-  "Pnb rock playlist ❤️": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "USA"
-    ],
-    "sources": [
-      "_trap"
-    ],
-    "song_ids": [
-      "u-03696"
-    ],
-    "primary_song_ids": [
-      "u-03696"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
   "Polo G": {
     "type": "person",
     "labels": [],
@@ -25160,25 +24892,6 @@
     "feature_song_ids": [],
     "via_group_song_ids": []
   },
-  "Real Life (Yung Massina": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "USA"
-    ],
-    "sources": [
-      "_trap"
-    ],
-    "song_ids": [
-      "u-03790"
-    ],
-    "primary_song_ids": [
-      "u-03790"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
   "Red Cafe": {
     "type": "person",
     "labels": [],
@@ -25281,25 +24994,6 @@
     ],
     "primary_song_ids": [
       "u-03311"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "Religion (": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "Atlanta"
-    ],
-    "sources": [
-      "_trap"
-    ],
-    "song_ids": [
-      "u-04409"
-    ],
-    "primary_song_ids": [
-      "u-04409"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": []
@@ -26612,25 +26306,6 @@
     "feature_song_ids": [],
     "via_group_song_ids": []
   },
-  "Run This Town (": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "New York"
-    ],
-    "sources": [
-      "_rap"
-    ],
-    "song_ids": [
-      "u-02268"
-    ],
-    "primary_song_ids": [
-      "u-02268"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
   "Russ": {
     "type": "person",
     "labels": [],
@@ -26952,25 +26627,6 @@
     "feature_song_ids": [
       "u-04007"
     ],
-    "via_group_song_ids": []
-  },
-  "Sasori 蠍": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "USA"
-    ],
-    "sources": [
-      "_trap"
-    ],
-    "song_ids": [
-      "u-03627"
-    ],
-    "primary_song_ids": [
-      "u-03627"
-    ],
-    "feature_song_ids": [],
     "via_group_song_ids": []
   },
   "Sauce Walka": {
@@ -30612,25 +30268,6 @@
     ],
     "via_group_song_ids": []
   },
-  "This Can t Be Life (": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "New York"
-    ],
-    "sources": [
-      "_rap"
-    ],
-    "song_ids": [
-      "u-02276"
-    ],
-    "primary_song_ids": [
-      "u-02276"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
   "THRASHER": {
     "type": "person",
     "labels": [],
@@ -32402,25 +32039,6 @@
     "feature_song_ids": [],
     "via_group_song_ids": []
   },
-  "Vouch For Me (Yung Massina": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "USA"
-    ],
-    "sources": [
-      "_trap"
-    ],
-    "song_ids": [
-      "u-03789"
-    ],
-    "primary_song_ids": [
-      "u-03789"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
   "Wacka Flocka Flame": {
     "type": "person",
     "labels": [],
@@ -32956,25 +32574,6 @@
     "primary_song_ids": [
       "u-03318",
       "u-03319"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "Wipe Me Down (": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "Atlanta"
-    ],
-    "sources": [
-      "_trap"
-    ],
-    "song_ids": [
-      "u-04188"
-    ],
-    "primary_song_ids": [
-      "u-04188"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": []
@@ -35588,25 +35187,6 @@
     "feature_song_ids": [],
     "via_group_song_ids": []
   },
-  "Yung Simmie 🔥💯": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "Florida"
-    ],
-    "sources": [
-      "_trap"
-    ],
-    "song_ids": [
-      "u-05457"
-    ],
-    "primary_song_ids": [
-      "u-05457"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
   "Yungeen Ace": {
     "type": "person",
     "labels": [],
@@ -35843,41 +35423,6 @@
     ],
     "primary_song_ids": [
       "u-04728"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "Ｅｓｓｅｎｃｅ": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "USA"
-    ],
-    "sources": [
-      "_trap"
-    ],
-    "song_ids": [
-      "u-03640",
-      "u-03641",
-      "u-03642",
-      "u-03643",
-      "u-03644",
-      "u-03645",
-      "u-03646",
-      "u-03647",
-      "u-03912"
-    ],
-    "primary_song_ids": [
-      "u-03640",
-      "u-03641",
-      "u-03642",
-      "u-03643",
-      "u-03644",
-      "u-03645",
-      "u-03646",
-      "u-03647",
-      "u-03912"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": []

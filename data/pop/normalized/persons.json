@@ -7383,17 +7383,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Indie Pop Hits 🎶": {
-    "song_ids": [
-      "pp-01167"
-    ],
-    "primary_song_ids": [
-      "pp-01167"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Glass Animals": {
     "song_ids": [
       "pp-01168"
@@ -7501,17 +7490,6 @@
       "pp-01178"
     ],
     "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Quave (": {
-    "song_ids": [
-      "pp-01184"
-    ],
-    "primary_song_ids": [],
-    "feature_song_ids": [
-      "pp-01184"
-    ],
     "via_group_song_ids": [],
     "groups": []
   },

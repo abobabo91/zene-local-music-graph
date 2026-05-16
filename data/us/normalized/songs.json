@@ -19796,21 +19796,21 @@
     "folder_region": "USA Other",
     "primary_artists": [],
     "featuring_artists": [
-      "Snoop Dogg",
-      "Your Friends ("
+      "N/A",
+      "Snoop Dogg"
     ],
     "artists": [
-      "Snoop Dogg",
-      "Your Friends ("
+      "N/A",
+      "Snoop Dogg"
     ],
     "credits": [
       {
-        "entity": "Snoop Dogg",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "feature"
       },
       {
-        "entity": "Your Friends (",
+        "entity": "Snoop Dogg",
         "entity_type": "person",
         "role": "feature"
       }
@@ -21005,14 +21005,11 @@
     "title": "Young Dro) (",
     "source_root": "_rap",
     "folder_region": "Atlanta",
-    "primary_artists": [
-      "Bankhead ("
-    ],
+    "primary_artists": [],
     "featuring_artists": [
       "P$C"
     ],
     "artists": [
-      "Bankhead (",
       "P$C"
     ],
     "credits": [
@@ -21020,14 +21017,9 @@
         "entity": "P$C",
         "entity_type": "person",
         "role": "feature"
-      },
-      {
-        "entity": "Bankhead (",
-        "entity_type": "person",
-        "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-00981",
@@ -21594,21 +21586,11 @@
     "title": "Madvac)",
     "source_root": "_rap",
     "folder_region": "Atlanta",
-    "primary_artists": [
-      "Be Better Than Me (Produced By San Chez Holmes"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Be Better Than Me (Produced By San Chez Holmes"
-    ],
-    "credits": [
-      {
-        "entity": "Be Better Than Me (Produced By San Chez Holmes",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-01008",
@@ -26191,11 +26173,11 @@
     "primary_artists": [],
     "featuring_artists": [
       "Anderson .Paak",
-      "Cocaine ("
+      "N/A"
     ],
     "artists": [
       "Anderson .Paak",
-      "Cocaine ("
+      "N/A"
     ],
     "credits": [
       {
@@ -26204,7 +26186,7 @@
         "role": "feature"
       },
       {
-        "entity": "Cocaine (",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "feature"
       }
@@ -36555,7 +36537,7 @@
       "Lil Twist",
       "Lil' Chuckee",
       "Mr. Pyro",
-      "Nicki Minaj - YM Salute (Prod. by Lil Wayne"
+      "N/A"
     ],
     "artists": [
       "Gudda Gudda",
@@ -36563,7 +36545,7 @@
       "Lil Twist",
       "Lil' Chuckee",
       "Mr. Pyro",
-      "Nicki Minaj - YM Salute (Prod. by Lil Wayne"
+      "N/A"
     ],
     "credits": [
       {
@@ -36592,7 +36574,7 @@
         "role": "feature"
       },
       {
-        "entity": "Nicki Minaj - YM Salute (Prod. by Lil Wayne",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "feature"
       }
@@ -41146,14 +41128,11 @@
     "title": "Three 6 Mafia)",
     "source_root": "_rap",
     "folder_region": "Memphis",
-    "primary_artists": [
-      "Chickenhead ("
-    ],
+    "primary_artists": [],
     "featuring_artists": [
       "La Chat"
     ],
     "artists": [
-      "Chickenhead (",
       "La Chat"
     ],
     "credits": [
@@ -41161,14 +41140,9 @@
         "entity": "La Chat",
         "entity_type": "person",
         "role": "feature"
-      },
-      {
-        "entity": "Chickenhead (",
-        "entity_type": "person",
-        "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-01882",
@@ -49025,29 +48999,21 @@
     "title": "Kanye West)",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [
-      "Run This Town ("
-    ],
+    "primary_artists": [],
     "featuring_artists": [
       "Rihanna"
     ],
     "artists": [
-      "Rihanna",
-      "Run This Town ("
+      "Rihanna"
     ],
     "credits": [
       {
         "entity": "Rihanna",
         "entity_type": "person",
         "role": "feature"
-      },
-      {
-        "entity": "Run This Town (",
-        "entity_type": "person",
-        "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-02269",
@@ -49089,14 +49055,11 @@
     "title": "The Notorious B.I.G",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [
-      "A Dream ("
-    ],
+    "primary_artists": [],
     "featuring_artists": [
       "Faith Evans"
     ],
     "artists": [
-      "A Dream (",
       "Faith Evans"
     ],
     "credits": [
@@ -49104,14 +49067,9 @@
         "entity": "Faith Evans",
         "entity_type": "person",
         "role": "feature"
-      },
-      {
-        "entity": "A Dream (",
-        "entity_type": "person",
-        "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-02272",
@@ -49163,14 +49121,11 @@
     "title": "Snoop Dogg)",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [
-      "Get Your Mind Right Miami ("
-    ],
+    "primary_artists": [],
     "featuring_artists": [
       "Memphis Bleek"
     ],
     "artists": [
-      "Get Your Mind Right Miami (",
       "Memphis Bleek"
     ],
     "credits": [
@@ -49178,14 +49133,9 @@
         "entity": "Memphis Bleek",
         "entity_type": "person",
         "role": "feature"
-      },
-      {
-        "entity": "Get Your Mind Right Miami (",
-        "entity_type": "person",
-        "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-02275",
@@ -49215,29 +49165,21 @@
     "title": "Scarface)",
     "source_root": "_rap",
     "folder_region": "New York",
-    "primary_artists": [
-      "This Can t Be Life ("
-    ],
+    "primary_artists": [],
     "featuring_artists": [
       "Beanie Sigel"
     ],
     "artists": [
-      "Beanie Sigel",
-      "This Can t Be Life ("
+      "Beanie Sigel"
     ],
     "credits": [
       {
         "entity": "Beanie Sigel",
         "entity_type": "person",
         "role": "feature"
-      },
-      {
-        "entity": "This Can t Be Life (",
-        "entity_type": "person",
-        "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-02277",
@@ -61282,14 +61224,11 @@
     "title": "Playboi Carti)",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [
-      "Bankroll ("
-    ],
+    "primary_artists": [],
     "featuring_artists": [
       "Lil Uzi Vert"
     ],
     "artists": [
-      "Bankroll (",
       "Lil Uzi Vert"
     ],
     "credits": [
@@ -61297,14 +61236,9 @@
         "entity": "Lil Uzi Vert",
         "entity_type": "person",
         "role": "feature"
-      },
-      {
-        "entity": "Bankroll (",
-        "entity_type": "person",
-        "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-02812",
@@ -72638,15 +72572,15 @@
       "RocknRollah"
     ],
     "featuring_artists": [
-      "S☹️DBOI"
+      "N/A"
     ],
     "artists": [
-      "RocknRollah",
-      "S☹️DBOI"
+      "N/A",
+      "RocknRollah"
     ],
     "credits": [
       {
-        "entity": "S☹️DBOI",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "feature"
       },
@@ -76419,14 +76353,14 @@
     "folder_region": "USA",
     "primary_artists": [],
     "featuring_artists": [
-      "Tyga (Prod by Million"
+      "N/A"
     ],
     "artists": [
-      "Tyga (Prod by Million"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Tyga (Prod by Million",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "feature"
       }
@@ -78450,15 +78384,15 @@
     "source_root": "_trap",
     "folder_region": "USA",
     "primary_artists": [
-      "Iggy Azalea • The New Classic 2014"
+      "Iggy Azalea"
     ],
     "featuring_artists": [],
     "artists": [
-      "Iggy Azalea • The New Classic 2014"
+      "Iggy Azalea"
     ],
     "credits": [
       {
-        "entity": "Iggy Azalea • The New Classic 2014",
+        "entity": "Iggy Azalea",
         "entity_type": "person",
         "role": "primary"
       }
@@ -78472,15 +78406,15 @@
     "source_root": "_trap",
     "folder_region": "USA",
     "primary_artists": [
-      "Iggy Azalea • The New Classic 2014"
+      "Iggy Azalea"
     ],
     "featuring_artists": [],
     "artists": [
-      "Iggy Azalea • The New Classic 2014"
+      "Iggy Azalea"
     ],
     "credits": [
       {
-        "entity": "Iggy Azalea • The New Classic 2014",
+        "entity": "Iggy Azalea",
         "entity_type": "person",
         "role": "primary"
       }
@@ -78494,15 +78428,15 @@
     "source_root": "_trap",
     "folder_region": "USA",
     "primary_artists": [
-      "Iggy Azalea • The New Classic 2014"
+      "Iggy Azalea"
     ],
     "featuring_artists": [],
     "artists": [
-      "Iggy Azalea • The New Classic 2014"
+      "Iggy Azalea"
     ],
     "credits": [
       {
-        "entity": "Iggy Azalea • The New Classic 2014",
+        "entity": "Iggy Azalea",
         "entity_type": "person",
         "role": "primary"
       }
@@ -78516,15 +78450,15 @@
     "source_root": "_trap",
     "folder_region": "USA",
     "primary_artists": [
-      "Iggy Azalea • The New Classic 2014"
+      "Iggy Azalea"
     ],
     "featuring_artists": [],
     "artists": [
-      "Iggy Azalea • The New Classic 2014"
+      "Iggy Azalea"
     ],
     "credits": [
       {
-        "entity": "Iggy Azalea • The New Classic 2014",
+        "entity": "Iggy Azalea",
         "entity_type": "person",
         "role": "primary"
       }
@@ -80385,21 +80319,11 @@
     "title": "it s not enough to say sorry (ft",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [
-      "Sasori 蠍"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Sasori 蠍"
-    ],
-    "credits": [
-      {
-        "entity": "Sasori 蠍",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-03628",
@@ -80677,21 +80601,11 @@
     "title": "why have we lost each other. (ft",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [
-      "Ｅｓｓｅｎｃｅ"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Ｅｓｓｅｎｃｅ"
-    ],
-    "credits": [
-      {
-        "entity": "Ｅｓｓｅｎｃｅ",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-03641",
@@ -80699,21 +80613,11 @@
     "title": "ＢＵＲＤＥＮ",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [
-      "Ｅｓｓｅｎｃｅ"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Ｅｓｓｅｎｃｅ"
-    ],
-    "credits": [
-      {
-        "entity": "Ｅｓｓｅｎｃｅ",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-03642",
@@ -80721,21 +80625,11 @@
     "title": "ＩＭＡＧＩＮＥ",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [
-      "Ｅｓｓｅｎｃｅ"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Ｅｓｓｅｎｃｅ"
-    ],
-    "credits": [
-      {
-        "entity": "Ｅｓｓｅｎｃｅ",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-03643",
@@ -80743,21 +80637,11 @@
     "title": "ＩＳＯＬＡＴＥＤ",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [
-      "Ｅｓｓｅｎｃｅ"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Ｅｓｓｅｎｃｅ"
-    ],
-    "credits": [
-      {
-        "entity": "Ｅｓｓｅｎｃｅ",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-03644",
@@ -80765,21 +80649,11 @@
     "title": "ＬＯＯＫＩＮＧ ＦＯＲ ＳＯＭＥＴＨＩＮＧ",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [
-      "Ｅｓｓｅｎｃｅ"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Ｅｓｓｅｎｃｅ"
-    ],
-    "credits": [
-      {
-        "entity": "Ｅｓｓｅｎｃｅ",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-03645",
@@ -80787,21 +80661,11 @@
     "title": "ＮＯＳＴＡＬＧＩＣ",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [
-      "Ｅｓｓｅｎｃｅ"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Ｅｓｓｅｎｃｅ"
-    ],
-    "credits": [
-      {
-        "entity": "Ｅｓｓｅｎｃｅ",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-03646",
@@ -80809,21 +80673,11 @@
     "title": "Ｗａｔｃｈ ｉｔ ｆｌｙ",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [
-      "Ｅｓｓｅｎｃｅ"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Ｅｓｓｅｎｃｅ"
-    ],
-    "credits": [
-      {
-        "entity": "Ｅｓｓｅｎｃｅ",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-03647",
@@ -80831,21 +80685,11 @@
     "title": "Ｙｏｕ＇ｒｅ Ｇｏｎｅ",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [
-      "Ｅｓｓｅｎｃｅ"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Ｅｓｓｅｎｃｅ"
-    ],
-    "credits": [
-      {
-        "entity": "Ｅｓｓｅｎｃｅ",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-03648",
@@ -81977,21 +81821,11 @@
     "title": "I Like Girls (feat. Lil Skies)",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [
-      "Pnb rock playlist ❤️"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Pnb rock playlist ❤️"
-    ],
-    "credits": [
-      {
-        "entity": "Pnb rock playlist ❤️",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-03697",
@@ -84035,21 +83869,11 @@
     "title": "Comma Sutra Mixtape)",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [
-      "Vouch For Me (Yung Massina"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Vouch For Me (Yung Massina"
-    ],
-    "credits": [
-      {
-        "entity": "Vouch For Me (Yung Massina",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-03790",
@@ -84057,21 +83881,11 @@
     "title": "Comma Sutra Mixtape)",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [
-      "Real Life (Yung Massina"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Real Life (Yung Massina"
-    ],
-    "credits": [
-      {
-        "entity": "Real Life (Yung Massina",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-03791",
@@ -84101,21 +83915,11 @@
     "title": "Sack Religious Mixtape)",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [
-      "Feelings (Yung Massina"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Feelings (Yung Massina"
-    ],
-    "credits": [
-      {
-        "entity": "Feelings (Yung Massina",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-03793",
@@ -84886,9 +84690,7 @@
     "title": "Meek Mill)",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [
-      "Brand New Choppa ("
-    ],
+    "primary_artists": [],
     "featuring_artists": [
       "T.I.",
       "Travi$ Scott",
@@ -84896,7 +84698,6 @@
       "Yung Booke"
     ],
     "artists": [
-      "Brand New Choppa (",
       "T.I.",
       "Travi$ Scott",
       "Young Dro",
@@ -84922,14 +84723,9 @@
         "entity": "Yung Booke",
         "entity_type": "person",
         "role": "feature"
-      },
-      {
-        "entity": "Brand New Choppa (",
-        "entity_type": "person",
-        "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-03828",
@@ -86844,21 +86640,11 @@
     "title": "Act Up",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [
-      "Ｅｓｓｅｎｃｅ"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Ｅｓｓｅｎｃｅ"
-    ],
-    "credits": [
-      {
-        "entity": "Ｅｓｓｅｎｃｅ",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-03913",
@@ -88188,15 +87974,12 @@
     "title": "Kendrick Lamar)",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [
-      "Buy The World ("
-    ],
+    "primary_artists": [],
     "featuring_artists": [
       "Future",
       "Lil Wayne"
     ],
     "artists": [
-      "Buy The World (",
       "Future",
       "Lil Wayne"
     ],
@@ -88210,14 +87993,9 @@
         "entity": "Lil Wayne",
         "entity_type": "person",
         "role": "feature"
-      },
-      {
-        "entity": "Buy The World (",
-        "entity_type": "person",
-        "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-03987",
@@ -88225,15 +88003,12 @@
     "title": "Problem)",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [
-      "California Rari ("
-    ],
+    "primary_artists": [],
     "featuring_artists": [
       "Future",
       "Young Thug"
     ],
     "artists": [
-      "California Rari (",
       "Future",
       "Young Thug"
     ],
@@ -88247,14 +88022,9 @@
         "entity": "Young Thug",
         "entity_type": "person",
         "role": "feature"
-      },
-      {
-        "entity": "California Rari (",
-        "entity_type": "person",
-        "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-03988",
@@ -88262,14 +88032,11 @@
     "title": "Future)",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [
-      "Drinks On Us ("
-    ],
+    "primary_artists": [],
     "featuring_artists": [
       "Swae Lee"
     ],
     "artists": [
-      "Drinks On Us (",
       "Swae Lee"
     ],
     "credits": [
@@ -88277,14 +88044,9 @@
         "entity": "Swae Lee",
         "entity_type": "person",
         "role": "feature"
-      },
-      {
-        "entity": "Drinks On Us (",
-        "entity_type": "person",
-        "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-03989",
@@ -92936,29 +92698,21 @@
     "title": "Webbie)",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [
-      "Wipe Me Down ("
-    ],
+    "primary_artists": [],
     "featuring_artists": [
       "Foxx"
     ],
     "artists": [
-      "Foxx",
-      "Wipe Me Down ("
+      "Foxx"
     ],
     "credits": [
       {
         "entity": "Foxx",
         "entity_type": "person",
         "role": "feature"
-      },
-      {
-        "entity": "Wipe Me Down (",
-        "entity_type": "person",
-        "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-04189",
@@ -98013,14 +97767,11 @@
     "title": "Slim Jxmmi)",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [
-      "Religion ("
-    ],
+    "primary_artists": [],
     "featuring_artists": [
       "Riff 3x"
     ],
     "artists": [
-      "Religion (",
       "Riff 3x"
     ],
     "credits": [
@@ -98028,14 +97779,9 @@
         "entity": "Riff 3x",
         "entity_type": "person",
         "role": "feature"
-      },
-      {
-        "entity": "Religion (",
-        "entity_type": "person",
-        "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-04410",
@@ -103539,14 +103285,11 @@
     "title": "Chanel West Coast)",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [
-      "If You Didn t ("
-    ],
+    "primary_artists": [],
     "featuring_artists": [
       "Young Thug"
     ],
     "artists": [
-      "If You Didn t (",
       "Young Thug"
     ],
     "credits": [
@@ -103554,14 +103297,9 @@
         "entity": "Young Thug",
         "entity_type": "person",
         "role": "feature"
-      },
-      {
-        "entity": "If You Didn t (",
-        "entity_type": "person",
-        "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-04643",
@@ -105402,9 +105140,7 @@
     "title": "T.I.P",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [
-      "I Want Her ("
-    ],
+    "primary_artists": [],
     "featuring_artists": [
       "Duke",
       "N/A",
@@ -105413,7 +105149,6 @@
     ],
     "artists": [
       "Duke",
-      "I Want Her (",
       "N/A",
       "Shad Da God",
       "Young Thug"
@@ -105438,14 +105173,9 @@
         "entity": "Young Thug",
         "entity_type": "person",
         "role": "feature"
-      },
-      {
-        "entity": "I Want Her (",
-        "entity_type": "person",
-        "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-04721",
@@ -109388,29 +109118,21 @@
     "title": "right here (legendado)",
     "source_root": "_trap",
     "folder_region": "California",
-    "primary_artists": [
-      "Lil Peep"
-    ],
+    "primary_artists": [],
     "featuring_artists": [
       "horsehead"
     ],
     "artists": [
-      "horsehead",
-      "Lil Peep"
+      "horsehead"
     ],
     "credits": [
       {
         "entity": "horsehead",
         "entity_type": "person",
         "role": "feature"
-      },
-      {
-        "entity": "Lil Peep",
-        "entity_type": "person",
-        "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-04895",
@@ -118043,14 +117765,14 @@
     "folder_region": "Chicago",
     "primary_artists": [],
     "featuring_artists": [
-      "Lil Herb (Prod by Ryu"
+      "N/A"
     ],
     "artists": [
-      "Lil Herb (Prod by Ryu"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Lil Herb (Prod by Ryu",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "feature"
       }
@@ -122221,21 +121943,11 @@
     "title": "Fake Nikkas 2 (Prod",
     "source_root": "_trap",
     "folder_region": "Florida",
-    "primary_artists": [
-      "Yung Simmie 🔥💯"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Yung Simmie 🔥💯"
-    ],
-    "credits": [
-      {
-        "entity": "Yung Simmie 🔥💯",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-05458",

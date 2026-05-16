@@ -390,26 +390,28 @@ def _normalized_blocklist(config: dict) -> set[str]:
     return {normalize_key(b) for b in config["blocklist"]}
 
 
-def _is_junk(key: str, bl: set[str]) -> bool:
+def _is_junk(name: str, key: str, bl: set[str]) -> bool:
     if key in bl:
         return True
     if re.match(r"^\d+$", key):
         return True
     if re.match(r"^\d{1,2}\s+", key):
         return True
-    if key.endswith("(") or ("(" in key and ")" not in key):
-        return True
+    if "(" in name and ")" not in name:
+        return True  # unclosed parens (check original)
     if re.match(r"^\d{1,2}\s*-\s*", key):
         return True
     if len(key) <= 1:
         return True
+    if any(ord(c) > 8000 for c in name):
+        return True  # emoji
     return False
 
 
 def prefer_display(name: str, mappings: dict, config: dict) -> str:
     bl = _normalized_blocklist(config)
     c = canonicalize(name, mappings)
-    if c and not _is_junk(normalize_key(c), bl):
+    if c and not _is_junk(c, normalize_key(c), bl):
         return c
     return "N/A"
 
@@ -439,7 +441,7 @@ def first_artist_context(path_parts: list[str], mappings: dict, config: dict) ->
         if not candidate:
             continue
         canonical = canonicalize(candidate, mappings)
-        if canonical and not _is_junk(normalize_key(canonical), _normalized_blocklist(config)):
+        if canonical and not _is_junk(canonical, normalize_key(canonical), _normalized_blocklist(config)):
             return canonical
     return None
 

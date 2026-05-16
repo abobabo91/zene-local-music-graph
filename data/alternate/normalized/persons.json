@@ -130,17 +130,6 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Planet Caravan (2012": {
-    "song_ids": [
-      "al-00014"
-    ],
-    "primary_song_ids": [
-      "al-00014"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Renato Carosone": {
     "song_ids": [
       "al-00015"
@@ -492,17 +481,6 @@
     "primary_song_ids": [
       "al-00061",
       "al-00062"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Damian “Jr. Gong” Marley": {
-    "song_ids": [
-      "al-00063"
-    ],
-    "primary_song_ids": [
-      "al-00063"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],

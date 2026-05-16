@@ -504,29 +504,31 @@ def canonical_group_name(name: str, mappings: dict) -> str | None:
     return mappings["group_lookup"].get(normalize_key(cleaned))
 
 
-def _is_junk_artist(key: str) -> bool:
+def _is_junk_artist(name: str, key: str) -> bool:
     """Detect track numbers, pure numbers, unclosed parens, and other junk."""
     if key in BLOCKLIST_ARTISTS:
         return True
     if re.match(r"^\d+$", key):
-        return True  # pure numbers like "100", "049"
+        return True
     if re.match(r"^\d{1,2}\s+", key):
-        return True  # track number prefix like "01 dancin", "05 drama"
-    if key.endswith("(") or "(" in key and ")" not in key:
-        return True  # unclosed parens like "Brand New Choppa ("
+        return True
+    if "(" in name and ")" not in name:
+        return True  # unclosed parens (check original, not normalized)
     if re.match(r"^\d{1,2}\s*-\s*", key):
-        return True  # "01 - title" pattern
+        return True
+    if any(ord(c) > 8000 for c in name):
+        return True  # emoji characters
     return False
 
 
 def prefer_display_name(name: str, mappings: dict) -> str:
     canonical = canonicalize_artist(name, mappings)
     if canonical:
-        if _is_junk_artist(normalize_key(canonical)):
+        if _is_junk_artist(canonical, normalize_key(canonical)):
             return UNKNOWN_ARTIST
         return canonical
     cleaned = clean_artist_text(name)
-    if _is_junk_artist(normalize_key(cleaned)):
+    if _is_junk_artist(cleaned, normalize_key(cleaned)):
         return UNKNOWN_ARTIST
     return cleaned
 

@@ -113,6 +113,7 @@ Examples to expand later:
 - `Desiigner: Desiigner - New English`
 - `Nav: Nav Metro Boomin - Perfect Timing`
 - `Skengdo: #410 Skengdo`
+- `Iggy Azalea: Iggy Azalea The New Classic 2014`
 
 ## Groups
 
