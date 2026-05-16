@@ -108,6 +108,7 @@
   <div class="tab" data-tab="latino">Latino</div>
   <div class="tab" data-tab="pop">Pop</div>
   <div class="tab" data-tab="alternate">Alternative</div>
+  <div class="tab" data-tab="combined">R&B + Pop + Alt</div>
 </div>
 
 <div id="panel-us" class="panel">
@@ -178,6 +179,15 @@
     <label><input type="checkbox" id="top100-latino"> Top 100 only</label>
   </div>
   <div class="table-wrap"><div class="table-scroll" id="table-latino"></div></div>
+</div>
+
+<div id="panel-combined" class="panel" style="display:none">
+  <div class="stats" id="stats-combined"></div>
+  <div class="controls">
+    <input type="text" id="search-combined" placeholder="Search artists...">
+    <label><input type="checkbox" id="top100-combined"> Top 100 only</label>
+  </div>
+  <div class="table-wrap"><div class="table-scroll" id="table-combined"></div></div>
 </div>
 
 <div id="panel-pop" class="panel" style="display:none">
@@ -502,6 +512,25 @@ setupPanel('magyar', MAGYAR_DATA);
 setupPanel('latino', LATINO_DATA);
 setupPanel('pop', POP_DATA);
 setupPanel('alternate', ALT_DATA);
+
+// Build combined R&B + Pop + Alt
+const COMBINED = (() => {
+  const map = {};
+  [RNB_DATA, POP_DATA, ALT_DATA].forEach(src => {
+    src.forEach(p => {
+      const e = map[p.name];
+      if (!e) { map[p.name] = {...p}; }
+      else {
+        e.songs += p.songs; e.norm += p.norm; e.adj += p.adj;
+        e.primary += p.primary; e.feature += p.feature; e.via_group += p.via_group;
+        if (p.groups && !e.groups) e.groups = p.groups;
+        if (p.labels && !e.labels) e.labels = p.labels;
+      }
+    });
+  });
+  return Object.values(map).sort((a,b) => b.adj - a.adj);
+})();
+setupPanel('combined', COMBINED);
 buildMap('map-us-container', 'map-us-tooltip', 'region-us', US_DATA, US_REGIONS, US_COORDS, US_OUTLINE, [900, 560], '#3b82f6');
 buildMap('map-hu-container', 'map-hu-tooltip', 'region-hu', HU_DATA, HU_REGIONS, HU_COORDS, HU_OUTLINE, [620, 260], '#dc2626');
 </script>
