@@ -63,5 +63,67 @@
       "r-00307",
       "r-00308"
     ]
+  },
+  "112": {
+    "members": [
+      "Slim",
+      "Q. Parker",
+      "Daron Jones",
+      "Mike Keith"
+    ],
+    "song_ids": [
+      "r-00220",
+      "r-00221",
+      "r-00223"
+    ]
+  },
+  "Boyz II Men": {
+    "members": [
+      "Nathan Morris",
+      "Wanya Morris",
+      "Shawn Stockman"
+    ],
+    "song_ids": [
+      "r-00243",
+      "r-00244"
+    ]
+  },
+  "Jagged Edge": {
+    "members": [
+      "Brian Casey",
+      "Brandon Casey",
+      "Kyle Norman",
+      "Richard Wingo"
+    ],
+    "song_ids": [
+      "r-00250",
+      "r-00251",
+      "r-00252",
+      "r-00253",
+      "r-00254"
+    ]
+  },
+  "The Internet": {
+    "members": [
+      "Syd",
+      "Matt Martians"
+    ],
+    "song_ids": [
+      "r-00430",
+      "r-00431"
+    ]
+  },
+  "New Edition": {
+    "members": [
+      "Bobby Brown",
+      "Ralph Tresvant",
+      "Michael Bivins",
+      "Ricky Bell",
+      "Ronnie DeVoe",
+      "Johnny Gill"
+    ],
+    "song_ids": [
+      "r-00247"
+    ]
   }
 }

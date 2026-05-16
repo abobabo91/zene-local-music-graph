@@ -4,20 +4,20 @@
     "file": "_other\\_rnb\\010 - Usher ft.  Beyonce _ Lil Wayne - Love In This Club, Part II   (™ LaFace).MP3",
     "title": "Usher ft",
     "primary_artists": [
-      "010"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "010"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "010",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "r-00002",
@@ -1607,24 +1607,16 @@
     "primary_artists": [
       "dvsn"
     ],
-    "featuring_artists": [
-      "Me Do It Well"
-    ],
+    "featuring_artists": [],
     "artists": [
       "Daniel Daley",
-      "Nineteen85",
-      "Me Do It Well"
+      "Nineteen85"
     ],
     "credits": [
       {
         "entity": "dvsn",
         "entity_type": "group",
         "role": "primary"
-      },
-      {
-        "entity": "Me Do It Well",
-        "entity_type": "person",
-        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -2355,500 +2347,500 @@
     "file": "_other\\_rnb\\_modern\\SickickMusic\\Sickick - Addicted (Audio).mp3",
     "title": "Addicted (Audio)",
     "primary_artists": [
-      "Sickick"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Sickick"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Sickick",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "r-00116",
     "file": "_other\\_rnb\\_modern\\SickickMusic\\Sickick - Bermuda (Audio).mp3",
     "title": "Bermuda (Audio)",
     "primary_artists": [
-      "Sickick"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Sickick"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Sickick",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "r-00117",
     "file": "_other\\_rnb\\_modern\\SickickMusic\\Sickick - Best For Me [Lyric Video].mp3",
     "title": "Best For Me [Lyric Video]",
     "primary_artists": [
-      "Sickick"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Sickick"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Sickick",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "r-00118",
     "file": "_other\\_rnb\\_modern\\SickickMusic\\Sickick - Broken (Official Audio).mp3",
     "title": "Broken ()",
     "primary_artists": [
-      "Sickick"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Sickick"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Sickick",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "r-00119",
     "file": "_other\\_rnb\\_modern\\SickickMusic\\Sickick - California (Official Audio).mp3",
     "title": "California ()",
     "primary_artists": [
-      "Sickick"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Sickick"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Sickick",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "r-00120",
     "file": "_other\\_rnb\\_modern\\SickickMusic\\Sickick - Casanova (Audio).mp3",
     "title": "Casanova (Audio)",
     "primary_artists": [
-      "Sickick"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Sickick"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Sickick",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "r-00121",
     "file": "_other\\_rnb\\_modern\\SickickMusic\\Sickick - Catch Feelings (Audio).mp3",
     "title": "Catch Feelings (Audio)",
     "primary_artists": [
-      "Sickick"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Sickick"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Sickick",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "r-00122",
     "file": "_other\\_rnb\\_modern\\SickickMusic\\Sickick - Cursed (Official Video).mp3",
     "title": "Cursed ()",
     "primary_artists": [
-      "Sickick"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Sickick"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Sickick",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "r-00123",
     "file": "_other\\_rnb\\_modern\\SickickMusic\\Sickick - Gift Of Destiny (Audio).mp3",
     "title": "Gift Of Destiny (Audio)",
     "primary_artists": [
-      "Sickick"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Sickick"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Sickick",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "r-00124",
     "file": "_other\\_rnb\\_modern\\SickickMusic\\Sickick - Hurt (Official Audio).mp3",
     "title": "Hurt ()",
     "primary_artists": [
-      "Sickick"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Sickick"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Sickick",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "r-00125",
     "file": "_other\\_rnb\\_modern\\SickickMusic\\Sickick - I Wanna Know (Live Performance).mp3",
     "title": "I Wanna Know (Live Performance)",
     "primary_artists": [
-      "Sickick"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Sickick"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Sickick",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "r-00126",
     "file": "_other\\_rnb\\_modern\\SickickMusic\\Sickick - I Wanna Know (Official Video).mp3",
     "title": "I Wanna Know ()",
     "primary_artists": [
-      "Sickick"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Sickick"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Sickick",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "r-00127",
     "file": "_other\\_rnb\\_modern\\SickickMusic\\Sickick - I_m Good (Official Video).mp3",
     "title": "I m Good ()",
     "primary_artists": [
-      "Sickick"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Sickick"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Sickick",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "r-00128",
     "file": "_other\\_rnb\\_modern\\SickickMusic\\Sickick - Kill Me Slowly (Official Video).mp3",
     "title": "Kill Me Slowly ()",
     "primary_artists": [
-      "Sickick"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Sickick"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Sickick",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "r-00129",
     "file": "_other\\_rnb\\_modern\\SickickMusic\\Sickick - Mind Games.mp3",
     "title": "Mind Games",
     "primary_artists": [
-      "Sickick"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Sickick"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Sickick",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "r-00130",
     "file": "_other\\_rnb\\_modern\\SickickMusic\\Sickick - No Games (Official Video).mp3",
     "title": "No Games ()",
     "primary_artists": [
-      "Sickick"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Sickick"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Sickick",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "r-00131",
     "file": "_other\\_rnb\\_modern\\SickickMusic\\Sickick - Numb.mp3",
     "title": "Numb",
     "primary_artists": [
-      "Sickick"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Sickick"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Sickick",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "r-00132",
     "file": "_other\\_rnb\\_modern\\SickickMusic\\Sickick - Pain Killer (Official Music Video).mp3",
     "title": "Pain Killer ()",
     "primary_artists": [
-      "Sickick"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Sickick"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Sickick",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "r-00133",
     "file": "_other\\_rnb\\_modern\\SickickMusic\\Sickick - Purple Grass (Official Audio).mp3",
     "title": "Purple Grass ()",
     "primary_artists": [
-      "Sickick"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Sickick"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Sickick",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "r-00134",
     "file": "_other\\_rnb\\_modern\\SickickMusic\\Sickick - Roll Thru (Official Video).mp3",
     "title": "Roll Thru ()",
     "primary_artists": [
-      "Sickick"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Sickick"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Sickick",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "r-00135",
     "file": "_other\\_rnb\\_modern\\SickickMusic\\Sickick - Room 112 (Official Audio).mp3",
     "title": "Room 112 ()",
     "primary_artists": [
-      "Sickick"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Sickick"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Sickick",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "r-00136",
     "file": "_other\\_rnb\\_modern\\SickickMusic\\Sickick - Snapchat Beat (Original).mp3",
     "title": "Snapchat Beat (Original)",
     "primary_artists": [
-      "Sickick"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Sickick"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Sickick",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "r-00137",
     "file": "_other\\_rnb\\_modern\\SickickMusic\\Sickick - The One (Audio).mp3",
     "title": "The One (Audio)",
     "primary_artists": [
-      "Sickick"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Sickick"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Sickick",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "r-00138",
     "file": "_other\\_rnb\\_modern\\SickickMusic\\Sickick - Windows (Official Music Video).mp3",
     "title": "Windows ()",
     "primary_artists": [
-      "Sickick"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Sickick"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Sickick",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "r-00139",
     "file": "_other\\_rnb\\_modern\\SickickMusic\\Sickick - Work of Art (Official Audio).mp3",
     "title": "Work of Art ()",
     "primary_artists": [
-      "Sickick"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Sickick"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Sickick",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "r-00140",
@@ -3290,15 +3282,15 @@
     "file": "_other\\_rnb\\_modern\\tinashe\\Tinashe Official - Vulnerable (Audio) ft. Travi$ Scott.mp3",
     "title": "Vulnerable (Audio) ft",
     "primary_artists": [
-      "Tinashe Official"
+      "Tinashe"
     ],
     "featuring_artists": [],
     "artists": [
-      "Tinashe Official"
+      "Tinashe"
     ],
     "credits": [
       {
-        "entity": "Tinashe Official",
+        "entity": "Tinashe",
         "entity_type": "person",
         "role": "primary"
       }
@@ -4450,18 +4442,18 @@
     "file": "_other\\_rnb\\_quot_Takin_ Back My Love_quot_ - Enrique Iglesias feat_ Ciara.mp3",
     "title": "Enrique Iglesias",
     "primary_artists": [
-      "quot Takin Back My Love quot"
+      "N/A"
     ],
     "featuring_artists": [
       "Ciara"
     ],
     "artists": [
-      "quot Takin Back My Love quot",
+      "N/A",
       "Ciara"
     ],
     "credits": [
       {
-        "entity": "quot Takin Back My Love quot",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       },
@@ -4471,7 +4463,7 @@
         "role": "feature"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "r-00220",
@@ -4482,12 +4474,15 @@
     ],
     "featuring_artists": [],
     "artists": [
-      "112"
+      "Slim",
+      "Q. Parker",
+      "Daron Jones",
+      "Mike Keith"
     ],
     "credits": [
       {
         "entity": "112",
-        "entity_type": "person",
+        "entity_type": "group",
         "role": "primary"
       }
     ],
@@ -4502,12 +4497,15 @@
     ],
     "featuring_artists": [],
     "artists": [
-      "112"
+      "Slim",
+      "Q. Parker",
+      "Daron Jones",
+      "Mike Keith"
     ],
     "credits": [
       {
         "entity": "112",
-        "entity_type": "person",
+        "entity_type": "group",
         "role": "primary"
       }
     ],
@@ -4542,12 +4540,15 @@
     ],
     "featuring_artists": [],
     "artists": [
-      "112"
+      "Slim",
+      "Q. Parker",
+      "Daron Jones",
+      "Mike Keith"
     ],
     "credits": [
       {
         "entity": "112",
-        "entity_type": "person",
+        "entity_type": "group",
         "role": "primary"
       }
     ],
@@ -4898,15 +4899,15 @@
     "file": "_other\\_rnb\\_random\\90s 00s rnb\\Avant Hits\\Avant-Separated.mp3",
     "title": "Avant-Separated",
     "primary_artists": [
-      "Avant Hits"
+      "Avant"
     ],
     "featuring_artists": [],
     "artists": [
-      "Avant Hits"
+      "Avant"
     ],
     "credits": [
       {
-        "entity": "Avant Hits",
+        "entity": "Avant",
         "entity_type": "person",
         "role": "primary"
       }
@@ -4942,12 +4943,14 @@
     ],
     "featuring_artists": [],
     "artists": [
-      "Boyz II Men"
+      "Nathan Morris",
+      "Wanya Morris",
+      "Shawn Stockman"
     ],
     "credits": [
       {
         "entity": "Boyz II Men",
-        "entity_type": "person",
+        "entity_type": "group",
         "role": "primary"
       }
     ],
@@ -4962,12 +4965,14 @@
     ],
     "featuring_artists": [],
     "artists": [
-      "Boyz II Men"
+      "Nathan Morris",
+      "Wanya Morris",
+      "Shawn Stockman"
     ],
     "credits": [
       {
         "entity": "Boyz II Men",
-        "entity_type": "person",
+        "entity_type": "group",
         "role": "primary"
       }
     ],
@@ -5022,12 +5027,17 @@
     ],
     "featuring_artists": [],
     "artists": [
-      "New Edition"
+      "Bobby Brown",
+      "Ralph Tresvant",
+      "Michael Bivins",
+      "Ricky Bell",
+      "Ronnie DeVoe",
+      "Johnny Gill"
     ],
     "credits": [
       {
         "entity": "New Edition",
-        "entity_type": "person",
+        "entity_type": "group",
         "role": "primary"
       }
     ],
@@ -5040,23 +5050,15 @@
     "primary_artists": [
       "Whitney Houston"
     ],
-    "featuring_artists": [
-      "Somebody"
-    ],
+    "featuring_artists": [],
     "artists": [
-      "Whitney Houston",
-      "Somebody"
+      "Whitney Houston"
     ],
     "credits": [
       {
         "entity": "Whitney Houston",
         "entity_type": "person",
         "role": "primary"
-      },
-      {
-        "entity": "Somebody",
-        "entity_type": "person",
-        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -5090,12 +5092,15 @@
     ],
     "featuring_artists": [],
     "artists": [
-      "Jagged Edge"
+      "Brian Casey",
+      "Brandon Casey",
+      "Kyle Norman",
+      "Richard Wingo"
     ],
     "credits": [
       {
         "entity": "Jagged Edge",
-        "entity_type": "person",
+        "entity_type": "group",
         "role": "primary"
       }
     ],
@@ -5110,12 +5115,15 @@
     ],
     "featuring_artists": [],
     "artists": [
-      "Jagged Edge"
+      "Brian Casey",
+      "Brandon Casey",
+      "Kyle Norman",
+      "Richard Wingo"
     ],
     "credits": [
       {
         "entity": "Jagged Edge",
-        "entity_type": "person",
+        "entity_type": "group",
         "role": "primary"
       }
     ],
@@ -5130,12 +5138,15 @@
     ],
     "featuring_artists": [],
     "artists": [
-      "Jagged Edge"
+      "Brian Casey",
+      "Brandon Casey",
+      "Kyle Norman",
+      "Richard Wingo"
     ],
     "credits": [
       {
         "entity": "Jagged Edge",
-        "entity_type": "person",
+        "entity_type": "group",
         "role": "primary"
       }
     ],
@@ -5150,12 +5161,15 @@
     ],
     "featuring_artists": [],
     "artists": [
-      "Jagged Edge"
+      "Brian Casey",
+      "Brandon Casey",
+      "Kyle Norman",
+      "Richard Wingo"
     ],
     "credits": [
       {
         "entity": "Jagged Edge",
-        "entity_type": "person",
+        "entity_type": "group",
         "role": "primary"
       }
     ],
@@ -5170,12 +5184,15 @@
     ],
     "featuring_artists": [],
     "artists": [
-      "Jagged Edge"
+      "Brian Casey",
+      "Brandon Casey",
+      "Kyle Norman",
+      "Richard Wingo"
     ],
     "credits": [
       {
         "entity": "Jagged Edge",
-        "entity_type": "person",
+        "entity_type": "group",
         "role": "primary"
       }
     ],
@@ -5186,20 +5203,20 @@
     "file": "_other\\_rnb\\_random\\90s 00s rnb\\Kut klose slow jams\\Get up on It.mp3",
     "title": "Get up on It",
     "primary_artists": [
-      "Kut klose slow jams"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Kut klose slow jams"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Kut klose slow jams",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "r-00256",
@@ -5226,27 +5243,20 @@
     "file": "_other\\_rnb\\_random\\90s 00s rnb\\Kut klose slow jams\\Next - Butta Love.mp3",
     "title": "Butta Love",
     "primary_artists": [
-      "Ne",
-      "t"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Ne",
-      "t"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Ne",
-        "entity_type": "person",
-        "role": "primary"
-      },
-      {
-        "entity": "t",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "r-00258",
@@ -5273,15 +5283,15 @@
     "file": "_other\\_rnb\\_random\\90s 00s rnb\\Mary J Blige Greatest Hits   Best of   Playlist   Songs\\Mary J Blige - I Love You.mp3",
     "title": "I Love You",
     "primary_artists": [
-      "Mary J Blige"
+      "Mary J. Blige"
     ],
     "featuring_artists": [],
     "artists": [
-      "Mary J Blige"
+      "Mary J. Blige"
     ],
     "credits": [
       {
-        "entity": "Mary J Blige",
+        "entity": "Mary J. Blige",
         "entity_type": "person",
         "role": "primary"
       }
@@ -5988,23 +5998,15 @@
     "primary_artists": [
       "N/A"
     ],
-    "featuring_artists": [
-      "lyrics"
-    ],
+    "featuring_artists": [],
     "artists": [
-      "N/A",
-      "lyrics"
+      "N/A"
     ],
     "credits": [
       {
         "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
-      },
-      {
-        "entity": "lyrics",
-        "entity_type": "person",
-        "role": "feature"
       }
     ],
     "attribution_status": "unattributed"
@@ -6161,20 +6163,20 @@
     "file": "_other\\_rnb\\_random\\bedtime rnb\\wRoNg - ZAYN FT. KEHLANI (lyrics).mp3",
     "title": "ZAYN FT",
     "primary_artists": [
-      "wRoNg"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "wRoNg"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "wRoNg",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "r-00300",
@@ -6221,27 +6223,20 @@
     "file": "_other\\_rnb\\_random\\Blxst Mix\\Blxst - Chosen ft. Ty Dolla $ign, Tyga (Audio).mp3",
     "title": "Chosen ft",
     "primary_artists": [
-      "Bl",
-      "st"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Bl",
-      "st"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Bl",
-        "entity_type": "person",
-        "role": "primary"
-      },
-      {
-        "entity": "st",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "r-00303",
@@ -6902,15 +6897,15 @@
     "file": "_other\\_rnb\\_random\\jade mckenzie\\Bring Me Back.mp3",
     "title": "Bring Me Back",
     "primary_artists": [
-      "jade mckenzie"
+      "Jade McKenzie"
     ],
     "featuring_artists": [],
     "artists": [
-      "jade mckenzie"
+      "Jade McKenzie"
     ],
     "credits": [
       {
-        "entity": "jade mckenzie",
+        "entity": "Jade McKenzie",
         "entity_type": "person",
         "role": "primary"
       }
@@ -6922,15 +6917,15 @@
     "file": "_other\\_rnb\\_random\\jade mckenzie\\For Life.mp3",
     "title": "For Life",
     "primary_artists": [
-      "jade mckenzie"
+      "Jade McKenzie"
     ],
     "featuring_artists": [],
     "artists": [
-      "jade mckenzie"
+      "Jade McKenzie"
     ],
     "credits": [
       {
-        "entity": "jade mckenzie",
+        "entity": "Jade McKenzie",
         "entity_type": "person",
         "role": "primary"
       }
@@ -6942,15 +6937,15 @@
     "file": "_other\\_rnb\\_random\\jade mckenzie\\Jade Mckenzie - lately (Prod. tmhwks).mp3",
     "title": "lately (Prod",
     "primary_artists": [
-      "jade mckenzie"
+      "Jade McKenzie"
     ],
     "featuring_artists": [],
     "artists": [
-      "jade mckenzie"
+      "Jade McKenzie"
     ],
     "credits": [
       {
-        "entity": "jade mckenzie",
+        "entity": "Jade McKenzie",
         "entity_type": "person",
         "role": "primary"
       }
@@ -6962,15 +6957,15 @@
     "file": "_other\\_rnb\\_random\\jade mckenzie\\Too On.mp3",
     "title": "Too On",
     "primary_artists": [
-      "jade mckenzie"
+      "Jade McKenzie"
     ],
     "featuring_artists": [],
     "artists": [
-      "jade mckenzie"
+      "Jade McKenzie"
     ],
     "credits": [
       {
-        "entity": "jade mckenzie",
+        "entity": "Jade McKenzie",
         "entity_type": "person",
         "role": "primary"
       }
@@ -6982,15 +6977,15 @@
     "file": "_other\\_rnb\\_random\\jade mckenzie\\What Im Worth.mp3",
     "title": "What Im Worth",
     "primary_artists": [
-      "jade mckenzie"
+      "Jade McKenzie"
     ],
     "featuring_artists": [],
     "artists": [
-      "jade mckenzie"
+      "Jade McKenzie"
     ],
     "credits": [
       {
-        "entity": "jade mckenzie",
+        "entity": "Jade McKenzie",
         "entity_type": "person",
         "role": "primary"
       }
@@ -7183,15 +7178,15 @@
     "file": "_other\\_rnb\\_random\\Ocean\\Eyes Off You.mp3",
     "title": "Eyes Off You",
     "primary_artists": [
-      "Frank Ocean"
+      "Ocean"
     ],
     "featuring_artists": [],
     "artists": [
-      "Frank Ocean"
+      "Ocean"
     ],
     "credits": [
       {
-        "entity": "Frank Ocean",
+        "entity": "Ocean",
         "entity_type": "person",
         "role": "primary"
       }
@@ -7203,15 +7198,15 @@
     "file": "_other\\_rnb\\_random\\Ocean\\Girls Need Love (Remix).mp3",
     "title": "Girls Need Love (Remix)",
     "primary_artists": [
-      "Frank Ocean"
+      "Ocean"
     ],
     "featuring_artists": [],
     "artists": [
-      "Frank Ocean"
+      "Ocean"
     ],
     "credits": [
       {
-        "entity": "Frank Ocean",
+        "entity": "Ocean",
         "entity_type": "person",
         "role": "primary"
       }
@@ -7223,15 +7218,15 @@
     "file": "_other\\_rnb\\_random\\Ocean\\Give Me A Sign.mp3",
     "title": "Give Me A Sign",
     "primary_artists": [
-      "Frank Ocean"
+      "Ocean"
     ],
     "featuring_artists": [],
     "artists": [
-      "Frank Ocean"
+      "Ocean"
     ],
     "credits": [
       {
-        "entity": "Frank Ocean",
+        "entity": "Ocean",
         "entity_type": "person",
         "role": "primary"
       }
@@ -7243,15 +7238,15 @@
     "file": "_other\\_rnb\\_random\\Ocean\\Heat Waves.mp3",
     "title": "Heat Waves",
     "primary_artists": [
-      "Frank Ocean"
+      "Ocean"
     ],
     "featuring_artists": [],
     "artists": [
-      "Frank Ocean"
+      "Ocean"
     ],
     "credits": [
       {
-        "entity": "Frank Ocean",
+        "entity": "Ocean",
         "entity_type": "person",
         "role": "primary"
       }
@@ -7263,15 +7258,15 @@
     "file": "_other\\_rnb\\_random\\Ocean\\Reckless.mp3",
     "title": "Reckless",
     "primary_artists": [
-      "Frank Ocean"
+      "Ocean"
     ],
     "featuring_artists": [],
     "artists": [
-      "Frank Ocean"
+      "Ocean"
     ],
     "credits": [
       {
-        "entity": "Frank Ocean",
+        "entity": "Ocean",
         "entity_type": "person",
         "role": "primary"
       }
@@ -7283,15 +7278,15 @@
     "file": "_other\\_rnb\\_random\\Ocean\\Riptide.mp3",
     "title": "Riptide",
     "primary_artists": [
-      "Frank Ocean"
+      "Ocean"
     ],
     "featuring_artists": [],
     "artists": [
-      "Frank Ocean"
+      "Ocean"
     ],
     "credits": [
       {
-        "entity": "Frank Ocean",
+        "entity": "Ocean",
         "entity_type": "person",
         "role": "primary"
       }
@@ -7303,15 +7298,15 @@
     "file": "_other\\_rnb\\_random\\Ocean\\Show Me How.mp3",
     "title": "Show Me How",
     "primary_artists": [
-      "Frank Ocean"
+      "Ocean"
     ],
     "featuring_artists": [],
     "artists": [
-      "Frank Ocean"
+      "Ocean"
     ],
     "credits": [
       {
-        "entity": "Frank Ocean",
+        "entity": "Ocean",
         "entity_type": "person",
         "role": "primary"
       }
@@ -7323,15 +7318,15 @@
     "file": "_other\\_rnb\\_random\\Ocean\\So Good.mp3",
     "title": "So Good",
     "primary_artists": [
-      "Frank Ocean"
+      "Ocean"
     ],
     "featuring_artists": [],
     "artists": [
-      "Frank Ocean"
+      "Ocean"
     ],
     "credits": [
       {
-        "entity": "Frank Ocean",
+        "entity": "Ocean",
         "entity_type": "person",
         "role": "primary"
       }
@@ -7343,15 +7338,15 @@
     "file": "_other\\_rnb\\_random\\Ocean\\Sunroof.mp3",
     "title": "Sunroof",
     "primary_artists": [
-      "Frank Ocean"
+      "Ocean"
     ],
     "featuring_artists": [],
     "artists": [
-      "Frank Ocean"
+      "Ocean"
     ],
     "credits": [
       {
-        "entity": "Frank Ocean",
+        "entity": "Ocean",
         "entity_type": "person",
         "role": "primary"
       }
@@ -7438,15 +7433,15 @@
     "file": "_other\\_rnb\\_random\\rap caviar\\Rb_Heaven_Vol_8-(DatPiff.com)\\Frank OceanBei Maejorchris brownNe-YodevMario (DatPiff.com)\\07 - Jade Mckenzie - Too Late.mp3",
     "title": "Too Late",
     "primary_artists": [
-      "Jade Mckenzie"
+      "Jade McKenzie"
     ],
     "featuring_artists": [],
     "artists": [
-      "Jade Mckenzie"
+      "Jade McKenzie"
     ],
     "credits": [
       {
-        "entity": "Jade Mckenzie",
+        "entity": "Jade McKenzie",
         "entity_type": "person",
         "role": "primary"
       }
@@ -7458,18 +7453,18 @@
     "file": "_other\\_rnb\\_random\\rap caviar\\Rb_Heaven_Vol_9-(DatPiff.com)\\ChrisBrownAkonFrankOceanKidInkUsherAlicia Key (DatPiff.com)\\03 - Verse Simmonds ft Red Cafe Gucci Mane - Shake Dat (NEW).mp3",
     "title": "Verse Simmonds",
     "primary_artists": [
-      "Rb Heaven Vol 9"
+      "ChrisBrownAkonFrankOceanKidInkUsherAlicia Key"
     ],
     "featuring_artists": [
       "Red Cafe Gucci Mane - Shake Dat"
     ],
     "artists": [
-      "Rb Heaven Vol 9",
+      "ChrisBrownAkonFrankOceanKidInkUsherAlicia Key",
       "Red Cafe Gucci Mane - Shake Dat"
     ],
     "credits": [
       {
-        "entity": "Rb Heaven Vol 9",
+        "entity": "ChrisBrownAkonFrankOceanKidInkUsherAlicia Key",
         "entity_type": "person",
         "role": "primary"
       },
@@ -7582,18 +7577,18 @@
     "file": "_other\\_rnb\\_random\\rap caviar\\Rnb_Heaven_Vol_13-(DatPiff.com)\\The Weeknd  Omarion Trey songs  more - Rnb Heav (DatPiff.com)\\13 - Kid Ink ft 2 Chainz Juicy J Chris Brown Trey Songz - Show Me ( Remix ).mp3",
     "title": "Kid Ink",
     "primary_artists": [
-      "Rnb Heaven Vol 13"
+      "The Weeknd Omarion Trey songs more - Rnb Heav"
     ],
     "featuring_artists": [
       "2 Chainz Juicy J Chris Brown Trey Songz - Show Me"
     ],
     "artists": [
-      "Rnb Heaven Vol 13",
+      "The Weeknd Omarion Trey songs more - Rnb Heav",
       "2 Chainz Juicy J Chris Brown Trey Songz - Show Me"
     ],
     "credits": [
       {
-        "entity": "Rnb Heaven Vol 13",
+        "entity": "The Weeknd Omarion Trey songs more - Rnb Heav",
         "entity_type": "person",
         "role": "primary"
       },
@@ -8235,20 +8230,20 @@
     "file": "_other\\_rnb\\_random\\rnb\\OST Magic Mike XXL OST - My Pony (Ginuwine).mp3",
     "title": "My Pony (Ginuwine)",
     "primary_artists": [
-      "OST Magic Mike"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "OST Magic Mike"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "OST Magic Mike",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "r-00395",
@@ -8335,15 +8330,15 @@
     "file": "_other\\_rnb\\_random\\rnb\\Yuna Usher - Crush.mp3",
     "title": "Crush",
     "primary_artists": [
-      "Yuna Usher"
+      "Usher"
     ],
     "featuring_artists": [],
     "artists": [
-      "Yuna Usher"
+      "Usher"
     ],
     "credits": [
       {
-        "entity": "Yuna Usher",
+        "entity": "Usher",
         "entity_type": "person",
         "role": "primary"
       }
@@ -8602,20 +8597,20 @@
     "file": "_other\\_rnb\\_random\\smooth vibin_\\Drunk (Freestyle) - KiDi.mp3",
     "title": "KiDi",
     "primary_artists": [
-      "Drunk"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Drunk"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Drunk",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "r-00413",
@@ -8966,12 +8961,13 @@
     ],
     "featuring_artists": [],
     "artists": [
-      "The Internet"
+      "Syd",
+      "Matt Martians"
     ],
     "credits": [
       {
         "entity": "The Internet",
-        "entity_type": "person",
+        "entity_type": "group",
         "role": "primary"
       }
     ],
@@ -8986,12 +8982,13 @@
     ],
     "featuring_artists": [],
     "artists": [
-      "The Internet"
+      "Syd",
+      "Matt Martians"
     ],
     "credits": [
       {
         "entity": "The Internet",
-        "entity_type": "person",
+        "entity_type": "group",
         "role": "primary"
       }
     ],
@@ -9116,22 +9113,15 @@
     "file": "_other\\_rnb\\Alexandra Stan - Get back (ASAP) HD.mp3",
     "title": "Get back (ASAP)",
     "primary_artists": [
-      "Ale",
-      "andra Stan"
+      "Alexandra Stan"
     ],
     "featuring_artists": [],
     "artists": [
-      "Ale",
-      "andra Stan"
+      "Alexandra Stan"
     ],
     "credits": [
       {
-        "entity": "Ale",
-        "entity_type": "person",
-        "role": "primary"
-      },
-      {
-        "entity": "andra Stan",
+        "entity": "Alexandra Stan",
         "entity_type": "person",
         "role": "primary"
       }
@@ -9143,18 +9133,18 @@
     "file": "_other\\_rnb\\Alicia Key Ft_ Usher - My Boo.mp3",
     "title": "My Boo",
     "primary_artists": [
-      "Alicia Key"
+      "Alicia Keys"
     ],
     "featuring_artists": [
       "Usher"
     ],
     "artists": [
-      "Alicia Key",
+      "Alicia Keys",
       "Usher"
     ],
     "credits": [
       {
-        "entity": "Alicia Key",
+        "entity": "Alicia Keys",
         "entity_type": "person",
         "role": "primary"
       },
@@ -9171,20 +9161,20 @@
     "file": "_other\\_rnb\\As Long As You Love Me - Justin Bieber (Feat. Big Sean) FULL SONG [HQ] [New Single].mp3",
     "title": "Justin Bieber (Feat",
     "primary_artists": [
-      "As Long As You Love Me"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "As Long As You Love Me"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "As Long As You Love Me",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "r-00440",
@@ -9837,23 +9827,15 @@
     "primary_artists": [
       "August Alsina"
     ],
-    "featuring_artists": [
-      "G.O.O.D. Music s CyHi The Prynce- Party Bullshit"
-    ],
+    "featuring_artists": [],
     "artists": [
-      "August Alsina",
-      "G.O.O.D. Music s CyHi The Prynce- Party Bullshit"
+      "August Alsina"
     ],
     "credits": [
       {
         "entity": "August Alsina",
         "entity_type": "person",
         "role": "primary"
-      },
-      {
-        "entity": "G.O.O.D. Music s CyHi The Prynce- Party Bullshit",
-        "entity_type": "person",
-        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -9905,23 +9887,15 @@
     "primary_artists": [
       "N/A"
     ],
-    "featuring_artists": [
-      "LYRICS ON SCREEN"
-    ],
+    "featuring_artists": [],
     "artists": [
-      "N/A",
-      "LYRICS ON SCREEN"
+      "N/A"
     ],
     "credits": [
       {
         "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
-      },
-      {
-        "entity": "LYRICS ON SCREEN",
-        "entity_type": "person",
-        "role": "feature"
       }
     ],
     "attribution_status": "unattributed"
@@ -10025,27 +9999,19 @@
     "primary_artists": [
       "B5"
     ],
-    "featuring_artists": [
-      "Lyrics"
-    ],
+    "featuring_artists": [],
     "artists": [
       "Dustin",
       "Kelly",
       "Patrick",
       "Carnell",
-      "Bryan",
-      "Lyrics"
+      "Bryan"
     ],
     "credits": [
       {
         "entity": "B5",
         "entity_type": "group",
         "role": "primary"
-      },
-      {
-        "entity": "Lyrics",
-        "entity_type": "person",
-        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -11128,20 +11094,20 @@
     "file": "_other\\_rnb\\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\\Chris Brown - In My Zones 1 & 2\\18. Quits (feat. Kevin McCall) - Chris Brown [In My Zone 2 Mixtape].mp3",
     "title": "Chris Brown [In My Zone 2 Mixtape]",
     "primary_artists": [
-      "Quits"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Quits"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Quits",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "r-00530",
@@ -11914,12 +11880,12 @@
     "title": "2nd To None",
     "primary_artists": [
       "Dreezy",
-      "2Chainz"
+      "2 Chainz"
     ],
     "featuring_artists": [],
     "artists": [
       "Dreezy",
-      "2Chainz"
+      "2 Chainz"
     ],
     "credits": [
       {
@@ -11928,7 +11894,7 @@
         "role": "primary"
       },
       {
-        "entity": "2Chainz",
+        "entity": "2 Chainz",
         "entity_type": "person",
         "role": "primary"
       }
@@ -12520,20 +12486,20 @@
     "file": "_other\\_rnb\\Honey Soundtrack - Yolanda Adams - I Believe.mp3",
     "title": "Yolanda Adams - I Believe",
     "primary_artists": [
-      "Honey Soundtrack"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Honey Soundtrack"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Honey Soundtrack",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "r-00597",
@@ -13253,23 +13219,15 @@
     "primary_artists": [
       "Miguel"
     ],
-    "featuring_artists": [
-      "J"
-    ],
+    "featuring_artists": [],
     "artists": [
-      "Miguel",
-      "J"
+      "Miguel"
     ],
     "credits": [
       {
         "entity": "Miguel",
         "entity_type": "person",
         "role": "primary"
-      },
-      {
-        "entity": "J",
-        "entity_type": "person",
-        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -13321,23 +13279,15 @@
     "primary_artists": [
       "Miguel"
     ],
-    "featuring_artists": [
-      "C"
-    ],
+    "featuring_artists": [],
     "artists": [
-      "Miguel",
-      "C"
+      "Miguel"
     ],
     "credits": [
       {
         "entity": "Miguel",
         "entity_type": "person",
         "role": "primary"
-      },
-      {
-        "entity": "C",
-        "entity_type": "person",
-        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -13688,15 +13638,15 @@
     "file": "_other\\_rnb\\NeYo - Miss Independent.mp3",
     "title": "Miss Independent",
     "primary_artists": [
-      "NeYo"
+      "Ne-Yo"
     ],
     "featuring_artists": [],
     "artists": [
-      "NeYo"
+      "Ne-Yo"
     ],
     "credits": [
       {
-        "entity": "NeYo",
+        "entity": "Ne-Yo",
         "entity_type": "person",
         "role": "primary"
       }
@@ -13710,23 +13660,15 @@
     "primary_artists": [
       "N/A"
     ],
-    "featuring_artists": [
-      "Geeze So Sick"
-    ],
+    "featuring_artists": [],
     "artists": [
-      "N/A",
-      "Geeze So Sick"
+      "N/A"
     ],
     "credits": [
       {
         "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
-      },
-      {
-        "entity": "Geeze So Sick",
-        "entity_type": "person",
-        "role": "feature"
       }
     ],
     "attribution_status": "unattributed"
@@ -13778,23 +13720,15 @@
     "primary_artists": [
       "Cassidy"
     ],
-    "featuring_artists": [
-      "R"
-    ],
+    "featuring_artists": [],
     "artists": [
-      "Cassidy",
-      "R"
+      "Cassidy"
     ],
     "credits": [
       {
         "entity": "Cassidy",
         "entity_type": "person",
         "role": "primary"
-      },
-      {
-        "entity": "R",
-        "entity_type": "person",
-        "role": "feature"
       }
     ],
     "attribution_status": "attributed"
@@ -13804,20 +13738,20 @@
     "file": "_other\\_rnb\\R Kelly - Greatest Hits\\Did You Ever Think (Remix - Radio Edit).mp3",
     "title": "Radio Edit)",
     "primary_artists": [
-      "Did You Ever Think (Remi"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Did You Ever Think (Remi"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Did You Ever Think (Remi",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "r-00657",
@@ -14072,15 +14006,15 @@
     "file": "_other\\_rnb\\snow tha product\\Snow Tha Product - Starry Eyed.mp3",
     "title": "Starry Eyed",
     "primary_artists": [
-      "Snow Tha Product"
+      "snow tha product"
     ],
     "featuring_artists": [],
     "artists": [
-      "Snow Tha Product"
+      "snow tha product"
     ],
     "credits": [
       {
-        "entity": "Snow Tha Product",
+        "entity": "snow tha product",
         "entity_type": "person",
         "role": "primary"
       }
@@ -14205,14 +14139,12 @@
     "featuring_artists": [
       "Ludacris",
       "Rick Ross",
-      "T-Pain",
-      "Snoop Dogg Victory In Stores Now"
+      "T-Pain"
     ],
     "artists": [
       "T-Pain",
       "Ludacris",
-      "Rick Ross",
-      "Snoop Dogg Victory In Stores Now"
+      "Rick Ross"
     ],
     "credits": [
       {
@@ -14232,11 +14164,6 @@
       },
       {
         "entity": "T-Pain",
-        "entity_type": "person",
-        "role": "feature"
-      },
-      {
-        "entity": "Snoop Dogg Victory In Stores Now",
         "entity_type": "person",
         "role": "feature"
       }
@@ -14852,20 +14779,20 @@
     "file": "_other\\_rnb\\Trey Songz - Greatest Hits - YouTube\\Trey Songz — Best Hits - YouTube\\Alone - Trey Songz (Lyrics).mp3",
     "title": "Trey Songz (Lyrics)",
     "primary_artists": [
-      "Alone"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "Alone"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Alone",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "r-00706",
@@ -15075,11 +15002,11 @@
       "Usher"
     ],
     "featuring_artists": [
-      "will.i"
+      "will.i.am"
     ],
     "artists": [
       "Usher",
-      "will.i"
+      "will.i.am"
     ],
     "credits": [
       {
@@ -15088,7 +15015,7 @@
         "role": "primary"
       },
       {
-        "entity": "will.i",
+        "entity": "will.i.am",
         "entity_type": "person",
         "role": "feature"
       }

@@ -46,7 +46,16 @@ COMPILATION_PREFIXES = {"dj_wispas", "dj ", "mix - ", "mix -"}
 BLOCKLIST_ARTISTS = {
     "n/a", "unknown", "various", "nothing", "cd1", "cd2",
     "you", "me", "scape", "audio", "download link", "l ost", "l soundtrack",
-    "step up soundtrack", "magic mike", "golden",
+    "step up soundtrack", "magic mike", "golden", "sickick", "sickickmusic",
+    "lyrics", "lyrics on screen", "alone", "quits", "somebody", "drunk",
+    "ne", "t", "bl", "st", "c", "j", "r", "ale", "010",
+    "quot takin back my love quot", "wrong", "wRoNg",
+    "honey soundtrack", "ost magic mike", "rb heaven vol 9", "rnb heaven vol 13",
+    "as long as you love me", "kut klose slow jams",
+    "geeze so sick", "did you ever think remi",
+    "snoop dogg victory in stores now",
+    "g o o d music s cyhi the prynce party bullshit",
+    "me do it well",
 }
 UNKNOWN_ARTIST = "N/A"
 

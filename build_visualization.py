@@ -265,8 +265,9 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
 <p class="subtitle">Sortable artist rankings with normalized and adjusted song credits</p>
 
 <div class="tabs">
-  <div class="tab active" data-tab="us">US</div>
-  <div class="tab" data-tab="hu">Hungarian</div>
+  <div class="tab active" data-tab="us">US Rap</div>
+  <div class="tab" data-tab="hu">Hungarian Rap</div>
+  <div class="tab" data-tab="rnb">R&amp;B</div>
 </div>
 
 <div id="panel-us" class="panel">
@@ -303,6 +304,15 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
   </div>
 </div>
 
+<div id="panel-rnb" class="panel" style="display:none">
+  <div class="stats" id="stats-rnb"></div>
+  <div class="controls">
+    <input type="text" id="search-rnb" placeholder="Search artists...">
+    <label><input type="checkbox" id="top100-rnb"> Top 100 only</label>
+  </div>
+  <div class="table-wrap"><div class="table-scroll" id="table-rnb"></div></div>
+</div>
+
 <div class="fm-bg" id="fmBg">
   <div class="fm">
     <div class="fm-head"><h3 id="fmTitle"></h3><button class="fm-close" id="fmClose">&times;</button></div>
@@ -312,6 +322,7 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
 
 <script>
 const TREES = __FOLDER_TREES__;
+const RNB_DATA = __RNB_DATA__;
 const US_DATA = __US_DATA__;
 const HU_DATA = __HU_DATA__;
 const US_REGIONS = __US_REGIONS__;
@@ -595,6 +606,7 @@ document.addEventListener('keydown', function(e) { if (e.key === 'Escape') docum
 // ─── INIT ───
 setupPanel('us', US_DATA);
 setupPanel('hu', HU_DATA);
+setupPanel('rnb', RNB_DATA);
 buildMap('map-us-container', 'map-us-tooltip', 'region-us', US_DATA, US_REGIONS, US_COORDS, US_OUTLINE, [900, 560], '#3b82f6');
 buildMap('map-hu-container', 'map-hu-tooltip', 'region-hu', HU_DATA, HU_REGIONS, HU_COORDS, HU_OUTLINE, [620, 260], '#dc2626');
 </script>
@@ -677,6 +689,7 @@ def _scan_dir(abs_path: Path, rel_path: str) -> dict | None:
 def main() -> int:
     us_data = export_persons("us")
     hu_data = export_persons("hungarian")
+    rnb_data = export_persons("rnb")
     us_regions = export_regions("us")
     hu_regions = build_hu_regions_from_overrides("hungarian", hu_data)
 
@@ -692,10 +705,12 @@ def main() -> int:
     # Build folder trees
     us_trees = build_folder_trees("us", us_data)
     hu_trees = build_folder_trees("hungarian", hu_data)
-    all_trees = {**us_trees, **hu_trees}
+    rnb_trees = build_folder_trees("rnb", rnb_data)
+    all_trees = {**us_trees, **hu_trees, **rnb_trees}
 
     html = HTML_TEMPLATE
     html = html.replace("__FOLDER_TREES__", json.dumps(all_trees, ensure_ascii=False, separators=(',', ':')))
+    html = html.replace("__RNB_DATA__", json.dumps(rnb_data, ensure_ascii=False))
     html = html.replace("__US_DATA__", json.dumps(us_data, ensure_ascii=False))
     html = html.replace("__HU_DATA__", json.dumps(hu_data, ensure_ascii=False))
     html = html.replace("__US_REGIONS__", json.dumps(us_regions, ensure_ascii=False))
