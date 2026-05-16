@@ -27,6 +27,10 @@ NOISE_PATTERNS = [
     r"\bHD\b", r"\bHQ\b", r"\[\d{3}\]", r"\(\d{3}\)",
     r"\bVideo Oficial\b", r"\bvideo oficial\b", r"\bClip Officiel\b",
     r"\bvideoclip oficial\b", r"\bOfficiel\b",
+    r"\(Original Mix\)", r"\(Radio Edit\)", r"\(Extended Mix\)",
+    r"\[NCS Release\]", r"\[NCS\]",
+    r"\bOriginal Mix\b", r"\bRadio Edit\b",
+    r"\bFull Version\b", r"\bLyric Video\b", r"\bLyrics\b",
 ]
 
 # ─── Per-area config ───
@@ -36,7 +40,7 @@ AREA_CONFIG = {
         "id_prefix": "rk",
         "generic_folders": {
             "_random", "_psychedelic rock", "random", "misc", "videos", "youtube",
-            "_other", "_rock", "sled storm soundtrack",
+            "_other", "_rock", "sled storm soundtrack", "trip",
         },
         "blocklist": {
             "n/a", "unknown", "various", "nothing", "you", "me",
@@ -134,6 +138,50 @@ AREA_CONFIG = {
         },
         "split_groups": set(),
     },
+    "elektro": {
+        "scan_root": ZENE / "_other" / "_elektro",
+        "id_prefix": "el",
+        "generic_folders": {
+            "_elektro", "_other", "random", "misc", "videos", "youtube",
+            # subgenre folders
+            "deep_house", "dnb_dubstep", "edm_electronic_pop", "experimental",
+            "experimental_chill", "goa_psytrance", "hardcore_hardstyle",
+            "house_afro_organic", "house_techno", "trance_dance_rave",
+            # compilation/mix/playlist folders
+            "deep", "house", "house_chill", "tech house", "techno", "acid",
+            "dnb_chill", "deepchill", "electro pop", "elektro", "top",
+            "hardcore", "random", "party mode", "never ends",
+            "chill deep house", "deep house relax",
+            "deep house summer vibes", "chillout lounge",
+            "famous house tracks", "free tracks",
+            "club dance", "edm fever", "pop dance",
+            "chill edm playlist 2024", "chill synthwave",
+            "music i m embarrassed that i listen to",
+            "90s dance", "2000s dance", "old dance",
+            "30 years three decades of dance ministry of sound",
+            "party like it s 2000", "dark drum n bass",
+            "ibiza summer mix 2021", "coca", "belac", "fnknschlg",
+            "you are liquid", "ft-ne-17",
+            "after lsd", "who loves the sun chill bun 2024",
+            "afro house 2025", "afro house remix sabia que no x reezy",
+            "tracz 25 afro house",
+            "melodic techno progressive house playlist 2025",
+            "the road you ll never walk",
+            "electro classics daft punk moby fatboy slim",
+            "human traffic soundtrack",
+            "chill organic house",
+            "keinemusik the party is over",
+            "atmosphere fisher kita alexander",
+        },
+        "blocklist": {
+            "n/a", "unknown", "various", "nothing", "you", "me",
+            "lyrics", "audio", "download link",
+            "original mix", "original", "vip", "remix",
+            "2000s dance", "90s dance", "old dance",
+            "sharon den adel in", "out of love",
+        },
+        "split_groups": set(),
+    },
     "alternate": {
         "scan_root": ZENE / "_other" / "_alternate",
         "id_prefix": "al",
@@ -198,6 +246,17 @@ def folder_artist(name: str) -> str:
         if lower.endswith(suffix):
             value = value[: -len(suffix)].strip(" -_,")
             lower = value.lower()
+    # Strip "Mix – " prefix (YouTube autoplay folders)
+    if lower.startswith("mix – ") or lower.startswith("mix - "):
+        value = value[6:].strip(" -_,")
+        lower = value.lower()
+    # Strip "Legnépszerűbb számok -- " prefix (Hungarian YouTube)
+    if "legnépszerűbb" in lower or "top-titel" in lower:
+        if " -- " in value:
+            value = value.split(" -- ", 1)[1].strip(" -_,")
+        elif " – " in value:
+            value = value.split(" – ", 1)[1].strip(" -_,")
+        lower = value.lower()
     value = re.sub(r"\s*@\s*\d{3}\b.*$", "", value).strip(" -_,")
     value = re.sub(r"\s*\(\d{4}(?:-\d{4})?\)\s*(?:\(\d+\))?.*$", "", value).strip(" -_,")
     value = re.sub(r"\s*\(\d{4}\)\s*(?:Mp3|mp3).*$", "", value).strip(" -_,")

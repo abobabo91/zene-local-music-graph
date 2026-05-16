@@ -1,0 +1,9662 @@
+{
+  "Addal": {
+    "song_ids": [
+      "el-00002"
+    ],
+    "primary_song_ids": [
+      "el-00002"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Neenah": {
+    "song_ids": [
+      "el-00002"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00002"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Adriatique": {
+    "song_ids": [
+      "el-00003",
+      "el-00589"
+    ],
+    "primary_song_ids": [
+      "el-00003",
+      "el-00589"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Marino Canal": {
+    "song_ids": [
+      "el-00003"
+    ],
+    "primary_song_ids": [
+      "el-00003"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Alexis Samaan": {
+    "song_ids": [
+      "el-00004"
+    ],
+    "primary_song_ids": [
+      "el-00004"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Anderholm": {
+    "song_ids": [
+      "el-00005"
+    ],
+    "primary_song_ids": [
+      "el-00005"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Amenofis": {
+    "song_ids": [
+      "el-00006",
+      "el-00007",
+      "el-00009",
+      "el-00010",
+      "el-00012",
+      "el-00717"
+    ],
+    "primary_song_ids": [
+      "el-00006",
+      "el-00007",
+      "el-00009",
+      "el-00010",
+      "el-00012",
+      "el-00717"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Lezcano": {
+    "song_ids": [
+      "el-00008"
+    ],
+    "primary_song_ids": [
+      "el-00008"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Tamas Skafar": {
+    "song_ids": [
+      "el-00011"
+    ],
+    "primary_song_ids": [
+      "el-00011"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Calvin Harris": {
+    "song_ids": [
+      "el-00013",
+      "el-00202",
+      "el-00207",
+      "el-00250",
+      "el-00251",
+      "el-00337"
+    ],
+    "primary_song_ids": [
+      "el-00013",
+      "el-00202",
+      "el-00207",
+      "el-00250",
+      "el-00251",
+      "el-00337"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Ellie Goulding": {
+    "song_ids": [
+      "el-00013",
+      "el-00152",
+      "el-00202",
+      "el-00881",
+      "el-00882"
+    ],
+    "primary_song_ids": [
+      "el-00152",
+      "el-00202",
+      "el-00881",
+      "el-00882"
+    ],
+    "feature_song_ids": [
+      "el-00013"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "ACRAZE": {
+    "song_ids": [
+      "el-00014"
+    ],
+    "primary_song_ids": [
+      "el-00014"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Austin Tate": {
+    "song_ids": [
+      "el-00015"
+    ],
+    "primary_song_ids": [
+      "el-00015"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Paige": {
+    "song_ids": [
+      "el-00016"
+    ],
+    "primary_song_ids": [
+      "el-00016"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Nihil Young": {
+    "song_ids": [
+      "el-00016"
+    ],
+    "primary_song_ids": [
+      "el-00016"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Siedah Garrett": {
+    "song_ids": [
+      "el-00017"
+    ],
+    "primary_song_ids": [
+      "el-00017"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Tiësto": {
+    "song_ids": [
+      "el-00018",
+      "el-00209",
+      "el-00586",
+      "el-01045",
+      "el-01133"
+    ],
+    "primary_song_ids": [
+      "el-00018",
+      "el-00209",
+      "el-00586",
+      "el-01045",
+      "el-01133"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Ava Max": {
+    "song_ids": [
+      "el-00018"
+    ],
+    "primary_song_ids": [
+      "el-00018"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Fejká": {
+    "song_ids": [
+      "el-00020"
+    ],
+    "primary_song_ids": [
+      "el-00020"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Jones Meadow": {
+    "song_ids": [
+      "el-00022"
+    ],
+    "primary_song_ids": [
+      "el-00022"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Nina Carr": {
+    "song_ids": [
+      "el-00022"
+    ],
+    "primary_song_ids": [
+      "el-00022"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Particle House": {
+    "song_ids": [
+      "el-00023"
+    ],
+    "primary_song_ids": [
+      "el-00023"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Willow": {
+    "song_ids": [
+      "el-00023"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00023"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Dabin": {
+    "song_ids": [
+      "el-00029"
+    ],
+    "primary_song_ids": [
+      "el-00029"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Daniela Andrade": {
+    "song_ids": [
+      "el-00029"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00029"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Danny Darko": {
+    "song_ids": [
+      "el-00030",
+      "el-00742"
+    ],
+    "primary_song_ids": [
+      "el-00030",
+      "el-00742"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Jova Radevska": {
+    "song_ids": [
+      "el-00030"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00030"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "David Stewart": {
+    "song_ids": [
+      "el-00031"
+    ],
+    "primary_song_ids": [
+      "el-00031"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Davit Barqaia": {
+    "song_ids": [
+      "el-00032",
+      "el-00033",
+      "el-00034",
+      "el-00035",
+      "el-00036",
+      "el-00037",
+      "el-00038",
+      "el-00039",
+      "el-00040",
+      "el-00041"
+    ],
+    "primary_song_ids": [
+      "el-00032",
+      "el-00033",
+      "el-00034",
+      "el-00035",
+      "el-00036",
+      "el-00037",
+      "el-00038",
+      "el-00039",
+      "el-00040",
+      "el-00041"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Deceptive": {
+    "song_ids": [
+      "el-00042"
+    ],
+    "primary_song_ids": [
+      "el-00042"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Elderbrook": {
+    "song_ids": [
+      "el-00043",
+      "el-00044",
+      "el-00058"
+    ],
+    "primary_song_ids": [
+      "el-00043",
+      "el-00044",
+      "el-00058"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Emmit Fenn": {
+    "song_ids": [
+      "el-00043"
+    ],
+    "primary_song_ids": [
+      "el-00043"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Bob Moses": {
+    "song_ids": [
+      "el-00044",
+      "el-00058",
+      "el-00624",
+      "el-00625",
+      "el-00626"
+    ],
+    "primary_song_ids": [
+      "el-00624",
+      "el-00625",
+      "el-00626"
+    ],
+    "feature_song_ids": [
+      "el-00044",
+      "el-00058"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Eli": {
+    "song_ids": [
+      "el-00045"
+    ],
+    "primary_song_ids": [
+      "el-00045"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Fur": {
+    "song_ids": [
+      "el-00045"
+    ],
+    "primary_song_ids": [
+      "el-00045"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Michael Kiwanuka": {
+    "song_ids": [
+      "el-00046"
+    ],
+    "primary_song_ids": [
+      "el-00046"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Jordy Sánchez": {
+    "song_ids": [
+      "el-00049"
+    ],
+    "primary_song_ids": [
+      "el-00049"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Makebo": {
+    "song_ids": [
+      "el-00051"
+    ],
+    "primary_song_ids": [
+      "el-00051"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Maya Jane Coles": {
+    "song_ids": [
+      "el-00052"
+    ],
+    "primary_song_ids": [
+      "el-00052"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Stoto": {
+    "song_ids": [
+      "el-00053",
+      "el-00095"
+    ],
+    "primary_song_ids": [
+      "el-00053",
+      "el-00095"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Dennis Lloyd": {
+    "song_ids": [
+      "el-00056",
+      "el-00057"
+    ],
+    "primary_song_ids": [
+      "el-00056",
+      "el-00057"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Faith": {
+    "song_ids": [
+      "el-00059"
+    ],
+    "primary_song_ids": [
+      "el-00059"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Jermaine Vita": {
+    "song_ids": [
+      "el-00059"
+    ],
+    "primary_song_ids": [
+      "el-00059"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Jacala": {
+    "song_ids": [
+      "el-00060"
+    ],
+    "primary_song_ids": [
+      "el-00060"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Rayasa": {
+    "song_ids": [
+      "el-00060"
+    ],
+    "primary_song_ids": [
+      "el-00060"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "FERGO": {
+    "song_ids": [
+      "el-00060"
+    ],
+    "primary_song_ids": [
+      "el-00060"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Keanler": {
+    "song_ids": [
+      "el-00061"
+    ],
+    "primary_song_ids": [
+      "el-00061"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Parra for Cuva": {
+    "song_ids": [
+      "el-00062"
+    ],
+    "primary_song_ids": [
+      "el-00062"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Anna Naklab": {
+    "song_ids": [
+      "el-00062",
+      "el-00849"
+    ],
+    "primary_song_ids": [
+      "el-00849"
+    ],
+    "feature_song_ids": [
+      "el-00062"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "RushLow": {
+    "song_ids": [
+      "el-00063"
+    ],
+    "primary_song_ids": [
+      "el-00063"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Worzii": {
+    "song_ids": [
+      "el-00063"
+    ],
+    "primary_song_ids": [
+      "el-00063"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "The Weeknd": {
+    "song_ids": [
+      "el-00066",
+      "el-00701"
+    ],
+    "primary_song_ids": [
+      "el-00066",
+      "el-00701"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Playboi Carti": {
+    "song_ids": [
+      "el-00066"
+    ],
+    "primary_song_ids": [
+      "el-00066"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Fred again": {
+    "song_ids": [
+      "el-00069"
+    ],
+    "primary_song_ids": [
+      "el-00069"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Nora En Pure": {
+    "song_ids": [
+      "el-00070"
+    ],
+    "primary_song_ids": [
+      "el-00070"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Destiny s Child": {
+    "song_ids": [
+      "el-00071"
+    ],
+    "primary_song_ids": [
+      "el-00071"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Ed Sheeran Passenger": {
+    "song_ids": [
+      "el-00072"
+    ],
+    "primary_song_ids": [
+      "el-00072"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "FM Laeti": {
+    "song_ids": [
+      "el-00073"
+    ],
+    "primary_song_ids": [
+      "el-00073"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Galantis": {
+    "song_ids": [
+      "el-00074",
+      "el-00262"
+    ],
+    "primary_song_ids": [
+      "el-00074",
+      "el-00262"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "George Whyman": {
+    "song_ids": [
+      "el-00075"
+    ],
+    "primary_song_ids": [
+      "el-00075"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Laura Lebensfroh": {
+    "song_ids": [
+      "el-00075"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00075"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Hans Zimmer": {
+    "song_ids": [
+      "el-00076"
+    ],
+    "primary_song_ids": [
+      "el-00076"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Holly Drummond": {
+    "song_ids": [
+      "el-00077",
+      "el-00671"
+    ],
+    "primary_song_ids": [
+      "el-00077",
+      "el-00671"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Hypnotized": {
+    "song_ids": [
+      "el-00078"
+    ],
+    "primary_song_ids": [
+      "el-00078"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Indila": {
+    "song_ids": [
+      "el-00079"
+    ],
+    "primary_song_ids": [
+      "el-00079"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Jay Sean": {
+    "song_ids": [
+      "el-00080",
+      "el-00341"
+    ],
+    "primary_song_ids": [
+      "el-00080",
+      "el-00341"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "kiiara": {
+    "song_ids": [
+      "el-00081"
+    ],
+    "primary_song_ids": [
+      "el-00081"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Lykke Li Until We Bleed": {
+    "song_ids": [
+      "el-00082"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00082"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Milky Chance": {
+    "song_ids": [
+      "el-00084",
+      "el-00352",
+      "el-00353",
+      "el-00925"
+    ],
+    "primary_song_ids": [
+      "el-00084",
+      "el-00352",
+      "el-00353",
+      "el-00925"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Ferdinand Dreyssig Marvin Hey": {
+    "song_ids": [
+      "el-00085"
+    ],
+    "primary_song_ids": [
+      "el-00085"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Teho": {
+    "song_ids": [
+      "el-00086"
+    ],
+    "primary_song_ids": [
+      "el-00086"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Worakls": {
+    "song_ids": [
+      "el-00087",
+      "el-00088",
+      "el-00724",
+      "el-00804"
+    ],
+    "primary_song_ids": [
+      "el-00087",
+      "el-00088",
+      "el-00724",
+      "el-00804"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Mr. Probz": {
+    "song_ids": [
+      "el-00089"
+    ],
+    "primary_song_ids": [
+      "el-00089"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Nico Vinz": {
+    "song_ids": [
+      "el-00090",
+      "el-00344"
+    ],
+    "primary_song_ids": [
+      "el-00090",
+      "el-00344"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Où est le swimming pool": {
+    "song_ids": [
+      "el-00091"
+    ],
+    "primary_song_ids": [
+      "el-00091"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Sophie Ellis-Bextor": {
+    "song_ids": [
+      "el-00092"
+    ],
+    "primary_song_ids": [
+      "el-00092"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Stefan Biniak": {
+    "song_ids": [
+      "el-00093"
+    ],
+    "primary_song_ids": [
+      "el-00093"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Sting": {
+    "song_ids": [
+      "el-00094"
+    ],
+    "primary_song_ids": [
+      "el-00094"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Imany": {
+    "song_ids": [
+      "el-00096"
+    ],
+    "primary_song_ids": [
+      "el-00096"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Filatov Karas": {
+    "song_ids": [
+      "el-00096"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00096"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Kenny Hectyc": {
+    "song_ids": [
+      "el-00097"
+    ],
+    "primary_song_ids": [
+      "el-00097"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Nicki Minaj": {
+    "song_ids": [
+      "el-00098",
+      "el-00401"
+    ],
+    "primary_song_ids": [
+      "el-00098",
+      "el-00401"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Rameses B": {
+    "song_ids": [
+      "el-00106",
+      "el-00142",
+      "el-00177"
+    ],
+    "primary_song_ids": [
+      "el-00106",
+      "el-00142",
+      "el-00177"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "2014) Skrillex - Recess": {
+    "song_ids": [
+      "el-00108"
+    ],
+    "primary_song_ids": [
+      "el-00108"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Skrillex": {
+    "song_ids": [
+      "el-00109",
+      "el-00110",
+      "el-00111",
+      "el-00112",
+      "el-00113"
+    ],
+    "primary_song_ids": [
+      "el-00109",
+      "el-00110",
+      "el-00111",
+      "el-00112",
+      "el-00113"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Diplo Present Jack 220": {
+    "song_ids": [
+      "el-00109",
+      "el-00110",
+      "el-00111",
+      "el-00112",
+      "el-00113"
+    ],
+    "primary_song_ids": [
+      "el-00109",
+      "el-00110",
+      "el-00111",
+      "el-00112",
+      "el-00113"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Birdy": {
+    "song_ids": [
+      "el-00114"
+    ],
+    "primary_song_ids": [
+      "el-00114"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "B-Complex": {
+    "song_ids": [
+      "el-00116",
+      "el-00117",
+      "el-00118",
+      "el-00119",
+      "el-00120",
+      "el-00121",
+      "el-00122"
+    ],
+    "primary_song_ids": [
+      "el-00116",
+      "el-00117",
+      "el-00118",
+      "el-00119",
+      "el-00120",
+      "el-00121",
+      "el-00122"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Noisia": {
+    "song_ids": [
+      "el-00123"
+    ],
+    "primary_song_ids": [
+      "el-00123"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Shanodin": {
+    "song_ids": [
+      "el-00123"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00123"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Spor": {
+    "song_ids": [
+      "el-00124",
+      "el-00181"
+    ],
+    "primary_song_ids": [
+      "el-00124",
+      "el-00181"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Tasha Baxter": {
+    "song_ids": [
+      "el-00124"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00124"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Borgore": {
+    "song_ids": [
+      "el-00125"
+    ],
+    "primary_song_ids": [
+      "el-00125"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Miley Cyrus": {
+    "song_ids": [
+      "el-00125"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00125"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Chase Status": {
+    "song_ids": [
+      "el-00126"
+    ],
+    "primary_song_ids": [
+      "el-00126"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Plan B": {
+    "song_ids": [
+      "el-00126"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00126"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Takura No Problem": {
+    "song_ids": [
+      "el-00127"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00127"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Black Sun Empire": {
+    "song_ids": [
+      "el-00128"
+    ],
+    "primary_song_ids": [
+      "el-00128"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Deadmau5": {
+    "song_ids": [
+      "el-00129",
+      "el-00130",
+      "el-00838"
+    ],
+    "primary_song_ids": [
+      "el-00129",
+      "el-00130",
+      "el-00838"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "deadmau5": {
+    "song_ids": [
+      "el-00131"
+    ],
+    "primary_song_ids": [
+      "el-00131"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "deadmau5 Kaskade": {
+    "song_ids": [
+      "el-00132"
+    ],
+    "primary_song_ids": [
+      "el-00132"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Delilah": {
+    "song_ids": [
+      "el-00133"
+    ],
+    "primary_song_ids": [
+      "el-00133"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "DJ Fresh": {
+    "song_ids": [
+      "el-00134"
+    ],
+    "primary_song_ids": [
+      "el-00134"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Ennja": {
+    "song_ids": [
+      "el-00139",
+      "el-00510",
+      "el-00511",
+      "el-00512",
+      "el-00513",
+      "el-00514"
+    ],
+    "primary_song_ids": [
+      "el-00139",
+      "el-00510",
+      "el-00511",
+      "el-00512",
+      "el-00513",
+      "el-00514"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Phaeleh": {
+    "song_ids": [
+      "el-00140",
+      "el-00141"
+    ],
+    "primary_song_ids": [
+      "el-00140",
+      "el-00141"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Example": {
+    "song_ids": [
+      "el-00143",
+      "el-00207"
+    ],
+    "primary_song_ids": [
+      "el-00143"
+    ],
+    "feature_song_ids": [
+      "el-00207"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Feint Veela": {
+    "song_ids": [
+      "el-00144"
+    ],
+    "primary_song_ids": [
+      "el-00144"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Freestylers": {
+    "song_ids": [
+      "el-00145"
+    ],
+    "primary_song_ids": [
+      "el-00145"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Jack U": {
+    "song_ids": [
+      "el-00147"
+    ],
+    "primary_song_ids": [
+      "el-00147"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Massive Attack": {
+    "song_ids": [
+      "el-00148",
+      "el-00445"
+    ],
+    "primary_song_ids": [
+      "el-00148",
+      "el-00445"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Meg Dia": {
+    "song_ids": [
+      "el-00149"
+    ],
+    "primary_song_ids": [
+      "el-00149"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Meiko": {
+    "song_ids": [
+      "el-00150"
+    ],
+    "primary_song_ids": [
+      "el-00150"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Camo Krooked": {
+    "song_ids": [
+      "el-00151"
+    ],
+    "primary_song_ids": [
+      "el-00151"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Maduk": {
+    "song_ids": [
+      "el-00153",
+      "el-00154"
+    ],
+    "primary_song_ids": [
+      "el-00153",
+      "el-00154"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Veela": {
+    "song_ids": [
+      "el-00154"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00154"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Major Lazer": {
+    "song_ids": [
+      "el-00155",
+      "el-00366",
+      "el-00367",
+      "el-00368",
+      "el-00369"
+    ],
+    "primary_song_ids": [
+      "el-00155",
+      "el-00366",
+      "el-00367",
+      "el-00368",
+      "el-00369"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Metrik": {
+    "song_ids": [
+      "el-00156"
+    ],
+    "primary_song_ids": [
+      "el-00156"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Netsky": {
+    "song_ids": [
+      "el-00157",
+      "el-00158",
+      "el-00168",
+      "el-00169"
+    ],
+    "primary_song_ids": [
+      "el-00157",
+      "el-00158",
+      "el-00168",
+      "el-00169"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Sub Focus": {
+    "song_ids": [
+      "el-00159"
+    ],
+    "primary_song_ids": [
+      "el-00159"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Above & Beyond": {
+    "song_ids": [
+      "el-00160",
+      "el-01053"
+    ],
+    "primary_song_ids": [
+      "el-00160",
+      "el-01053"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Flight Facilities": {
+    "song_ids": [
+      "el-00161"
+    ],
+    "primary_song_ids": [
+      "el-00161"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Gemini": {
+    "song_ids": [
+      "el-00162",
+      "el-00285"
+    ],
+    "primary_song_ids": [
+      "el-00162",
+      "el-00285"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "The XX": {
+    "song_ids": [
+      "el-00163",
+      "el-00961",
+      "el-00962"
+    ],
+    "primary_song_ids": [
+      "el-00163",
+      "el-00961",
+      "el-00962"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Neptunica": {
+    "song_ids": [
+      "el-00164"
+    ],
+    "primary_song_ids": [
+      "el-00164"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Nero": {
+    "song_ids": [
+      "el-00165",
+      "el-00166",
+      "el-00167"
+    ],
+    "primary_song_ids": [
+      "el-00165",
+      "el-00166",
+      "el-00167"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Nneka": {
+    "song_ids": [
+      "el-00170"
+    ],
+    "primary_song_ids": [
+      "el-00170"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Pendulum": {
+    "song_ids": [
+      "el-00171"
+    ],
+    "primary_song_ids": [
+      "el-00171"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "The Prodigy": {
+    "song_ids": [
+      "el-00172",
+      "el-00173",
+      "el-00174",
+      "el-00175",
+      "el-00176"
+    ],
+    "primary_song_ids": [
+      "el-00172",
+      "el-00173",
+      "el-00174",
+      "el-00175",
+      "el-00176"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Music for the Jilted Generation": {
+    "song_ids": [
+      "el-00172",
+      "el-00173"
+    ],
+    "primary_song_ids": [
+      "el-00172",
+      "el-00173"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "The Fat of the Land": {
+    "song_ids": [
+      "el-00174",
+      "el-00175",
+      "el-00176"
+    ],
+    "primary_song_ids": [
+      "el-00174",
+      "el-00175",
+      "el-00176"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Sanctuary - EP": {
+    "song_ids": [
+      "el-00178"
+    ],
+    "primary_song_ids": [
+      "el-00178"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Sigma": {
+    "song_ids": [
+      "el-00179"
+    ],
+    "primary_song_ids": [
+      "el-00179"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Spag Heddy": {
+    "song_ids": [
+      "el-00180"
+    ],
+    "primary_song_ids": [
+      "el-00180"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Tristan Prettyman": {
+    "song_ids": [
+      "el-00182"
+    ],
+    "primary_song_ids": [
+      "el-00182"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Wilkinson": {
+    "song_ids": [
+      "el-00183"
+    ],
+    "primary_song_ids": [
+      "el-00183"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Alan Walker": {
+    "song_ids": [
+      "el-00187",
+      "el-00318",
+      "el-00400"
+    ],
+    "primary_song_ids": [
+      "el-00187",
+      "el-00318",
+      "el-00400"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Alesso": {
+    "song_ids": [
+      "el-00188",
+      "el-00189",
+      "el-00250"
+    ],
+    "primary_song_ids": [
+      "el-00188",
+      "el-00189",
+      "el-00250"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Alesso Vs OneRepublic": {
+    "song_ids": [
+      "el-00190"
+    ],
+    "primary_song_ids": [
+      "el-00190"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Alex Cheatle": {
+    "song_ids": [
+      "el-00191"
+    ],
+    "primary_song_ids": [
+      "el-00191"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Alex Clare": {
+    "song_ids": [
+      "el-00192",
+      "el-00193"
+    ],
+    "primary_song_ids": [
+      "el-00192",
+      "el-00193"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Alex Cruz": {
+    "song_ids": [
+      "el-00194",
+      "el-00845"
+    ],
+    "primary_song_ids": [
+      "el-00194",
+      "el-00845"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Always April": {
+    "song_ids": [
+      "el-00195"
+    ],
+    "primary_song_ids": [
+      "el-00195"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Bashaar Al Jawad": {
+    "song_ids": [
+      "el-00195"
+    ],
+    "primary_song_ids": [
+      "el-00195"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Avicii": {
+    "song_ids": [
+      "el-00196",
+      "el-00258",
+      "el-00321",
+      "el-00336",
+      "el-00348",
+      "el-00354",
+      "el-00851"
+    ],
+    "primary_song_ids": [
+      "el-00196",
+      "el-00258",
+      "el-00321",
+      "el-00336",
+      "el-00348",
+      "el-00354",
+      "el-00851"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Avicii vs Nicky Romero": {
+    "song_ids": [
+      "el-00197"
+    ],
+    "primary_song_ids": [
+      "el-00197"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Baauer - Aa": {
+    "song_ids": [
+      "el-00198",
+      "el-00199"
+    ],
+    "primary_song_ids": [
+      "el-00198",
+      "el-00199"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Basshunter": {
+    "song_ids": [
+      "el-00201",
+      "el-00298",
+      "el-00299",
+      "el-00300",
+      "el-00301",
+      "el-00302",
+      "el-00303",
+      "el-00304",
+      "el-00305",
+      "el-00306",
+      "el-00307",
+      "el-00308",
+      "el-00309"
+    ],
+    "primary_song_ids": [
+      "el-00201",
+      "el-00298",
+      "el-00299",
+      "el-00300",
+      "el-00301",
+      "el-00302",
+      "el-00303",
+      "el-00304",
+      "el-00305",
+      "el-00306",
+      "el-00307",
+      "el-00308",
+      "el-00309"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "David Guetta": {
+    "song_ids": [
+      "el-00203",
+      "el-00234",
+      "el-00235",
+      "el-00236",
+      "el-00237",
+      "el-00239",
+      "el-00240",
+      "el-00241",
+      "el-00374",
+      "el-00405"
+    ],
+    "primary_song_ids": [
+      "el-00203",
+      "el-00234",
+      "el-00235",
+      "el-00236",
+      "el-00237",
+      "el-00239",
+      "el-00240",
+      "el-00241",
+      "el-00405"
+    ],
+    "feature_song_ids": [
+      "el-00374"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Bebe Rexha": {
+    "song_ids": [
+      "el-00203",
+      "el-00415"
+    ],
+    "primary_song_ids": [
+      "el-00203",
+      "el-00415"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Fisher": {
+    "song_ids": [
+      "el-00204",
+      "el-00772"
+    ],
+    "primary_song_ids": [
+      "el-00204",
+      "el-00772"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "KITA ALEXANDER": {
+    "song_ids": [
+      "el-00204"
+    ],
+    "primary_song_ids": [
+      "el-00204"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Benny Benassi": {
+    "song_ids": [
+      "el-00205",
+      "el-01000",
+      "el-01077"
+    ],
+    "primary_song_ids": [
+      "el-00205",
+      "el-01000",
+      "el-01077"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Gary Go": {
+    "song_ids": [
+      "el-00205"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00205"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Calvin Harris Ellie Goulding": {
+    "song_ids": [
+      "el-00206"
+    ],
+    "primary_song_ids": [
+      "el-00206"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Cannons": {
+    "song_ids": [
+      "el-00208",
+      "el-00209"
+    ],
+    "primary_song_ids": [
+      "el-00208",
+      "el-00209"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Cascada": {
+    "song_ids": [
+      "el-00210",
+      "el-00211",
+      "el-00213",
+      "el-00214",
+      "el-00215",
+      "el-00223"
+    ],
+    "primary_song_ids": [
+      "el-00210",
+      "el-00211",
+      "el-00213",
+      "el-00214",
+      "el-00215",
+      "el-00223"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Carlprit": {
+    "song_ids": [
+      "el-00211"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00211"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "DallasK": {
+    "song_ids": [
+      "el-00217"
+    ],
+    "primary_song_ids": [
+      "el-00217"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Fantomel": {
+    "song_ids": [
+      "el-00218"
+    ],
+    "primary_song_ids": [
+      "el-00218"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "K-391": {
+    "song_ids": [
+      "el-00219"
+    ],
+    "primary_song_ids": [
+      "el-00219"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Victor Crone": {
+    "song_ids": [
+      "el-00219"
+    ],
+    "primary_song_ids": [
+      "el-00219"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Kygo": {
+    "song_ids": [
+      "el-00220",
+      "el-00912",
+      "el-00913",
+      "el-00914"
+    ],
+    "primary_song_ids": [
+      "el-00220",
+      "el-00912",
+      "el-00913",
+      "el-00914"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Marshmello": {
+    "song_ids": [
+      "el-00221"
+    ],
+    "primary_song_ids": [
+      "el-00221"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Me Feat": {
+    "song_ids": [
+      "el-00221"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00221"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "RKaze": {
+    "song_ids": [
+      "el-00222"
+    ],
+    "primary_song_ids": [
+      "el-00222"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Groove Coverage": {
+    "song_ids": [
+      "el-00224",
+      "el-00225",
+      "el-00226",
+      "el-00287"
+    ],
+    "primary_song_ids": [
+      "el-00224",
+      "el-00225",
+      "el-00226",
+      "el-00287"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Laurent Wolf": {
+    "song_ids": [
+      "el-00227"
+    ],
+    "primary_song_ids": [
+      "el-00227"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Melanie C": {
+    "song_ids": [
+      "el-00228",
+      "el-01043"
+    ],
+    "primary_song_ids": [
+      "el-00228",
+      "el-01043"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Club Dance": {
+    "song_ids": [
+      "el-00229"
+    ],
+    "primary_song_ids": [
+      "el-00229"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "PSY": {
+    "song_ids": [
+      "el-00230"
+    ],
+    "primary_song_ids": [
+      "el-00230"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "RUN DMC": {
+    "song_ids": [
+      "el-00231"
+    ],
+    "primary_song_ids": [
+      "el-00231"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Jason Nevins": {
+    "song_ids": [
+      "el-00231"
+    ],
+    "primary_song_ids": [
+      "el-00231"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Sabi": {
+    "song_ids": [
+      "el-00232"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00232"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Culture Code": {
+    "song_ids": [
+      "el-00233"
+    ],
+    "primary_song_ids": [
+      "el-00233"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Crystal Nicole": {
+    "song_ids": [
+      "el-00236"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00236"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Kid CuDi": {
+    "song_ids": [
+      "el-00237"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00237"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "david guetta": {
+    "song_ids": [
+      "el-00238"
+    ],
+    "primary_song_ids": [
+      "el-00238"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "will i am": {
+    "song_ids": [
+      "el-00238"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00238"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Kelly Rowland": {
+    "song_ids": [
+      "el-00239",
+      "el-00374",
+      "el-01011"
+    ],
+    "primary_song_ids": [
+      "el-00374",
+      "el-01011"
+    ],
+    "feature_song_ids": [
+      "el-00239"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Taio Cruz": {
+    "song_ids": [
+      "el-00240"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00240"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Sia": {
+    "song_ids": [
+      "el-00241",
+      "el-00346",
+      "el-00418"
+    ],
+    "primary_song_ids": [
+      "el-00346",
+      "el-00418"
+    ],
+    "feature_song_ids": [
+      "el-00241"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "David Guetta vs The Egg": {
+    "song_ids": [
+      "el-00242"
+    ],
+    "primary_song_ids": [
+      "el-00242"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Disclosure": {
+    "song_ids": [
+      "el-00243",
+      "el-00637",
+      "el-00638",
+      "el-00639",
+      "el-00640",
+      "el-00875"
+    ],
+    "primary_song_ids": [
+      "el-00243",
+      "el-00637",
+      "el-00638",
+      "el-00639",
+      "el-00640",
+      "el-00875"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "dj infinity": {
+    "song_ids": [
+      "el-00244"
+    ],
+    "primary_song_ids": [
+      "el-00244"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Alex Adair": {
+    "song_ids": [
+      "el-00245",
+      "el-00655",
+      "el-00844"
+    ],
+    "primary_song_ids": [
+      "el-00245",
+      "el-00655",
+      "el-00844"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Don Diablo": {
+    "song_ids": [
+      "el-00246"
+    ],
+    "primary_song_ids": [
+      "el-00246"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Emeni": {
+    "song_ids": [
+      "el-00246"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00246"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Marlon Roudette": {
+    "song_ids": [
+      "el-00247"
+    ],
+    "primary_song_ids": [
+      "el-00247"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Drake": {
+    "song_ids": [
+      "el-00248"
+    ],
+    "primary_song_ids": [
+      "el-00248"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "DVBBS Borgeous": {
+    "song_ids": [
+      "el-00249"
+    ],
+    "primary_song_ids": [
+      "el-00249"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "DJ Antoine": {
+    "song_ids": [
+      "el-00252"
+    ],
+    "primary_song_ids": [
+      "el-00252"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "The Beat Shakers": {
+    "song_ids": [
+      "el-00252"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00252"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Georgi Kay - In My Mind": {
+    "song_ids": [
+      "el-00253"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00253"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Sebastian Ingrosso": {
+    "song_ids": [
+      "el-00254",
+      "el-00393"
+    ],
+    "primary_song_ids": [
+      "el-00254",
+      "el-00393"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Tommy Trash": {
+    "song_ids": [
+      "el-00254",
+      "el-00393"
+    ],
+    "primary_song_ids": [
+      "el-00254",
+      "el-00393"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "John Martin": {
+    "song_ids": [
+      "el-00254",
+      "el-00393"
+    ],
+    "primary_song_ids": [
+      "el-00254",
+      "el-00393"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Porter Robinson": {
+    "song_ids": [
+      "el-00255"
+    ],
+    "primary_song_ids": [
+      "el-00255"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Electro Swedish House Mafia": {
+    "song_ids": [
+      "el-00256"
+    ],
+    "primary_song_ids": [
+      "el-00256"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Alan Walker Marshmello": {
+    "song_ids": [
+      "el-00257"
+    ],
+    "primary_song_ids": [
+      "el-00257"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Breathe Carolina Ryos": {
+    "song_ids": [
+      "el-00259"
+    ],
+    "primary_song_ids": [
+      "el-00259"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Dj Rasimcan David Jay": {
+    "song_ids": [
+      "el-00260"
+    ],
+    "primary_song_ids": [
+      "el-00260"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Dzeko Torres Delaney Jane": {
+    "song_ids": [
+      "el-00261"
+    ],
+    "primary_song_ids": [
+      "el-00261"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Gardiner Sisters": {
+    "song_ids": [
+      "el-00263",
+      "el-00264"
+    ],
+    "primary_song_ids": [
+      "el-00263",
+      "el-00264"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "M.I.A": {
+    "song_ids": [
+      "el-00265"
+    ],
+    "primary_song_ids": [
+      "el-00265"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "OneRepublic Alesso": {
+    "song_ids": [
+      "el-00266"
+    ],
+    "primary_song_ids": [
+      "el-00266"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Sagi Abitbul Guy Haliva": {
+    "song_ids": [
+      "el-00267"
+    ],
+    "primary_song_ids": [
+      "el-00267"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Steve Aoki Wynter Gordon": {
+    "song_ids": [
+      "el-00268"
+    ],
+    "primary_song_ids": [
+      "el-00268"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Swanky Tunes Going Deeper": {
+    "song_ids": [
+      "el-00269"
+    ],
+    "primary_song_ids": [
+      "el-00269"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "The Chainsmokers Tritonal Emily Warren": {
+    "song_ids": [
+      "el-00270"
+    ],
+    "primary_song_ids": [
+      "el-00270"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "X Ambassadors": {
+    "song_ids": [
+      "el-00271"
+    ],
+    "primary_song_ids": [
+      "el-00271"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Faithless": {
+    "song_ids": [
+      "el-00272",
+      "el-01024"
+    ],
+    "primary_song_ids": [
+      "el-00272",
+      "el-01024"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Feed Me Crystal Fighters": {
+    "song_ids": [
+      "el-00273"
+    ],
+    "primary_song_ids": [
+      "el-00273"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Flo Rida": {
+    "song_ids": [
+      "el-00274"
+    ],
+    "primary_song_ids": [
+      "el-00274"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Florence The Machine vs Calvin Harris": {
+    "song_ids": [
+      "el-00275"
+    ],
+    "primary_song_ids": [
+      "el-00275"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Flume": {
+    "song_ids": [
+      "el-00276",
+      "el-00277",
+      "el-00278",
+      "el-00279",
+      "el-00280",
+      "el-00281",
+      "el-00282",
+      "el-00283",
+      "el-00284",
+      "el-00409",
+      "el-00890",
+      "el-00891"
+    ],
+    "primary_song_ids": [
+      "el-00276",
+      "el-00277",
+      "el-00278",
+      "el-00279",
+      "el-00280",
+      "el-00281",
+      "el-00282",
+      "el-00283",
+      "el-00284",
+      "el-00409",
+      "el-00890",
+      "el-00891"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Moon Holiday Ki": {
+    "song_ids": [
+      "el-00277"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00277"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Eliza Doolittle": {
+    "song_ids": [
+      "el-00279"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00279"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Kučk": {
+    "song_ids": [
+      "el-00282"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00282"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Vince": {
+    "song_ids": [
+      "el-00283"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00283"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Allan Kingdom R": {
+    "song_ids": [
+      "el-00284"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00284"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Go Hard": {
+    "song_ids": [
+      "el-00286"
+    ],
+    "primary_song_ids": [
+      "el-00286"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Ian Carey Project": {
+    "song_ids": [
+      "el-00288"
+    ],
+    "primary_song_ids": [
+      "el-00288"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Ivan Gough Feenixpawl": {
+    "song_ids": [
+      "el-00290",
+      "el-00780"
+    ],
+    "primary_song_ids": [
+      "el-00290",
+      "el-00780"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Georgi Kay": {
+    "song_ids": [
+      "el-00290",
+      "el-00780"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00290",
+      "el-00780"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Kaskade": {
+    "song_ids": [
+      "el-00292",
+      "el-00295",
+      "el-01010"
+    ],
+    "primary_song_ids": [
+      "el-00292",
+      "el-00295",
+      "el-01010"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Kaskade Adam K": {
+    "song_ids": [
+      "el-00293"
+    ],
+    "primary_song_ids": [
+      "el-00293"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Kaskade VS. Swedish House Mafia": {
+    "song_ids": [
+      "el-00294"
+    ],
+    "primary_song_ids": [
+      "el-00294"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Tiësto feat. Haley": {
+    "song_ids": [
+      "el-00295"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00295"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Klangkarussell": {
+    "song_ids": [
+      "el-00296",
+      "el-00761",
+      "el-00762",
+      "el-00763",
+      "el-00764"
+    ],
+    "primary_song_ids": [
+      "el-00296",
+      "el-00761",
+      "el-00762",
+      "el-00763",
+      "el-00764"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Lemonade Mouth": {
+    "song_ids": [
+      "el-00310"
+    ],
+    "primary_song_ids": [
+      "el-00310"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Levels": {
+    "song_ids": [
+      "el-00311",
+      "el-00342"
+    ],
+    "primary_song_ids": [
+      "el-00311",
+      "el-00342"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Lora": {
+    "song_ids": [
+      "el-00312"
+    ],
+    "primary_song_ids": [
+      "el-00312"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Major Lazer DJ Snake": {
+    "song_ids": [
+      "el-00314"
+    ],
+    "primary_song_ids": [
+      "el-00314"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Martin Garrix": {
+    "song_ids": [
+      "el-00317",
+      "el-00415"
+    ],
+    "primary_song_ids": [
+      "el-00317",
+      "el-00415"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Alvaro Soler": {
+    "song_ids": [
+      "el-00319"
+    ],
+    "primary_song_ids": [
+      "el-00319"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "AronChupa": {
+    "song_ids": [
+      "el-00320"
+    ],
+    "primary_song_ids": [
+      "el-00320"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Calvin Harris Disciples": {
+    "song_ids": [
+      "el-00322",
+      "el-00860"
+    ],
+    "primary_song_ids": [
+      "el-00322",
+      "el-00860"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Clean Bandit": {
+    "song_ids": [
+      "el-00323",
+      "el-00338",
+      "el-00866"
+    ],
+    "primary_song_ids": [
+      "el-00323",
+      "el-00338",
+      "el-00866"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "DJ Snake": {
+    "song_ids": [
+      "el-00324",
+      "el-00407"
+    ],
+    "primary_song_ids": [
+      "el-00324",
+      "el-00407"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Ed Sheeran": {
+    "song_ids": [
+      "el-00325"
+    ],
+    "primary_song_ids": [
+      "el-00325"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "LP": {
+    "song_ids": [
+      "el-00326"
+    ],
+    "primary_song_ids": [
+      "el-00326"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Maroon 5": {
+    "song_ids": [
+      "el-00327"
+    ],
+    "primary_song_ids": [
+      "el-00327"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Ofenbach": {
+    "song_ids": [
+      "el-00328"
+    ],
+    "primary_song_ids": [
+      "el-00328"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Rag n Bone Man": {
+    "song_ids": [
+      "el-00329"
+    ],
+    "primary_song_ids": [
+      "el-00329"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "The Chainsmokers": {
+    "song_ids": [
+      "el-00330",
+      "el-00331",
+      "el-00419",
+      "el-00700"
+    ],
+    "primary_song_ids": [
+      "el-00330",
+      "el-00331",
+      "el-00419",
+      "el-00700"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Lost Frequencies": {
+    "song_ids": [
+      "el-00332",
+      "el-00797",
+      "el-00798",
+      "el-00920"
+    ],
+    "primary_song_ids": [
+      "el-00332",
+      "el-00797",
+      "el-00798",
+      "el-00920"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Janieck Devy - Reality": {
+    "song_ids": [
+      "el-00332"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00332"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Futago": {
+    "song_ids": [
+      "el-00333"
+    ],
+    "primary_song_ids": [
+      "el-00333"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "VALNTN": {
+    "song_ids": [
+      "el-00334"
+    ],
+    "primary_song_ids": [
+      "el-00334"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Yeah Yeah Yeahs": {
+    "song_ids": [
+      "el-00335"
+    ],
+    "primary_song_ids": [
+      "el-00335"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Iggy Azalea": {
+    "song_ids": [
+      "el-00339"
+    ],
+    "primary_song_ids": [
+      "el-00339"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Imagine Dragons": {
+    "song_ids": [
+      "el-00340"
+    ],
+    "primary_song_ids": [
+      "el-00340"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Mike Perry": {
+    "song_ids": [
+      "el-00343",
+      "el-00416"
+    ],
+    "primary_song_ids": [
+      "el-00343",
+      "el-00416"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Owl City": {
+    "song_ids": [
+      "el-00345"
+    ],
+    "primary_song_ids": [
+      "el-00345"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Nico Vinz - Am I Wrong": {
+    "song_ids": [
+      "el-00347"
+    ],
+    "primary_song_ids": [
+      "el-00347"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Martin Solveig Dragonette": {
+    "song_ids": [
+      "el-00349"
+    ],
+    "primary_song_ids": [
+      "el-00349"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Naughty Boy": {
+    "song_ids": [
+      "el-00350",
+      "el-00684",
+      "el-00929"
+    ],
+    "primary_song_ids": [
+      "el-00350",
+      "el-00684",
+      "el-00929"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Robin Schulz": {
+    "song_ids": [
+      "el-00351",
+      "el-00376",
+      "el-00825",
+      "el-00941",
+      "el-00942",
+      "el-00943",
+      "el-00944",
+      "el-00945"
+    ],
+    "primary_song_ids": [
+      "el-00351",
+      "el-00376",
+      "el-00825",
+      "el-00941",
+      "el-00942",
+      "el-00943",
+      "el-00944",
+      "el-00945"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Bingo Players": {
+    "song_ids": [
+      "el-00355"
+    ],
+    "primary_song_ids": [
+      "el-00355"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Bob Sinclar": {
+    "song_ids": [
+      "el-00356",
+      "el-00357"
+    ],
+    "primary_song_ids": [
+      "el-00356",
+      "el-00357"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Yves LaRock - Rise Up": {
+    "song_ids": [
+      "el-00358"
+    ],
+    "primary_song_ids": [
+      "el-00358"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Gary Pine Dollarman - Sound Of Freedom": {
+    "song_ids": [
+      "el-00358"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00358"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Dreams": {
+    "song_ids": [
+      "el-00359"
+    ],
+    "primary_song_ids": [
+      "el-00359"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Eiffel 65": {
+    "song_ids": [
+      "el-00360"
+    ],
+    "primary_song_ids": [
+      "el-00360"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Safri Duo": {
+    "song_ids": [
+      "el-00361",
+      "el-01127"
+    ],
+    "primary_song_ids": [
+      "el-00361",
+      "el-01127"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Nadia Ali": {
+    "song_ids": [
+      "el-00362"
+    ],
+    "primary_song_ids": [
+      "el-00362"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "New World Sound Thomas Newson": {
+    "song_ids": [
+      "el-00363"
+    ],
+    "primary_song_ids": [
+      "el-00363"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Of Monsters": {
+    "song_ids": [
+      "el-00364"
+    ],
+    "primary_song_ids": [
+      "el-00364"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Men": {
+    "song_ids": [
+      "el-00364"
+    ],
+    "primary_song_ids": [
+      "el-00364"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Paris Blohm": {
+    "song_ids": [
+      "el-00365",
+      "el-00690"
+    ],
+    "primary_song_ids": [
+      "el-00365",
+      "el-00690"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "1991": {
+    "song_ids": [
+      "el-00370"
+    ],
+    "primary_song_ids": [
+      "el-00370"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "GENNA Sugababes": {
+    "song_ids": [
+      "el-00371"
+    ],
+    "primary_song_ids": [
+      "el-00371"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "pop dance": {
+    "song_ids": [
+      "el-00372"
+    ],
+    "primary_song_ids": [
+      "el-00372"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Jodie Harsh": {
+    "song_ids": [
+      "el-00373"
+    ],
+    "primary_song_ids": [
+      "el-00373"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Riton": {
+    "song_ids": [
+      "el-00375"
+    ],
+    "primary_song_ids": [
+      "el-00375"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Nightcrawlers": {
+    "song_ids": [
+      "el-00375"
+    ],
+    "primary_song_ids": [
+      "el-00375"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Rudimental": {
+    "song_ids": [
+      "el-00377"
+    ],
+    "primary_song_ids": [
+      "el-00377"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Scooter": {
+    "song_ids": [
+      "el-00378",
+      "el-00379",
+      "el-00380",
+      "el-00381",
+      "el-00382",
+      "el-00383",
+      "el-00384",
+      "el-00385",
+      "el-00386",
+      "el-00387",
+      "el-00388",
+      "el-00389",
+      "el-00390",
+      "el-00391",
+      "el-00392"
+    ],
+    "primary_song_ids": [
+      "el-00378",
+      "el-00379",
+      "el-00380",
+      "el-00381",
+      "el-00382",
+      "el-00383",
+      "el-00384",
+      "el-00385",
+      "el-00386",
+      "el-00387",
+      "el-00388",
+      "el-00389",
+      "el-00390",
+      "el-00391",
+      "el-00392"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Swedish House Mafia": {
+    "song_ids": [
+      "el-00394",
+      "el-00395"
+    ],
+    "primary_song_ids": [
+      "el-00394",
+      "el-00395"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "I found U": {
+    "song_ids": [
+      "el-00396"
+    ],
+    "primary_song_ids": [
+      "el-00396"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "One": {
+    "song_ids": [
+      "el-00397"
+    ],
+    "primary_song_ids": [
+      "el-00397"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Show Me Love": {
+    "song_ids": [
+      "el-00398"
+    ],
+    "primary_song_ids": [
+      "el-00398"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Tell Me Why": {
+    "song_ids": [
+      "el-00399"
+    ],
+    "primary_song_ids": [
+      "el-00399"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Ariana Grande": {
+    "song_ids": [
+      "el-00401",
+      "el-00662"
+    ],
+    "primary_song_ids": [
+      "el-00401",
+      "el-00662"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Charlie Puth": {
+    "song_ids": [
+      "el-00402"
+    ],
+    "primary_song_ids": [
+      "el-00402"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Selena Gomez": {
+    "song_ids": [
+      "el-00402",
+      "el-00914"
+    ],
+    "primary_song_ids": [
+      "el-00402",
+      "el-00914"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Cheat Codes": {
+    "song_ids": [
+      "el-00403"
+    ],
+    "primary_song_ids": [
+      "el-00403"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Kris Kross Amsterdam": {
+    "song_ids": [
+      "el-00403"
+    ],
+    "primary_song_ids": [
+      "el-00403"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Coldplay": {
+    "song_ids": [
+      "el-00404"
+    ],
+    "primary_song_ids": [
+      "el-00404"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Seeb": {
+    "song_ids": [
+      "el-00404"
+    ],
+    "primary_song_ids": [
+      "el-00404"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Zara Larsson": {
+    "song_ids": [
+      "el-00405"
+    ],
+    "primary_song_ids": [
+      "el-00405"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Desiigner": {
+    "song_ids": [
+      "el-00406"
+    ],
+    "primary_song_ids": [
+      "el-00406"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Justin Bieber": {
+    "song_ids": [
+      "el-00407"
+    ],
+    "primary_song_ids": [
+      "el-00407"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Enrique Iglesias": {
+    "song_ids": [
+      "el-00408"
+    ],
+    "primary_song_ids": [
+      "el-00408"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Wisin": {
+    "song_ids": [
+      "el-00408"
+    ],
+    "primary_song_ids": [
+      "el-00408"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Kai": {
+    "song_ids": [
+      "el-00409"
+    ],
+    "primary_song_ids": [
+      "el-00409"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "FRENSHIP": {
+    "song_ids": [
+      "el-00410"
+    ],
+    "primary_song_ids": [
+      "el-00410"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Emily Warren": {
+    "song_ids": [
+      "el-00410"
+    ],
+    "primary_song_ids": [
+      "el-00410"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "gnash": {
+    "song_ids": [
+      "el-00411"
+    ],
+    "primary_song_ids": [
+      "el-00411"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Olivia O Brien": {
+    "song_ids": [
+      "el-00411"
+    ],
+    "primary_song_ids": [
+      "el-00411"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Joel Adams": {
+    "song_ids": [
+      "el-00412"
+    ],
+    "primary_song_ids": [
+      "el-00412"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Jonas Blue": {
+    "song_ids": [
+      "el-00413"
+    ],
+    "primary_song_ids": [
+      "el-00413"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "JP Cooper": {
+    "song_ids": [
+      "el-00413"
+    ],
+    "primary_song_ids": [
+      "el-00413"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Kiiara": {
+    "song_ids": [
+      "el-00414"
+    ],
+    "primary_song_ids": [
+      "el-00414"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Shy Martin": {
+    "song_ids": [
+      "el-00416"
+    ],
+    "primary_song_ids": [
+      "el-00416"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "MØ": {
+    "song_ids": [
+      "el-00417"
+    ],
+    "primary_song_ids": [
+      "el-00417"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Halsey": {
+    "song_ids": [
+      "el-00419"
+    ],
+    "primary_song_ids": [
+      "el-00419"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Twenty One Pilots": {
+    "song_ids": [
+      "el-00420"
+    ],
+    "primary_song_ids": [
+      "el-00420"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Wiley": {
+    "song_ids": [
+      "el-00421"
+    ],
+    "primary_song_ids": [
+      "el-00421"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Ske": {
+    "song_ids": [
+      "el-00421"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00421"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Amon Tobin presents Figueroa": {
+    "song_ids": [
+      "el-00423"
+    ],
+    "primary_song_ids": [
+      "el-00423"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Balam Acab": {
+    "song_ids": [
+      "el-00424"
+    ],
+    "primary_song_ids": [
+      "el-00424"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Bearcubs": {
+    "song_ids": [
+      "el-00425"
+    ],
+    "primary_song_ids": [
+      "el-00425"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Bearson": {
+    "song_ids": [
+      "el-00426"
+    ],
+    "primary_song_ids": [
+      "el-00426"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Ólafur Arnalds": {
+    "song_ids": [
+      "el-00427"
+    ],
+    "primary_song_ids": [
+      "el-00427"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Bonobo": {
+    "song_ids": [
+      "el-00427",
+      "el-00428",
+      "el-00429",
+      "el-00430",
+      "el-00431"
+    ],
+    "primary_song_ids": [
+      "el-00427",
+      "el-00428",
+      "el-00429",
+      "el-00430",
+      "el-00431"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Andreya Triana": {
+    "song_ids": [
+      "el-00431"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00431"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Burial": {
+    "song_ids": [
+      "el-00432",
+      "el-00433",
+      "el-00434",
+      "el-00435",
+      "el-00436"
+    ],
+    "primary_song_ids": [
+      "el-00432",
+      "el-00433",
+      "el-00434",
+      "el-00435",
+      "el-00436"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Caribou": {
+    "song_ids": [
+      "el-00437",
+      "el-00438",
+      "el-00443"
+    ],
+    "primary_song_ids": [
+      "el-00437",
+      "el-00438",
+      "el-00443"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Chelsea Wolfe": {
+    "song_ids": [
+      "el-00439"
+    ],
+    "primary_song_ids": [
+      "el-00439"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "CloZee": {
+    "song_ids": [
+      "el-00440"
+    ],
+    "primary_song_ids": [
+      "el-00440"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Air": {
+    "song_ids": [
+      "el-00442"
+    ],
+    "primary_song_ids": [
+      "el-00442"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Daft Punk": {
+    "song_ids": [
+      "el-00444",
+      "el-00869",
+      "el-00870"
+    ],
+    "primary_song_ids": [
+      "el-00444",
+      "el-00869",
+      "el-00870"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "The Postal Service": {
+    "song_ids": [
+      "el-00446"
+    ],
+    "primary_song_ids": [
+      "el-00446"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Eskmo": {
+    "song_ids": [
+      "el-00447"
+    ],
+    "primary_song_ids": [
+      "el-00447"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Flying Lotus": {
+    "song_ids": [
+      "el-00448",
+      "el-00449"
+    ],
+    "primary_song_ids": [
+      "el-00448",
+      "el-00449"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Four Tet - New Energy": {
+    "song_ids": [
+      "el-00450"
+    ],
+    "primary_song_ids": [
+      "el-00450"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Gustavo Bravetti": {
+    "song_ids": [
+      "el-00451"
+    ],
+    "primary_song_ids": [
+      "el-00451"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Jon Hopkins": {
+    "song_ids": [
+      "el-00452",
+      "el-00453",
+      "el-00454"
+    ],
+    "primary_song_ids": [
+      "el-00452",
+      "el-00453",
+      "el-00454"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Purity Ring": {
+    "song_ids": [
+      "el-00454"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00454"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Kölsch": {
+    "song_ids": [
+      "el-00455"
+    ],
+    "primary_song_ids": [
+      "el-00455"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Ludovico Einaudi": {
+    "song_ids": [
+      "el-00456"
+    ],
+    "primary_song_ids": [
+      "el-00456"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Mako": {
+    "song_ids": [
+      "el-00457",
+      "el-00922"
+    ],
+    "primary_song_ids": [
+      "el-00457",
+      "el-00922"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Desire - Under Your Spell": {
+    "song_ids": [
+      "el-00458",
+      "el-00459"
+    ],
+    "primary_song_ids": [
+      "el-00458",
+      "el-00459"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Chromatics": {
+    "song_ids": [
+      "el-00460"
+    ],
+    "primary_song_ids": [
+      "el-00460"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Cigarettes After Sex": {
+    "song_ids": [
+      "el-00461"
+    ],
+    "primary_song_ids": [
+      "el-00461"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Electric Youth": {
+    "song_ids": [
+      "el-00462"
+    ],
+    "primary_song_ids": [
+      "el-00462"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Escapar": {
+    "song_ids": [
+      "el-00463"
+    ],
+    "primary_song_ids": [
+      "el-00463"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Midge Ure": {
+    "song_ids": [
+      "el-00464"
+    ],
+    "primary_song_ids": [
+      "el-00464"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Moby": {
+    "song_ids": [
+      "el-00464",
+      "el-00465",
+      "el-00466",
+      "el-00467",
+      "el-00468",
+      "el-00469",
+      "el-00470",
+      "el-00471",
+      "el-00472",
+      "el-00473",
+      "el-00474",
+      "el-00475"
+    ],
+    "primary_song_ids": [
+      "el-00464",
+      "el-00465",
+      "el-00466",
+      "el-00467",
+      "el-00468",
+      "el-00469",
+      "el-00470",
+      "el-00471",
+      "el-00472",
+      "el-00473",
+      "el-00474",
+      "el-00475"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Kelli Scarr": {
+    "song_ids": [
+      "el-00475"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00475"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Nils Frahm": {
+    "song_ids": [
+      "el-00476",
+      "el-00477",
+      "el-00478"
+    ],
+    "primary_song_ids": [
+      "el-00476",
+      "el-00477",
+      "el-00478"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Ochre": {
+    "song_ids": [
+      "el-00479"
+    ],
+    "primary_song_ids": [
+      "el-00479"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Oneohtrix Point Never": {
+    "song_ids": [
+      "el-00480"
+    ],
+    "primary_song_ids": [
+      "el-00480"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Recondite": {
+    "song_ids": [
+      "el-00482",
+      "el-00483",
+      "el-00517",
+      "el-00518",
+      "el-00519",
+      "el-00520",
+      "el-00521"
+    ],
+    "primary_song_ids": [
+      "el-00482",
+      "el-00483",
+      "el-00517",
+      "el-00518",
+      "el-00519",
+      "el-00520",
+      "el-00521"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Sigur Rós": {
+    "song_ids": [
+      "el-00484",
+      "el-00485",
+      "el-00486",
+      "el-00504"
+    ],
+    "primary_song_ids": [
+      "el-00484",
+      "el-00485",
+      "el-00486",
+      "el-00504"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Synkro": {
+    "song_ids": [
+      "el-00489",
+      "el-00490"
+    ],
+    "primary_song_ids": [
+      "el-00489",
+      "el-00490"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "There Is Love in You": {
+    "song_ids": [
+      "el-00491"
+    ],
+    "primary_song_ids": [
+      "el-00491"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Waterstrider": {
+    "song_ids": [
+      "el-00492"
+    ],
+    "primary_song_ids": [
+      "el-00492"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Caleb Belkin": {
+    "song_ids": [
+      "el-00493"
+    ],
+    "primary_song_ids": [
+      "el-00493"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Christian Löffler": {
+    "song_ids": [
+      "el-00494"
+    ],
+    "primary_song_ids": [
+      "el-00494"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "James Brown": {
+    "song_ids": [
+      "el-00495"
+    ],
+    "primary_song_ids": [
+      "el-00495"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "LA Priest": {
+    "song_ids": [
+      "el-00497"
+    ],
+    "primary_song_ids": [
+      "el-00497"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Quantic": {
+    "song_ids": [
+      "el-00498"
+    ],
+    "primary_song_ids": [
+      "el-00498"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Rone": {
+    "song_ids": [
+      "el-00499",
+      "el-00965"
+    ],
+    "primary_song_ids": [
+      "el-00499",
+      "el-00965"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "YOAV": {
+    "song_ids": [
+      "el-00501"
+    ],
+    "primary_song_ids": [
+      "el-00501"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Ólafur Arnalds - Living Room Songs": {
+    "song_ids": [
+      "el-00502",
+      "el-00503"
+    ],
+    "primary_song_ids": [
+      "el-00502",
+      "el-00503"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Apparat - The Devil s Walk": {
+    "song_ids": [
+      "el-00505"
+    ],
+    "primary_song_ids": [
+      "el-00505"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Alef": {
+    "song_ids": [
+      "el-00506"
+    ],
+    "primary_song_ids": [
+      "el-00506"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Aphex Twin": {
+    "song_ids": [
+      "el-00507",
+      "el-00508"
+    ],
+    "primary_song_ids": [
+      "el-00507",
+      "el-00508"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Color Plus": {
+    "song_ids": [
+      "el-00509"
+    ],
+    "primary_song_ids": [
+      "el-00509"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Kiasmos": {
+    "song_ids": [
+      "el-00515"
+    ],
+    "primary_song_ids": [
+      "el-00515"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Max Cooper Tom Hodge - Artefact": {
+    "song_ids": [
+      "el-00516"
+    ],
+    "primary_song_ids": [
+      "el-00516"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Sorrow": {
+    "song_ids": [
+      "el-00522"
+    ],
+    "primary_song_ids": [
+      "el-00522"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Phaxe": {
+    "song_ids": [
+      "el-00528",
+      "el-00533"
+    ],
+    "primary_song_ids": [
+      "el-00528",
+      "el-00533"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "3rd eye": {
+    "song_ids": [
+      "el-00529"
+    ],
+    "primary_song_ids": [
+      "el-00529"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "AL039": {
+    "song_ids": [
+      "el-00530"
+    ],
+    "primary_song_ids": [
+      "el-00530"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Mandragora": {
+    "song_ids": [
+      "el-00531"
+    ],
+    "primary_song_ids": [
+      "el-00531"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Oxia": {
+    "song_ids": [
+      "el-00532",
+      "el-00789",
+      "el-00801"
+    ],
+    "primary_song_ids": [
+      "el-00532",
+      "el-00789",
+      "el-00801"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Morten Granau": {
+    "song_ids": [
+      "el-00533"
+    ],
+    "primary_song_ids": [
+      "el-00533"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Alberth": {
+    "song_ids": [
+      "el-00534"
+    ],
+    "primary_song_ids": [
+      "el-00534"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Cirez D": {
+    "song_ids": [
+      "el-00535"
+    ],
+    "primary_song_ids": [
+      "el-00535"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Earth": {
+    "song_ids": [
+      "el-00536"
+    ],
+    "primary_song_ids": [
+      "el-00536"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Wind": {
+    "song_ids": [
+      "el-00536"
+    ],
+    "primary_song_ids": [
+      "el-00536"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Fire": {
+    "song_ids": [
+      "el-00536"
+    ],
+    "primary_song_ids": [
+      "el-00536"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Transwave": {
+    "song_ids": [
+      "el-00537"
+    ],
+    "primary_song_ids": [
+      "el-00537"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "chi-a d": {
+    "song_ids": [
+      "el-00538"
+    ],
+    "primary_song_ids": [
+      "el-00538"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Hilight tribe": {
+    "song_ids": [
+      "el-00539"
+    ],
+    "primary_song_ids": [
+      "el-00539"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Shpongle": {
+    "song_ids": [
+      "el-00540",
+      "el-00541",
+      "el-00542",
+      "el-00543"
+    ],
+    "primary_song_ids": [
+      "el-00540",
+      "el-00541",
+      "el-00542",
+      "el-00543"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Brainchild": {
+    "song_ids": [
+      "el-00544"
+    ],
+    "primary_song_ids": [
+      "el-00544"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Icon": {
+    "song_ids": [
+      "el-00545"
+    ],
+    "primary_song_ids": [
+      "el-00545"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Zyon - No Fate": {
+    "song_ids": [
+      "el-00546"
+    ],
+    "primary_song_ids": [
+      "el-00546"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "ZYON": {
+    "song_ids": [
+      "el-00547"
+    ],
+    "primary_song_ids": [
+      "el-00547"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Dole": {
+    "song_ids": [
+      "el-00548"
+    ],
+    "primary_song_ids": [
+      "el-00548"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Kom": {
+    "song_ids": [
+      "el-00548"
+    ],
+    "primary_song_ids": [
+      "el-00548"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Monolink": {
+    "song_ids": [
+      "el-00549"
+    ],
+    "primary_song_ids": [
+      "el-00549"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Acid Pauli": {
+    "song_ids": [
+      "el-00549"
+    ],
+    "primary_song_ids": [
+      "el-00549"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Nu": {
+    "song_ids": [
+      "el-00550",
+      "el-00810"
+    ],
+    "primary_song_ids": [
+      "el-00550",
+      "el-00810"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Jo Ke": {
+    "song_ids": [
+      "el-00550"
+    ],
+    "primary_song_ids": [
+      "el-00550"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "MilleniumKid": {
+    "song_ids": [
+      "el-00552",
+      "el-00569"
+    ],
+    "primary_song_ids": [
+      "el-00552",
+      "el-00569"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "JBS": {
+    "song_ids": [
+      "el-00552",
+      "el-00569"
+    ],
+    "primary_song_ids": [
+      "el-00552",
+      "el-00569"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Angerfist": {
+    "song_ids": [
+      "el-00553",
+      "el-00554",
+      "el-00555",
+      "el-00556",
+      "el-00558",
+      "el-00559",
+      "el-00560",
+      "el-00561",
+      "el-00562",
+      "el-00563"
+    ],
+    "primary_song_ids": [
+      "el-00553",
+      "el-00554",
+      "el-00555",
+      "el-00556",
+      "el-00558",
+      "el-00559",
+      "el-00560",
+      "el-00561",
+      "el-00562",
+      "el-00563"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "the wolves-tip": {
+    "song_ids": [
+      "el-00555"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00555"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "a1 angerfist": {
+    "song_ids": [
+      "el-00557"
+    ],
+    "primary_song_ids": [
+      "el-00557"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "c1- Angerfist": {
+    "song_ids": [
+      "el-00564"
+    ],
+    "primary_song_ids": [
+      "el-00564"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Bizarring 360 Dj Hitler": {
+    "song_ids": [
+      "el-00565"
+    ],
+    "primary_song_ids": [
+      "el-00565"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "DJ Paul Elstak": {
+    "song_ids": [
+      "el-00566"
+    ],
+    "primary_song_ids": [
+      "el-00566"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Dj Panda": {
+    "song_ids": [
+      "el-00567"
+    ],
+    "primary_song_ids": [
+      "el-00567"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Hixxy": {
+    "song_ids": [
+      "el-00568"
+    ],
+    "primary_song_ids": [
+      "el-00568"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Ophidian": {
+    "song_ids": [
+      "el-00570",
+      "el-00571",
+      "el-00572"
+    ],
+    "primary_song_ids": [
+      "el-00570",
+      "el-00571",
+      "el-00572"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Yoji Biomehanika": {
+    "song_ids": [
+      "el-00573",
+      "el-00574",
+      "el-00575"
+    ],
+    "primary_song_ids": [
+      "el-00573",
+      "el-00574",
+      "el-00575"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Mussulo Video": {
+    "song_ids": [
+      "el-00580"
+    ],
+    "primary_song_ids": [
+      "el-00580"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Space Motion": {
+    "song_ids": [
+      "el-00584"
+    ],
+    "primary_song_ids": [
+      "el-00584"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Tech It Deep": {
+    "song_ids": [
+      "el-00585"
+    ],
+    "primary_song_ids": [
+      "el-00585"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Gordo": {
+    "song_ids": [
+      "el-00585"
+    ],
+    "primary_song_ids": [
+      "el-00585"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Soaky Siren": {
+    "song_ids": [
+      "el-00586"
+    ],
+    "primary_song_ids": [
+      "el-00586"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "VANCO": {
+    "song_ids": [
+      "el-00588"
+    ],
+    "primary_song_ids": [
+      "el-00588"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Bipolar Sunshine": {
+    "song_ids": [
+      "el-00589"
+    ],
+    "primary_song_ids": [
+      "el-00589"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Eden Shalev": {
+    "song_ids": [
+      "el-00591"
+    ],
+    "primary_song_ids": [
+      "el-00591"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Hugel": {
+    "song_ids": [
+      "el-00592"
+    ],
+    "primary_song_ids": [
+      "el-00592"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Jessi Selm": {
+    "song_ids": [
+      "el-00593"
+    ],
+    "primary_song_ids": [
+      "el-00593"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "JOHN ELLE": {
+    "song_ids": [
+      "el-00594"
+    ],
+    "primary_song_ids": [
+      "el-00594"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Kryder": {
+    "song_ids": [
+      "el-00595"
+    ],
+    "primary_song_ids": [
+      "el-00595"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Malóne": {
+    "song_ids": [
+      "el-00596"
+    ],
+    "primary_song_ids": [
+      "el-00596"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "CJ Jeff": {
+    "song_ids": [
+      "el-00596"
+    ],
+    "primary_song_ids": [
+      "el-00596"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Nitefreak": {
+    "song_ids": [
+      "el-00597"
+    ],
+    "primary_song_ids": [
+      "el-00597"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Emmanuel Jal": {
+    "song_ids": [
+      "el-00597"
+    ],
+    "primary_song_ids": [
+      "el-00597"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "André Hommen": {
+    "song_ids": [
+      "el-00598"
+    ],
+    "primary_song_ids": [
+      "el-00598"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Dj Shawn": {
+    "song_ids": [
+      "el-00600"
+    ],
+    "primary_song_ids": [
+      "el-00600"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "L.A.X": {
+    "song_ids": [
+      "el-00600"
+    ],
+    "primary_song_ids": [
+      "el-00600"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Reekado Banks": {
+    "song_ids": [
+      "el-00600"
+    ],
+    "primary_song_ids": [
+      "el-00600"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Logic1000": {
+    "song_ids": [
+      "el-00601"
+    ],
+    "primary_song_ids": [
+      "el-00601"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Lost at Night (Aaaron Remix": {
+    "song_ids": [
+      "el-00602"
+    ],
+    "primary_song_ids": [
+      "el-00602"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Mano Le Tough": {
+    "song_ids": [
+      "el-00603"
+    ],
+    "primary_song_ids": [
+      "el-00603"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Chuala": {
+    "song_ids": [
+      "el-00604"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00604"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Boston 168": {
+    "song_ids": [
+      "el-00605",
+      "el-00647",
+      "el-00974"
+    ],
+    "primary_song_ids": [
+      "el-00605",
+      "el-00647",
+      "el-00974"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Karen Gwyer": {
+    "song_ids": [
+      "el-00606"
+    ],
+    "primary_song_ids": [
+      "el-00606"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Alex C": {
+    "song_ids": [
+      "el-00607",
+      "el-01055",
+      "el-01056",
+      "el-01057",
+      "el-01058"
+    ],
+    "primary_song_ids": [
+      "el-00607",
+      "el-01055",
+      "el-01056",
+      "el-01057",
+      "el-01058"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Yass": {
+    "song_ids": [
+      "el-00607",
+      "el-01055",
+      "el-01056",
+      "el-01057",
+      "el-01058"
+    ],
+    "primary_song_ids": [
+      "el-01058"
+    ],
+    "feature_song_ids": [
+      "el-00607",
+      "el-01055",
+      "el-01056",
+      "el-01057"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Asaf Avidan": {
+    "song_ids": [
+      "el-00608",
+      "el-00850"
+    ],
+    "primary_song_ids": [
+      "el-00608",
+      "el-00850"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "The Mojos": {
+    "song_ids": [
+      "el-00608"
+    ],
+    "primary_song_ids": [
+      "el-00608"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Axwell": {
+    "song_ids": [
+      "el-00609",
+      "el-00610"
+    ],
+    "primary_song_ids": [
+      "el-00609",
+      "el-00610"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Deborah Cox Leave the World Behind": {
+    "song_ids": [
+      "el-00610"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00610"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Bakermat": {
+    "song_ids": [
+      "el-00611"
+    ],
+    "primary_song_ids": [
+      "el-00611"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Me 2009": {
+    "song_ids": [
+      "el-00613"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00613"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Ben Klock": {
+    "song_ids": [
+      "el-00618"
+    ],
+    "primary_song_ids": [
+      "el-00618"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Bjarki": {
+    "song_ids": [
+      "el-00619"
+    ],
+    "primary_song_ids": [
+      "el-00619"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "DeMajor": {
+    "song_ids": [
+      "el-00620"
+    ],
+    "primary_song_ids": [
+      "el-00620"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Lizwi": {
+    "song_ids": [
+      "el-00620"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00620"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Black Coffee": {
+    "song_ids": [
+      "el-00621",
+      "el-00622",
+      "el-00623"
+    ],
+    "primary_song_ids": [
+      "el-00621",
+      "el-00622",
+      "el-00623"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Francis Harris": {
+    "song_ids": [
+      "el-00626"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00626"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Perturbator": {
+    "song_ids": [
+      "el-00627"
+    ],
+    "primary_song_ids": [
+      "el-00627"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Banx Ranx + Ella Eyre": {
+    "song_ids": [
+      "el-00629"
+    ],
+    "primary_song_ids": [
+      "el-00629"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Pleasurekraft": {
+    "song_ids": [
+      "el-00631"
+    ],
+    "primary_song_ids": [
+      "el-00631"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Round Table Knights": {
+    "song_ids": [
+      "el-00632"
+    ],
+    "primary_song_ids": [
+      "el-00632"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Unders": {
+    "song_ids": [
+      "el-00633"
+    ],
+    "primary_song_ids": [
+      "el-00633"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Cygnus X": {
+    "song_ids": [
+      "el-00634"
+    ],
+    "primary_song_ids": [
+      "el-00634"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Da Hool": {
+    "song_ids": [
+      "el-00635"
+    ],
+    "primary_song_ids": [
+      "el-00635"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "B1": {
+    "song_ids": [
+      "el-00636"
+    ],
+    "primary_song_ids": [
+      "el-00636"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "DJ Rolando aka The Aztec Mystic": {
+    "song_ids": [
+      "el-00641"
+    ],
+    "primary_song_ids": [
+      "el-00641"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Tom Odell": {
+    "song_ids": [
+      "el-00642"
+    ],
+    "primary_song_ids": [
+      "el-00642"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Energy 52": {
+    "song_ids": [
+      "el-00643"
+    ],
+    "primary_song_ids": [
+      "el-00643"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "AL001": {
+    "song_ids": [
+      "el-00646"
+    ],
+    "primary_song_ids": [
+      "el-00646"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Cryptik": {
+    "song_ids": [
+      "el-00648"
+    ],
+    "primary_song_ids": [
+      "el-00648"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Oliver Huntemann": {
+    "song_ids": [
+      "el-00649"
+    ],
+    "primary_song_ids": [
+      "el-00649"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Format B": {
+    "song_ids": [
+      "el-00650"
+    ],
+    "primary_song_ids": [
+      "el-00650"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Freddy Verano": {
+    "song_ids": [
+      "el-00651"
+    ],
+    "primary_song_ids": [
+      "el-00651"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Lily Kershaw": {
+    "song_ids": [
+      "el-00652"
+    ],
+    "primary_song_ids": [
+      "el-00652"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Fritz Paul Kalkbrenner": {
+    "song_ids": [
+      "el-00653"
+    ],
+    "primary_song_ids": [
+      "el-00653"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Aaron Smith": {
+    "song_ids": [
+      "el-00654",
+      "el-00841"
+    ],
+    "primary_song_ids": [
+      "el-00654",
+      "el-00841"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Bassette": {
+    "song_ids": [
+      "el-00656"
+    ],
+    "primary_song_ids": [
+      "el-00656"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "BAYNK": {
+    "song_ids": [
+      "el-00657"
+    ],
+    "primary_song_ids": [
+      "el-00657"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Henry Krinkle": {
+    "song_ids": [
+      "el-00658",
+      "el-00745"
+    ],
+    "primary_song_ids": [
+      "el-00658",
+      "el-00745"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Agents Of Time": {
+    "song_ids": [
+      "el-00659",
+      "el-00660"
+    ],
+    "primary_song_ids": [
+      "el-00659",
+      "el-00660"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Alessia Cara": {
+    "song_ids": [
+      "el-00661"
+    ],
+    "primary_song_ids": [
+      "el-00661"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Bebe": {
+    "song_ids": [
+      "el-00664"
+    ],
+    "primary_song_ids": [
+      "el-00664"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Besso": {
+    "song_ids": [
+      "el-00665"
+    ],
+    "primary_song_ids": [
+      "el-00665"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Chet Faker": {
+    "song_ids": [
+      "el-00666",
+      "el-00862"
+    ],
+    "primary_song_ids": [
+      "el-00666",
+      "el-00862"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Dillon": {
+    "song_ids": [
+      "el-00667",
+      "el-00874"
+    ],
+    "primary_song_ids": [
+      "el-00667",
+      "el-00874"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Doja Cat": {
+    "song_ids": [
+      "el-00668",
+      "el-00820"
+    ],
+    "primary_song_ids": [
+      "el-00668",
+      "el-00820"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Foals": {
+    "song_ids": [
+      "el-00669",
+      "el-00893"
+    ],
+    "primary_song_ids": [
+      "el-00669",
+      "el-00893"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Groove Insane": {
+    "song_ids": [
+      "el-00670"
+    ],
+    "primary_song_ids": [
+      "el-00670"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Nomad": {
+    "song_ids": [
+      "el-00672"
+    ],
+    "primary_song_ids": [
+      "el-00672"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "If It Wasn t For You": {
+    "song_ids": [
+      "el-00673"
+    ],
+    "primary_song_ids": [
+      "el-00673"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Kabza De Small": {
+    "song_ids": [
+      "el-00674"
+    ],
+    "primary_song_ids": [
+      "el-00674"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Kasbo": {
+    "song_ids": [
+      "el-00675"
+    ],
+    "primary_song_ids": [
+      "el-00675"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Lucia": {
+    "song_ids": [
+      "el-00676"
+    ],
+    "primary_song_ids": [
+      "el-00676"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Marit Larsen": {
+    "song_ids": [
+      "el-00677"
+    ],
+    "primary_song_ids": [
+      "el-00677"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Meadowlark": {
+    "song_ids": [
+      "el-00679"
+    ],
+    "primary_song_ids": [
+      "el-00679"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Miss Jane": {
+    "song_ids": [
+      "el-00681"
+    ],
+    "primary_song_ids": [
+      "el-00681"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Mree": {
+    "song_ids": [
+      "el-00682"
+    ],
+    "primary_song_ids": [
+      "el-00682"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Nathan Fake": {
+    "song_ids": [
+      "el-00683",
+      "el-00971"
+    ],
+    "primary_song_ids": [
+      "el-00683",
+      "el-00971"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Nikos Diamantopoulos": {
+    "song_ids": [
+      "el-00685"
+    ],
+    "primary_song_ids": [
+      "el-00685"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Toshi": {
+    "song_ids": [
+      "el-00685"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00685"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "No 4mat": {
+    "song_ids": [
+      "el-00686",
+      "el-00727"
+    ],
+    "primary_song_ids": [
+      "el-00686",
+      "el-00727"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Oh Wonder": {
+    "song_ids": [
+      "el-00688",
+      "el-00689"
+    ],
+    "primary_song_ids": [
+      "el-00688",
+      "el-00689"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "PETIT BISCUIT": {
+    "song_ids": [
+      "el-00691"
+    ],
+    "primary_song_ids": [
+      "el-00691"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "RAC": {
+    "song_ids": [
+      "el-00692"
+    ],
+    "primary_song_ids": [
+      "el-00692"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Raye": {
+    "song_ids": [
+      "el-00693",
+      "el-00940"
+    ],
+    "primary_song_ids": [
+      "el-00693",
+      "el-00940"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Riccardo": {
+    "song_ids": [
+      "el-00694"
+    ],
+    "primary_song_ids": [
+      "el-00694"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Shy Girls": {
+    "song_ids": [
+      "el-00696"
+    ],
+    "primary_song_ids": [
+      "el-00696"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Stonefox": {
+    "song_ids": [
+      "el-00697"
+    ],
+    "primary_song_ids": [
+      "el-00697"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Stwo": {
+    "song_ids": [
+      "el-00698"
+    ],
+    "primary_song_ids": [
+      "el-00698"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "STWO": {
+    "song_ids": [
+      "el-00699"
+    ],
+    "primary_song_ids": [
+      "el-00699"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Tove Lo": {
+    "song_ids": [
+      "el-00703"
+    ],
+    "primary_song_ids": [
+      "el-00703"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Vance Joy": {
+    "song_ids": [
+      "el-00705",
+      "el-00981"
+    ],
+    "primary_song_ids": [
+      "el-00705",
+      "el-00981"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "WEKEED": {
+    "song_ids": [
+      "el-00706"
+    ],
+    "primary_song_ids": [
+      "el-00706"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "xSDTRK": {
+    "song_ids": [
+      "el-00708"
+    ],
+    "primary_song_ids": [
+      "el-00708"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "XYLØ": {
+    "song_ids": [
+      "el-00709"
+    ],
+    "primary_song_ids": [
+      "el-00709"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Youth": {
+    "song_ids": [
+      "el-00710"
+    ],
+    "primary_song_ids": [
+      "el-00710"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "3LAU": {
+    "song_ids": [
+      "el-00713"
+    ],
+    "primary_song_ids": [
+      "el-00713"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Bright Lights": {
+    "song_ids": [
+      "el-00713"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00713"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Alina Baraz Galimatias": {
+    "song_ids": [
+      "el-00714",
+      "el-00715",
+      "el-00716"
+    ],
+    "primary_song_ids": [
+      "el-00714",
+      "el-00715",
+      "el-00716"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Asa Koan Sound": {
+    "song_ids": [
+      "el-00718"
+    ],
+    "primary_song_ids": [
+      "el-00718"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Babel": {
+    "song_ids": [
+      "el-00719"
+    ],
+    "primary_song_ids": [
+      "el-00719"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Bijou Winters": {
+    "song_ids": [
+      "el-00720"
+    ],
+    "primary_song_ids": [
+      "el-00720"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Leian Limms": {
+    "song_ids": [
+      "el-00720"
+    ],
+    "primary_song_ids": [
+      "el-00720"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Etherwood": {
+    "song_ids": [
+      "el-00721"
+    ],
+    "primary_song_ids": [
+      "el-00721"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "ODESZA": {
+    "song_ids": [
+      "el-00722"
+    ],
+    "primary_song_ids": [
+      "el-00722"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Carmen": {
+    "song_ids": [
+      "el-00723"
+    ],
+    "primary_song_ids": [
+      "el-00723"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Childish Gambino": {
+    "song_ids": [
+      "el-00725",
+      "el-00863"
+    ],
+    "primary_song_ids": [
+      "el-00725",
+      "el-00863"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Bedouin": {
+    "song_ids": [
+      "el-00726"
+    ],
+    "primary_song_ids": [
+      "el-00726"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Discern": {
+    "song_ids": [
+      "el-00726"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00726"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "JEME": {
+    "song_ids": [
+      "el-00734"
+    ],
+    "primary_song_ids": [
+      "el-00734"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Chris Isaac": {
+    "song_ids": [
+      "el-00741"
+    ],
+    "primary_song_ids": [
+      "el-00741"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Daughter": {
+    "song_ids": [
+      "el-00743"
+    ],
+    "primary_song_ids": [
+      "el-00743"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "De Hofnar": {
+    "song_ids": [
+      "el-00744"
+    ],
+    "primary_song_ids": [
+      "el-00744"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Jamie Woon": {
+    "song_ids": [
+      "el-00746",
+      "el-00747",
+      "el-00793"
+    ],
+    "primary_song_ids": [
+      "el-00746",
+      "el-00747",
+      "el-00793"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Joachim Pastor": {
+    "song_ids": [
+      "el-00748"
+    ],
+    "primary_song_ids": [
+      "el-00748"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Kings Of Leon": {
+    "song_ids": [
+      "el-00750"
+    ],
+    "primary_song_ids": [
+      "el-00750"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Klaves": {
+    "song_ids": [
+      "el-00751"
+    ],
+    "primary_song_ids": [
+      "el-00751"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Lastlings": {
+    "song_ids": [
+      "el-00752"
+    ],
+    "primary_song_ids": [
+      "el-00752"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Martin Roth": {
+    "song_ids": [
+      "el-00754"
+    ],
+    "primary_song_ids": [
+      "el-00754"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "N to": {
+    "song_ids": [
+      "el-00755",
+      "el-00928"
+    ],
+    "primary_song_ids": [
+      "el-00755",
+      "el-00928"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "shallou": {
+    "song_ids": [
+      "el-00756"
+    ],
+    "primary_song_ids": [
+      "el-00756"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "THYLACINE": {
+    "song_ids": [
+      "el-00758"
+    ],
+    "primary_song_ids": [
+      "el-00758"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "ZHU": {
+    "song_ids": [
+      "el-00759",
+      "el-00964"
+    ],
+    "primary_song_ids": [
+      "el-00759",
+      "el-00964"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Jordan Burns": {
+    "song_ids": [
+      "el-00760"
+    ],
+    "primary_song_ids": [
+      "el-00760"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "John Summit": {
+    "song_ids": [
+      "el-00765"
+    ],
+    "primary_song_ids": [
+      "el-00765"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Hayla": {
+    "song_ids": [
+      "el-00765"
+    ],
+    "primary_song_ids": [
+      "el-00765"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Melodic Techno ❤️ Progressive House Playlist 2025 - Best": {
+    "song_ids": [
+      "el-00766"
+    ],
+    "primary_song_ids": [
+      "el-00766"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Top 100 Tracks": {
+    "song_ids": [
+      "el-00766"
+    ],
+    "primary_song_ids": [
+      "el-00766"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "ATB": {
+    "song_ids": [
+      "el-00767",
+      "el-01073",
+      "el-01074"
+    ],
+    "primary_song_ids": [
+      "el-00767",
+      "el-01073",
+      "el-01074"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Black Coffee David Guetta": {
+    "song_ids": [
+      "el-00768"
+    ],
+    "primary_song_ids": [
+      "el-00768"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Dom Dolla": {
+    "song_ids": [
+      "el-00769"
+    ],
+    "primary_song_ids": [
+      "el-00769"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Duke Dumont": {
+    "song_ids": [
+      "el-00770",
+      "el-00878"
+    ],
+    "primary_song_ids": [
+      "el-00770",
+      "el-00878"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Eli Fur": {
+    "song_ids": [
+      "el-00771"
+    ],
+    "primary_song_ids": [
+      "el-00771"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "USB Players": {
+    "song_ids": [
+      "el-00773"
+    ],
+    "primary_song_ids": [
+      "el-00773"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Axel Thesleff": {
+    "song_ids": [
+      "el-00774",
+      "el-00852"
+    ],
+    "primary_song_ids": [
+      "el-00774",
+      "el-00852"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "BLR": {
+    "song_ids": [
+      "el-00775"
+    ],
+    "primary_song_ids": [
+      "el-00775"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Rave Crave": {
+    "song_ids": [
+      "el-00775"
+    ],
+    "primary_song_ids": [
+      "el-00775"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Burak Yeter": {
+    "song_ids": [
+      "el-00776"
+    ],
+    "primary_song_ids": [
+      "el-00776"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Eurythmics": {
+    "song_ids": [
+      "el-00777"
+    ],
+    "primary_song_ids": [
+      "el-00777"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Holly Henry": {
+    "song_ids": [
+      "el-00778"
+    ],
+    "primary_song_ids": [
+      "el-00778"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Infinity Ink": {
+    "song_ids": [
+      "el-00779",
+      "el-00906"
+    ],
+    "primary_song_ids": [
+      "el-00779",
+      "el-00906"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Mahmut Orhan": {
+    "song_ids": [
+      "el-00781"
+    ],
+    "primary_song_ids": [
+      "el-00781"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Project X": {
+    "song_ids": [
+      "el-00782"
+    ],
+    "primary_song_ids": [
+      "el-00782"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Rompasso": {
+    "song_ids": [
+      "el-00783"
+    ],
+    "primary_song_ids": [
+      "el-00783"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Stromae": {
+    "song_ids": [
+      "el-00784",
+      "el-00958"
+    ],
+    "primary_song_ids": [
+      "el-00784",
+      "el-00958"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Eliphino - More Than Me": {
+    "song_ids": [
+      "el-00785"
+    ],
+    "primary_song_ids": [
+      "el-00785"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Eliphino": {
+    "song_ids": [
+      "el-00786"
+    ],
+    "primary_song_ids": [
+      "el-00786"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "M.A.N.D.Y. vs Booka Shade": {
+    "song_ids": [
+      "el-00787"
+    ],
+    "primary_song_ids": [
+      "el-00787"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Mark Knight": {
+    "song_ids": [
+      "el-00788"
+    ],
+    "primary_song_ids": [
+      "el-00788"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Adana Twins": {
+    "song_ids": [
+      "el-00790"
+    ],
+    "primary_song_ids": [
+      "el-00790"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Chaim": {
+    "song_ids": [
+      "el-00791"
+    ],
+    "primary_song_ids": [
+      "el-00791"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Meital De Razon": {
+    "song_ids": [
+      "el-00791"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00791"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Dole Kom": {
+    "song_ids": [
+      "el-00792"
+    ],
+    "primary_song_ids": [
+      "el-00792"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Luciano": {
+    "song_ids": [
+      "el-00794"
+    ],
+    "primary_song_ids": [
+      "el-00794"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Ornette": {
+    "song_ids": [
+      "el-00795",
+      "el-00816"
+    ],
+    "primary_song_ids": [
+      "el-00795",
+      "el-00816"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Lilly Wood The Prick": {
+    "song_ids": [
+      "el-00796"
+    ],
+    "primary_song_ids": [
+      "el-00796"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Janieck Devy": {
+    "song_ids": [
+      "el-00798"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00798"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Yves LaRock": {
+    "song_ids": [
+      "el-00799"
+    ],
+    "primary_song_ids": [
+      "el-00799"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Kollektiv Turmstrasse": {
+    "song_ids": [
+      "el-00800"
+    ],
+    "primary_song_ids": [
+      "el-00800"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Stephan Bodzin": {
+    "song_ids": [
+      "el-00802",
+      "el-00809"
+    ],
+    "primary_song_ids": [
+      "el-00802",
+      "el-00809"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Von Paul Kalkbrenner": {
+    "song_ids": [
+      "el-00803"
+    ],
+    "primary_song_ids": [
+      "el-00803"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Moderat": {
+    "song_ids": [
+      "el-00805"
+    ],
+    "primary_song_ids": [
+      "el-00805"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Howling": {
+    "song_ids": [
+      "el-00807"
+    ],
+    "primary_song_ids": [
+      "el-00807"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Maceo Plex": {
+    "song_ids": [
+      "el-00808"
+    ],
+    "primary_song_ids": [
+      "el-00808"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Gabriel Ananda": {
+    "song_ids": [
+      "el-00808"
+    ],
+    "primary_song_ids": [
+      "el-00808"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Oliver Koletzki": {
+    "song_ids": [
+      "el-00811",
+      "el-00812",
+      "el-00813",
+      "el-00814",
+      "el-00815"
+    ],
+    "primary_song_ids": [
+      "el-00811",
+      "el-00812",
+      "el-00813",
+      "el-00814",
+      "el-00815"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Township Rebellion": {
+    "song_ids": [
+      "el-00813",
+      "el-00815"
+    ],
+    "primary_song_ids": [
+      "el-00813"
+    ],
+    "feature_song_ids": [
+      "el-00815"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "HVOB": {
+    "song_ids": [
+      "el-00814"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00814"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "ARTBAT": {
+    "song_ids": [
+      "el-00817",
+      "el-00818"
+    ],
+    "primary_song_ids": [
+      "el-00817",
+      "el-00818"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Rafael Cerato": {
+    "song_ids": [
+      "el-00817"
+    ],
+    "primary_song_ids": [
+      "el-00817"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "DJ KANTIK": {
+    "song_ids": [
+      "el-00819"
+    ],
+    "primary_song_ids": [
+      "el-00819"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Fedde Le Grand": {
+    "song_ids": [
+      "el-00821",
+      "el-01005"
+    ],
+    "primary_song_ids": [
+      "el-00821",
+      "el-01005"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Hayden James": {
+    "song_ids": [
+      "el-00822",
+      "el-00901"
+    ],
+    "primary_song_ids": [
+      "el-00822",
+      "el-00901"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Majid Jordan": {
+    "song_ids": [
+      "el-00823"
+    ],
+    "primary_song_ids": [
+      "el-00823"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Regard": {
+    "song_ids": [
+      "el-00824"
+    ],
+    "primary_song_ids": [
+      "el-00824"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "RAYE": {
+    "song_ids": [
+      "el-00824"
+    ],
+    "primary_song_ids": [
+      "el-00824"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Runtown": {
+    "song_ids": [
+      "el-00826"
+    ],
+    "primary_song_ids": [
+      "el-00826"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Teyana Taylor": {
+    "song_ids": [
+      "el-00827"
+    ],
+    "primary_song_ids": [
+      "el-00827"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Tinashe": {
+    "song_ids": [
+      "el-00828"
+    ],
+    "primary_song_ids": [
+      "el-00828"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Y2K": {
+    "song_ids": [
+      "el-00829"
+    ],
+    "primary_song_ids": [
+      "el-00829"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "bbno$": {
+    "song_ids": [
+      "el-00829"
+    ],
+    "primary_song_ids": [
+      "el-00829"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Césarine": {
+    "song_ids": [
+      "el-00830",
+      "el-00831"
+    ],
+    "primary_song_ids": [
+      "el-00830",
+      "el-00831"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Kenzie M": {
+    "song_ids": [
+      "el-00832"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00832"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Sidney Samson": {
+    "song_ids": [
+      "el-00839"
+    ],
+    "primary_song_ids": [
+      "el-00839"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "A": {
+    "song_ids": [
+      "el-00840"
+    ],
+    "primary_song_ids": [
+      "el-00840"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Akcent": {
+    "song_ids": [
+      "el-00842",
+      "el-00843"
+    ],
+    "primary_song_ids": [
+      "el-00842",
+      "el-00843"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Alex Q": {
+    "song_ids": [
+      "el-00846"
+    ],
+    "primary_song_ids": [
+      "el-00846"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Alle Farben": {
+    "song_ids": [
+      "el-00847"
+    ],
+    "primary_song_ids": [
+      "el-00847"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Amy Capilari Burex": {
+    "song_ids": [
+      "el-00848"
+    ],
+    "primary_song_ids": [
+      "el-00848"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Alle Farben YOUNOTUS": {
+    "song_ids": [
+      "el-00849"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00849"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "B.Lewis": {
+    "song_ids": [
+      "el-00853"
+    ],
+    "primary_song_ids": [
+      "el-00853"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Banks": {
+    "song_ids": [
+      "el-00854"
+    ],
+    "primary_song_ids": [
+      "el-00854"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Bastille": {
+    "song_ids": [
+      "el-00855"
+    ],
+    "primary_song_ids": [
+      "el-00855"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "BASTILLE": {
+    "song_ids": [
+      "el-00856"
+    ],
+    "primary_song_ids": [
+      "el-00856"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Ella": {
+    "song_ids": [
+      "el-00856"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00856"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Beshken": {
+    "song_ids": [
+      "el-00857"
+    ],
+    "primary_song_ids": [
+      "el-00857"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Bloodhound Gang": {
+    "song_ids": [
+      "el-00858"
+    ],
+    "primary_song_ids": [
+      "el-00858"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "C-bool": {
+    "song_ids": [
+      "el-00859"
+    ],
+    "primary_song_ids": [
+      "el-00859"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Chris Isaak": {
+    "song_ids": [
+      "el-00864"
+    ],
+    "primary_song_ids": [
+      "el-00864"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Ciara": {
+    "song_ids": [
+      "el-00865"
+    ],
+    "primary_song_ids": [
+      "el-00865"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "CoMa": {
+    "song_ids": [
+      "el-00867"
+    ],
+    "primary_song_ids": [
+      "el-00867"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Contiez": {
+    "song_ids": [
+      "el-00868"
+    ],
+    "primary_song_ids": [
+      "el-00868"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Treyy G": {
+    "song_ids": [
+      "el-00868"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00868"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "David Deejay": {
+    "song_ids": [
+      "el-00871",
+      "el-01082",
+      "el-01083",
+      "el-01084"
+    ],
+    "primary_song_ids": [
+      "el-00871",
+      "el-01082",
+      "el-01083",
+      "el-01084"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Dony": {
+    "song_ids": [
+      "el-00871",
+      "el-01082",
+      "el-01083",
+      "el-01084"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00871",
+      "el-01082",
+      "el-01083",
+      "el-01084"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "David Zowie": {
+    "song_ids": [
+      "el-00872"
+    ],
+    "primary_song_ids": [
+      "el-00872"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Deepside Deejays": {
+    "song_ids": [
+      "el-00873",
+      "el-01085",
+      "el-01086",
+      "el-01088"
+    ],
+    "primary_song_ids": [
+      "el-00873",
+      "el-01085",
+      "el-01086",
+      "el-01088"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Sam Smith": {
+    "song_ids": [
+      "el-00875"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00875"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "DJ Antoine vs Timati": {
+    "song_ids": [
+      "el-00876"
+    ],
+    "primary_song_ids": [
+      "el-00876"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Kalenna": {
+    "song_ids": [
+      "el-00876"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00876"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "DJ Tiesto": {
+    "song_ids": [
+      "el-00877"
+    ],
+    "primary_song_ids": [
+      "el-00877"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Edward Maya Vika Jigulina": {
+    "song_ids": [
+      "el-00879"
+    ],
+    "primary_song_ids": [
+      "el-00879"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Ella Eyre": {
+    "song_ids": [
+      "el-00880"
+    ],
+    "primary_song_ids": [
+      "el-00880"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Empire Of The Sun": {
+    "song_ids": [
+      "el-00884"
+    ],
+    "primary_song_ids": [
+      "el-00884"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Endor": {
+    "song_ids": [
+      "el-00885"
+    ],
+    "primary_song_ids": [
+      "el-00885"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "FAUL Wad Ad vs Pnau": {
+    "song_ids": [
+      "el-00887"
+    ],
+    "primary_song_ids": [
+      "el-00887"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Felix Jaehn": {
+    "song_ids": [
+      "el-00888"
+    ],
+    "primary_song_ids": [
+      "el-00888"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Felon": {
+    "song_ids": [
+      "el-00889"
+    ],
+    "primary_song_ids": [
+      "el-00889"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Flume Eliza Doolittle": {
+    "song_ids": [
+      "el-00892"
+    ],
+    "primary_song_ids": [
+      "el-00892"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Gabriella Cilmi": {
+    "song_ids": [
+      "el-00895"
+    ],
+    "primary_song_ids": [
+      "el-00895"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Gary Jules": {
+    "song_ids": [
+      "el-00896"
+    ],
+    "primary_song_ids": [
+      "el-00896"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "amber of dirty projectors": {
+    "song_ids": [
+      "el-00897"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00897"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "gnash Olivia O Brien Robin Schulz": {
+    "song_ids": [
+      "el-00898"
+    ],
+    "primary_song_ids": [
+      "el-00898"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Guru Josh Project": {
+    "song_ids": [
+      "el-00899",
+      "el-01007"
+    ],
+    "primary_song_ids": [
+      "el-00899",
+      "el-01007"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Henry Land Samuel": {
+    "song_ids": [
+      "el-00902"
+    ],
+    "primary_song_ids": [
+      "el-00902"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Hippie Sabotage": {
+    "song_ids": [
+      "el-00903"
+    ],
+    "primary_song_ids": [
+      "el-00903"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Hozier": {
+    "song_ids": [
+      "el-00904"
+    ],
+    "primary_song_ids": [
+      "el-00904"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "HUNGER TV SKY FERREIRA": {
+    "song_ids": [
+      "el-00905"
+    ],
+    "primary_song_ids": [
+      "el-00905"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "James Hersey": {
+    "song_ids": [
+      "el-00908"
+    ],
+    "primary_song_ids": [
+      "el-00908"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Jason Mraz": {
+    "song_ids": [
+      "el-00909"
+    ],
+    "primary_song_ids": [
+      "el-00909"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "John Legend": {
+    "song_ids": [
+      "el-00910"
+    ],
+    "primary_song_ids": [
+      "el-00910"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Kungs Cookin On 3 Burners": {
+    "song_ids": [
+      "el-00911"
+    ],
+    "primary_song_ids": [
+      "el-00911"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Lana Del Rey": {
+    "song_ids": [
+      "el-00915"
+    ],
+    "primary_song_ids": [
+      "el-00915"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "LeAnn Rimes": {
+    "song_ids": [
+      "el-00916"
+    ],
+    "primary_song_ids": [
+      "el-00916"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Lisa May": {
+    "song_ids": [
+      "el-00918"
+    ],
+    "primary_song_ids": [
+      "el-00918"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Lorde": {
+    "song_ids": [
+      "el-00919"
+    ],
+    "primary_song_ids": [
+      "el-00919"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Madonna": {
+    "song_ids": [
+      "el-00921"
+    ],
+    "primary_song_ids": [
+      "el-00921"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Mattafix": {
+    "song_ids": [
+      "el-00923"
+    ],
+    "primary_song_ids": [
+      "el-00923"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Milk Sugar": {
+    "song_ids": [
+      "el-00924"
+    ],
+    "primary_song_ids": [
+      "el-00924"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "MisterWives": {
+    "song_ids": [
+      "el-00926"
+    ],
+    "primary_song_ids": [
+      "el-00926"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "MORTEN Frida Sundemo": {
+    "song_ids": [
+      "el-00927"
+    ],
+    "primary_song_ids": [
+      "el-00927"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Noir Désir": {
+    "song_ids": [
+      "el-00931"
+    ],
+    "primary_song_ids": [
+      "el-00931"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Olly Murs": {
+    "song_ids": [
+      "el-00932"
+    ],
+    "primary_song_ids": [
+      "el-00932"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Rizzle Kicks": {
+    "song_ids": [
+      "el-00932"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00932"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Parov Stelar": {
+    "song_ids": [
+      "el-00933"
+    ],
+    "primary_song_ids": [
+      "el-00933"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Pascal Letoublon": {
+    "song_ids": [
+      "el-00934"
+    ],
+    "primary_song_ids": [
+      "el-00934"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Passenger": {
+    "song_ids": [
+      "el-00935",
+      "el-00936"
+    ],
+    "primary_song_ids": [
+      "el-00935",
+      "el-00936"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Peer Kusiv": {
+    "song_ids": [
+      "el-00937"
+    ],
+    "primary_song_ids": [
+      "el-00937"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Philip George": {
+    "song_ids": [
+      "el-00938"
+    ],
+    "primary_song_ids": [
+      "el-00938"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "PILERATS": {
+    "song_ids": [
+      "el-00939"
+    ],
+    "primary_song_ids": [
+      "el-00939"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Route 94": {
+    "song_ids": [
+      "el-00946"
+    ],
+    "primary_song_ids": [
+      "el-00946"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Rudenko": {
+    "song_ids": [
+      "el-00947"
+    ],
+    "primary_song_ids": [
+      "el-00947"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Sahara": {
+    "song_ids": [
+      "el-00949"
+    ],
+    "primary_song_ids": [
+      "el-00949"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Sango Waldo": {
+    "song_ids": [
+      "el-00950"
+    ],
+    "primary_song_ids": [
+      "el-00950"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Sash": {
+    "song_ids": [
+      "el-00951"
+    ],
+    "primary_song_ids": [
+      "el-00951"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Stunt": {
+    "song_ids": [
+      "el-00951",
+      "el-01019"
+    ],
+    "primary_song_ids": [
+      "el-01019"
+    ],
+    "feature_song_ids": [
+      "el-00951"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Silent Rider Camille Coraz n": {
+    "song_ids": [
+      "el-00952"
+    ],
+    "primary_song_ids": [
+      "el-00952"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Skepta": {
+    "song_ids": [
+      "el-00953"
+    ],
+    "primary_song_ids": [
+      "el-00953"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Spada": {
+    "song_ids": [
+      "el-00955"
+    ],
+    "primary_song_ids": [
+      "el-00955"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "The Police": {
+    "song_ids": [
+      "el-00959"
+    ],
+    "primary_song_ids": [
+      "el-00959"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "The Underdog Project": {
+    "song_ids": [
+      "el-00960"
+    ],
+    "primary_song_ids": [
+      "el-00960"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Topic": {
+    "song_ids": [
+      "el-00963"
+    ],
+    "primary_song_ids": [
+      "el-00963"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Lili Pistorius": {
+    "song_ids": [
+      "el-00963"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00963"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Shouse": {
+    "song_ids": [
+      "el-00966"
+    ],
+    "primary_song_ids": [
+      "el-00966"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Solomun": {
+    "song_ids": [
+      "el-00967"
+    ],
+    "primary_song_ids": [
+      "el-00967"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Stavroz": {
+    "song_ids": [
+      "el-00968"
+    ],
+    "primary_song_ids": [
+      "el-00968"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Tale of Us": {
+    "song_ids": [
+      "el-00969"
+    ],
+    "primary_song_ids": [
+      "el-00969"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Mark Höffen": {
+    "song_ids": [
+      "el-00970"
+    ],
+    "primary_song_ids": [
+      "el-00970"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Abd": {
+    "song_ids": [
+      "el-00972"
+    ],
+    "primary_song_ids": [
+      "el-00972"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Axling": {
+    "song_ids": [
+      "el-00973"
+    ],
+    "primary_song_ids": [
+      "el-00973"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "SDB": {
+    "song_ids": [
+      "el-00975"
+    ],
+    "primary_song_ids": [
+      "el-00975"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "WLDERZ": {
+    "song_ids": [
+      "el-00976"
+    ],
+    "primary_song_ids": [
+      "el-00976"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Ten Walls": {
+    "song_ids": [
+      "el-00977"
+    ],
+    "primary_song_ids": [
+      "el-00977"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Elephants": {
+    "song_ids": [
+      "el-00977"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00977"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Angus": {
+    "song_ids": [
+      "el-00978"
+    ],
+    "primary_song_ids": [
+      "el-00978"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Julia Stone": {
+    "song_ids": [
+      "el-00978"
+    ],
+    "primary_song_ids": [
+      "el-00978"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Edward Sharpe": {
+    "song_ids": [
+      "el-00979"
+    ],
+    "primary_song_ids": [
+      "el-00979"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "The Magnetic Zeros": {
+    "song_ids": [
+      "el-00979"
+    ],
+    "primary_song_ids": [
+      "el-00979"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Still Corners": {
+    "song_ids": [
+      "el-00980"
+    ],
+    "primary_song_ids": [
+      "el-00980"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Tube Berger": {
+    "song_ids": [
+      "el-00990"
+    ],
+    "primary_song_ids": [
+      "el-00990"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Tycho": {
+    "song_ids": [
+      "el-00991"
+    ],
+    "primary_song_ids": [
+      "el-00991"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Vernon": {
+    "song_ids": [
+      "el-00992"
+    ],
+    "primary_song_ids": [
+      "el-00992"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Unlimited": {
+    "song_ids": [
+      "el-00993"
+    ],
+    "primary_song_ids": [
+      "el-00993"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Angel City": {
+    "song_ids": [
+      "el-00994"
+    ],
+    "primary_song_ids": [
+      "el-00994"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Alex Gaudino": {
+    "song_ids": [
+      "el-00995",
+      "el-00996"
+    ],
+    "primary_song_ids": [
+      "el-00995",
+      "el-00996"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Shena": {
+    "song_ids": [
+      "el-00995"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00995"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Crystal Waters": {
+    "song_ids": [
+      "el-00996"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-00996"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Antoine Clamaran": {
+    "song_ids": [
+      "el-00997"
+    ],
+    "primary_song_ids": [
+      "el-00997"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Arno Cost": {
+    "song_ids": [
+      "el-00999"
+    ],
+    "primary_song_ids": [
+      "el-00999"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "BOOTY LUV SAY IT": {
+    "song_ids": [
+      "el-01001"
+    ],
+    "primary_song_ids": [
+      "el-01001"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Booty Luv": {
+    "song_ids": [
+      "el-01002"
+    ],
+    "primary_song_ids": [
+      "el-01002"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Duck Sauce": {
+    "song_ids": [
+      "el-01004",
+      "el-01153"
+    ],
+    "primary_song_ids": [
+      "el-01004",
+      "el-01153"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Gossip": {
+    "song_ids": [
+      "el-01006"
+    ],
+    "primary_song_ids": [
+      "el-01006"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "LEXTER": {
+    "song_ids": [
+      "el-01012"
+    ],
+    "primary_song_ids": [
+      "el-01012"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Linus Love": {
+    "song_ids": [
+      "el-01013"
+    ],
+    "primary_song_ids": [
+      "el-01013"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Sam Obernik": {
+    "song_ids": [
+      "el-01013"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-01013"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Paul van Dyk": {
+    "song_ids": [
+      "el-01014",
+      "el-01159"
+    ],
+    "primary_song_ids": [
+      "el-01014",
+      "el-01159"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Rea": {
+    "song_ids": [
+      "el-01014"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-01014"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Sarah Mclachlan": {
+    "song_ids": [
+      "el-01015"
+    ],
+    "primary_song_ids": [
+      "el-01015"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Sasha Dith": {
+    "song_ids": [
+      "el-01016"
+    ],
+    "primary_song_ids": [
+      "el-01016"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "September": {
+    "song_ids": [
+      "el-01017"
+    ],
+    "primary_song_ids": [
+      "el-01017"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Shana Vanguarde": {
+    "song_ids": [
+      "el-01018"
+    ],
+    "primary_song_ids": [
+      "el-01018"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Tim Berg": {
+    "song_ids": [
+      "el-01020"
+    ],
+    "primary_song_ids": [
+      "el-01020"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Uniting Nations": {
+    "song_ids": [
+      "el-01021"
+    ],
+    "primary_song_ids": [
+      "el-01021"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Armand Van Helden": {
+    "song_ids": [
+      "el-01023"
+    ],
+    "primary_song_ids": [
+      "el-01023"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Tara McDonald": {
+    "song_ids": [
+      "el-01023"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-01023"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Felix": {
+    "song_ids": [
+      "el-01025"
+    ],
+    "primary_song_ids": [
+      "el-01025"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Junior Jack": {
+    "song_ids": [
+      "el-01027"
+    ],
+    "primary_song_ids": [
+      "el-01027"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Robert Miles": {
+    "song_ids": [
+      "el-01028",
+      "el-01126"
+    ],
+    "primary_song_ids": [
+      "el-01028",
+      "el-01126"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Three Drives On A Vinyl": {
+    "song_ids": [
+      "el-01029"
+    ],
+    "primary_song_ids": [
+      "el-01029"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Alice DJ": {
+    "song_ids": [
+      "el-01031"
+    ],
+    "primary_song_ids": [
+      "el-01031"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Boogie Pimps": {
+    "song_ids": [
+      "el-01033"
+    ],
+    "primary_song_ids": [
+      "el-01033"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Candee Jay": {
+    "song_ids": [
+      "el-01034"
+    ],
+    "primary_song_ids": [
+      "el-01034"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Danzel": {
+    "song_ids": [
+      "el-01035"
+    ],
+    "primary_song_ids": [
+      "el-01035"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Darude": {
+    "song_ids": [
+      "el-01036"
+    ],
+    "primary_song_ids": [
+      "el-01036"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "GALA": {
+    "song_ids": [
+      "el-01038"
+    ],
+    "primary_song_ids": [
+      "el-01038"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Haddaway": {
+    "song_ids": [
+      "el-01039",
+      "el-01136"
+    ],
+    "primary_song_ids": [
+      "el-01039",
+      "el-01136"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Infernal": {
+    "song_ids": [
+      "el-01040"
+    ],
+    "primary_song_ids": [
+      "el-01040"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Kate Ryan": {
+    "song_ids": [
+      "el-01041"
+    ],
+    "primary_song_ids": [
+      "el-01041"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Lasgo": {
+    "song_ids": [
+      "el-01042",
+      "el-01098",
+      "el-01148"
+    ],
+    "primary_song_ids": [
+      "el-01042",
+      "el-01098",
+      "el-01148"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Sylver": {
+    "song_ids": [
+      "el-01044",
+      "el-01165",
+      "el-01166",
+      "el-01167"
+    ],
+    "primary_song_ids": [
+      "el-01044",
+      "el-01165",
+      "el-01166",
+      "el-01167"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "BT": {
+    "song_ids": [
+      "el-01045",
+      "el-01115"
+    ],
+    "primary_song_ids": [
+      "el-01115"
+    ],
+    "feature_song_ids": [
+      "el-01045"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Wamdue Project": {
+    "song_ids": [
+      "el-01046"
+    ],
+    "primary_song_ids": [
+      "el-01046"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Above": {
+    "song_ids": [
+      "el-01047",
+      "el-01048",
+      "el-01049",
+      "el-01050",
+      "el-01051",
+      "el-01052"
+    ],
+    "primary_song_ids": [
+      "el-01047",
+      "el-01048",
+      "el-01049",
+      "el-01050",
+      "el-01051",
+      "el-01052"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Beyond": {
+    "song_ids": [
+      "el-01047",
+      "el-01048",
+      "el-01049",
+      "el-01050",
+      "el-01051"
+    ],
+    "primary_song_ids": [
+      "el-01047",
+      "el-01048",
+      "el-01049",
+      "el-01050",
+      "el-01051"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Opposite The Other - See The End": {
+    "song_ids": [
+      "el-01048"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-01048"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Zoë Johnston Alchemy": {
+    "song_ids": [
+      "el-01049"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-01049"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Zoë Johnston Fly To New York": {
+    "song_ids": [
+      "el-01050"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-01050"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Beyond pres. OceanLab": {
+    "song_ids": [
+      "el-01052"
+    ],
+    "primary_song_ids": [
+      "el-01052"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Activ": {
+    "song_ids": [
+      "el-01054"
+    ],
+    "primary_song_ids": [
+      "el-01054"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Andy Moor": {
+    "song_ids": [
+      "el-01059",
+      "el-01060"
+    ],
+    "primary_song_ids": [
+      "el-01059",
+      "el-01060"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Carrie Skipper": {
+    "song_ids": [
+      "el-01059"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-01059"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Sue Mclaren": {
+    "song_ids": [
+      "el-01060"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-01060"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Andy Moor vs. Orkidea": {
+    "song_ids": [
+      "el-01061"
+    ],
+    "primary_song_ids": [
+      "el-01061"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Armin van Buuren": {
+    "song_ids": [
+      "el-01063",
+      "el-01064",
+      "el-01065",
+      "el-01066",
+      "el-01067",
+      "el-01068",
+      "el-01069",
+      "el-01102"
+    ],
+    "primary_song_ids": [
+      "el-01063",
+      "el-01064",
+      "el-01065",
+      "el-01066",
+      "el-01067",
+      "el-01068",
+      "el-01069",
+      "el-01102"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Christian Burns": {
+    "song_ids": [
+      "el-01067"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-01067"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Christian Burns This Light Between Us": {
+    "song_ids": [
+      "el-01068"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-01068"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Deorro": {
+    "song_ids": [
+      "el-01070"
+    ],
+    "primary_song_ids": [
+      "el-01070"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "GAIA": {
+    "song_ids": [
+      "el-01071"
+    ],
+    "primary_song_ids": [
+      "el-01071"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Hilight Tribe": {
+    "song_ids": [
+      "el-01072"
+    ],
+    "primary_song_ids": [
+      "el-01072"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "ATC": {
+    "song_ids": [
+      "el-01075"
+    ],
+    "primary_song_ids": [
+      "el-01075"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Barcode Brothers": {
+    "song_ids": [
+      "el-01076"
+    ],
+    "primary_song_ids": [
+      "el-01076"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Bomfunk Mc s": {
+    "song_ids": [
+      "el-01078"
+    ],
+    "primary_song_ids": [
+      "el-01078"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Brooklyn Bounce": {
+    "song_ids": [
+      "el-01079",
+      "el-01140"
+    ],
+    "primary_song_ids": [
+      "el-01079",
+      "el-01140"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Cinnamon Chasers": {
+    "song_ids": [
+      "el-01080"
+    ],
+    "primary_song_ids": [
+      "el-01080"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "D.o.n.s.vs. Mike Oldfield": {
+    "song_ids": [
+      "el-01081"
+    ],
+    "primary_song_ids": [
+      "el-01081"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Deepside Deejays vs Mike Oldfield": {
+    "song_ids": [
+      "el-01087"
+    ],
+    "primary_song_ids": [
+      "el-01087"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "DJ Project": {
+    "song_ids": [
+      "el-01088"
+    ],
+    "primary_song_ids": [
+      "el-01088"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "DJ Sammy": {
+    "song_ids": [
+      "el-01089"
+    ],
+    "primary_song_ids": [
+      "el-01089"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Dj Sobolev": {
+    "song_ids": [
+      "el-01090"
+    ],
+    "primary_song_ids": [
+      "el-01090"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Dj Tiesto": {
+    "song_ids": [
+      "el-01091"
+    ],
+    "primary_song_ids": [
+      "el-01091"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Dj tiesto": {
+    "song_ids": [
+      "el-01092"
+    ],
+    "primary_song_ids": [
+      "el-01092"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Dyro": {
+    "song_ids": [
+      "el-01093"
+    ],
+    "primary_song_ids": [
+      "el-01093"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Durango": {
+    "song_ids": [
+      "el-01094"
+    ],
+    "primary_song_ids": [
+      "el-01094"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Bolland": {
+    "song_ids": [
+      "el-01095"
+    ],
+    "primary_song_ids": [
+      "el-01095"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "CJ": {
+    "song_ids": [
+      "el-01095"
+    ],
+    "primary_song_ids": [
+      "el-01095"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Kylie Minogue": {
+    "song_ids": [
+      "el-01096",
+      "el-01097"
+    ],
+    "primary_song_ids": [
+      "el-01096",
+      "el-01097"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "LCD Soundsystem": {
+    "song_ids": [
+      "el-01099",
+      "el-01100"
+    ],
+    "primary_song_ids": [
+      "el-01099",
+      "el-01100"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Miami Nights 1984": {
+    "song_ids": [
+      "el-01101"
+    ],
+    "primary_song_ids": [
+      "el-01101"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Ayla": {
+    "song_ids": [
+      "el-01103",
+      "el-01104",
+      "el-01106",
+      "el-01107",
+      "el-01108",
+      "el-01109",
+      "el-01110",
+      "el-01111",
+      "el-01113",
+      "el-01120",
+      "el-01124",
+      "el-01128"
+    ],
+    "primary_song_ids": [
+      "el-01103",
+      "el-01104",
+      "el-01106",
+      "el-01107",
+      "el-01108",
+      "el-01109",
+      "el-01110",
+      "el-01111",
+      "el-01113",
+      "el-01120",
+      "el-01124",
+      "el-01128"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Atlantis vs Avatar": {
+    "song_ids": [
+      "el-01105"
+    ],
+    "primary_song_ids": [
+      "el-01105"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "BBE": {
+    "song_ids": [
+      "el-01112"
+    ],
+    "primary_song_ids": [
+      "el-01112"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Binary Finary": {
+    "song_ids": [
+      "el-01114"
+    ],
+    "primary_song_ids": [
+      "el-01114"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Cosmic Gate": {
+    "song_ids": [
+      "el-01116"
+    ],
+    "primary_song_ids": [
+      "el-01116"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Dash Berlin": {
+    "song_ids": [
+      "el-01117"
+    ],
+    "primary_song_ids": [
+      "el-01117"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Emma Hewitt": {
+    "song_ids": [
+      "el-01117"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-01117"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Dee Dee": {
+    "song_ids": [
+      "el-01118"
+    ],
+    "primary_song_ids": [
+      "el-01118"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Delerium": {
+    "song_ids": [
+      "el-01119",
+      "el-01141"
+    ],
+    "primary_song_ids": [
+      "el-01119",
+      "el-01141"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "OceanLab": {
+    "song_ids": [
+      "el-01121"
+    ],
+    "primary_song_ids": [
+      "el-01121"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Paul Oakenfold": {
+    "song_ids": [
+      "el-01122",
+      "el-01123"
+    ],
+    "primary_song_ids": [
+      "el-01122",
+      "el-01123"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Resurrection": {
+    "song_ids": [
+      "el-01125"
+    ],
+    "primary_song_ids": [
+      "el-01125"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Southside Spinners": {
+    "song_ids": [
+      "el-01129"
+    ],
+    "primary_song_ids": [
+      "el-01129"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "The Thrillseekers": {
+    "song_ids": [
+      "el-01130"
+    ],
+    "primary_song_ids": [
+      "el-01130"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Sheryl Deane": {
+    "song_ids": [
+      "el-01130"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-01130"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Three Drives": {
+    "song_ids": [
+      "el-01131"
+    ],
+    "primary_song_ids": [
+      "el-01131"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Tiesto": {
+    "song_ids": [
+      "el-01132"
+    ],
+    "primary_song_ids": [
+      "el-01132"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Veracocha": {
+    "song_ids": [
+      "el-01134",
+      "el-01135"
+    ],
+    "primary_song_ids": [
+      "el-01134",
+      "el-01135"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Snap!": {
+    "song_ids": [
+      "el-01137",
+      "el-01162"
+    ],
+    "primary_song_ids": [
+      "el-01137",
+      "el-01162"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Alice Deejay": {
+    "song_ids": [
+      "el-01138"
+    ],
+    "primary_song_ids": [
+      "el-01138"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Barthezz": {
+    "song_ids": [
+      "el-01139"
+    ],
+    "primary_song_ids": [
+      "el-01139"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Gigi D Agostino": {
+    "song_ids": [
+      "el-01142",
+      "el-01143",
+      "el-01144",
+      "el-01145"
+    ],
+    "primary_song_ids": [
+      "el-01142",
+      "el-01143",
+      "el-01144",
+      "el-01145"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Mauro Picotto - Komodo": {
+    "song_ids": [
+      "el-01146"
+    ],
+    "primary_song_ids": [
+      "el-01146"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Ian Van Dahl": {
+    "song_ids": [
+      "el-01147"
+    ],
+    "primary_song_ids": [
+      "el-01147"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Mauro Picotto": {
+    "song_ids": [
+      "el-01149",
+      "el-01168",
+      "el-01169",
+      "el-01170",
+      "el-01171"
+    ],
+    "primary_song_ids": [
+      "el-01149",
+      "el-01168",
+      "el-01169",
+      "el-01170",
+      "el-01171"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Sash!": {
+    "song_ids": [
+      "el-01150",
+      "el-01155"
+    ],
+    "primary_song_ids": [
+      "el-01150",
+      "el-01155"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Zombie Nation": {
+    "song_ids": [
+      "el-01151"
+    ],
+    "primary_song_ids": [
+      "el-01151"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Eric Prydz": {
+    "song_ids": [
+      "el-01154"
+    ],
+    "primary_song_ids": [
+      "el-01154"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Cassius": {
+    "song_ids": [
+      "el-01156"
+    ],
+    "primary_song_ids": [
+      "el-01156"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Fatboy Slim": {
+    "song_ids": [
+      "el-01157"
+    ],
+    "primary_song_ids": [
+      "el-01157"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Paul Kalkbrenner": {
+    "song_ids": [
+      "el-01158"
+    ],
+    "primary_song_ids": [
+      "el-01158"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Reflekt": {
+    "song_ids": [
+      "el-01160"
+    ],
+    "primary_song_ids": [
+      "el-01160"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Delline Bass": {
+    "song_ids": [
+      "el-01160"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-01160"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Simina Grigoriu": {
+    "song_ids": [
+      "el-01161"
+    ],
+    "primary_song_ids": [
+      "el-01161"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Sonique": {
+    "song_ids": [
+      "el-01163"
+    ],
+    "primary_song_ids": [
+      "el-01163"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Stellar Dreams": {
+    "song_ids": [
+      "el-01164"
+    ],
+    "primary_song_ids": [
+      "el-01164"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Wildboyz": {
+    "song_ids": [
+      "el-01172"
+    ],
+    "primary_song_ids": [
+      "el-01172"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Ameerah": {
+    "song_ids": [
+      "el-01172"
+    ],
+    "primary_song_ids": [],
+    "feature_song_ids": [
+      "el-01172"
+    ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Zero Call": {
+    "song_ids": [
+      "el-01173"
+    ],
+    "primary_song_ids": [
+      "el-01173"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Zyon": {
+    "song_ids": [
+      "el-01174"
+    ],
+    "primary_song_ids": [
+      "el-01174"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  }
+}

@@ -270,9 +270,10 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
   <div class="tab" data-tab="rnb">R&amp;B</div>
   <div class="tab" data-tab="rock">Rock</div>
   <div class="tab" data-tab="magyar">Magyar</div>
-  <div class="tab" data-tab="latino">Latino</div>
+  <div class="tab" data-tab="latino">Latin Music</div>
   <div class="tab" data-tab="pop">Pop</div>
   <div class="tab" data-tab="alternate">Alternative</div>
+  <div class="tab" data-tab="elektro">Electronic</div>
   <div class="tab" data-tab="combined">R&B + Pop + Alt</div>
 </div>
 
@@ -346,6 +347,15 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
   <div class="table-wrap"><div class="table-scroll" id="table-latino"></div></div>
 </div>
 
+<div id="panel-elektro" class="panel" style="display:none">
+  <div class="stats" id="stats-elektro"></div>
+  <div class="controls">
+    <input type="text" id="search-elektro" placeholder="Search artists...">
+    <label><input type="checkbox" id="top100-elektro"> Top 100 only</label>
+  </div>
+  <div class="table-wrap"><div class="table-scroll" id="table-elektro"></div></div>
+</div>
+
 <div id="panel-combined" class="panel" style="display:none">
   <div class="stats" id="stats-combined"></div>
   <div class="controls">
@@ -386,6 +396,7 @@ const RNB_DATA = __RNB_DATA__;
 const ROCK_DATA = __ROCK_DATA__;
 const MAGYAR_DATA = __MAGYAR_DATA__;
 const LATINO_DATA = __LATINO_DATA__;
+const ELEKTRO_DATA = __ELEKTRO_DATA__;
 const POP_DATA = __POP_DATA__;
 const ALT_DATA = __ALT_DATA__;
 const US_DATA = __US_DATA__;
@@ -675,6 +686,7 @@ setupPanel('rnb', RNB_DATA);
 setupPanel('rock', ROCK_DATA);
 setupPanel('magyar', MAGYAR_DATA);
 setupPanel('latino', LATINO_DATA);
+setupPanel('elektro', ELEKTRO_DATA);
 setupPanel('pop', POP_DATA);
 setupPanel('alternate', ALT_DATA);
 
@@ -782,6 +794,7 @@ def main() -> int:
     rock_data = export_persons("rock")
     magyar_data = export_persons("magyar")
     latino_data = export_persons("latino")
+    elektro_data = export_persons("elektro")
     pop_data = export_persons("pop")
     alt_data = export_persons("alternate")
     us_regions = export_regions("us")
@@ -803,9 +816,10 @@ def main() -> int:
     rock_trees = build_folder_trees("rock", rock_data)
     magyar_trees = build_folder_trees("magyar", magyar_data)
     latino_trees = build_folder_trees("latino", latino_data)
+    elektro_trees = build_folder_trees("elektro", elektro_data)
     pop_trees = build_folder_trees("pop", pop_data)
     alt_trees = build_folder_trees("alternate", alt_data)
-    all_trees = {**us_trees, **hu_trees, **rnb_trees, **rock_trees, **magyar_trees, **latino_trees, **pop_trees, **alt_trees}
+    all_trees = {**us_trees, **hu_trees, **rnb_trees, **rock_trees, **magyar_trees, **latino_trees, **elektro_trees, **pop_trees, **alt_trees}
 
     html = HTML_TEMPLATE
     html = html.replace("__FOLDER_TREES__", json.dumps(all_trees, ensure_ascii=False, separators=(',', ':')))
@@ -813,6 +827,7 @@ def main() -> int:
     html = html.replace("__ROCK_DATA__", json.dumps(rock_data, ensure_ascii=False))
     html = html.replace("__MAGYAR_DATA__", json.dumps(magyar_data, ensure_ascii=False))
     html = html.replace("__LATINO_DATA__", json.dumps(latino_data, ensure_ascii=False))
+    html = html.replace("__ELEKTRO_DATA__", json.dumps(elektro_data, ensure_ascii=False))
     html = html.replace("__POP_DATA__", json.dumps(pop_data, ensure_ascii=False))
     html = html.replace("__ALT_DATA__", json.dumps(alt_data, ensure_ascii=False))
     html = html.replace("__US_DATA__", json.dumps(us_data, ensure_ascii=False))

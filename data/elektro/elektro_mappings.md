@@ -1,0 +1,95 @@
+# Elektro Mappings
+
+## Alias normalization
+
+- `Skrillex: 2014) Skrillex - Recess, Skrillex and Diplo Present Jack`
+- `B-Complex: B-Complex - Beautiful Lies`
+- `Pendulum: Pendulum - Greatest Hits`
+- `The Prodigy: prodigy 1994, prodigy 2012`
+- `Bonobo: Bonobo - Black Sands`
+- `Chelsea Wolfe: CHELSEA WOLFE - DISCOGRAPHY`
+- `Caribou: Caribou - Swim`
+- `Boards of Canada: Boards Of Canada - Music Has The Right To Children`
+- `Burial: Burial - Untrue`
+- `Massive Attack: Massive Attack-Collected-The-best-of+ Covers`
+- `Moby: Moby - The Singles - The Complete list`
+- `Moderat: Moderat - II`
+- `Jon Hopkins: Jon Hopkins - Immunity`
+- `Nils Frahm: Nils Frahm`
+- `Flying Lotus: Flying Lotus - Cosmogramma`
+- `Sigur Rós: Sigur Ros - Valtari`
+- `Ólafur Arnalds: 2011) Ólafur Arnalds - Living Room Songs`
+- `Aphex Twin: 1993 - Selected Ambient Works 85-92, 1994 - Selected Ambient Works Volume II, 1994 - Amber, 1997 - Come to Daddy EP, 1998 - LP5, Aphex Twin - Syro 2014`
+- `The Chemical Brothers: 1997 - Dig Your Own Hole`
+- `Apparat: 2011) Apparat - The Devil s Walk`
+- `Kiasmos: Kiasmos`
+- `Recondite: recondite, Recondite -Caldera 2014`
+- `Synkro: Synkro - Changes, Synkro-Acceptence EP 2012`
+- `Ten Walls: Ten Walls - Requiem EP, Ten Walls - Sparta, Ten Walls - Walking With Elephants, Ten Walls - Gotham EP`
+- `SOHN: SOHN - Tremors`
+- `Flume: Flume`
+- `Swedish House Mafia: Swedish House Mafia - Paradise Again, Swedish House Mafia - Until Now, Swedish House Mafia - Until One`
+- `Scooter: Scooter - 20 Years of Hardcore`
+- `Major Lazer: Peace Is The Mission`
+- `Don Diablo: Don Diablo Best Songs!`
+- `Alesso: ALESSO`
+- `Kaskade: KASKADE`
+- `Basshunter: Basshunter, Legnépszerűbb számok -- Basshunter`
+- `Disclosure: disclosure`
+- `Tycho: Tycho`
+- `Oliver Koletzki: Oliver Koletzki`
+- `Black Coffee: Black Coffee`
+- `Klangkarussell: Klangkarussell Official Music`
+- `Bakermat: Bakermat s Official Music Videos`
+- `Bob Moses: Bob Moses`
+- `ATB: ATB - The best songs`
+- `Above & Beyond: Above & Beyond Music Videos, Above, Beyond`
+- `Armin van Buuren: Armin van Buuren hits`
+- `Alex C & Yass: Alex C Yass`
+- `LCD Soundsystem: LCD Soundsystem Top 10 Songs`
+- `Cannons: Cannons`
+- `Angerfist: angerfist`
+- `2 Unlimited: 2 Unlimited - No Limit`
+- `Nero: NERO`
+- `Eskmo: Eskmo - Eskmo`
+- `Ennja: Ennja - All Songs`
+- `Kölsch: Kölsch`
+- `Chapelier Fou: All Tracks - Chapelier Fou`
+- `Ochre: Ochre`
+- `Cirez D: Cirez D`
+- `Shpongle: Shpongle - Nothing Is Something Worth Doing`
+- `Mako: Mako`
+- `Wolfgang Gartner: Wolfgang Gartner`
+- `Machinedrum: Machinedrum - Vapor City 2013`
+- `Davit Barqaia: Davit Barqaia`
+- `Amenofis: Amenofis`
+- `Ahmed Spins: AHMED SPINS`
+- `Axwell: AXWELL`
+- `Charlie Sparks: Charlie Sparks best of`
+- `Fisher: FISHER`
+- `Pavillonn: PAVILLONN`
+- `Ophidian: Ophidian`
+- `Yoji Biomehanika: yoji biomechanika`
+- `Sylver: Sylver`
+- `David Deejay: David DeeJay`
+- `Cinnamon Chasers: Cinnamon Chasers`
+- `Barcode Brothers: Barcode Brothers`
+- `Andy Moor: Andy Moor`
+- `Mauro Picotto: Mauro Picotto, Top-Titel – Mauro Picotto`
+- `King Gizzard & the Lizard Wizard: Best of King Gizzard`
+- `Turnstile: Turnstile-Time Space`
+- `Daniel Norgren: Daniel Norgren Buck`
+- `Darkside: Darkside - Psychic`
+- `Ayla: Ayla - Ayla`
+- `Daft Punk: daft punk`
+- `Pantha du Prince: Pantha Du Prince - Black Noise`
+- `Oneohtrix Point Never: Oneohtrix Point Never - Garden of Delete`
+- `MilleniumKid: @MilleniumKid`
+- `Pedro Winter: Pedro Winter`
+- `Rone: Rone - Tohu Bohu`
+- `Tale of Us: Tale of Us - North Star Silent Space`
+- `Henry Krinkle: Henry Krinkle`
+- `Cascada: Cascade`
+- `Keinemusik: Keinemusik - The Party is Over`
+- `Above & Beyond: Above Beyond`
+- `Skrillex: 2015 - Skrillex`
