@@ -1,0 +1,24 @@
+{
+  "source_format": "legacy_hungarian_artist_first",
+  "schema_version": 1,
+  "created": "2026-05-14",
+  "sources": [
+    "_magyar rap/",
+    "_magyar trap/",
+    "_other/_magyar/_cigany/"
+  ],
+  "regions_status": "pending_manual_assignment",
+  "counts": {
+    "songs": 2201,
+    "persons": 456,
+    "groups": 37,
+    "labels": 9,
+    "regions": 0,
+    "credit_rows": 3934
+  },
+  "notes": [
+    "Songs are the source of truth.",
+    "Groups, labels, and regions live in separate derived indexes.",
+    "Hungarian regions are intentionally left empty until manual assignment is available."
+  ]
+}

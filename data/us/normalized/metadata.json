@@ -1,0 +1,29 @@
+{
+  "source_format": "legacy_us_track_first_plus_indexes",
+  "schema_version": 1,
+  "scope": {
+    "_rap": {
+      "excluded": [
+        "_other"
+      ]
+    },
+    "_trap": {
+      "excluded": [
+        "_other country random"
+      ]
+    }
+  },
+  "counts": {
+    "songs": 6817,
+    "persons": 1514,
+    "groups": 9,
+    "labels": 6,
+    "regions": 14,
+    "unattributed_songs": 70
+  },
+  "notes": [
+    "Songs are the source of truth.",
+    "Persons, groups, labels, and regions are separate derived indexes.",
+    "Feature artists are attached to songs directly even when they do not have a full person index entry."
+  ]
+}

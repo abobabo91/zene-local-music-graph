@@ -1,0 +1,22 @@
+{
+  "legacy_track_count_metadata": 6817,
+  "legacy_track_count_actual": 6817,
+  "legacy_person_count_metadata": 1514,
+  "legacy_person_count_actual": 1514,
+  "legacy_group_count_metadata": 9,
+  "legacy_group_count_actual": 9,
+  "legacy_label_count_actual": 5,
+  "legacy_unattributed_track_count_metadata": 70,
+  "normalized_song_count": 6817,
+  "normalized_person_count": 1514,
+  "normalized_group_count": 9,
+  "normalized_label_count": 6,
+  "normalized_region_count": 14,
+  "normalized_unattributed_song_count": 70,
+  "checks": {
+    "song_count_matches_legacy_tracks": true,
+    "person_count_matches_legacy_persons": true,
+    "group_count_matches_legacy_groups": true,
+    "unattributed_count_matches_legacy_metadata": true
+  }
+}
