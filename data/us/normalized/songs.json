@@ -2247,21 +2247,11 @@
     "title": "The System",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [
-      "Babylon Warchild - The Gatekeepers"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Babylon Warchild - The Gatekeepers"
-    ],
-    "credits": [
-      {
-        "entity": "Babylon Warchild - The Gatekeepers",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-00106",
@@ -2291,21 +2281,11 @@
     "title": "The Sacred Source Ft. Twin Perils",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [
-      "Babylon Warchild - The Gatekeepers"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Babylon Warchild - The Gatekeepers"
-    ],
-    "credits": [
-      {
-        "entity": "Babylon Warchild - The Gatekeepers",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-00108",
@@ -2797,15 +2777,15 @@
     "source_root": "_rap",
     "folder_region": "USA Other",
     "primary_artists": [
-      "Dame D O L L A - Confirmed"
+      "Dame D.O.L.L.A."
     ],
     "featuring_artists": [],
     "artists": [
-      "Dame D O L L A - Confirmed"
+      "Dame D.O.L.L.A."
     ],
     "credits": [
       {
-        "entity": "Dame D O L L A - Confirmed",
+        "entity": "Dame D.O.L.L.A.",
         "entity_type": "person",
         "role": "primary"
       }
@@ -2841,15 +2821,15 @@
     "source_root": "_rap",
     "folder_region": "USA Other",
     "primary_artists": [
-      "Dame D O L L A - Confirmed"
+      "Dame D.O.L.L.A."
     ],
     "featuring_artists": [],
     "artists": [
-      "Dame D O L L A - Confirmed"
+      "Dame D.O.L.L.A."
     ],
     "credits": [
       {
-        "entity": "Dame D O L L A - Confirmed",
+        "entity": "Dame D.O.L.L.A.",
         "entity_type": "person",
         "role": "primary"
       }
@@ -2863,15 +2843,15 @@
     "source_root": "_rap",
     "folder_region": "USA Other",
     "primary_artists": [
-      "Dame D O L L A - Confirmed"
+      "Dame D.O.L.L.A."
     ],
     "featuring_artists": [],
     "artists": [
-      "Dame D O L L A - Confirmed"
+      "Dame D.O.L.L.A."
     ],
     "credits": [
       {
-        "entity": "Dame D O L L A - Confirmed",
+        "entity": "Dame D.O.L.L.A.",
         "entity_type": "person",
         "role": "primary"
       }
@@ -2885,15 +2865,15 @@
     "source_root": "_rap",
     "folder_region": "USA Other",
     "primary_artists": [
-      "Dame D O L L A - Confirmed"
+      "Dame D.O.L.L.A."
     ],
     "featuring_artists": [],
     "artists": [
-      "Dame D O L L A - Confirmed"
+      "Dame D.O.L.L.A."
     ],
     "credits": [
       {
-        "entity": "Dame D O L L A - Confirmed",
+        "entity": "Dame D.O.L.L.A.",
         "entity_type": "person",
         "role": "primary"
       }
@@ -2907,15 +2887,15 @@
     "source_root": "_rap",
     "folder_region": "USA Other",
     "primary_artists": [
-      "Dame D O L L A - Confirmed"
+      "Dame D.O.L.L.A."
     ],
     "featuring_artists": [],
     "artists": [
-      "Dame D O L L A - Confirmed"
+      "Dame D.O.L.L.A."
     ],
     "credits": [
       {
-        "entity": "Dame D O L L A - Confirmed",
+        "entity": "Dame D.O.L.L.A.",
         "entity_type": "person",
         "role": "primary"
       }
@@ -2950,21 +2930,11 @@
     "title": "America s Most - Method Man, Redman",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [
-      "Def Jam Fight For NewYork Soundtrack"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Def Jam Fight For NewYork Soundtrack"
-    ],
-    "credits": [
-      {
-        "entity": "Def Jam Fight For NewYork Soundtrack",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-00138",
@@ -2972,21 +2942,11 @@
     "title": "Let s Get Dirty - Redman",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [
-      "Def Jam Fight For NewYork Soundtrack"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Def Jam Fight For NewYork Soundtrack"
-    ],
-    "credits": [
-      {
-        "entity": "Def Jam Fight For NewYork Soundtrack",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-00139",
@@ -2994,21 +2954,11 @@
     "title": "See about ya - Beezle feat",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [
-      "Def Jam Fight For NewYork Soundtrack"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Def Jam Fight For NewYork Soundtrack"
-    ],
-    "credits": [
-      {
-        "entity": "Def Jam Fight For NewYork Soundtrack",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-00140",
@@ -3116,21 +3066,11 @@
     "title": "Cookin",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [
-      "Fat Joe Remy Ma French Montana Ry SO Valid"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Fat Joe Remy Ma French Montana Ry SO Valid"
-    ],
-    "credits": [
-      {
-        "entity": "Fat Joe Remy Ma French Montana Ry SO Valid",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-00146",
@@ -3138,21 +3078,11 @@
     "title": "All The Way Up (Remix)",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [
-      "Fat Joe Remy Ma JAY Z French Montana InfaRed"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Fat Joe Remy Ma JAY Z French Montana InfaRed"
-    ],
-    "credits": [
-      {
-        "entity": "Fat Joe Remy Ma JAY Z French Montana InfaRed",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-00147",
@@ -3190,15 +3120,15 @@
     "source_root": "_rap",
     "folder_region": "USA Other",
     "primary_artists": [
-      "Fes Taylor - The Fes Taylor Sessions"
+      "Fes Taylor"
     ],
     "featuring_artists": [],
     "artists": [
-      "Fes Taylor - The Fes Taylor Sessions"
+      "Fes Taylor"
     ],
     "credits": [
       {
-        "entity": "Fes Taylor - The Fes Taylor Sessions",
+        "entity": "Fes Taylor",
         "entity_type": "person",
         "role": "primary"
       }
@@ -3212,15 +3142,15 @@
     "source_root": "_rap",
     "folder_region": "USA Other",
     "primary_artists": [
-      "Fes Taylor - The Fes Taylor Sessions"
+      "Fes Taylor"
     ],
     "featuring_artists": [],
     "artists": [
-      "Fes Taylor - The Fes Taylor Sessions"
+      "Fes Taylor"
     ],
     "credits": [
       {
-        "entity": "Fes Taylor - The Fes Taylor Sessions",
+        "entity": "Fes Taylor",
         "entity_type": "person",
         "role": "primary"
       }
@@ -3234,15 +3164,15 @@
     "source_root": "_rap",
     "folder_region": "USA Other",
     "primary_artists": [
-      "Fes Taylor - The Fes Taylor Sessions"
+      "Fes Taylor"
     ],
     "featuring_artists": [],
     "artists": [
-      "Fes Taylor - The Fes Taylor Sessions"
+      "Fes Taylor"
     ],
     "credits": [
       {
-        "entity": "Fes Taylor - The Fes Taylor Sessions",
+        "entity": "Fes Taylor",
         "entity_type": "person",
         "role": "primary"
       }
@@ -3256,15 +3186,15 @@
     "source_root": "_rap",
     "folder_region": "USA Other",
     "primary_artists": [
-      "Fes Taylor - The Fes Taylor Sessions"
+      "Fes Taylor"
     ],
     "featuring_artists": [],
     "artists": [
-      "Fes Taylor - The Fes Taylor Sessions"
+      "Fes Taylor"
     ],
     "credits": [
       {
-        "entity": "Fes Taylor - The Fes Taylor Sessions",
+        "entity": "Fes Taylor",
         "entity_type": "person",
         "role": "primary"
       }
@@ -6129,21 +6059,11 @@
     "title": "Hey Ho",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [
-      "Lil Flip - The Best Of Me"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Lil Flip - The Best Of Me"
-    ],
-    "credits": [
-      {
-        "entity": "Lil Flip - The Best Of Me",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-00284",
@@ -6696,15 +6616,15 @@
     "source_root": "_rap",
     "folder_region": "USA Other",
     "primary_artists": [
-      "Morbski - Rebel Rouzah"
+      "Morbski"
     ],
     "featuring_artists": [],
     "artists": [
-      "Morbski - Rebel Rouzah"
+      "Morbski"
     ],
     "credits": [
       {
-        "entity": "Morbski - Rebel Rouzah",
+        "entity": "Morbski",
         "entity_type": "person",
         "role": "primary"
       }
@@ -6747,15 +6667,15 @@
     "source_root": "_rap",
     "folder_region": "USA Other",
     "primary_artists": [
-      "Morbski - Rebel Rouzah"
+      "Morbski"
     ],
     "featuring_artists": [],
     "artists": [
-      "Morbski - Rebel Rouzah"
+      "Morbski"
     ],
     "credits": [
       {
-        "entity": "Morbski - Rebel Rouzah",
+        "entity": "Morbski",
         "entity_type": "person",
         "role": "primary"
       }
@@ -6769,15 +6689,15 @@
     "source_root": "_rap",
     "folder_region": "USA Other",
     "primary_artists": [
-      "Morbski - Rebel Rouzah"
+      "Morbski"
     ],
     "featuring_artists": [],
     "artists": [
-      "Morbski - Rebel Rouzah"
+      "Morbski"
     ],
     "credits": [
       {
-        "entity": "Morbski - Rebel Rouzah",
+        "entity": "Morbski",
         "entity_type": "person",
         "role": "primary"
       }
@@ -6791,15 +6711,15 @@
     "source_root": "_rap",
     "folder_region": "USA Other",
     "primary_artists": [
-      "Morbski - Rebel Rouzah"
+      "Morbski"
     ],
     "featuring_artists": [],
     "artists": [
-      "Morbski - Rebel Rouzah"
+      "Morbski"
     ],
     "credits": [
       {
-        "entity": "Morbski - Rebel Rouzah",
+        "entity": "Morbski",
         "entity_type": "person",
         "role": "primary"
       }
@@ -6975,15 +6895,15 @@
     "source_root": "_rap",
     "folder_region": "USA Other",
     "primary_artists": [
-      "NF - Mansion ~"
+      "NF"
     ],
     "featuring_artists": [],
     "artists": [
-      "NF - Mansion ~"
+      "NF"
     ],
     "credits": [
       {
-        "entity": "NF - Mansion ~",
+        "entity": "NF",
         "entity_type": "person",
         "role": "primary"
       }
@@ -8064,21 +7984,11 @@
     "title": "I m Done",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [
-      "Simon Roofless - The Killing"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Simon Roofless - The Killing"
-    ],
-    "credits": [
-      {
-        "entity": "Simon Roofless - The Killing",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-00366",
@@ -8108,21 +8018,11 @@
     "title": "Daedalus Spoken",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [
-      "Son Of Saturn - Thesis"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Son Of Saturn - Thesis"
-    ],
-    "credits": [
-      {
-        "entity": "Son Of Saturn - Thesis",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-00368",
@@ -8130,21 +8030,11 @@
     "title": "Again",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [
-      "Son Of Saturn - Thesis"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Son Of Saturn - Thesis"
-    ],
-    "credits": [
-      {
-        "entity": "Son Of Saturn - Thesis",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-00369",
@@ -8152,21 +8042,11 @@
     "title": "Dont Take This Heaven",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [
-      "Son Of Saturn - Thesis"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Son Of Saturn - Thesis"
-    ],
-    "credits": [
-      {
-        "entity": "Son Of Saturn - Thesis",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-00370",
@@ -9966,21 +9846,11 @@
     "title": "Dial V",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [
-      "Vendetta Kingz Anno Domini - V.K.A.D"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Vendetta Kingz Anno Domini - V.K.A.D"
-    ],
-    "credits": [
-      {
-        "entity": "Vendetta Kingz Anno Domini - V.K.A.D",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-00464",
@@ -9988,21 +9858,11 @@
     "title": "Eternalize",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [
-      "Vendetta Kingz Anno Domini - V.K.A.D"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Vendetta Kingz Anno Domini - V.K.A.D"
-    ],
-    "credits": [
-      {
-        "entity": "Vendetta Kingz Anno Domini - V.K.A.D",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-00465",
@@ -10010,21 +9870,11 @@
     "title": "Primal Urge",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [
-      "Vendetta Kingz Anno Domini - V.K.A.D"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Vendetta Kingz Anno Domini - V.K.A.D"
-    ],
-    "credits": [
-      {
-        "entity": "Vendetta Kingz Anno Domini - V.K.A.D",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-00466",
@@ -10032,21 +9882,11 @@
     "title": "Smoke In Tha Lungz Ft. Dirrty Peddlaz",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [
-      "Vinz Vega True Grit - Requiem From The Darkness"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Vinz Vega True Grit - Requiem From The Darkness"
-    ],
-    "credits": [
-      {
-        "entity": "Vinz Vega True Grit - Requiem From The Darkness",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-00467",
@@ -10304,21 +10144,11 @@
     "title": "The Ghetto",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [
-      "Best Of Too Short"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Best Of Too Short"
-    ],
-    "credits": [
-      {
-        "entity": "Best Of Too Short",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-00479",
@@ -22502,21 +22332,11 @@
     "title": "I m a Player (Street Version)",
     "source_root": "_rap",
     "folder_region": "California",
-    "primary_artists": [
-      "Bay Area Rap Classics 90 s"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Bay Area Rap Classics 90 s"
-    ],
-    "credits": [
-      {
-        "entity": "Bay Area Rap Classics 90 s",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-01042",
@@ -22524,21 +22344,11 @@
     "title": "Let s Ride (Bonus Track)",
     "source_root": "_rap",
     "folder_region": "California",
-    "primary_artists": [
-      "Bay Area Rap Classics 90 s"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Bay Area Rap Classics 90 s"
-    ],
-    "credits": [
-      {
-        "entity": "Bay Area Rap Classics 90 s",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-01043",
@@ -22612,21 +22422,11 @@
     "title": "Welcome To the Ghetto",
     "source_root": "_rap",
     "folder_region": "California",
-    "primary_artists": [
-      "Bay Area Rap Classics 90 s"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Bay Area Rap Classics 90 s"
-    ],
-    "credits": [
-      {
-        "entity": "Bay Area Rap Classics 90 s",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-01047",
@@ -22782,21 +22582,11 @@
     "title": "Deep Cover (UNCENSORED) Dr. Dre ft. Snoop Dogg",
     "source_root": "_rap",
     "folder_region": "California",
-    "primary_artists": [
-      "Gangsta Rap West Coast Hip Hop G-Funk"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Gangsta Rap West Coast Hip Hop G-Funk"
-    ],
-    "credits": [
-      {
-        "entity": "Gangsta Rap West Coast Hip Hop G-Funk",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-01054",
@@ -22878,21 +22668,11 @@
     "title": "Fuck Wit Dre Day (feat. DR. Dre, Snoop Dogg)",
     "source_root": "_rap",
     "folder_region": "California",
-    "primary_artists": [
-      "Gangsta Rap West Coast Hip Hop G-Funk"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Gangsta Rap West Coast Hip Hop G-Funk"
-    ],
-    "credits": [
-      {
-        "entity": "Gangsta Rap West Coast Hip Hop G-Funk",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-01058",
@@ -23263,21 +23043,11 @@
     "title": "New Breed Of Hustlas City of Thugstas",
     "source_root": "_rap",
     "folder_region": "California",
-    "primary_artists": [
-      "Gangsta Rap West Coast Hip Hop G-Funk"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Gangsta Rap West Coast Hip Hop G-Funk"
-    ],
-    "credits": [
-      {
-        "entity": "Gangsta Rap West Coast Hip Hop G-Funk",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-01074",
@@ -23285,21 +23055,11 @@
     "title": "Pump Yo Brake",
     "source_root": "_rap",
     "folder_region": "California",
-    "primary_artists": [
-      "Gangsta Rap West Coast Hip Hop G-Funk"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Gangsta Rap West Coast Hip Hop G-Funk"
-    ],
-    "credits": [
-      {
-        "entity": "Gangsta Rap West Coast Hip Hop G-Funk",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-01075",
@@ -26995,14 +26755,14 @@
     "source_root": "_rap",
     "folder_region": "California",
     "primary_artists": [
-      "xzibit-invade my space"
+      "Xzibit"
     ],
     "featuring_artists": [
       "jelly roll"
     ],
     "artists": [
       "jelly roll",
-      "xzibit-invade my space"
+      "Xzibit"
     ],
     "credits": [
       {
@@ -27011,7 +26771,7 @@
         "role": "feature"
       },
       {
-        "entity": "xzibit-invade my space",
+        "entity": "Xzibit",
         "entity_type": "person",
         "role": "primary"
       }
@@ -27025,15 +26785,15 @@
     "source_root": "_rap",
     "folder_region": "California",
     "primary_artists": [
-      "xzibit-concentrate"
+      "Xzibit"
     ],
     "featuring_artists": [],
     "artists": [
-      "xzibit-concentrate"
+      "Xzibit"
     ],
     "credits": [
       {
-        "entity": "xzibit-concentrate",
+        "entity": "Xzibit",
         "entity_type": "person",
         "role": "primary"
       }
@@ -27047,15 +26807,15 @@
     "source_root": "_rap",
     "folder_region": "California",
     "primary_artists": [
-      "xzibit-thank you"
+      "Xzibit"
     ],
     "featuring_artists": [],
     "artists": [
-      "xzibit-thank you"
+      "Xzibit"
     ],
     "credits": [
       {
-        "entity": "xzibit-thank you",
+        "entity": "Xzibit",
         "entity_type": "person",
         "role": "primary"
       }
@@ -35178,21 +34938,11 @@
     "title": "Shake Ya Ass (Ft. Pharrel Williams)",
     "source_root": "_rap",
     "folder_region": "Louisiana",
-    "primary_artists": [
-      "Mystikal - Prince Of The South"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Mystikal - Prince Of The South"
-    ],
-    "credits": [
-      {
-        "entity": "Mystikal - Prince Of The South",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-01600",
@@ -40109,21 +39859,11 @@
     "title": "Do My Thang Pop My Wip",
     "source_root": "_rap",
     "folder_region": "Memphis",
-    "primary_artists": [
-      "All Tracks - DJ Squeeky"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "All Tracks - DJ Squeeky"
-    ],
-    "credits": [
-      {
-        "entity": "All Tracks - DJ Squeeky",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-01821",
@@ -40699,21 +40439,11 @@
     "title": "Don't Violate",
     "source_root": "_rap",
     "folder_region": "Memphis",
-    "primary_artists": [
-      "Kingpin Skinny Pimp - 2000 RapDope Game"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Kingpin Skinny Pimp - 2000 RapDope Game"
-    ],
-    "credits": [
-      {
-        "entity": "Kingpin Skinny Pimp - 2000 RapDope Game",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-01848",
@@ -40832,15 +40562,15 @@
     "source_root": "_rap",
     "folder_region": "Memphis",
     "primary_artists": [
-      "Lil Ugly Mane - Mista Thug Isolation"
+      "Lil Ugly Mane"
     ],
     "featuring_artists": [],
     "artists": [
-      "Lil Ugly Mane - Mista Thug Isolation"
+      "Lil Ugly Mane"
     ],
     "credits": [
       {
-        "entity": "Lil Ugly Mane - Mista Thug Isolation",
+        "entity": "Lil Ugly Mane",
         "entity_type": "person",
         "role": "primary"
       }
@@ -40854,15 +40584,15 @@
     "source_root": "_rap",
     "folder_region": "Memphis",
     "primary_artists": [
-      "Lil Ugly Mane - Mista Thug Isolation"
+      "Lil Ugly Mane"
     ],
     "featuring_artists": [],
     "artists": [
-      "Lil Ugly Mane - Mista Thug Isolation"
+      "Lil Ugly Mane"
     ],
     "credits": [
       {
-        "entity": "Lil Ugly Mane - Mista Thug Isolation",
+        "entity": "Lil Ugly Mane",
         "entity_type": "person",
         "role": "primary"
       }
@@ -40876,15 +40606,15 @@
     "source_root": "_rap",
     "folder_region": "Memphis",
     "primary_artists": [
-      "Lil Ugly Mane - Mista Thug Isolation"
+      "Lil Ugly Mane"
     ],
     "featuring_artists": [],
     "artists": [
-      "Lil Ugly Mane - Mista Thug Isolation"
+      "Lil Ugly Mane"
     ],
     "credits": [
       {
-        "entity": "Lil Ugly Mane - Mista Thug Isolation",
+        "entity": "Lil Ugly Mane",
         "entity_type": "person",
         "role": "primary"
       }
@@ -40898,15 +40628,15 @@
     "source_root": "_rap",
     "folder_region": "Memphis",
     "primary_artists": [
-      "Lil Ugly Mane - Mista Thug Isolation"
+      "Lil Ugly Mane"
     ],
     "featuring_artists": [],
     "artists": [
-      "Lil Ugly Mane - Mista Thug Isolation"
+      "Lil Ugly Mane"
     ],
     "credits": [
       {
-        "entity": "Lil Ugly Mane - Mista Thug Isolation",
+        "entity": "Lil Ugly Mane",
         "entity_type": "person",
         "role": "primary"
       }
@@ -40941,21 +40671,11 @@
     "title": "Lock Em in da Trunk (feat. DJ Zirk)",
     "source_root": "_rap",
     "folder_region": "Memphis",
-    "primary_artists": [
-      "MEMPHIS RAP Top 50 all-time"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "MEMPHIS RAP Top 50 all-time"
-    ],
-    "credits": [
-      {
-        "entity": "MEMPHIS RAP Top 50 all-time",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-01859",
@@ -61790,21 +61510,11 @@
     "title": "Me Vs Me",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [
-      "Ep - Paper chase"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Ep - Paper chase"
-    ],
-    "credits": [
-      {
-        "entity": "Ep - Paper chase",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-02822",
@@ -61812,21 +61522,11 @@
     "title": "No Sucker",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [
-      "Ep - Paper chase"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Ep - Paper chase"
-    ],
-    "credits": [
-      {
-        "entity": "Ep - Paper chase",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-02823",
@@ -63761,14 +63461,14 @@
     "source_root": "_trap",
     "folder_region": "USA",
     "primary_artists": [
-      "#410 Skengdo"
+      "Skengdo"
     ],
     "featuring_artists": [
       "AM"
     ],
     "artists": [
-      "#410 Skengdo",
-      "AM"
+      "AM",
+      "Skengdo"
     ],
     "credits": [
       {
@@ -63777,7 +63477,7 @@
         "role": "feature"
       },
       {
-        "entity": "#410 Skengdo",
+        "entity": "Skengdo",
         "entity_type": "person",
         "role": "primary"
       }
@@ -66996,21 +66696,11 @@
     "title": "Drunk In Love (Hip Hop TXL Remix Edit) (DatPiff Exclusive)",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [
-      "Kanye West TI Beyonce Jay Z"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Kanye West TI Beyonce Jay Z"
-    ],
-    "credits": [
-      {
-        "entity": "Kanye West TI Beyonce Jay Z",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-03034",
@@ -70762,15 +70452,15 @@
     "source_root": "_trap",
     "folder_region": "USA",
     "primary_artists": [
-      "Logic - Young Sinatra"
+      "Logic"
     ],
     "featuring_artists": [],
     "artists": [
-      "Logic - Young Sinatra"
+      "Logic"
     ],
     "credits": [
       {
-        "entity": "Logic - Young Sinatra",
+        "entity": "Logic",
         "entity_type": "person",
         "role": "primary"
       }
@@ -70784,15 +70474,15 @@
     "source_root": "_trap",
     "folder_region": "USA",
     "primary_artists": [
-      "Logic - Young Sinatra"
+      "Logic"
     ],
     "featuring_artists": [],
     "artists": [
-      "Logic - Young Sinatra"
+      "Logic"
     ],
     "credits": [
       {
-        "entity": "Logic - Young Sinatra",
+        "entity": "Logic",
         "entity_type": "person",
         "role": "primary"
       }
@@ -70806,15 +70496,15 @@
     "source_root": "_trap",
     "folder_region": "USA",
     "primary_artists": [
-      "Logic - Young Sinatra"
+      "Logic"
     ],
     "featuring_artists": [],
     "artists": [
-      "Logic - Young Sinatra"
+      "Logic"
     ],
     "credits": [
       {
-        "entity": "Logic - Young Sinatra",
+        "entity": "Logic",
         "entity_type": "person",
         "role": "primary"
       }
@@ -70828,15 +70518,15 @@
     "source_root": "_trap",
     "folder_region": "USA",
     "primary_artists": [
-      "Logic - Young Sinatra"
+      "Logic"
     ],
     "featuring_artists": [],
     "artists": [
-      "Logic - Young Sinatra"
+      "Logic"
     ],
     "credits": [
       {
-        "entity": "Logic - Young Sinatra",
+        "entity": "Logic",
         "entity_type": "person",
         "role": "primary"
       }
@@ -72593,21 +72283,11 @@
     "title": "Despair Ft. Killah Priest",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [
-      "Pro The Leader Dopestyle - Hip Hop Depression"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Pro The Leader Dopestyle - Hip Hop Depression"
-    ],
-    "credits": [
-      {
-        "entity": "Pro The Leader Dopestyle - Hip Hop Depression",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-03273",
@@ -72615,21 +72295,11 @@
     "title": "Get 1 Life",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [
-      "Pro The Leader Dopestyle - Hip Hop Depression"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Pro The Leader Dopestyle - Hip Hop Depression"
-    ],
-    "credits": [
-      {
-        "entity": "Pro The Leader Dopestyle - Hip Hop Depression",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-03274",
@@ -72637,21 +72307,11 @@
     "title": "Waste No Time Ft. Atlantis Scrolls",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [
-      "Pro The Leader Dopestyle - Hip Hop Depression"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Pro The Leader Dopestyle - Hip Hop Depression"
-    ],
-    "credits": [
-      {
-        "entity": "Pro The Leader Dopestyle - Hip Hop Depression",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-03275",
@@ -74099,21 +73759,11 @@
     "title": "Fell Out",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [
-      "We Bout Dat Life Vol 2"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "We Bout Dat Life Vol 2"
-    ],
-    "credits": [
-      {
-        "entity": "We Bout Dat Life Vol 2",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-03337",
@@ -74143,21 +73793,11 @@
     "title": "Wat l Like",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [
-      "We Bout Dat Life Vol 2"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "We Bout Dat Life Vol 2"
-    ],
-    "credits": [
-      {
-        "entity": "We Bout Dat Life Vol 2",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-03339",
@@ -76577,21 +76217,11 @@
     "title": "EVERY CHANCE I GET",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [
-      "Best of EST Gee"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Best of EST Gee"
-    ],
-    "credits": [
-      {
-        "entity": "Best of EST Gee",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-03444",
@@ -76599,21 +76229,11 @@
     "title": "XXL",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [
-      "Best of EST Gee"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Best of EST Gee"
-    ],
-    "credits": [
-      {
-        "entity": "Best of EST Gee",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-03445",
@@ -77216,15 +76836,15 @@
     "source_root": "_trap",
     "folder_region": "USA",
     "primary_artists": [
-      "024. DaBaby"
+      "DaBaby"
     ],
     "featuring_artists": [],
     "artists": [
-      "024. DaBaby"
+      "DaBaby"
     ],
     "credits": [
       {
-        "entity": "024. DaBaby",
+        "entity": "DaBaby",
         "entity_type": "person",
         "role": "primary"
       }
@@ -80862,15 +80482,15 @@
     "source_root": "_trap",
     "folder_region": "USA",
     "primary_artists": [
-      "shiloh dynasty - all songs"
+      "Shiloh Dynasty"
     ],
     "featuring_artists": [],
     "artists": [
-      "shiloh dynasty - all songs"
+      "Shiloh Dynasty"
     ],
     "credits": [
       {
-        "entity": "shiloh dynasty - all songs",
+        "entity": "Shiloh Dynasty",
         "entity_type": "person",
         "role": "primary"
       }
@@ -80884,15 +80504,15 @@
     "source_root": "_trap",
     "folder_region": "USA",
     "primary_artists": [
-      "shiloh dynasty - all songs"
+      "Shiloh Dynasty"
     ],
     "featuring_artists": [],
     "artists": [
-      "shiloh dynasty - all songs"
+      "Shiloh Dynasty"
     ],
     "credits": [
       {
-        "entity": "shiloh dynasty - all songs",
+        "entity": "Shiloh Dynasty",
         "entity_type": "person",
         "role": "primary"
       }
@@ -80906,15 +80526,15 @@
     "source_root": "_trap",
     "folder_region": "USA",
     "primary_artists": [
-      "shiloh dynasty - all songs"
+      "Shiloh Dynasty"
     ],
     "featuring_artists": [],
     "artists": [
-      "shiloh dynasty - all songs"
+      "Shiloh Dynasty"
     ],
     "credits": [
       {
-        "entity": "shiloh dynasty - all songs",
+        "entity": "Shiloh Dynasty",
         "entity_type": "person",
         "role": "primary"
       }
@@ -80928,15 +80548,15 @@
     "source_root": "_trap",
     "folder_region": "USA",
     "primary_artists": [
-      "shiloh dynasty - all songs"
+      "Shiloh Dynasty"
     ],
     "featuring_artists": [],
     "artists": [
-      "shiloh dynasty - all songs"
+      "Shiloh Dynasty"
     ],
     "credits": [
       {
-        "entity": "shiloh dynasty - all songs",
+        "entity": "Shiloh Dynasty",
         "entity_type": "person",
         "role": "primary"
       }
@@ -88547,15 +88167,15 @@
     "source_root": "_trap",
     "folder_region": "Atlanta",
     "primary_artists": [
-      "Mike Will Made It"
+      "Mike WiLL Made-It"
     ],
     "featuring_artists": [],
     "artists": [
-      "Mike Will Made It"
+      "Mike WiLL Made-It"
     ],
     "credits": [
       {
-        "entity": "Mike Will Made It",
+        "entity": "Mike WiLL Made-It",
         "entity_type": "person",
         "role": "primary"
       }
@@ -88695,15 +88315,15 @@
     "source_root": "_trap",
     "folder_region": "Atlanta",
     "primary_artists": [
-      "Mike Will Made It"
+      "Mike WiLL Made-It"
     ],
     "featuring_artists": [],
     "artists": [
-      "Mike Will Made It"
+      "Mike WiLL Made-It"
     ],
     "credits": [
       {
-        "entity": "Mike Will Made It",
+        "entity": "Mike WiLL Made-It",
         "entity_type": "person",
         "role": "primary"
       }
@@ -94049,15 +93669,15 @@
       "Gunna"
     ],
     "featuring_artists": [
-      "NAV"
+      "Nav"
     ],
     "artists": [
       "Gunna",
-      "NAV"
+      "Nav"
     ],
     "credits": [
       {
-        "entity": "NAV",
+        "entity": "Nav",
         "entity_type": "person",
         "role": "feature"
       },
@@ -99877,21 +99497,11 @@
     "title": "72b0-4f50-98e5-dc93dd310d06",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [
-      "62415b86"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "62415b86"
-    ],
-    "credits": [
-      {
-        "entity": "62415b86",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-04477",
@@ -106481,21 +106091,11 @@
     "title": "x EBK Jaaybo Gzzz ()",
     "source_root": "_trap",
     "folder_region": "California",
-    "primary_artists": [
-      "@EBKPig"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "@EBKPig"
-    ],
-    "credits": [
-      {
-        "entity": "@EBKPig",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-04747",
@@ -114174,21 +113774,11 @@
     "title": "Six Double 0 (Pt",
     "source_root": "_trap",
     "folder_region": "Chicago",
-    "primary_artists": [
-      "Edai S.Dot Tay600 Rondonumbanine"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Edai S.Dot Tay600 Rondonumbanine"
-    ],
-    "credits": [
-      {
-        "entity": "Edai S.Dot Tay600 Rondonumbanine",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-05089",
@@ -122499,21 +122089,11 @@
     "title": "Bout a Dollar",
     "source_root": "_trap",
     "folder_region": "Florida",
-    "primary_artists": [
-      "Top-Titel - Kolyon"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Top-Titel - Kolyon"
-    ],
-    "credits": [
-      {
-        "entity": "Top-Titel - Kolyon",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-05451",
@@ -122521,21 +122101,11 @@
     "title": "Diary (Chapter 3)",
     "source_root": "_trap",
     "folder_region": "Florida",
-    "primary_artists": [
-      "Top-Titel - Kolyon"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Top-Titel - Kolyon"
-    ],
-    "credits": [
-      {
-        "entity": "Top-Titel - Kolyon",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-05452",
@@ -122639,21 +122209,11 @@
     "title": "Team Work",
     "source_root": "_trap",
     "folder_region": "Florida",
-    "primary_artists": [
-      "Top-Titel - Kolyon"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Top-Titel - Kolyon"
-    ],
-    "credits": [
-      {
-        "entity": "Top-Titel - Kolyon",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-05457",
@@ -149563,21 +149123,11 @@
     "title": "Started From the Bottom (TXL Remix) (DatPiff Exclusive)",
     "source_root": "_trap",
     "folder_region": "Toronto",
-    "primary_artists": [
-      "Drake Wiz Khalifa Tabius Tate"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Drake Wiz Khalifa Tabius Tate"
-    ],
-    "credits": [
-      {
-        "entity": "Drake Wiz Khalifa Tabius Tate",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-06649",
@@ -151369,15 +150919,15 @@
     "source_root": "_trap",
     "folder_region": "Toronto",
     "primary_artists": [
-      "NAV"
+      "Nav"
     ],
     "featuring_artists": [],
     "artists": [
-      "NAV"
+      "Nav"
     ],
     "credits": [
       {
-        "entity": "NAV",
+        "entity": "Nav",
         "entity_type": "person",
         "role": "primary"
       }
@@ -151391,15 +150941,15 @@
     "source_root": "_trap",
     "folder_region": "Toronto",
     "primary_artists": [
-      "NAV"
+      "Nav"
     ],
     "featuring_artists": [],
     "artists": [
-      "NAV"
+      "Nav"
     ],
     "credits": [
       {
-        "entity": "NAV",
+        "entity": "Nav",
         "entity_type": "person",
         "role": "primary"
       }
@@ -151413,15 +150963,15 @@
     "source_root": "_trap",
     "folder_region": "Toronto",
     "primary_artists": [
-      "NAV"
+      "Nav"
     ],
     "featuring_artists": [],
     "artists": [
-      "NAV"
+      "Nav"
     ],
     "credits": [
       {
-        "entity": "NAV",
+        "entity": "Nav",
         "entity_type": "person",
         "role": "primary"
       }
@@ -151435,15 +150985,15 @@
     "source_root": "_trap",
     "folder_region": "Toronto",
     "primary_artists": [
-      "NAV"
+      "Nav"
     ],
     "featuring_artists": [],
     "artists": [
-      "NAV"
+      "Nav"
     ],
     "credits": [
       {
-        "entity": "NAV",
+        "entity": "Nav",
         "entity_type": "person",
         "role": "primary"
       }
@@ -151457,14 +151007,14 @@
     "source_root": "_trap",
     "folder_region": "Toronto",
     "primary_artists": [
-      "NAV"
+      "Nav"
     ],
     "featuring_artists": [
       "Metro Boomin"
     ],
     "artists": [
       "Metro Boomin",
-      "NAV"
+      "Nav"
     ],
     "credits": [
       {
@@ -151473,7 +151023,7 @@
         "role": "feature"
       },
       {
-        "entity": "NAV",
+        "entity": "Nav",
         "entity_type": "person",
         "role": "primary"
       }

@@ -1,23 +1,4 @@
 {
-  "#410 Skengdo": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "USA"
-    ],
-    "sources": [
-      "_trap"
-    ],
-    "song_ids": [
-      "u-02903"
-    ],
-    "primary_song_ids": [
-      "u-02903"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
   "$crim": {
     "type": "person",
     "labels": [],
@@ -144,25 +125,6 @@
       "u-04734",
       "u-04735",
       "u-04736"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "024. DaBaby": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "USA"
-    ],
-    "sources": [
-      "_trap"
-    ],
-    "song_ids": [
-      "u-03472"
-    ],
-    "primary_song_ids": [
-      "u-03472"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": []
@@ -486,25 +448,6 @@
       "u-02179"
     ]
   },
-  "62415b86": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "Atlanta"
-    ],
-    "sources": [
-      "_trap"
-    ],
-    "song_ids": [
-      "u-04476"
-    ],
-    "primary_song_ids": [
-      "u-04476"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
   "6ix9ine": {
     "type": "person",
     "labels": [],
@@ -723,25 +666,6 @@
     "primary_song_ids": [
       "u-05427",
       "u-06077"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "@EBKPig": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "California"
-    ],
-    "sources": [
-      "_trap"
-    ],
-    "song_ids": [
-      "u-04746"
-    ],
-    "primary_song_ids": [
-      "u-04746"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": []
@@ -1320,25 +1244,6 @@
     ],
     "primary_song_ids": [
       "u-05521"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "All Tracks - DJ Squeeky": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "Memphis"
-    ],
-    "sources": [
-      "_rap"
-    ],
-    "song_ids": [
-      "u-01820"
-    ],
-    "primary_song_ids": [
-      "u-01820"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": []
@@ -2055,27 +1960,6 @@
     "feature_song_ids": [],
     "via_group_song_ids": []
   },
-  "Babylon Warchild - The Gatekeepers": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "USA Other"
-    ],
-    "sources": [
-      "_rap"
-    ],
-    "song_ids": [
-      "u-00105",
-      "u-00107"
-    ],
-    "primary_song_ids": [
-      "u-00105",
-      "u-00107"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
   "Backbone": {
     "type": "person",
     "labels": [],
@@ -2293,29 +2177,6 @@
     ],
     "primary_song_ids": [
       "u-00303"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "Bay Area Rap Classics 90 s": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "California"
-    ],
-    "sources": [
-      "_rap"
-    ],
-    "song_ids": [
-      "u-01041",
-      "u-01042",
-      "u-01046"
-    ],
-    "primary_song_ids": [
-      "u-01041",
-      "u-01042",
-      "u-01046"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": []
@@ -2550,46 +2411,6 @@
     "primary_song_ids": [
       "u-03158",
       "u-06160"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "Best of EST Gee": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "USA"
-    ],
-    "sources": [
-      "_trap"
-    ],
-    "song_ids": [
-      "u-03443",
-      "u-03444"
-    ],
-    "primary_song_ids": [
-      "u-03443",
-      "u-03444"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "Best Of Too Short": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "USA Other"
-    ],
-    "sources": [
-      "_rap"
-    ],
-    "song_ids": [
-      "u-00478"
-    ],
-    "primary_song_ids": [
-      "u-00478"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": []
@@ -6288,6 +6109,7 @@
       "_trap"
     ],
     "song_ids": [
+      "u-03472",
       "u-03473",
       "u-03474",
       "u-03475",
@@ -6299,6 +6121,7 @@
       "u-03484"
     ],
     "primary_song_ids": [
+      "u-03472",
       "u-03473",
       "u-03474",
       "u-03475",
@@ -6356,7 +6179,7 @@
     "feature_song_ids": [],
     "via_group_song_ids": []
   },
-  "Dame D O L L A - Confirmed": {
+  "Dame D.O.L.L.A.": {
     "type": "person",
     "labels": [],
     "groups": [],
@@ -6628,29 +6451,6 @@
     ],
     "primary_song_ids": [
       "u-03682"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "Def Jam Fight For NewYork Soundtrack": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "USA Other"
-    ],
-    "sources": [
-      "_rap"
-    ],
-    "song_ids": [
-      "u-00137",
-      "u-00138",
-      "u-00139"
-    ],
-    "primary_song_ids": [
-      "u-00137",
-      "u-00138",
-      "u-00139"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": []
@@ -7956,25 +7756,6 @@
     ],
     "via_group_song_ids": []
   },
-  "Drake Wiz Khalifa Tabius Tate": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "Toronto"
-    ],
-    "sources": [
-      "_trap"
-    ],
-    "song_ids": [
-      "u-06648"
-    ],
-    "primary_song_ids": [
-      "u-06648"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
   "Drakeo top songs": {
     "type": "person",
     "labels": [],
@@ -8316,25 +8097,6 @@
     "primary_song_ids": [
       "u-03133",
       "u-03134"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "Edai S.Dot Tay600 Rondonumbanine": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "Chicago"
-    ],
-    "sources": [
-      "_trap"
-    ],
-    "song_ids": [
-      "u-05088"
-    ],
-    "primary_song_ids": [
-      "u-05088"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": []
@@ -8793,27 +8555,6 @@
     "feature_song_ids": [],
     "via_group_song_ids": []
   },
-  "Ep - Paper chase": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "USA"
-    ],
-    "sources": [
-      "_trap"
-    ],
-    "song_ids": [
-      "u-02821",
-      "u-02822"
-    ],
-    "primary_song_ids": [
-      "u-02821",
-      "u-02822"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
   "EPMD": {
     "type": "person",
     "labels": [],
@@ -9169,44 +8910,6 @@
     ],
     "via_group_song_ids": []
   },
-  "Fat Joe Remy Ma French Montana Ry SO Valid": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "USA Other"
-    ],
-    "sources": [
-      "_rap"
-    ],
-    "song_ids": [
-      "u-00145"
-    ],
-    "primary_song_ids": [
-      "u-00145"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "Fat Joe Remy Ma JAY Z French Montana InfaRed": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "USA Other"
-    ],
-    "sources": [
-      "_rap"
-    ],
-    "song_ids": [
-      "u-00146"
-    ],
-    "primary_song_ids": [
-      "u-00146"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
   "Fat Joe.Ja Rule": {
     "type": "person",
     "labels": [],
@@ -9317,7 +9020,7 @@
     "feature_song_ids": [],
     "via_group_song_ids": []
   },
-  "Fes Taylor - The Fes Taylor Sessions": {
+  "Fes Taylor": {
     "type": "person",
     "labels": [],
     "groups": [],
@@ -10474,31 +10177,6 @@
     "primary_song_ids": [
       "u-01825",
       "u-01826"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "Gangsta Rap West Coast Hip Hop G-Funk": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "California"
-    ],
-    "sources": [
-      "_rap"
-    ],
-    "song_ids": [
-      "u-01053",
-      "u-01057",
-      "u-01073",
-      "u-01074"
-    ],
-    "primary_song_ids": [
-      "u-01053",
-      "u-01057",
-      "u-01073",
-      "u-01074"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": []
@@ -14769,25 +14447,6 @@
     ],
     "via_group_song_ids": []
   },
-  "Kanye West TI Beyonce Jay Z": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "USA"
-    ],
-    "sources": [
-      "_trap"
-    ],
-    "song_ids": [
-      "u-03033"
-    ],
-    "primary_song_ids": [
-      "u-03033"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
   "Katy Perry": {
     "type": "person",
     "labels": [],
@@ -15567,25 +15226,6 @@
     "feature_song_ids": [
       "u-05337"
     ],
-    "via_group_song_ids": []
-  },
-  "Kingpin Skinny Pimp - 2000 RapDope Game": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "Memphis"
-    ],
-    "sources": [
-      "_rap"
-    ],
-    "song_ids": [
-      "u-01847"
-    ],
-    "primary_song_ids": [
-      "u-01847"
-    ],
-    "feature_song_ids": [],
     "via_group_song_ids": []
   },
   "Kirko Bangz": {
@@ -17186,25 +16826,6 @@
     "feature_song_ids": [],
     "via_group_song_ids": []
   },
-  "Lil Flip - The Best Of Me": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "USA Other"
-    ],
-    "sources": [
-      "_rap"
-    ],
-    "song_ids": [
-      "u-00283"
-    ],
-    "primary_song_ids": [
-      "u-00283"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
   "Lil Gnar": {
     "type": "person",
     "labels": [],
@@ -18260,7 +17881,7 @@
     "feature_song_ids": [],
     "via_group_song_ids": []
   },
-  "Lil Ugly Mane - Mista Thug Isolation": {
+  "Lil Ugly Mane": {
     "type": "person",
     "labels": [],
     "groups": [],
@@ -19078,31 +18699,14 @@
       "_trap"
     ],
     "song_ids": [
-      "u-03092"
-    ],
-    "primary_song_ids": [
-      "u-03092"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "Logic - Young Sinatra": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "USA"
-    ],
-    "sources": [
-      "_trap"
-    ],
-    "song_ids": [
+      "u-03092",
       "u-03193",
       "u-03194",
       "u-03195",
       "u-03196"
     ],
     "primary_song_ids": [
+      "u-03092",
       "u-03193",
       "u-03194",
       "u-03195",
@@ -20416,25 +20020,6 @@
     "feature_song_ids": [],
     "via_group_song_ids": []
   },
-  "MEMPHIS RAP Top 50 all-time": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "Memphis"
-    ],
-    "sources": [
-      "_rap"
-    ],
-    "song_ids": [
-      "u-01858"
-    ],
-    "primary_song_ids": [
-      "u-01858"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
   "Method Man": {
     "type": "person",
     "labels": [],
@@ -20756,27 +20341,6 @@
     "feature_song_ids": [],
     "via_group_song_ids": []
   },
-  "Mike Will Made It": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "Atlanta"
-    ],
-    "sources": [
-      "_trap"
-    ],
-    "song_ids": [
-      "u-03985",
-      "u-03990"
-    ],
-    "primary_song_ids": [
-      "u-03985",
-      "u-03990"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
   "Mike WiLL Made It Young Thug": {
     "type": "person",
     "labels": [],
@@ -20792,6 +20356,27 @@
     ],
     "primary_song_ids": [
       "u-04617"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": []
+  },
+  "Mike WiLL Made-It": {
+    "type": "person",
+    "labels": [],
+    "groups": [],
+    "regions": [
+      "Atlanta"
+    ],
+    "sources": [
+      "_trap"
+    ],
+    "song_ids": [
+      "u-03985",
+      "u-03990"
+    ],
+    "primary_song_ids": [
+      "u-03985",
+      "u-03990"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": []
@@ -21249,7 +20834,7 @@
     "feature_song_ids": [],
     "via_group_song_ids": []
   },
-  "Morbski - Rebel Rouzah": {
+  "Morbski": {
     "type": "person",
     "labels": [],
     "groups": [],
@@ -21460,25 +21045,6 @@
       "u-03994",
       "u-03995",
       "u-04993"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "Mystikal - Prince Of The South": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "Louisiana"
-    ],
-    "sources": [
-      "_rap"
-    ],
-    "song_ids": [
-      "u-01599"
-    ],
-    "primary_song_ids": [
-      "u-01599"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": []
@@ -21826,7 +21392,7 @@
     "feature_song_ids": [],
     "via_group_song_ids": []
   },
-  "NAV": {
+  "Nav": {
     "type": "person",
     "labels": [],
     "groups": [],
@@ -22174,28 +21740,11 @@
       "_rap"
     ],
     "song_ids": [
-      "u-00319"
-    ],
-    "primary_song_ids": [
-      "u-00319"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "NF - Mansion ~": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "USA Other"
-    ],
-    "sources": [
-      "_rap"
-    ],
-    "song_ids": [
+      "u-00319",
       "u-00320"
     ],
     "primary_song_ids": [
+      "u-00319",
       "u-00320"
     ],
     "feature_song_ids": [],
@@ -24569,29 +24118,6 @@
     ],
     "primary_song_ids": [
       "u-03718"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "Pro The Leader Dopestyle - Hip Hop Depression": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "USA"
-    ],
-    "sources": [
-      "_trap"
-    ],
-    "song_ids": [
-      "u-03272",
-      "u-03273",
-      "u-03274"
-    ],
-    "primary_song_ids": [
-      "u-03272",
-      "u-03273",
-      "u-03274"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": []
@@ -28183,7 +27709,7 @@
     "feature_song_ids": [],
     "via_group_song_ids": []
   },
-  "shiloh dynasty - all songs": {
+  "Shiloh Dynasty": {
     "type": "person",
     "labels": [],
     "groups": [],
@@ -28286,25 +27812,6 @@
     "feature_song_ids": [],
     "via_group_song_ids": []
   },
-  "Simon Roofless - The Killing": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "USA Other"
-    ],
-    "sources": [
-      "_rap"
-    ],
-    "song_ids": [
-      "u-00365"
-    ],
-    "primary_song_ids": [
-      "u-00365"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
   "SimxSantana": {
     "type": "person",
     "labels": [],
@@ -28360,6 +27867,25 @@
     ],
     "primary_song_ids": [
       "u-04772"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": []
+  },
+  "Skengdo": {
+    "type": "person",
+    "labels": [],
+    "groups": [],
+    "regions": [
+      "USA"
+    ],
+    "sources": [
+      "_trap"
+    ],
+    "song_ids": [
+      "u-02903"
+    ],
+    "primary_song_ids": [
+      "u-02903"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": []
@@ -28974,29 +28500,6 @@
     ],
     "primary_song_ids": [
       "u-03800"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "Son Of Saturn - Thesis": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "USA Other"
-    ],
-    "sources": [
-      "_rap"
-    ],
-    "song_ids": [
-      "u-00367",
-      "u-00368",
-      "u-00369"
-    ],
-    "primary_song_ids": [
-      "u-00367",
-      "u-00368",
-      "u-00369"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": []
@@ -31539,29 +31042,6 @@
     "feature_song_ids": [],
     "via_group_song_ids": []
   },
-  "Top-Titel - Kolyon": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "Florida"
-    ],
-    "sources": [
-      "_trap"
-    ],
-    "song_ids": [
-      "u-05450",
-      "u-05451",
-      "u-05456"
-    ],
-    "primary_song_ids": [
-      "u-05450",
-      "u-05451",
-      "u-05456"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
   "Tory Lanez": {
     "type": "person",
     "labels": [],
@@ -32798,29 +32278,6 @@
     "feature_song_ids": [],
     "via_group_song_ids": []
   },
-  "Vendetta Kingz Anno Domini - V.K.A.D": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "USA Other"
-    ],
-    "sources": [
-      "_rap"
-    ],
-    "song_ids": [
-      "u-00463",
-      "u-00464",
-      "u-00465"
-    ],
-    "primary_song_ids": [
-      "u-00463",
-      "u-00464",
-      "u-00465"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
   "Verse Simmonds": {
     "type": "person",
     "labels": [],
@@ -32922,25 +32379,6 @@
       "u-03885",
       "u-03886",
       "u-03887"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "Vinz Vega True Grit - Requiem From The Darkness": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "USA Other"
-    ],
-    "sources": [
-      "_rap"
-    ],
-    "song_ids": [
-      "u-00466"
-    ],
-    "primary_song_ids": [
-      "u-00466"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": []
@@ -33234,27 +32672,6 @@
       "u-03343",
       "u-03344",
       "u-03345"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "We Bout Dat Life Vol 2": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "USA"
-    ],
-    "sources": [
-      "_trap"
-    ],
-    "song_ids": [
-      "u-03336",
-      "u-03338"
-    ],
-    "primary_song_ids": [
-      "u-03336",
-      "u-03338"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": []
@@ -34130,6 +33547,9 @@
       "u-01230",
       "u-01231",
       "u-01232",
+      "u-01233",
+      "u-01234",
+      "u-01235",
       "u-01309"
     ],
     "primary_song_ids": [
@@ -34149,68 +33569,14 @@
       "u-01230",
       "u-01231",
       "u-01232",
+      "u-01233",
+      "u-01234",
+      "u-01235",
       "u-01309"
     ],
     "feature_song_ids": [
       "u-01158"
     ],
-    "via_group_song_ids": []
-  },
-  "xzibit-concentrate": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "California"
-    ],
-    "sources": [
-      "_rap"
-    ],
-    "song_ids": [
-      "u-01234"
-    ],
-    "primary_song_ids": [
-      "u-01234"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "xzibit-invade my space": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "California"
-    ],
-    "sources": [
-      "_rap"
-    ],
-    "song_ids": [
-      "u-01233"
-    ],
-    "primary_song_ids": [
-      "u-01233"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "xzibit-thank you": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "California"
-    ],
-    "sources": [
-      "_rap"
-    ],
-    "song_ids": [
-      "u-01235"
-    ],
-    "primary_song_ids": [
-      "u-01235"
-    ],
-    "feature_song_ids": [],
     "via_group_song_ids": []
   },
   "Yagi B Trend": {

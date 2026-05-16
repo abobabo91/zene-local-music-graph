@@ -1,9 +1,10 @@
 # Song Duplicate Report
 
-Generated from 10853 songs across 8 areas.
-Found 516 duplicate groups (1082 total files).
+Total songs analyzed: 10791
+Duplicate groups: 519 (1089 files)
+Cross-area: 139 | Within-area: 380
 
-## Cross-area duplicates (same song in different genre folders)
+## Cross-area duplicates
 
 ### Avicii - Wake Me Up () (4 copies)
   - [elektro] _other\_elektro\edm_electronic_pop\Mix – Lost Frequencies feat  Janieck Devy - Reality (Official Music Video)\Avicii - Wake Me Up (Official Video).mp3
@@ -586,7 +587,7 @@ Found 516 duplicate groups (1082 total files).
   - [pop] _other\_pop\_random\Zara Larsson playlist\Zara Larsson - Uncover (Official Video).mp3
   - [alternate] _other\_alternate\_random\zara larsson\Zara Larsson - Uncover.mp3
 
-## Within-area duplicates (same song multiple times in same genre)
+## Within-area duplicates
 
 ### Linkin Park - Linkin Park (6 copies in rock)
   - _other\_rock\Linkin Park Discography\Linkin Park - A Thousand Suns (Full Album)\Burning In The Skies (Official International Video) - Linkin Park.mp3
@@ -602,6 +603,11 @@ Found 516 duplicate groups (1082 total files).
   - _trap/chicago/chief keef/TRAPAHOLICS PRESENTS - CHIEFKEEF GBE FOR GREATER GLORY - YouTube/Trapaholics Presents - ChiefKeef G.B.E. FOR GREATER GLORY ( Track 15 ).mp3
   - _trap/chicago/chief keef/TRAPAHOLICS PRESENTS - CHIEFKEEF GBE FOR GREATER GLORY - YouTube/Trapaholics Presents - ChiefKeef G.B.E. FOR GREATER GLORY ( Track 18 ).mp3
   - _trap/chicago/chief keef/TRAPAHOLICS PRESENTS - CHIEFKEEF GBE FOR GREATER GLORY - YouTube/Trapaholics Presents - ChiefKeef G.B.E. FOR GREATER GLORY ( Track 4 ).mp3
+
+### Xzibit - www.file24ever (3 copies in us)
+  - _rap/california/Xzibit/Xzibit/2006 - Full Circle/01-xzibit-invade_my_space_ft._jelly_roll_-_www.file24ever.com.mp3
+  - _rap/california/Xzibit/Xzibit/2006 - Full Circle/07-xzibit-concentrate_-_www.file24ever.com.mp3
+  - _rap/california/Xzibit/Xzibit/2006 - Full Circle/14-xzibit-thank_you_-_www.file24ever.com.mp3
 
 ### Lil Wayne - Mirror (feat. Bruno Mars) (3 copies in us)
   - _rap/luisiana/Lil_ Wayne/Lil Wayne - Tha Carter IV (Deluxe Edition)-LW-{iTunes}/17 Mirror (feat. Bruno Mars).m4a
@@ -1737,6 +1743,10 @@ Found 516 duplicate groups (1082 total files).
   - _other\_elektro\trance_dance_rave\Mix – Ayla - Ayla (Taucher Remix) (1996)\Delerium - Silence (ft. Sarah McLachlan) (Airscape Remix) [Official Music Video].mp3
   - _other\_elektro\trance_dance_rave\Mix – Mauro Picotto - Komodo\Delerium - Silence ft. Sarah McLachlan (Tiesto Mix).mp3
 
+### Tiësto - Adagio For Strings (2 copies in elektro)
+  - _other\_elektro\trance_dance_rave\Mix – Ayla - Ayla (Taucher Remix) (1996)\Tiesto - Adagio For Strings(Radio Edit).mp3
+  - _other\_elektro\trance_dance_rave\Mix – Ayla - Ayla (Taucher Remix) (1996)\Tiësto - Adagio For Strings.mp3
+
 ### Veracocha - Carte Blanche (2 copies in elektro)
   - _other\_elektro\trance_dance_rave\Mix – Ayla - Ayla (Taucher Remix) (1996)\Veracocha - Carte Blanche (Original Mix).mp3
   - _other\_elektro\trance_dance_rave\Mix – Ayla - Ayla (Taucher Remix) (1996)\Veracocha - Carte Blanche (Radio Edit).mp3
@@ -1980,6 +1990,10 @@ Found 516 duplicate groups (1082 total files).
 ### Ariana Grande - breathin (2 copies in pop)
   - _other\_pop\_billboard\2019\072. Ariana Grande - breathin.mp3
   - _other\_pop\_modern\Ariana Grande - Album Discography [2013-2019] (All 320)\2018  - Sweetener\09. breathin.mp3
+
+### BTS - Make It Right (2 copies in pop)
+  - _other\_pop\_kpop\BTS - MAP OF THE SOUL _ PERSONA [2019-Album]\04 Make It Right.mp3
+  - _other\_pop\_kpop\MAP OF THE SOUL PERSONA (Full Album) - YouTube\BTS (방탄소년단) - _Make It Right_ Lyrics [Color Coded Han_Rom_Eng].mp3
 
 ### The Weeknd - The Hills (2 copies in pop)
   - _other\_pop\_modern\Alessia Cara - YouTube\Best of Alessia Cara - YouTube\Mix – Alessia Cara\The Weeknd - The Hills.mp3

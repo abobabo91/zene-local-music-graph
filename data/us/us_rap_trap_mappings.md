@@ -100,6 +100,19 @@ Examples to expand later:
 - `Calboy: Calboy - Long Live The Kings`
 - `SpaceGhostPurrp: SpaceGhostPurrp - Blackland Radio 66 6 BLVCKLVND RVDIX 66 6`
 - `scarlxrd: scarlxrd`
+- `Xzibit: xzibit-concentrate, xzibit-invade my space, xzibit-thank you`
+- `Mike WiLL Made-It: Mike Will Made It, Mike WiLL Made It`
+- `DaBaby: 024. DaBaby`
+- `Lil Ugly Mane: Lil Ugly Mane - Mista Thug Isolation`
+- `Logic: Logic - Young Sinatra`
+- `Dame D.O.L.L.A.: Dame D O L L A - Confirmed`
+- `Fes Taylor: Fes Taylor - The Fes Taylor Sessions`
+- `Shiloh Dynasty: shiloh dynasty - all songs`
+- `Morbski: Morbski - Rebel Rouzah`
+- `NF: NF - Mansion`
+- `Desiigner: Desiigner - New English`
+- `Nav: Nav Metro Boomin - Perfect Timing`
+- `Skengdo: #410 Skengdo`
 
 ## Groups
 

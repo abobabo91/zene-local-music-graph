@@ -104,6 +104,29 @@ BLOCKLIST_ARTISTS = {
     "underground hip hop mega pack", "alphadog soundtrack",
     "ipahone 6 music video", "random trap 15niggaz",
     "swisha house", "lil",
+    "62415b86", "ebkpig",
+    # Album/mixtape titles
+    "all tracks dj squeeky", "kingpin skinny pimp 2000 rapdope game",
+    "mystikal prince of the south", "simon roofless the killing",
+    "vinz vega true grit requiem from the darkness",
+    "ep paper chase", "babylon warchild the gatekeepers",
+    "pro the leader dopestyle hip hop depression",
+    "son of saturn thesis", "top titel kolyon",
+    "vendetta kingz anno domini v k a d",
+    "lil flip the best of me",
+    # Compilations/collections
+    "def jam fight for newyork soundtrack",
+    "bay area rap classics 90 s",
+    "gangsta rap west coast hip hop g funk",
+    "memphis rap top 50 all time",
+    "best of too short", "best of est gee",
+    "we bout dat life vol 2",
+    # Multi-artist concatenations (high confidence)
+    "kanye west ti beyonce jay z",
+    "edai s dot tay600 rondonumbanine",
+    "drake wiz khalifa tabius tate",
+    "fat joe remy ma french montana ry so valid",
+    "fat joe remy ma jay z french montana infared",
 }
 UNKNOWN_ARTIST = "N/A"
 LABEL_LIKE_ARTISTS = {"cmg the label"}
