@@ -234,6 +234,29 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
 
   .section-title { font-size: 1.1rem; font-weight: 600; margin: 20px 0 10px; }
   .table-scroll { max-height: 70vh; overflow-y: auto; }
+  .name-cell { cursor: pointer; }
+  .name-cell:hover { color: var(--accent); text-decoration: underline; }
+
+  /* folder modal */
+  .fm-bg { display:none; position:fixed; inset:0; background:rgba(0,0,0,.45); z-index:100; justify-content:center; align-items:center; }
+  .fm-bg.open { display:flex; }
+  .fm { background:var(--card); border:1px solid var(--border); border-radius:12px; width:640px; max-width:92vw; max-height:80vh; display:flex; flex-direction:column; box-shadow:0 8px 32px rgba(0,0,0,.15); }
+  .fm-head { display:flex; justify-content:space-between; align-items:center; padding:14px 18px; border-bottom:1px solid var(--border); }
+  .fm-head h3 { font-size:1rem; }
+  .fm-close { background:none; border:none; font-size:1.3rem; cursor:pointer; color:var(--muted); line-height:1; }
+  .fm-close:hover { color:var(--text); }
+  .fm-body { overflow-y:auto; padding:10px 18px 18px; font-size:.82rem; }
+  .fm-tree { list-style:none; padding-left:0; }
+  .fm-tree ul { list-style:none; padding-left:18px; }
+  .fm-dir > span { cursor:pointer; font-weight:500; user-select:none; }
+  .fm-dir > span::before { content:'▸ '; color:var(--muted); display:inline-block; width:14px; }
+  .fm-dir.open > span::before { content:'▾ '; }
+  .fm-dir > ul { display:none; }
+  .fm-dir.open > ul { display:block; }
+  .fm-file { color:var(--muted); padding:1px 0; }
+  .fm-file::before { content:'♪ '; opacity:.5; }
+  .fm-empty { color:var(--muted); font-style:italic; padding:1px 0 1px 14px; }
+  .fm-stats { color:var(--muted); font-size:.75rem; margin-left:8px; }
 </style>
 </head>
 <body>
@@ -280,7 +303,15 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
   </div>
 </div>
 
+<div class="fm-bg" id="fmBg">
+  <div class="fm">
+    <div class="fm-head"><h3 id="fmTitle"></h3><button class="fm-close" id="fmClose">&times;</button></div>
+    <div class="fm-body" id="fmBody"></div>
+  </div>
+</div>
+
 <script>
+const TREES = __FOLDER_TREES__;
 const US_DATA = __US_DATA__;
 const HU_DATA = __HU_DATA__;
 const US_REGIONS = __US_REGIONS__;
@@ -316,7 +347,7 @@ function buildTable(containerId, data, columns, sortCol, sortDir) {
       if (c.key === '_rank') {
         html += `<td class="rank">${i + 1}</td>`;
       } else if (c.key === 'name') {
-        html += `<td class="name-cell" title="${d.name}">${d.name}</td>`;
+        html += `<td class="name-cell" title="Click to browse folders" onclick="showFolders('${d.name.replace(/'/g, "\\'")}')">${d.name}</td>`;
       } else if (c.key === '_bar') {
         const w = Math.round(((d.adj || 0) / maxAdj) * 100);
         html += `<td class="bar-cell"><div class="bar" style="width:${w}%"></div></td>`;
@@ -489,6 +520,78 @@ function buildMap(containerId, tooltipId, regionSelectId, data, regionStats, coo
 const US_OUTLINE = `<path d="__US_PATH__" fill="#e8ecf0" stroke="#cbd5e1" stroke-width="1.5"/>`;
 const HU_OUTLINE = `<path d="__HU_PATH__" fill="#e8ecf0" stroke="#cbd5e1" stroke-width="1.5"/>`;
 
+// ─── FOLDER MODAL ───
+function countFiles(node) {
+  if (node.t === 'f') return 1;
+  return (node.c || []).reduce((s, c) => s + countFiles(c), 0);
+}
+function countDirs(node) {
+  if (node.t === 'f') return 0;
+  return 1 + (node.c || []).reduce((s, c) => s + countDirs(c), 0);
+}
+function renderTree(nodes) {
+  let html = '<ul class="fm-tree">';
+  nodes.forEach(node => {
+    if (node.t === 'f') {
+      html += `<li class="fm-file">${esc(node.n)}</li>`;
+    } else {
+      const files = countFiles(node);
+      const kids = node.c || [];
+      const hasContent = kids.length > 0;
+      html += `<li class="fm-dir open"><span onclick="this.parentElement.classList.toggle('open')">${esc(node.n)} <span class="fm-stats">(${files} files)</span></span>`;
+      if (hasContent) {
+        html += '<ul>';
+        kids.forEach(c => {
+          if (c.t === 'f') html += `<li class="fm-file">${esc(c.n)}</li>`;
+          else {
+            const cf = countFiles(c);
+            const ck = c.c || [];
+            html += `<li class="fm-dir"><span onclick="this.parentElement.classList.toggle('open')">${esc(c.n)} <span class="fm-stats">(${cf} files)</span></span>`;
+            if (ck.length) html += renderSubTree(ck);
+            else html += '<ul><li class="fm-empty">empty</li></ul>';
+            html += '</li>';
+          }
+        });
+        html += '</ul>';
+      } else {
+        html += '<ul><li class="fm-empty">empty folder</li></ul>';
+      }
+      html += '</li>';
+    }
+  });
+  html += '</ul>';
+  return html;
+}
+function renderSubTree(nodes) {
+  let html = '<ul>';
+  nodes.forEach(c => {
+    if (c.t === 'f') html += `<li class="fm-file">${esc(c.n)}</li>`;
+    else {
+      const cf = countFiles(c);
+      const ck = c.c || [];
+      html += `<li class="fm-dir"><span onclick="this.parentElement.classList.toggle('open')">${esc(c.n)} <span class="fm-stats">(${cf})</span></span>`;
+      if (ck.length) html += renderSubTree(ck);
+      else html += '<ul><li class="fm-empty">empty</li></ul>';
+      html += '</li>';
+    }
+  });
+  html += '</ul>';
+  return html;
+}
+function esc(s) { const d = document.createElement('div'); d.textContent = s; return d.innerHTML; }
+function showFolders(name) {
+  const tree = TREES[name];
+  if (!tree) { alert('No folder data for ' + name); return; }
+  const totalFiles = tree.reduce((s, t) => s + countFiles(t), 0);
+  const totalDirs = tree.reduce((s, t) => s + countDirs(t), 0);
+  document.getElementById('fmTitle').textContent = name + ' — ' + totalFiles + ' files in ' + totalDirs + ' folders';
+  document.getElementById('fmBody').innerHTML = renderTree(tree);
+  document.getElementById('fmBg').classList.add('open');
+}
+document.getElementById('fmBg').addEventListener('click', function(e) { if (e.target === this) this.classList.remove('open'); });
+document.getElementById('fmClose').addEventListener('click', function() { document.getElementById('fmBg').classList.remove('open'); });
+document.addEventListener('keydown', function(e) { if (e.key === 'Escape') document.getElementById('fmBg').classList.remove('open'); });
+
 // ─── INIT ───
 setupPanel('us', US_DATA);
 setupPanel('hu', HU_DATA);
@@ -497,6 +600,78 @@ buildMap('map-hu-container', 'map-hu-tooltip', 'region-hu', HU_DATA, HU_REGIONS,
 </script>
 </body>
 </html>"""
+
+
+ZENE = Path(r"C:\Users\abele\Desktop\zene")
+AUDIO_EXTS = {".mp3", ".wma", ".wav", ".m4a", ".flac"}
+
+# Folder roots to scan per area
+AREA_SCAN_ROOTS = {
+    "us": [ZENE / "_rap", ZENE / "_trap"],
+    "hungarian": [ZENE / "_magyar rap", ZENE / "_magyar trap"],
+}
+
+
+def _normalize_folder_name(name: str) -> str:
+    import re
+    return re.sub(r"[^a-z0-9]", "", name.lower())
+
+
+def build_folder_trees(area: str, persons_data: list[dict]) -> dict[str, list]:
+    """Scan disk for each artist's OWN folders (name-matched), including empty dirs."""
+    base = DATA_ROOT / area / "normalized"
+    songs = load_json(base / "songs.json")
+
+    # Find artist-level folder roots where the folder name matches the artist
+    artist_roots: dict[str, set[str]] = {}
+    for s in songs:
+        for credit in s.get("credits", []):
+            if credit["entity_type"] != "person" or credit["role"] != "primary":
+                continue
+            name = credit["entity"]
+            parts = Path(s["file"]).parts
+            if len(parts) >= 3:
+                folder_name = parts[2]
+                if _normalize_folder_name(folder_name) == _normalize_folder_name(name):
+                    artist_roots.setdefault(name, set()).add(str(Path(*parts[:3])))
+
+    trees: dict[str, list] = {}
+    for p in persons_data:
+        name = p["name"]
+        roots = artist_roots.get(name, set())
+        if not roots:
+            continue
+        artist_tree = []
+        for rel_root in sorted(roots):
+            abs_root = ZENE / rel_root
+            if not abs_root.is_dir():
+                continue
+            tree = _scan_dir(abs_root, rel_root)
+            if tree:
+                artist_tree.append(tree)
+        if artist_tree:
+            trees[name] = artist_tree
+    return trees
+
+
+def _scan_dir(abs_path: Path, rel_path: str) -> dict | None:
+    """Recursively scan a directory, returning a tree node with children."""
+    children = []
+    try:
+        entries = sorted(abs_path.iterdir(), key=lambda e: (not e.is_dir(), e.name.lower()))
+    except PermissionError:
+        return None
+    for entry in entries:
+        if entry.name.startswith(".") or entry.name == "__pycache__":
+            continue
+        if entry.is_dir():
+            child = _scan_dir(entry, rel_path + "/" + entry.name)
+            if child:
+                children.append(child)
+        elif entry.suffix.lower() in AUDIO_EXTS:
+            children.append({"n": entry.name, "t": "f"})
+    # Include empty dirs too
+    return {"n": Path(rel_path).name, "t": "d", "c": children}
 
 
 def main() -> int:
@@ -514,7 +689,13 @@ def main() -> int:
     hu_path = coords_to_svg_path(HU_OUTLINE_COORDS, hu_proj)
     hu_coords = project_points(HU_CITY_GEO, hu_proj)
 
+    # Build folder trees
+    us_trees = build_folder_trees("us", us_data)
+    hu_trees = build_folder_trees("hungarian", hu_data)
+    all_trees = {**us_trees, **hu_trees}
+
     html = HTML_TEMPLATE
+    html = html.replace("__FOLDER_TREES__", json.dumps(all_trees, ensure_ascii=False, separators=(',', ':')))
     html = html.replace("__US_DATA__", json.dumps(us_data, ensure_ascii=False))
     html = html.replace("__HU_DATA__", json.dumps(hu_data, ensure_ascii=False))
     html = html.replace("__US_REGIONS__", json.dumps(us_regions, ensure_ascii=False))

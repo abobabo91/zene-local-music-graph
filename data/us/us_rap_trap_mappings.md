@@ -40,10 +40,10 @@ Examples to expand later:
 - `Lil Uzi Vert: Lil Uzi`
 - `Young Thug: Thugger`
 - `2Pac: Tupac, Tupac Shakur`
-- `50 Cent: 50cent`
+- `50 Cent: 50cent, Cent`
 - `Drake: DRAKE`
 - `Young Dolph: young dolph`
-- `Cam'ron: Cam ron`
+- `Cam'ron: Cam ron, Camron`
 - `21 Savage: 21Savage`
 - `XXXTentacion: XXXTENTACION`
 - `YoungBoy Never Broke Again: NBA YoungBoy, NBA Youngboy, NBA YOUNG BOY, YoungBoy`
@@ -52,6 +52,48 @@ Examples to expand later:
 - `Capone-N-Noreaga: Capone n Noreaga`
 - `N.O.R.E.: Noreaga, NORE`
 - `Offset: OFFSETYRN`
+- `6ix9ine: 69tekashi, Tekashi69, Tekashi 69, TEKASHI69`
+- `A Boogie Wit da Hoodie: aboogie, A Boogie`
+- `Big K.R.I.T.: Big K.R.I.T, BIG KRIT`
+- `LL Cool J: L.L. Cool J`
+- `M.O.P.: M.O.P, MOP`
+- `N.W.A: NWA`
+- `Ol' Dirty Bastard: Ol Dirty Bastard, ODB`
+- `Pusha T: pusha t`
+- `The Notorious B.I.G.: The Notorious B.I.G, The Notorious BIG, Notorious B.I.G., Biggie`
+- `Snoop Dogg: Snoop Doggy Dogg`
+- `Soulja Boy: Soulja Boy Tell em`
+- `Lil Keke: LIl' Keke Classics`
+- `Eazy-E: Eazy E, Eazy-e`
+- `Dr. Dre: Dr Dre, Dr.Dre Discography @320, 01 Dr Dre`
+- `The Game: Game`
+- `Raekwon: Reakwon`
+- `Polo G: polo g`
+- `King Von: king von`
+- `DaBaby: dababy`
+- `DJ Khaled: dj khaled`
+- `Killy: KIlly`
+- `Pop Smoke: POP SMOKE`
+- `Boosie Badazz: boosie, Lil Boosie`
+- `Webbie: webbie hits`
+- `Lil Tecca: lil tecca bangers`
+- `Speaker Knockerz: speaker knockerz`
+- `Yungeen Ace: yungeen ace`
+- `SpaceGhostPurrp: spaceghostpurrp`
+- `Smokepurpp: smokepurpp`
+- `Saweetie: saweetie`
+- `Ice Spice: ice spice`
+- `Saint Jhn: saint jhn`
+- `J Dilla: j dilla`
+- `Jackboy: jackboy`
+- `Soulja Slim: soulja slim`
+- `Boonk: boonk`
+- `Internet Money: internet money`
+- `T.I.: T.I`
+- `Royce Da 5'9": Royce Da 5 9`
+- `SchoolBoy Q: Schoolboy Q`
+- `A$AP Rocky: A$AP`
+- `Dilated Peoples: Dilated Peoples Discography @320`
 
 ## Groups
 
@@ -72,6 +114,14 @@ Starter examples:
 - `Mobb Deep: Prodigy, Havoc`
 - D12: Kuniva, Proof, Kon Artis, Bizarre, Swifty
 - `Wu-Tang Clan: RZA, GZA, Ol' Dirty Bastard, Method Man, Raekwon, Ghostface Killah, Inspectah Deck, U-God, Masta Killa`
+- `Geto Boys: Scarface, Willie D, Bushwick Bill`
+- `N.W.A: Ice Cube, Dr. Dre, Eazy-E, MC Ren, DJ Yella`
+- `Big Tymers: Birdman, Mannie Fresh`
+- `Outkast: Andre 3000, Big Boi`
+- `UGK: Bun B, Pimp C`
+- `Three 6 Mafia: Juicy J, DJ Paul`
+- `Dead Prez: stic.man, M-1`
+- `$uicideboy$: Ruby da Cherry, $crim`
 
 ## Labels
 

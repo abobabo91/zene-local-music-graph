@@ -53,6 +53,9 @@ NOISE_PATTERNS = [
     r"\bHQ\b",
     r"\[\d{3}\]",
     r"\(\d{3}\)",
+    r"\bWSHH\s+Exclusive\b.*",
+    r"\bWSHH\s+Premiere\b.*",
+    r"\bWSHH\b",
 ]
 GENERIC_FOLDER_NAMES = {
     "_random",
@@ -66,8 +69,34 @@ GENERIC_FOLDER_NAMES = {
     "hiphoptxl",
     "youtube",
     "various artists",
+    "top 100 r_b",
+    "top 100 r b",
+    "top 100 rap songs of all time",
+    "top 100 rap songs of all time vol. 2",
+    "top 100 old school hip-hop _ rap songs (1980-1991)",
+    "bang101",
+    "lofihiphop",
+    "we bout dat life",
+    "nothing",
+    "cd1",
+    "cd2",
+    "cd 1",
+    "cd 2",
+    "dilated peoples discography @320",
+}
+# Compilation/mixtape folder prefixes that should not be treated as artist names
+COMPILATION_PREFIXES = {
+    "dj reddy rell",
+    "dj drama",
+    "dj holiday",
+    "dj scream",
+    "dj whoo kid",
+    "va ",
+    "va-",
 }
 UPLOADER_NAMES = {"wshh", "worldstarhiphop", "hiphoptxl", "lyrical lemonade", "youtube"}
+# Names that should never be treated as artist credits
+BLOCKLIST_ARTISTS = {"nothing", "cd1", "cd2", "cd 1", "cd 2", "n/a", "unknown", "various"}
 UNKNOWN_ARTIST = "N/A"
 LABEL_LIKE_ARTISTS = {"cmg the label"}
 YO_GOTTI_GANGSTA_ART_TITLE_ARTISTS = {
@@ -110,6 +139,17 @@ def normalize_key(text: str) -> str:
 
 
 GENERIC_FOLDER_KEYS = {normalize_key(name) for name in GENERIC_FOLDER_NAMES}
+COMPILATION_PREFIX_KEYS = {normalize_key(p) for p in COMPILATION_PREFIXES}
+
+
+def is_generic_folder(name: str) -> bool:
+    key = normalize_key(name)
+    if key in GENERIC_FOLDER_KEYS:
+        return True
+    for prefix in COMPILATION_PREFIX_KEYS:
+        if key.startswith(prefix):
+            return True
+    return False
 
 
 def parse_simple_mapping_block(lines: list[str]) -> dict[str, list[str]]:
@@ -271,7 +311,7 @@ def first_artist_context(path_parts: list[str], mappings: dict) -> str | None:
         candidate = folder_artist_from_name(part)
         if not candidate:
             continue
-        if normalize_key(candidate) in GENERIC_FOLDER_KEYS:
+        if is_generic_folder(candidate):
             continue
         candidates.append(candidate)
 
@@ -325,7 +365,13 @@ def clean_title_from_filename(filename: str) -> str:
     title = re.sub(r"\bprod\.?\s+by\b.*$", "", title, flags=re.IGNORECASE)
     title = re.sub(r"\bproduced by\b.*$", "", title, flags=re.IGNORECASE)
     title = title.replace("_", " ")
-    title = re.sub(r"^\d{1,2}\s*-\s*", "", title)
+    # Only strip leading "NN - " if it looks like a track number (not "50 Cent - ...")
+    m = re.match(r"^(\d{1,2})\s*-\s*(.+)$", title)
+    if m and not re.match(r"\d", m.group(2).strip()[:1] if m.group(2).strip() else ""):
+        # Only strip if remainder doesn't contain another " - " (artist - title pattern)
+        remainder = m.group(2).strip()
+        if " - " not in remainder:
+            title = remainder
     title = re.sub(r"\s+", " ", title).strip(" .-_,")
     return title
 
@@ -430,8 +476,13 @@ def canonical_group_name(name: str, mappings: dict) -> str | None:
 def prefer_display_name(name: str, mappings: dict) -> str:
     canonical = canonicalize_artist(name, mappings)
     if canonical:
+        if normalize_key(canonical) in BLOCKLIST_ARTISTS:
+            return UNKNOWN_ARTIST
         return canonical
-    return clean_artist_text(name)
+    cleaned = clean_artist_text(name)
+    if normalize_key(cleaned) in BLOCKLIST_ARTISTS:
+        return UNKNOWN_ARTIST
+    return cleaned
 
 
 def ensure_person_entry(persons: dict[str, dict], artist: str, groups: list[str] | None = None, labels: list[str] | None = None) -> dict:

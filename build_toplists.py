@@ -72,6 +72,12 @@ GROUP_WEIGHT_OVERRIDES: dict[str, dict[str, float]] = {
     "Eminem": {"D12": 1 / 3},
     "50 Cent": {"G-Unit": 1 / 2},
     "Ketioz": {"Jam Balaya": 1 / 2},
+    "Scarface": {"Geto Boys": 1 / 2},
+    "Ice Cube": {"N.W.A": 1 / 3},
+    "Dr. Dre": {"N.W.A": 1 / 3},
+    "Eazy-E": {"N.W.A": 1 / 3},
+    "Birdman": {"Big Tymers": 1 / 2},
+    "Mannie Fresh": {"Big Tymers": 1 / 2},
 }
 
 

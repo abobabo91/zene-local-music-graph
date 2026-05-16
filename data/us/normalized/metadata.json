@@ -14,12 +14,12 @@
     }
   },
   "counts": {
-    "songs": 6817,
-    "persons": 1514,
-    "groups": 9,
+    "songs": 6792,
+    "persons": 1444,
+    "groups": 17,
     "labels": 6,
     "regions": 14,
-    "unattributed_songs": 70
+    "unattributed_songs": 142
   },
   "notes": [
     "Songs are the source of truth.",
