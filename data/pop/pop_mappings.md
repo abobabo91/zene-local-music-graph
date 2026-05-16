@@ -1,0 +1,48 @@
+# Pop Mappings
+
+## Alias normalization
+
+- `Dua Lipa: ALL DUA LIPA MUSIC VIDEOS`
+- `Adele: Adele - 25`
+- `Akon: Akon Discography @ 320, Akon Discography`
+- `Backstreet Boys: Backstreet Boys - Discography`
+- `Claude Kelly: Claude Kelly`
+- `Gorillaz: Gorillaz Greatest Hits`
+- `Julia Michaels: Julia Michaels - YouTube, Songbook Julia Michaels - YouTube, Songbook  Julia Michaels`
+- `Kate Ryan: KATE RYAN Remix, KATE RYAN  Remix`
+- `Kylie Minogue: Kylie Minogue - Official Music Videos`
+- `NSYNC: NSYNC Songs Playlist N-SYNC Greatest Hits, N-SYNC Greatest Hits`
+- `Nelly Furtado: Nelly Furtado - All Official Music Videos`
+- `Pussycat Dolls: Pussycat Dolls - YouTube`
+- `ZAYN: ZAYN - Mind Of Mine`
+- `Beyoncé: beyonce`
+- `Britney Spears: britney`
+- `Ellie Goulding: ellie goulding`
+- `Outlandish: outlandish`
+- `Ariana Grande: Ariana Grande - Album Discography`
+- `Camila Cabello: CamilaCabelloVEVO`
+- `Tate McRae: Tate McRae`
+- `RAYE: RAYE - Official Videos`
+- `Aretha Franklin: ARETHA FRANKLIN GREATEST HITS 1`
+- `ABBA: Abba Songs Playlist Abba Greatest Hits`
+- `Diana Ross: Diana Ross's Greatest Hits - YouTube, Diana Ross s Greatest Hits`
+- `Dido: Dido - Greatest Hits 2013`
+- `Donna Summer: Donna Summer On The Radio - Greatest Hits Vol I&II`
+- `Lionel Richie: Lionel Richie - The Definitive Collection Album`
+- `Cher: Cher`
+- `Barbra Streisand: Barbra Streisand`
+- `Elton John: Elton John`
+- `Eric Clapton: Eric Clapton - Greatest Hits`
+- `Madison Beer: madison beer's best songs, madison beer s best songs`
+- `Katseye: all katseye songs in order`
+- `Taylor Swift: Taylor Swift`
+- `Rihanna: Rihanna`
+- `Lady Gaga: Lady Gaga`
+- `Bruno Mars: Bruno Mars`
+- `Pharrell Williams: Pharrell Williams`
+- `Iggy Azalea: Iggy Azalea - Music Videos`
+- `Ariana Grande: Ariana Gande`
+- `Calvin Harris: Calvin Harrisn`
+- `Will.I.Am: will i am`
+- `T-Pain: T Pain`
+- `Kaytranada: Kaytranada`

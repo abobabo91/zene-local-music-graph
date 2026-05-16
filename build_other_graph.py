@@ -112,6 +112,46 @@ AREA_CONFIG = {
         },
         "split_groups": {"Destiny's Child"},
     },
+    "pop": {
+        "scan_root": ZENE / "_other" / "_pop",
+        "id_prefix": "pp",
+        "generic_folders": {
+            "_billboard", "_kpop", "_modern", "_oldschool_pop", "_random",
+            "_pop", "_other", "random", "misc", "videos", "youtube",
+            "groove it you move it", "felicita y mas",
+            "00s", "00s - youtube",
+            # Billboard year folders
+            "1990", "1991", "1992", "1993", "1994", "1995", "1996", "1997",
+            "1998", "1999", "2000", "2001", "2002", "2003", "2004", "2005",
+            "2006", "2007", "2008", "2009", "2010", "2011", "2012", "2013",
+            "2014", "2015", "2016", "2017", "2018", "2019", "2020",
+        },
+        "blocklist": {
+            "n/a", "unknown", "various", "nothing", "you", "me",
+            "lyrics", "audio", "download link",
+            "billboard top 100 hits of 2007",
+            "uk hot 100 best of 2014",
+        },
+        "split_groups": set(),
+    },
+    "alternate": {
+        "scan_root": ZENE / "_other" / "_alternate",
+        "id_prefix": "al",
+        "generic_folders": {
+            "_random", "_chill", "_alternate", "_other",
+            "random", "misc", "videos", "youtube",
+            "best jazzanova",
+        },
+        "blocklist": {
+            "n/a", "unknown", "various", "nothing", "you", "me",
+            "lyrics", "audio", "download link",
+            "twin peaks season i", "peaky blinders soundtrack",
+            "the fault in our stars", "against all odds",
+            "in the air tonight", "i am stretched on your grave",
+            "planet caravan", "el cerro raro y me vio un pinche cuervo",
+        },
+        "split_groups": set(),
+    },
 }
 
 
@@ -131,6 +171,9 @@ def clean_artist_text(text: str) -> str:
 
 def clean_title(filename: str) -> str:
     title = UNICODE_DASH_RE.sub("-", Path(filename).stem)
+    # Strip billboard-style "YYYY-NNN " or "NNN-" prefixes
+    title = re.sub(r"^\d{4}[-_]\d{2,3}\s+", "", title)
+    title = re.sub(r"^\d{2,3}[-._]\s*", "", title)
     title = re.sub(r"^\d{1,2}\s*[-._)]\s*", "", title)
     title = re.sub(r"^\d{1,2}\s+", "", title)
     for p in NOISE_PATTERNS:
@@ -227,6 +270,8 @@ def _parse_mapping_block(lines: list[str]) -> dict[str, list[str]]:
 
 def is_generic(name: str, config: dict) -> bool:
     key = normalize_key(name)
+    if key.isdigit():
+        return True  # pure year folders like "2011"
     generic_keys = {normalize_key(n) for n in config["generic_folders"]}
     return key in generic_keys
 

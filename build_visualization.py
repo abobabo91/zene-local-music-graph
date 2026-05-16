@@ -271,6 +271,8 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
   <div class="tab" data-tab="rock">Rock</div>
   <div class="tab" data-tab="magyar">Magyar</div>
   <div class="tab" data-tab="latino">Latino</div>
+  <div class="tab" data-tab="pop">Pop</div>
+  <div class="tab" data-tab="alternate">Alternative</div>
 </div>
 
 <div id="panel-us" class="panel">
@@ -343,6 +345,24 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
   <div class="table-wrap"><div class="table-scroll" id="table-latino"></div></div>
 </div>
 
+<div id="panel-pop" class="panel" style="display:none">
+  <div class="stats" id="stats-pop"></div>
+  <div class="controls">
+    <input type="text" id="search-pop" placeholder="Search artists...">
+    <label><input type="checkbox" id="top100-pop"> Top 100 only</label>
+  </div>
+  <div class="table-wrap"><div class="table-scroll" id="table-pop"></div></div>
+</div>
+
+<div id="panel-alternate" class="panel" style="display:none">
+  <div class="stats" id="stats-alternate"></div>
+  <div class="controls">
+    <input type="text" id="search-alternate" placeholder="Search artists...">
+    <label><input type="checkbox" id="top100-alternate"> Top 100 only</label>
+  </div>
+  <div class="table-wrap"><div class="table-scroll" id="table-alternate"></div></div>
+</div>
+
 <div class="fm-bg" id="fmBg">
   <div class="fm">
     <div class="fm-head"><h3 id="fmTitle"></h3><button class="fm-close" id="fmClose">&times;</button></div>
@@ -356,6 +376,8 @@ const RNB_DATA = __RNB_DATA__;
 const ROCK_DATA = __ROCK_DATA__;
 const MAGYAR_DATA = __MAGYAR_DATA__;
 const LATINO_DATA = __LATINO_DATA__;
+const POP_DATA = __POP_DATA__;
+const ALT_DATA = __ALT_DATA__;
 const US_DATA = __US_DATA__;
 const HU_DATA = __HU_DATA__;
 const US_REGIONS = __US_REGIONS__;
@@ -643,6 +665,8 @@ setupPanel('rnb', RNB_DATA);
 setupPanel('rock', ROCK_DATA);
 setupPanel('magyar', MAGYAR_DATA);
 setupPanel('latino', LATINO_DATA);
+setupPanel('pop', POP_DATA);
+setupPanel('alternate', ALT_DATA);
 buildMap('map-us-container', 'map-us-tooltip', 'region-us', US_DATA, US_REGIONS, US_COORDS, US_OUTLINE, [900, 560], '#3b82f6');
 buildMap('map-hu-container', 'map-hu-tooltip', 'region-hu', HU_DATA, HU_REGIONS, HU_COORDS, HU_OUTLINE, [620, 260], '#dc2626');
 </script>
@@ -729,6 +753,8 @@ def main() -> int:
     rock_data = export_persons("rock")
     magyar_data = export_persons("magyar")
     latino_data = export_persons("latino")
+    pop_data = export_persons("pop")
+    alt_data = export_persons("alternate")
     us_regions = export_regions("us")
     hu_regions = build_hu_regions_from_overrides("hungarian", hu_data)
 
@@ -748,7 +774,9 @@ def main() -> int:
     rock_trees = build_folder_trees("rock", rock_data)
     magyar_trees = build_folder_trees("magyar", magyar_data)
     latino_trees = build_folder_trees("latino", latino_data)
-    all_trees = {**us_trees, **hu_trees, **rnb_trees, **rock_trees, **magyar_trees, **latino_trees}
+    pop_trees = build_folder_trees("pop", pop_data)
+    alt_trees = build_folder_trees("alternate", alt_data)
+    all_trees = {**us_trees, **hu_trees, **rnb_trees, **rock_trees, **magyar_trees, **latino_trees, **pop_trees, **alt_trees}
 
     html = HTML_TEMPLATE
     html = html.replace("__FOLDER_TREES__", json.dumps(all_trees, ensure_ascii=False, separators=(',', ':')))
@@ -756,6 +784,8 @@ def main() -> int:
     html = html.replace("__ROCK_DATA__", json.dumps(rock_data, ensure_ascii=False))
     html = html.replace("__MAGYAR_DATA__", json.dumps(magyar_data, ensure_ascii=False))
     html = html.replace("__LATINO_DATA__", json.dumps(latino_data, ensure_ascii=False))
+    html = html.replace("__POP_DATA__", json.dumps(pop_data, ensure_ascii=False))
+    html = html.replace("__ALT_DATA__", json.dumps(alt_data, ensure_ascii=False))
     html = html.replace("__US_DATA__", json.dumps(us_data, ensure_ascii=False))
     html = html.replace("__HU_DATA__", json.dumps(hu_data, ensure_ascii=False))
     html = html.replace("__US_REGIONS__", json.dumps(us_regions, ensure_ascii=False))
