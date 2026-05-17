@@ -677,7 +677,7 @@
   {
     "song_id": "r-00034",
     "file": "_other\\_rnb\\_modern\\Brent Faiyaz\\Poison - Brent Faiyaz (lyrics).mp3",
-    "title": "Brent Faiyaz (lyrics)",
+    "title": "Brent Faiyaz ()",
     "primary_artists": [
       "Poison"
     ],
@@ -1493,7 +1493,7 @@
   {
     "song_id": "r-00074",
     "file": "_other\\_rnb\\_modern\\dvsn\\dvsn - No Good (Official Lyrics Video).mp3",
-    "title": "No Good (Official Lyrics Video)",
+    "title": "No Good ()",
     "primary_artists": [
       "dvsn"
     ],
@@ -2254,7 +2254,7 @@
   {
     "song_id": "r-00111",
     "file": "_other\\_rnb\\_modern\\kehlani\\Kehlani - Nights Like This (Lyrics) (ft. Ty Dolla $ign).mp3",
-    "title": "Nights Like This (Lyrics) (ft",
+    "title": "Nights Like This () (ft",
     "primary_artists": [
       "Kehlani"
     ],
@@ -2434,7 +2434,7 @@
   {
     "song_id": "r-00120",
     "file": "_other\\_rnb\\_modern\\SickickMusic\\Sickick - Best For Me [Lyric Video].mp3",
-    "title": "Best For Me [Lyric Video]",
+    "title": "Best For Me []",
     "primary_artists": [
       "N/A"
     ],
@@ -2924,15 +2924,15 @@
     "file": "_other\\_rnb\\_modern\\SZA\\Famous Dex - Japan (Prod. JGramm) [Official Lyric Video].mp3",
     "title": "Japan (Prod",
     "primary_artists": [
-      "Famous De"
+      "Famous Dex"
     ],
     "featuring_artists": [],
     "artists": [
-      "Famous De"
+      "Famous Dex"
     ],
     "credits": [
       {
-        "entity": "Famous De",
+        "entity": "Famous Dex",
         "entity_type": "person",
         "role": "primary"
       }
@@ -3190,7 +3190,7 @@
   {
     "song_id": "r-00157",
     "file": "_other\\_rnb\\_modern\\SZA\\SZA Love Galore Lyrics.mp3",
-    "title": "SZA Love Galore Lyrics",
+    "title": "SZA Love Galore",
     "primary_artists": [
       "SZA"
     ],
@@ -3210,7 +3210,7 @@
   {
     "song_id": "r-00158",
     "file": "_other\\_rnb\\_modern\\SZA\\The Weeknd, Kendrick Lamar - Pray For Me (Lyric Video).mp3",
-    "title": "Pray For Me (Lyric Video)",
+    "title": "Pray For Me ()",
     "primary_artists": [
       "The Weeknd",
       "Kendrick Lamar"
@@ -3365,7 +3365,7 @@
   {
     "song_id": "r-00165",
     "file": "_other\\_rnb\\_modern\\tinashe\\Tinashe - Indigo Child (Interlude) [Lyrics On Screen].mp3",
-    "title": "Indigo Child (Interlude) [Lyrics On Screen]",
+    "title": "Indigo Child (Interlude) [ On Screen]",
     "primary_artists": [
       "Tinashe"
     ],
@@ -4615,40 +4615,40 @@
     "file": "_other\\_rnb\\_random\\90s 00s rnb\\112\\Don`t Hate Me.mp3",
     "title": "Don`t Hate Me",
     "primary_artists": [
-      "112"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "112"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "112",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "r-00228",
     "file": "_other\\_rnb\\_random\\90s 00s rnb\\112\\It_s Over Now.mp3",
     "title": "It s Over Now",
     "primary_artists": [
-      "112"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "112"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "112",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "r-00229",
@@ -4675,40 +4675,40 @@
     "file": "_other\\_rnb\\_random\\90s 00s rnb\\112\\Someone To Hold.mp3",
     "title": "Someone To Hold",
     "primary_artists": [
-      "112"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "112"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "112",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "r-00231",
     "file": "_other\\_rnb\\_random\\90s 00s rnb\\702 mix\\702 - Get It Together (Official Video).mp3",
     "title": "Get It Together ()",
     "primary_artists": [
-      "702"
+      "N/A"
     ],
     "featuring_artists": [],
     "artists": [
-      "702"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "702",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "r-00232",
@@ -5215,20 +5215,20 @@
     "file": "_other\\_rnb\\_random\\90s 00s rnb\\Kut klose slow jams\\Next - Butta Love.mp3",
     "title": "Butta Love",
     "primary_artists": [
-      "N/A"
+      "Next"
     ],
     "featuring_artists": [],
     "artists": [
-      "N/A"
+      "Next"
     ],
     "credits": [
       {
-        "entity": "N/A",
+        "entity": "Next",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "r-00258",
@@ -5502,7 +5502,6 @@
     "file": "_other\\_rnb\\_random\\90s 00s rnb\\TONI BRAXTON - Greatest Hits\\Suddenly  by Toni Braxton.mp3",
     "title": "Suddenly by Toni Braxton",
     "primary_artists": [
-      "Toni Braxton",
       "Toni Braxton"
     ],
     "featuring_artists": [],
@@ -5510,11 +5509,6 @@
       "Toni Braxton"
     ],
     "credits": [
-      {
-        "entity": "Toni Braxton",
-        "entity_type": "person",
-        "role": "primary"
-      },
       {
         "entity": "Toni Braxton",
         "entity_type": "person",
@@ -5528,7 +5522,6 @@
     "file": "_other\\_rnb\\_random\\90s 00s rnb\\TONI BRAXTON - Greatest Hits\\Toni Braxton  And I Love You.mp3",
     "title": "Toni Braxton And I Love You",
     "primary_artists": [
-      "Toni Braxton",
       "Toni Braxton"
     ],
     "featuring_artists": [],
@@ -5536,11 +5529,6 @@
       "Toni Braxton"
     ],
     "credits": [
-      {
-        "entity": "Toni Braxton",
-        "entity_type": "person",
-        "role": "primary"
-      },
       {
         "entity": "Toni Braxton",
         "entity_type": "person",
@@ -5554,7 +5542,6 @@
     "file": "_other\\_rnb\\_random\\90s 00s rnb\\TONI BRAXTON - Greatest Hits\\Toni Braxton - Another Sad Love Song (Int_l Version).mp3",
     "title": "Another Sad Love Song (Int l Version)",
     "primary_artists": [
-      "Toni Braxton",
       "Toni Braxton"
     ],
     "featuring_artists": [],
@@ -5562,11 +5549,6 @@
       "Toni Braxton"
     ],
     "credits": [
-      {
-        "entity": "Toni Braxton",
-        "entity_type": "person",
-        "role": "primary"
-      },
       {
         "entity": "Toni Braxton",
         "entity_type": "person",
@@ -5578,9 +5560,8 @@
   {
     "song_id": "r-00274",
     "file": "_other\\_rnb\\_random\\90s 00s rnb\\TONI BRAXTON - Greatest Hits\\Toni Braxton - Find Me A Man (with lyrics).mp3",
-    "title": "Find Me A Man (with lyrics)",
+    "title": "Find Me A Man (with )",
     "primary_artists": [
-      "Toni Braxton",
       "Toni Braxton"
     ],
     "featuring_artists": [],
@@ -5588,11 +5569,6 @@
       "Toni Braxton"
     ],
     "credits": [
-      {
-        "entity": "Toni Braxton",
-        "entity_type": "person",
-        "role": "primary"
-      },
       {
         "entity": "Toni Braxton",
         "entity_type": "person",
@@ -5606,7 +5582,6 @@
     "file": "_other\\_rnb\\_random\\90s 00s rnb\\TONI BRAXTON - Greatest Hits\\Toni Braxton - He Wasn_t Man Enough (Video Version).mp3",
     "title": "He Wasn t Man Enough (Video Version)",
     "primary_artists": [
-      "Toni Braxton",
       "Toni Braxton"
     ],
     "featuring_artists": [],
@@ -5614,11 +5589,6 @@
       "Toni Braxton"
     ],
     "credits": [
-      {
-        "entity": "Toni Braxton",
-        "entity_type": "person",
-        "role": "primary"
-      },
       {
         "entity": "Toni Braxton",
         "entity_type": "person",
@@ -5632,7 +5602,6 @@
     "file": "_other\\_rnb\\_random\\90s 00s rnb\\TONI BRAXTON - Greatest Hits\\Toni Braxton - Hit The Freeway ft. Loon (Official Music Video).mp3",
     "title": "Hit The Freeway ft",
     "primary_artists": [
-      "Toni Braxton",
       "Toni Braxton"
     ],
     "featuring_artists": [],
@@ -5640,11 +5609,6 @@
       "Toni Braxton"
     ],
     "credits": [
-      {
-        "entity": "Toni Braxton",
-        "entity_type": "person",
-        "role": "primary"
-      },
       {
         "entity": "Toni Braxton",
         "entity_type": "person",
@@ -5658,7 +5622,6 @@
     "file": "_other\\_rnb\\_random\\90s 00s rnb\\TONI BRAXTON - Greatest Hits\\Toni Braxton - I_m Still Breathing.mp3",
     "title": "I m Still Breathing",
     "primary_artists": [
-      "Toni Braxton",
       "Toni Braxton"
     ],
     "featuring_artists": [],
@@ -5666,11 +5629,6 @@
       "Toni Braxton"
     ],
     "credits": [
-      {
-        "entity": "Toni Braxton",
-        "entity_type": "person",
-        "role": "primary"
-      },
       {
         "entity": "Toni Braxton",
         "entity_type": "person",
@@ -5684,7 +5642,6 @@
     "file": "_other\\_rnb\\_random\\90s 00s rnb\\TONI BRAXTON - Greatest Hits\\Toni Braxton - Let me show you the way.mp3",
     "title": "Let me show you the way",
     "primary_artists": [
-      "Toni Braxton",
       "Toni Braxton"
     ],
     "featuring_artists": [],
@@ -5692,11 +5649,6 @@
       "Toni Braxton"
     ],
     "credits": [
-      {
-        "entity": "Toni Braxton",
-        "entity_type": "person",
-        "role": "primary"
-      },
       {
         "entity": "Toni Braxton",
         "entity_type": "person",
@@ -5710,7 +5662,6 @@
     "file": "_other\\_rnb\\_random\\90s 00s rnb\\TONI BRAXTON - Greatest Hits\\Toni Braxton - Spanish Guitar (Official Music Video).mp3",
     "title": "Spanish Guitar ()",
     "primary_artists": [
-      "Toni Braxton",
       "Toni Braxton"
     ],
     "featuring_artists": [],
@@ -5718,11 +5669,6 @@
       "Toni Braxton"
     ],
     "credits": [
-      {
-        "entity": "Toni Braxton",
-        "entity_type": "person",
-        "role": "primary"
-      },
       {
         "entity": "Toni Braxton",
         "entity_type": "person",
@@ -5736,7 +5682,6 @@
     "file": "_other\\_rnb\\_random\\90s 00s rnb\\TONI BRAXTON - Greatest Hits\\Toni Braxton - Un-Break My Heart (Official Music Video).mp3",
     "title": "Un-Break My Heart ()",
     "primary_artists": [
-      "Toni Braxton",
       "Toni Braxton"
     ],
     "featuring_artists": [],
@@ -5744,11 +5689,6 @@
       "Toni Braxton"
     ],
     "credits": [
-      {
-        "entity": "Toni Braxton",
-        "entity_type": "person",
-        "role": "primary"
-      },
       {
         "entity": "Toni Braxton",
         "entity_type": "person",
@@ -5762,7 +5702,6 @@
     "file": "_other\\_rnb\\_random\\90s 00s rnb\\TONI BRAXTON - Greatest Hits\\Toni Braxton-Never just for the ring.mp3",
     "title": "Toni Braxton-Never just for the ring",
     "primary_artists": [
-      "Toni Braxton",
       "Toni Braxton"
     ],
     "featuring_artists": [],
@@ -5770,11 +5709,6 @@
       "Toni Braxton"
     ],
     "credits": [
-      {
-        "entity": "Toni Braxton",
-        "entity_type": "person",
-        "role": "primary"
-      },
       {
         "entity": "Toni Braxton",
         "entity_type": "person",
@@ -5788,60 +5722,60 @@
     "file": "_other\\_rnb\\_random\\90s 00s rnb\\XSCAPE\\Xscape - Love On My Mind (Official Video).mp3",
     "title": "Love On My Mind ()",
     "primary_artists": [
-      "N/A"
+      "XSCAPE"
     ],
     "featuring_artists": [],
     "artists": [
-      "N/A"
+      "XSCAPE"
     ],
     "credits": [
       {
-        "entity": "N/A",
+        "entity": "XSCAPE",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "r-00283",
     "file": "_other\\_rnb\\_random\\90s 00s rnb\\XSCAPE\\Xscape - Tonight (Official Video).mp3",
     "title": "Tonight ()",
     "primary_artists": [
-      "N/A"
+      "XSCAPE"
     ],
     "featuring_artists": [],
     "artists": [
-      "N/A"
+      "XSCAPE"
     ],
     "credits": [
       {
-        "entity": "N/A",
+        "entity": "XSCAPE",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "r-00284",
     "file": "_other\\_rnb\\_random\\90s 00s rnb\\XSCAPE\\XSCAPE WHO CAN I RUN TO (ORIGINAL).mp3",
     "title": "XSCAPE WHO CAN I RUN TO (ORIGINAL)",
     "primary_artists": [
-      "N/A"
+      "XSCAPE"
     ],
     "featuring_artists": [],
     "artists": [
-      "N/A"
+      "XSCAPE"
     ],
     "credits": [
       {
-        "entity": "N/A",
+        "entity": "XSCAPE",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "r-00285",
@@ -6022,7 +5956,7 @@
   {
     "song_id": "r-00293",
     "file": "_other\\_rnb\\_random\\bedtime rnb\\Birthday Sex-Jeremiah with lyrics.mp3",
-    "title": "Birthday Sex-Jeremiah",
+    "title": "Birthday Sex-Jeremiah with",
     "primary_artists": [
       "N/A"
     ],
@@ -6169,7 +6103,7 @@
   {
     "song_id": "r-00300",
     "file": "_other\\_rnb\\_random\\BJRNCK\\BJRNCK - Real (Lyric Video).mp3",
-    "title": "Real (Lyric Video)",
+    "title": "Real ()",
     "primary_artists": [
       "BJRNCK"
     ],
@@ -6191,20 +6125,20 @@
     "file": "_other\\_rnb\\_random\\Blxst Mix\\Blxst - Chosen ft. Ty Dolla $ign, Tyga (Audio).mp3",
     "title": "Chosen ft",
     "primary_artists": [
-      "N/A"
+      "Blxst"
     ],
     "featuring_artists": [],
     "artists": [
-      "N/A"
+      "Blxst"
     ],
     "credits": [
       {
-        "entity": "N/A",
+        "entity": "Blxst",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "r-00302",
@@ -6331,15 +6265,15 @@
     "file": "_other\\_rnb\\_random\\Dj_Wispas_Presents_Rb_Heaven_Vol5-(DatPiff.com)\\Frank Ocean Chris BrownLloydCassiedjwispasPre (DatPiff.com)\\29 - Gravity-What a waste (Sean Divine).mp3",
     "title": "Gravity-What a waste (Sean Divine)",
     "primary_artists": [
-      "Frank Ocean Chris BrownLloydCassiedjwispasPre"
+      "Dj Wispas Presents Rb Heaven Vol5"
     ],
     "featuring_artists": [],
     "artists": [
-      "Frank Ocean Chris BrownLloydCassiedjwispasPre"
+      "Dj Wispas Presents Rb Heaven Vol5"
     ],
     "credits": [
       {
-        "entity": "Frank Ocean Chris BrownLloydCassiedjwispasPre",
+        "entity": "Dj Wispas Presents Rb Heaven Vol5",
         "entity_type": "person",
         "role": "primary"
       }
@@ -6831,7 +6765,7 @@
   {
     "song_id": "r-00332",
     "file": "_other\\_rnb\\_random\\Masego\\Masego - Veg Out (Wasting Thyme) [Lyric Video].mp3",
-    "title": "Veg Out (Wasting Thyme) [Lyric Video]",
+    "title": "Veg Out (Wasting Thyme) []",
     "primary_artists": [
       "Masego"
     ],
@@ -6947,7 +6881,6 @@
     "file": "_other\\_rnb\\_random\\rap caviar\\Rb_Heaven_Vol_16-(DatPiff.com)\\Various Artists - Rb Heaven Vol 16 (DatPiff.com)\\20 - PARTYNEXTDOOR - Famous.mp3",
     "title": "Famous",
     "primary_artists": [
-      "PARTYNEXTDOOR",
       "PARTYNEXTDOOR"
     ],
     "featuring_artists": [],
@@ -6955,11 +6888,6 @@
       "PARTYNEXTDOOR"
     ],
     "credits": [
-      {
-        "entity": "PARTYNEXTDOOR",
-        "entity_type": "person",
-        "role": "primary"
-      },
       {
         "entity": "PARTYNEXTDOOR",
         "entity_type": "person",
@@ -7161,21 +7089,15 @@
     "file": "_other\\_rnb\\_random\\rap caviar\\Rnb_Heaven_Vol_14-(DatPiff.com)\\The WeekndDrake Future  Frank Ocean August Als (DatPiff.com)\\03 - Party Next Door - West District.mp3",
     "title": "West District",
     "primary_artists": [
-      "PARTYNEXTDOOR",
-      "PARTYNEXTDOOR"
+      "Party Next Door"
     ],
     "featuring_artists": [],
     "artists": [
-      "PARTYNEXTDOOR"
+      "Party Next Door"
     ],
     "credits": [
       {
-        "entity": "PARTYNEXTDOOR",
-        "entity_type": "person",
-        "role": "primary"
-      },
-      {
-        "entity": "PARTYNEXTDOOR",
+        "entity": "Party Next Door",
         "entity_type": "person",
         "role": "primary"
       }
@@ -7279,20 +7201,20 @@
   {
     "song_id": "r-00352",
     "file": "_other\\_rnb\\_random\\Ray J Playlist\\Bubba Sparxxx ft. Ray J - She Got Me Like [Without Lyrics].mp3",
-    "title": "She Got Me Like [Without Lyrics]",
+    "title": "She Got Me Like [Without ]",
     "primary_artists": [
-      "N/A"
+      "Bubba Sparxxx"
     ],
     "featuring_artists": [
       "Ray J"
     ],
     "artists": [
-      "N/A",
+      "Bubba Sparxxx",
       "Ray J"
     ],
     "credits": [
       {
-        "entity": "N/A",
+        "entity": "Bubba Sparxxx",
         "entity_type": "person",
         "role": "primary"
       },
@@ -7302,7 +7224,7 @@
         "role": "feature"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "r-00353",
@@ -7335,7 +7257,7 @@
   {
     "song_id": "r-00354",
     "file": "_other\\_rnb\\_random\\Ray J Playlist\\Ray J - All I Feel - Lyrics.mp3",
-    "title": "All I Feel - Lyrics",
+    "title": "All I Feel",
     "primary_artists": [
       "Ray J"
     ],
@@ -7597,60 +7519,60 @@
     "file": "_other\\_rnb\\_random\\rnb\\Magic Mike XXL OST - All The Time (Jeremih feat Lil_ Wayne _ Natasha Mosley).mp3",
     "title": "All The Time (Jeremih feat Lil Wayne Natasha Mosley)",
     "primary_artists": [
-      "N/A"
+      "Magic Mike XXL OST"
     ],
     "featuring_artists": [],
     "artists": [
-      "N/A"
+      "Magic Mike XXL OST"
     ],
     "credits": [
       {
-        "entity": "N/A",
+        "entity": "Magic Mike XXL OST",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "r-00368",
     "file": "_other\\_rnb\\_random\\rnb\\Magic Mike XXL Soundtrack - Jacquees - Feel It (feat Rich Homie Quan _ Lloyd).mp3",
     "title": "Jacquees - Feel It (feat Rich Homie Quan Lloyd)",
     "primary_artists": [
-      "N/A"
+      "Magic Mike XXL Soundtrack"
     ],
     "featuring_artists": [],
     "artists": [
-      "N/A"
+      "Magic Mike XXL Soundtrack"
     ],
     "credits": [
       {
-        "entity": "N/A",
+        "entity": "Magic Mike XXL Soundtrack",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "r-00369",
     "file": "_other\\_rnb\\_random\\rnb\\Magic Mike XXL Soundtrack - Sex You (Bando Jonez).mp3",
     "title": "Sex You (Bando Jonez)",
     "primary_artists": [
-      "N/A"
+      "Magic Mike XXL Soundtrack"
     ],
     "featuring_artists": [],
     "artists": [
-      "N/A"
+      "Magic Mike XXL Soundtrack"
     ],
     "credits": [
       {
-        "entity": "N/A",
+        "entity": "Magic Mike XXL Soundtrack",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "r-00370",
@@ -7737,20 +7659,20 @@
     "file": "_other\\_rnb\\_random\\rnb\\OST Magic Mike XXL OST - My Pony (Ginuwine).mp3",
     "title": "My Pony (Ginuwine)",
     "primary_artists": [
-      "N/A"
+      "OST Magic Mike XXL OST"
     ],
     "featuring_artists": [],
     "artists": [
-      "N/A"
+      "OST Magic Mike XXL OST"
     ],
     "credits": [
       {
-        "entity": "N/A",
+        "entity": "OST Magic Mike XXL OST",
         "entity_type": "person",
         "role": "primary"
       }
     ],
-    "attribution_status": "unattributed"
+    "attribution_status": "attributed"
   },
   {
     "song_id": "r-00375",
@@ -7935,7 +7857,7 @@
   {
     "song_id": "r-00384",
     "file": "_other\\_rnb\\_random\\smooth vibin_\\Angèle - Jalousie [CLIP OFFICIEL].mp3",
-    "title": "Jalousie [CLIP OFFICIEL]",
+    "title": "Jalousie []",
     "primary_artists": [
       "Angèle"
     ],
@@ -8235,7 +8157,7 @@
   {
     "song_id": "r-00399",
     "file": "_other\\_rnb\\_random\\Summer Walker\\Summer Walker - Deeper [Lyric Video].mp3",
-    "title": "Deeper [Lyric Video]",
+    "title": "Deeper []",
     "primary_artists": [
       "Summer Walker"
     ],
@@ -8295,7 +8217,7 @@
   {
     "song_id": "r-00402",
     "file": "_other\\_rnb\\_random\\Summer Walker\\Summer Walker - Stretch You Out [Lyric Video].mp3",
-    "title": "Stretch You Out [Lyric Video]",
+    "title": "Stretch You Out []",
     "primary_artists": [
       "Summer Walker"
     ],
@@ -8700,15 +8622,15 @@
     "file": "_other\\_rnb\\ashanti\\2002-002 Ashanti - Foolish.mp3",
     "title": "Foolish",
     "primary_artists": [
-      "2002-002 Ashanti"
+      "Ashanti"
     ],
     "featuring_artists": [],
     "artists": [
-      "2002-002 Ashanti"
+      "Ashanti"
     ],
     "credits": [
       {
-        "entity": "2002-002 Ashanti",
+        "entity": "Ashanti",
         "entity_type": "person",
         "role": "primary"
       }
@@ -9454,15 +9376,23 @@
     "primary_artists": [
       "N/A"
     ],
-    "featuring_artists": [],
+    "featuring_artists": [
+      "ON SCREEN"
+    ],
     "artists": [
-      "N/A"
+      "N/A",
+      "ON SCREEN"
     ],
     "credits": [
       {
         "entity": "N/A",
         "entity_type": "person",
         "role": "primary"
+      },
+      {
+        "entity": "ON SCREEN",
+        "entity_type": "person",
+        "role": "feature"
       }
     ],
     "attribution_status": "unattributed"
@@ -9510,7 +9440,7 @@
   {
     "song_id": "r-00460",
     "file": "_other\\_rnb\\B5-B5-2005\\B5 Audio Unreleased Singles\\Audio(B5)-Torture Lyrics Video.mp3",
-    "title": "Audio(B5)-Torture Lyrics Video",
+    "title": "Audio(B5)-Torture Video",
     "primary_artists": [
       "B5"
     ],
@@ -9550,7 +9480,7 @@
   {
     "song_id": "r-00462",
     "file": "_other\\_rnb\\B5-B5-2005\\B5 Audio Unreleased Singles\\B5 - Make That Change With Lyrics.mp3",
-    "title": "Make That Change",
+    "title": "Make That Change With",
     "primary_artists": [
       "B5"
     ],
@@ -9590,7 +9520,7 @@
   {
     "song_id": "r-00464",
     "file": "_other\\_rnb\\B5-B5-2005\\B5 Audio Unreleased Singles\\B5 Gotta Get Her whit Lyrics.mp3",
-    "title": "B5 Gotta Get Her whit Lyrics",
+    "title": "B5 Gotta Get Her whit",
     "primary_artists": [
       "B5"
     ],
@@ -11353,22 +11283,15 @@
     "file": "_other\\_rnb\\Dreezy\\Dreezy, 2Chainz - 2nd To None.mp3",
     "title": "2nd To None",
     "primary_artists": [
-      "Dreezy",
-      "2 Chainz"
+      "Dreezy"
     ],
     "featuring_artists": [],
     "artists": [
-      "Dreezy",
-      "2 Chainz"
+      "Dreezy"
     ],
     "credits": [
       {
         "entity": "Dreezy",
-        "entity_type": "person",
-        "role": "primary"
-      },
-      {
-        "entity": "2 Chainz",
         "entity_type": "person",
         "role": "primary"
       }
@@ -12546,7 +12469,7 @@
   {
     "song_id": "r-00608",
     "file": "_other\\_rnb\\Jason Derulo - In My Head (Official Lyrics Video).mp3",
-    "title": "In My Head (Official Lyrics Video)",
+    "title": "In My Head ()",
     "primary_artists": [
       "Jason Derulo"
     ],
@@ -13467,7 +13390,7 @@
   {
     "song_id": "r-00653",
     "file": "_other\\_rnb\\R Kelly - Greatest Hits\\Did You Ever Think (Remix - Radio Edit).mp3",
-    "title": "Radio Edit)",
+    "title": ")",
     "primary_artists": [
       "N/A"
     ],
@@ -14468,7 +14391,7 @@
   {
     "song_id": "r-00700",
     "file": "_other\\_rnb\\Trey Songz - Greatest Hits - YouTube\\Trey Songz — Best Hits - YouTube\\Alone - Trey Songz (Lyrics).mp3",
-    "title": "Trey Songz (Lyrics)",
+    "title": "Trey Songz ()",
     "primary_artists": [
       "N/A"
     ],
@@ -14510,15 +14433,15 @@
     "file": "_other\\_rnb\\usher\\2001-015 Usher - U Remind Me.mp3",
     "title": "U Remind Me",
     "primary_artists": [
-      "2001-015 Usher"
+      "Usher"
     ],
     "featuring_artists": [],
     "artists": [
-      "2001-015 Usher"
+      "Usher"
     ],
     "credits": [
       {
-        "entity": "2001-015 Usher",
+        "entity": "Usher",
         "entity_type": "person",
         "role": "primary"
       }
@@ -14530,18 +14453,18 @@
     "file": "_other\\_rnb\\usher\\2004-001 Usher Featuring Lil Jon _ Ludacris - Yeah!.mp3",
     "title": "Yeah!",
     "primary_artists": [
-      "2004-001 Usher"
+      "Usher"
     ],
     "featuring_artists": [
       "Lil Jon Ludacris"
     ],
     "artists": [
-      "2004-001 Usher",
+      "Usher",
       "Lil Jon Ludacris"
     ],
     "credits": [
       {
-        "entity": "2004-001 Usher",
+        "entity": "Usher",
         "entity_type": "person",
         "role": "primary"
       },
@@ -14558,15 +14481,15 @@
     "file": "_other\\_rnb\\usher\\2004-002 Usher - Burn.mp3",
     "title": "Burn",
     "primary_artists": [
-      "2004-002 Usher"
+      "Usher"
     ],
     "featuring_artists": [],
     "artists": [
-      "2004-002 Usher"
+      "Usher"
     ],
     "credits": [
       {
-        "entity": "2004-002 Usher",
+        "entity": "Usher",
         "entity_type": "person",
         "role": "primary"
       }
@@ -14578,15 +14501,15 @@
     "file": "_other\\_rnb\\usher\\2004-012 Usher - Confessions Part II.mp3",
     "title": "Confessions Part II",
     "primary_artists": [
-      "2004-012 Usher"
+      "Usher"
     ],
     "featuring_artists": [],
     "artists": [
-      "2004-012 Usher"
+      "Usher"
     ],
     "credits": [
       {
-        "entity": "2004-012 Usher",
+        "entity": "Usher",
         "entity_type": "person",
         "role": "primary"
       }
@@ -14598,17 +14521,17 @@
     "file": "_other\\_rnb\\usher\\2004-024 Usher And Alicia Keys - My Boo.mp3",
     "title": "My Boo",
     "primary_artists": [
-      "2004-024 Usher",
+      "Usher",
       "Alicia Keys"
     ],
     "featuring_artists": [],
     "artists": [
-      "2004-024 Usher",
+      "Usher",
       "Alicia Keys"
     ],
     "credits": [
       {
-        "entity": "2004-024 Usher",
+        "entity": "Usher",
         "entity_type": "person",
         "role": "primary"
       },

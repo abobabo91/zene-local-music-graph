@@ -1,80 +1,56 @@
 # Local Music Graph
 
-Separate from YouTube scraping. Walks the local music library, parses filenames/folders, and builds structured graph outputs for Hungarian rap/trap and US rap/trap.
+Walks a ~15k-song local music library, parses filenames/folders, and builds structured song-by-song graphs with artist credit resolution.
+
+## Areas
+
+| Area | Script | Songs | Persons |
+|---|---|---|---|
+| US Rap/Trap | `build_us_graph.py` | 6,753 | 1,128 |
+| Hungarian Rap | *(edit data directly)* | 2,201 | ~460 |
+| R&B | `build_other_graph.py rnb` | 731 | 181 |
+| Rock | `build_other_graph.py rock` | 627 | 145 |
+| Magyar (HU other) | `build_other_graph.py magyar` | 718 | 257 |
+| Electronic | `build_other_graph.py elektro` | 1,131 | 761 |
+| Pop | `build_other_graph.py pop` | 1,452 | 586 |
+| Alternative | `build_other_graph.py alternate` | 512 | 167 |
+| Latin Music | `build_other_graph.py latino` | 263 | 124 |
 
 ## Scripts
 
-- `build_us_graph.py` — scans disk (`_rap/` + `_trap/`), extracts + normalizes into `data/us/normalized/`
-- `build_toplists.py` — rebuilds `toplists.md` for both Hungarian and US from normalized data
-- `build_visualization.py` — builds `visualization.html` (interactive tables + maps) from normalized data
+- `build_us_graph.py` — scans `_rap/` + `_trap/`, resolves aliases/groups/labels/regions
+- `build_other_graph.py <area>` — generic scanner for all `_other/` subfolders (rnb, rock, magyar, elektro, pop, alternate, latino)
+- `build_toplists.py` — rebuilds `toplists.md` for Hungarian and US
+- `build_visualization.py` — builds `visualization.html` with 10 tabs + combined view + artist folder browser
 
 ## Workflow
 
-### US: full rebuild from disk
-
 ```
-python build_us_graph.py        # scan disk → normalized output
-python build_toplists.py        # rebuild toplists.md
-python build_visualization.py   # rebuild visualization.html
-```
+# Rebuild a specific area
+python build_us_graph.py
+python build_other_graph.py rnb
 
-The US graph is fully reproducible from disk. `build_us_graph.py` walks `_rap/` and `_trap/` (excluding `_rap/_other` and `_trap/_other country random`), parses filenames for artist/title/features, applies alias normalization from `us_rap_trap_mappings.md`, resolves groups/labels, and writes the normalized song-first output.
-
-### Hungarian: edit normalized data directly
-
-```
-python build_toplists.py        # rebuild toplists.md
-python build_visualization.py   # rebuild visualization.html
+# Rebuild toplists + visualization (after any area rebuild)
+python build_toplists.py
+python build_visualization.py
 ```
 
-The Hungarian graph was built from a one-time extraction pass. There is no disk scanner — the normalized JSONs in `data/hungarian/normalized/` ARE the source of truth. To add songs or fix credits, edit the normalized files directly (primarily `songs.json` and `persons.json`).
+## Mappings
 
-The original extraction pipeline was:
-1. A disk scanner (no longer exists) walked `_magyar rap/`, `_magyar trap/`, and `_other/_magyar/_cigany/`
-2. It produced a legacy artist-first `graph.json` (persons → songs)
-3. A normalizer converted that into the current song-first normalized schema (songs → persons/groups/labels)
-4. The legacy file and normalizer were deleted after confirming 100% data coverage in the normalized output
+Each area has an editable mappings file (`data/<area>/<area>_mappings.md`) with:
+- **Alias normalization** — merge spelling variants, folder names, case differences
+- **Groups** — define group→member relationships (US rap has weight overrides)
 
-### Editing mappings
+Edit mappings, then re-run the build script.
 
-- **US:** edit `data/us/us_rap_trap_mappings.md` (aliases, groups, labels), then re-run `build_us_graph.py`
-- **Hungarian:** edit `data/hungarian/hungarian_rap_mappings.md` for reference, but the mappings are already baked into the normalized data
-- **Region overrides (Hungarian):** edit `data/hungarian/normalized/region_overrides.json` — manual person→city assignments used by toplists and visualization
+## Hungarian Rap
 
-### Outstanding review items
+No disk scanner — the normalized JSONs in `data/hungarian/normalized/` ARE the source of truth. Edit `songs.json` and `persons.json` directly.
 
-`data/us/us_rap_trap_review_queue.md` tracks known issues: numeric pseudo-artists (`01`, `02`, etc.), split artist identities (YoungBoy), and unattributed tracks.
+## Visualization
 
-## Data layout
-
-```
-data/hungarian/
-  hungarian_rap_mappings.md          # label/group/person reference
-  normalized/
-    songs.json                       # source of truth (2,201 songs)
-    persons.json, groups.json,       # derived indexes
-    labels.json, regions.json
-    metadata.json, validation.json   # counts and checks
-    toplists.md                      # human-readable rankings
-    region_overrides.json            # manual person→city
-
-data/us/
-  us_rap_trap_mappings.md            # editable alias/group/label structure
-  us_rap_trap_review_queue.md        # outstanding review items
-  normalized/
-    songs.json                       # source of truth (6,817 songs)
-    persons.json, groups.json,       # derived indexes
-    labels.json, regions.json
-    metadata.json, validation.json
-    toplists.md
-```
-
-## Normalized schema
-
-Songs are the source of truth. Each song has:
-- `song_id`, `file`, `title`
-- `primary_artists`, `featuring_artists`, `artists` (all involved)
-- `credits` (structured: entity + type + role)
-- `source_root` (`_rap` / `_trap`), `folder_region`
-
-Persons, groups, labels, and regions are separate derived indexes with back-references to song IDs.
+`visualization.html` is a self-contained dashboard with:
+- 10 genre tabs + combined R&B+Pop+Alt tab
+- Sortable artist tables with search, region filter, label filter
+- US and Hungary maps with region bubbles
+- Click any artist name → folder/song tree browser
