@@ -33,7 +33,8 @@ def save_rebuild_time(t: float):
     STATE_FILE.write_text(str(t))
 
 
-def has_changes(roots: list[Path], since: float) -> bool:
+def has_changes(roots: list[Path], since: float, area: str) -> bool:
+    # Check for new/modified files
     for root in roots:
         if not root.exists():
             continue
@@ -46,6 +47,14 @@ def has_changes(roots: list[Path], since: float) -> bool:
                             return True
                     except OSError:
                         continue
+    # Check for moved/deleted files (paths in songs.json that no longer exist on disk)
+    songs_path = DATA / area / "normalized" / "songs.json"
+    if songs_path.exists():
+        songs = json.loads(songs_path.read_text(encoding="utf-8"))
+        for s in songs[:50]:  # spot-check first 50
+            full = ZENE / s["file"]
+            if not full.exists():
+                return True  # a file was moved or deleted
     return False
 
 
@@ -74,7 +83,7 @@ def main():
 
     changed = []
     for area, roots in SCAN_ROOTS.items():
-        if last == 0 or has_changes(roots, last):
+        if last == 0 or has_changes(roots, last, area):
             changed.append(area)
 
     if not changed:
