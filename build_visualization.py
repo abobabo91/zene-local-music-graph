@@ -168,7 +168,7 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Local Music Graph</title>
+<title>My Music Collection</title>
 <style>
   :root {
     --bg: #fafafa; --card: #fff; --border: #e0e0e0; --text: #1a1a1a;
@@ -261,8 +261,8 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
 </head>
 <body>
 
-<h1>Local Music Graph</h1>
-<p class="subtitle">Sortable artist rankings with normalized and adjusted song credits</p>
+<h1>My Music Collection</h1>
+<p class="subtitle">Artist rankings across 15,000+ songs with normalized and adjusted credits</p>
 
 <div class="tabs">
   <div class="tab active" data-tab="us">US Rap</div>
