@@ -84157,21 +84157,11 @@
     "title": "Love Me (Unreleased)[Savage Mode 2 Deluxe]",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [
-      "Savage"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Savage"
-    ],
-    "credits": [
-      {
-        "entity": "Savage",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-03817",
@@ -84215,21 +84205,11 @@
     "title": "X ft Future ()",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [
-      "Savage Metro Boomin"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Savage Metro Boomin"
-    ],
-    "credits": [
-      {
-        "entity": "Savage Metro Boomin",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-03821",
@@ -84249,21 +84229,11 @@
     "title": "Red Opps () Shot By @AZaeProduction",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [
-      "Savage"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Savage"
-    ],
-    "credits": [
-      {
-        "entity": "Savage",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-03823",
@@ -84271,21 +84241,11 @@
     "title": "My Choppa Hate N s ()",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [
-      "Savage Metro Boomin"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Savage Metro Boomin"
-    ],
-    "credits": [
-      {
-        "entity": "Savage Metro Boomin",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-03824",
@@ -84293,21 +84253,11 @@
     "title": "Run Up the Racks",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [
-      "Savage Metro Boomin"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Savage Metro Boomin"
-    ],
-    "credits": [
-      {
-        "entity": "Savage Metro Boomin",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-03825",
@@ -84315,29 +84265,21 @@
     "title": "Still Serving ()",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [
-      "Savage"
-    ],
+    "primary_artists": [],
     "featuring_artists": [
       "Offset Metro Boomin"
     ],
     "artists": [
-      "Offset Metro Boomin",
-      "Savage"
+      "Offset Metro Boomin"
     ],
     "credits": [
       {
         "entity": "Offset Metro Boomin",
         "entity_type": "person",
         "role": "feature"
-      },
-      {
-        "entity": "Savage",
-        "entity_type": "person",
-        "role": "primary"
       }
     ],
-    "attribution_status": "attributed"
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-03826",

@@ -26630,52 +26630,6 @@
     "feature_song_ids": [],
     "via_group_song_ids": []
   },
-  "Savage": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "Atlanta"
-    ],
-    "sources": [
-      "_trap"
-    ],
-    "song_ids": [
-      "u-03816",
-      "u-03822",
-      "u-03825"
-    ],
-    "primary_song_ids": [
-      "u-03816",
-      "u-03822",
-      "u-03825"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "Savage Metro Boomin": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "Atlanta"
-    ],
-    "sources": [
-      "_trap"
-    ],
-    "song_ids": [
-      "u-03820",
-      "u-03823",
-      "u-03824"
-    ],
-    "primary_song_ids": [
-      "u-03820",
-      "u-03823",
-      "u-03824"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
   "Saweetie": {
     "type": "person",
     "labels": [],

@@ -44,7 +44,7 @@ Examples to expand later:
 - `Drake: DRAKE`
 - `Young Dolph: young dolph`
 - `Cam'ron: Cam ron, Camron`
-- `21 Savage: 21Savage`
+- `21 Savage: 21Savage, Savage, Savage Metro Boomin`
 - `XXXTentacion: XXXTENTACION`
 - `YoungBoy Never Broke Again: NBA YoungBoy, NBA Youngboy, NBA YOUNG BOY, YoungBoy`
 - `Yeat: YEAT`
