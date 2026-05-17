@@ -129,272 +129,6 @@
     "feature_song_ids": [],
     "via_group_song_ids": []
   },
-  "002. Post Malone": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "USA"
-    ],
-    "sources": [
-      "_trap"
-    ],
-    "song_ids": [
-      "u-03585"
-    ],
-    "primary_song_ids": [
-      "u-03585"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "005. Post Malone": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "USA"
-    ],
-    "sources": [
-      "_trap"
-    ],
-    "song_ids": [
-      "u-03586"
-    ],
-    "primary_song_ids": [
-      "u-03586"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "018. Meek Mill": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "Philadelphia"
-    ],
-    "sources": [
-      "_trap"
-    ],
-    "song_ids": [
-      "u-06528"
-    ],
-    "primary_song_ids": [
-      "u-06528"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "025. J. Cole": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "USA Other"
-    ],
-    "sources": [
-      "_rap"
-    ],
-    "song_ids": [
-      "u-00540"
-    ],
-    "primary_song_ids": [
-      "u-00540"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "030. Post Malone": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "USA"
-    ],
-    "sources": [
-      "_trap"
-    ],
-    "song_ids": [
-      "u-03587"
-    ],
-    "primary_song_ids": [
-      "u-03587"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "032. Post Malone": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "USA"
-    ],
-    "sources": [
-      "_trap"
-    ],
-    "song_ids": [
-      "u-03588"
-    ],
-    "primary_song_ids": [
-      "u-03588"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "034. Drake": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "Toronto"
-    ],
-    "sources": [
-      "_trap"
-    ],
-    "song_ids": [
-      "u-06597"
-    ],
-    "primary_song_ids": [
-      "u-06597"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "038. Cardi B": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "New York"
-    ],
-    "sources": [
-      "_trap"
-    ],
-    "song_ids": [
-      "u-06317"
-    ],
-    "primary_song_ids": [
-      "u-06317"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "041. A Boogie Wit da Hoodie": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "New York"
-    ],
-    "sources": [
-      "_trap"
-    ],
-    "song_ids": [
-      "u-06284"
-    ],
-    "primary_song_ids": [
-      "u-06284"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "050 snoop dogg": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "California"
-    ],
-    "sources": [
-      "_rap"
-    ],
-    "song_ids": [
-      "u-01111"
-    ],
-    "primary_song_ids": [
-      "u-01111"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "062. Post Malone": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "USA"
-    ],
-    "sources": [
-      "_trap"
-    ],
-    "song_ids": [
-      "u-03589"
-    ],
-    "primary_song_ids": [
-      "u-03589"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "064. Young Thug": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "Atlanta"
-    ],
-    "sources": [
-      "_trap"
-    ],
-    "song_ids": [
-      "u-04515"
-    ],
-    "primary_song_ids": [
-      "u-04515"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "066. YNW Melly": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "Florida"
-    ],
-    "sources": [
-      "_trap"
-    ],
-    "song_ids": [
-      "u-05700"
-    ],
-    "primary_song_ids": [
-      "u-05700"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "093. Megan Thee Stallion": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "USA"
-    ],
-    "sources": [
-      "_trap"
-    ],
-    "song_ids": [
-      "u-03142"
-    ],
-    "primary_song_ids": [
-      "u-03142"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
   "10Percent": {
     "type": "person",
     "labels": [],
@@ -416,7 +150,9 @@
   },
   "15Chinx French Montana": {
     "type": "person",
-    "labels": [],
+    "labels": [
+      "Chingy"
+    ],
     "groups": [],
     "regions": [
       "New York"
@@ -1147,7 +883,9 @@
   },
   "8Ball": {
     "type": "person",
-    "labels": [],
+    "labels": [
+      "8Ball & MJG"
+    ],
     "groups": [],
     "regions": [
       "Memphis"
@@ -1166,7 +904,9 @@
   },
   "8Ball MJG": {
     "type": "person",
-    "labels": [],
+    "labels": [
+      "8Ball & MJG"
+    ],
     "groups": [],
     "regions": [
       "Memphis"
@@ -6521,7 +6261,9 @@
   },
   "Danielle Bregoli is BHAD BHABIE": {
     "type": "person",
-    "labels": [],
+    "labels": [
+      "BHAD BHABIE"
+    ],
     "groups": [],
     "regions": [
       "Florida"
@@ -7594,7 +7336,9 @@
   },
   "Dom Pachino Neplatna Identita": {
     "type": "person",
-    "labels": [],
+    "labels": [
+      "Dom Pachino"
+    ],
     "groups": [],
     "regions": [
       "New York"
@@ -8993,7 +8737,9 @@
   },
   "Fabolous There Is No Competition 3": {
     "type": "person",
-    "labels": [],
+    "labels": [
+      "Fabolous"
+    ],
     "groups": [],
     "regions": [
       "New York"
@@ -9822,7 +9568,9 @@
   },
   "French Montana Chinx Drugz": {
     "type": "person",
-    "labels": [],
+    "labels": [
+      "French Montana"
+    ],
     "groups": [],
     "regions": [
       "New York"
@@ -9862,7 +9610,9 @@
   },
   "French Montana Kodak Black": {
     "type": "person",
-    "labels": [],
+    "labels": [
+      "French Montana"
+    ],
     "groups": [],
     "regions": [
       "New York"
@@ -10257,7 +10007,9 @@
   },
   "G Herbo aka Lil Herb": {
     "type": "person",
-    "labels": [],
+    "labels": [
+      "G Herbo"
+    ],
     "groups": [],
     "regions": [
       "Chicago"
@@ -11116,7 +10868,9 @@
   },
   "Gucci Mane Young Thug": {
     "type": "person",
-    "labels": [],
+    "labels": [
+      "Gucci Mane"
+    ],
     "groups": [],
     "regions": [
       "Atlanta"
@@ -12261,7 +12015,9 @@
   },
   "ILOVEMAKONNEN No Ma am": {
     "type": "person",
-    "labels": [],
+    "labels": [
+      "iLoveMakonnen"
+    ],
     "groups": [],
     "regions": [
       "Atlanta"
@@ -13713,7 +13469,9 @@
   },
   "Joey Bada$$-Summer Knights 320 Badass": {
     "type": "person",
-    "labels": [],
+    "labels": [
+      "Joey Bada$$"
+    ],
     "groups": [],
     "regions": [
       "USA"
@@ -20635,7 +20393,9 @@
   },
   "Moneybagg Yo NBA Youngboy": {
     "type": "person",
-    "labels": [],
+    "labels": [
+      "Moneybagg Yo"
+    ],
     "groups": [],
     "regions": [
       "Louisiana"
@@ -26252,7 +26012,9 @@
   },
   "Run The Jewels 2": {
     "type": "person",
-    "labels": [],
+    "labels": [
+      "Run The Jewels"
+    ],
     "groups": [],
     "regions": [
       "USA Other"
@@ -26611,7 +26373,9 @@
   },
   "Sauce Walka best songs available on": {
     "type": "person",
-    "labels": [],
+    "labels": [
+      "Sauce Walka"
+    ],
     "groups": [],
     "regions": [
       "USA"
@@ -26683,7 +26447,9 @@
   },
   "Scarcity Budapest-Back to Business-2012": {
     "type": "person",
-    "labels": [],
+    "labels": [
+      "Scarcity Budapest"
+    ],
     "groups": [],
     "regions": [
       "USA Other"
@@ -27390,7 +27156,9 @@
   },
   "sippin on some syrup by three 6 mafia": {
     "type": "person",
-    "labels": [],
+    "labels": [
+      "Three 6 Mafia"
+    ],
     "groups": [],
     "regions": [
       "Texas"
@@ -28961,7 +28729,9 @@
   },
   "Swollen Members-Beautiful Death Machine-2013": {
     "type": "person",
-    "labels": [],
+    "labels": [
+      "Swollen Members"
+    ],
     "groups": [],
     "regions": [
       "USA Other"
@@ -32532,7 +32302,9 @@
   },
   "wu-tang killa bees-the beggaz": {
     "type": "person",
-    "labels": [],
+    "labels": [
+      "Wu-Tang Clan"
+    ],
     "groups": [],
     "regions": [
       "New York"
@@ -33415,7 +33187,9 @@
   },
   "Yo Gotti Mike WiLL Made It": {
     "type": "person",
-    "labels": [],
+    "labels": [
+      "Yo Gotti"
+    ],
     "groups": [],
     "regions": [
       "Memphis"
@@ -34317,7 +34091,9 @@
   },
   "Young Thug- Stoner @YoungThugWorld": {
     "type": "person",
-    "labels": [],
+    "labels": [
+      "Young Thug"
+    ],
     "groups": [],
     "regions": [
       "Atlanta"

@@ -395,16 +395,20 @@ def _is_junk(name: str, key: str, bl: set[str]) -> bool:
         return True
     if re.match(r"^\d+$", key):
         return True
-    if re.match(r"^\d{1,2}\s+", key):
+    if re.match(r"^\d{1,3}\s+", key):
         return True
+    if re.match(r"^\d{1,3}\.\s+", key):
+        return True
+    if re.match(r"^\d{4}\s*-\s*\d{2,3}\s+", key):
+        return True  # billboard prefix
     if "(" in name and ")" not in name:
-        return True  # unclosed parens (check original)
+        return True
     if re.match(r"^\d{1,2}\s*-\s*", key):
         return True
     if len(key) <= 1:
         return True
     if any(ord(c) > 8000 for c in name):
-        return True  # emoji
+        return True
     return False
 
 

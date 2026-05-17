@@ -2,7 +2,6 @@
   "Atlanta": {
     "type": "region",
     "persons": [
-      "064. Young Thug",
       "Ace Hood",
       "Ashin The Blunt",
       "Backbone",
@@ -160,9 +159,12 @@
     ],
     "labels": [
       "CMG",
+      "Gucci Mane",
+      "iLoveMakonnen",
       "Opium",
       "OTF",
       "QC",
+      "Young Thug",
       "YSL"
     ],
     "sources": [
@@ -1129,7 +1131,6 @@
     "persons": [
       "$teven Cannon",
       "$UICIDEBOY$",
-      "050 snoop dogg",
       "2004-071 Snoop Dogg",
       "2Pac",
       "6LACK",
@@ -1911,6 +1912,7 @@
     ],
     "groups": [],
     "labels": [
+      "G Herbo",
       "OTF",
       "QC"
     ],
@@ -2664,7 +2666,6 @@
   "Florida": {
     "type": "region",
     "persons": [
-      "066. YNW Melly",
       "9lokkNine",
       "Alcy",
       "BHAD BHABIE",
@@ -2726,6 +2727,7 @@
     ],
     "groups": [],
     "labels": [
+      "BHAD BHABIE",
       "CMG"
     ],
     "sources": [
@@ -3257,6 +3259,7 @@
     ],
     "labels": [
       "CMG",
+      "Moneybagg Yo",
       "OTF",
       "QC",
       "YSL"
@@ -3796,8 +3799,10 @@
       "Three 6 Mafia"
     ],
     "labels": [
+      "8Ball & MJG",
       "CMG",
-      "OTF"
+      "OTF",
+      "Yo Gotti"
     ],
     "sources": [
       "_rap",
@@ -4072,8 +4077,6 @@
   "New York": {
     "type": "region",
     "persons": [
-      "038. Cardi B",
-      "041. A Boogie Wit da Hoodie",
       "15Chinx French Montana",
       "2001-030 Ja Rule",
       "2001-056 Jay-Z",
@@ -4246,7 +4249,12 @@
       "Wu-Tang Clan"
     ],
     "labels": [
-      "OTF"
+      "Chingy",
+      "Dom Pachino",
+      "Fabolous",
+      "French Montana",
+      "OTF",
+      "Wu-Tang Clan"
     ],
     "sources": [
       "_rap",
@@ -5301,7 +5309,6 @@
   "Philadelphia": {
     "type": "region",
     "persons": [
-      "018. Meek Mill",
       "Beanie Sigel",
       "Chris Brown",
       "Did It On My Own",
@@ -5523,7 +5530,9 @@
       "Three 6 Mafia",
       "UGK"
     ],
-    "labels": [],
+    "labels": [
+      "Three 6 Mafia"
+    ],
     "sources": [
       "_rap"
     ],
@@ -5664,7 +5673,6 @@
   "Toronto": {
     "type": "region",
     "persons": [
-      "034. Drake",
       "Belly",
       "Carnage",
       "Casper TNG",
@@ -5900,12 +5908,6 @@
       "$NOT",
       "$teven Cannon",
       "$UICIDEBOY$",
-      "002. Post Malone",
-      "005. Post Malone",
-      "030. Post Malone",
-      "032. Post Malone",
-      "062. Post Malone",
-      "093. Megan Thee Stallion",
       "6ix9ine",
       "704Chop",
       "A Plus",
@@ -6348,8 +6350,10 @@
     ],
     "labels": [
       "CMG",
+      "Joey Bada$$",
       "Opium",
       "QC",
+      "Sauce Walka",
       "YSL"
     ],
     "sources": [
@@ -7369,7 +7373,6 @@
   "USA Other": {
     "type": "region",
     "persons": [
-      "025. J. Cole",
       "1998-080 Busta Rhymes",
       "2001-095 Nelly",
       "2002-003 Nelly",
@@ -7597,7 +7600,11 @@
       "N.W.A",
       "Outkast"
     ],
-    "labels": [],
+    "labels": [
+      "Run The Jewels",
+      "Scarcity Budapest",
+      "Swollen Members"
+    ],
     "sources": [
       "_rap"
     ],

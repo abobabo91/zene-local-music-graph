@@ -64,15 +64,15 @@
     "file": "_other\\_pop\\_billboard\\1991\\1991-020 Marky Mark _ The Funky Bunch - Good Vibrations.mp3",
     "title": "Good Vibrations",
     "primary_artists": [
-      "Marky Mark The Funky Bunch"
+      "Marky Mark"
     ],
     "featuring_artists": [],
     "artists": [
-      "Marky Mark The Funky Bunch"
+      "Marky Mark"
     ],
     "credits": [
       {
-        "entity": "Marky Mark The Funky Bunch",
+        "entity": "Marky Mark",
         "entity_type": "person",
         "role": "primary"
       }
@@ -4556,11 +4556,11 @@
       "N/A"
     ],
     "featuring_artists": [
-      "young jeezy-love in this club"
+      "Young Jeezy"
     ],
     "artists": [
       "N/A",
-      "young jeezy-love in this club"
+      "Young Jeezy"
     ],
     "credits": [
       {
@@ -4569,7 +4569,7 @@
         "role": "primary"
       },
       {
-        "entity": "young jeezy-love in this club",
+        "entity": "Young Jeezy",
         "entity_type": "person",
         "role": "feature"
       }
@@ -4584,11 +4584,11 @@
       "N/A"
     ],
     "featuring_artists": [
-      "yung berg-sexy can i"
+      "Yung Berg"
     ],
     "artists": [
       "N/A",
-      "yung berg-sexy can i"
+      "Yung Berg"
     ],
     "credits": [
       {
@@ -4597,7 +4597,7 @@
         "role": "primary"
       },
       {
-        "entity": "yung berg-sexy can i",
+        "entity": "Yung Berg",
         "entity_type": "person",
         "role": "feature"
       }
@@ -4860,11 +4860,11 @@
       "N/A"
     ],
     "featuring_artists": [
-      "ne-yo-bust it baby part 2"
+      "Ne-Yo"
     ],
     "artists": [
       "N/A",
-      "ne-yo-bust it baby part 2"
+      "Ne-Yo"
     ],
     "credits": [
       {
@@ -4873,7 +4873,7 @@
         "role": "primary"
       },
       {
-        "entity": "ne-yo-bust it baby part 2",
+        "entity": "Ne-Yo",
         "entity_type": "person",
         "role": "feature"
       }
@@ -4971,11 +4971,11 @@
       "N/A"
     ],
     "featuring_artists": [
-      "ne-yo-hate that i love you"
+      "Ne-Yo"
     ],
     "artists": [
       "N/A",
-      "ne-yo-hate that i love you"
+      "Ne-Yo"
     ],
     "credits": [
       {
@@ -4984,7 +4984,7 @@
         "role": "primary"
       },
       {
-        "entity": "ne-yo-hate that i love you",
+        "entity": "Ne-Yo",
         "entity_type": "person",
         "role": "feature"
       }
@@ -5095,11 +5095,11 @@
       "N/A"
     ],
     "featuring_artists": [
-      "keri hilson-the way i are"
+      "Keri Hilson"
     ],
     "artists": [
       "N/A",
-      "keri hilson-the way i are"
+      "Keri Hilson"
     ],
     "credits": [
       {
@@ -5108,7 +5108,7 @@
         "role": "primary"
       },
       {
-        "entity": "keri hilson-the way i are",
+        "entity": "Keri Hilson",
         "entity_type": "person",
         "role": "feature"
       }
@@ -5123,11 +5123,11 @@
       "N/A"
     ],
     "featuring_artists": [
-      "chad kroeger-into the night"
+      "Chad Kroeger"
     ],
     "artists": [
       "N/A",
-      "chad kroeger-into the night"
+      "Chad Kroeger"
     ],
     "credits": [
       {
@@ -5136,7 +5136,7 @@
         "role": "primary"
       },
       {
-        "entity": "chad kroeger-into the night",
+        "entity": "Chad Kroeger",
         "entity_type": "person",
         "role": "feature"
       }
@@ -12186,15 +12186,15 @@
     "file": "_other\\_pop\\_kpop\\BTS - MAP OF THE SOUL _ PERSONA [2019-Album]\\04 Make It Right.mp3",
     "title": "Make It Right",
     "primary_artists": [
-      "BTS"
+      "BTS - MAP OF THE SOUL PERSONA"
     ],
     "featuring_artists": [],
     "artists": [
-      "BTS"
+      "BTS - MAP OF THE SOUL PERSONA"
     ],
     "credits": [
       {
-        "entity": "BTS",
+        "entity": "BTS - MAP OF THE SOUL PERSONA",
         "entity_type": "person",
         "role": "primary"
       }
@@ -12360,15 +12360,15 @@
     "file": "_other\\_pop\\_kpop\\LOVE YOURSELF ANSWER BTS - YouTube\\Airplane pt.2.mp3",
     "title": "Airplane pt.2",
     "primary_artists": [
-      "LOVE YOURSELF ANSWER BTS"
+      "BTS"
     ],
     "featuring_artists": [],
     "artists": [
-      "LOVE YOURSELF ANSWER BTS"
+      "BTS"
     ],
     "credits": [
       {
-        "entity": "LOVE YOURSELF ANSWER BTS",
+        "entity": "BTS",
         "entity_type": "person",
         "role": "primary"
       }
@@ -12380,15 +12380,15 @@
     "file": "_other\\_pop\\_kpop\\LOVE YOURSELF ANSWER BTS - YouTube\\DNA.mp3",
     "title": "DNA",
     "primary_artists": [
-      "LOVE YOURSELF ANSWER BTS"
+      "BTS"
     ],
     "featuring_artists": [],
     "artists": [
-      "LOVE YOURSELF ANSWER BTS"
+      "BTS"
     ],
     "credits": [
       {
-        "entity": "LOVE YOURSELF ANSWER BTS",
+        "entity": "BTS",
         "entity_type": "person",
         "role": "primary"
       }
@@ -12400,15 +12400,15 @@
     "file": "_other\\_pop\\_kpop\\LOVE YOURSELF ANSWER BTS - YouTube\\Epiphany.mp3",
     "title": "Epiphany",
     "primary_artists": [
-      "LOVE YOURSELF ANSWER BTS"
+      "BTS"
     ],
     "featuring_artists": [],
     "artists": [
-      "LOVE YOURSELF ANSWER BTS"
+      "BTS"
     ],
     "credits": [
       {
-        "entity": "LOVE YOURSELF ANSWER BTS",
+        "entity": "BTS",
         "entity_type": "person",
         "role": "primary"
       }
@@ -12420,15 +12420,15 @@
     "file": "_other\\_pop\\_kpop\\LOVE YOURSELF ANSWER BTS - YouTube\\Euphoria.mp3",
     "title": "Euphoria",
     "primary_artists": [
-      "LOVE YOURSELF ANSWER BTS"
+      "BTS"
     ],
     "featuring_artists": [],
     "artists": [
-      "LOVE YOURSELF ANSWER BTS"
+      "BTS"
     ],
     "credits": [
       {
-        "entity": "LOVE YOURSELF ANSWER BTS",
+        "entity": "BTS",
         "entity_type": "person",
         "role": "primary"
       }
@@ -12440,15 +12440,15 @@
     "file": "_other\\_pop\\_kpop\\LOVE YOURSELF ANSWER BTS - YouTube\\FAKE LOVE.mp3",
     "title": "FAKE LOVE",
     "primary_artists": [
-      "LOVE YOURSELF ANSWER BTS"
+      "BTS"
     ],
     "featuring_artists": [],
     "artists": [
-      "LOVE YOURSELF ANSWER BTS"
+      "BTS"
     ],
     "credits": [
       {
-        "entity": "LOVE YOURSELF ANSWER BTS",
+        "entity": "BTS",
         "entity_type": "person",
         "role": "primary"
       }
@@ -12460,15 +12460,15 @@
     "file": "_other\\_pop\\_kpop\\LOVE YOURSELF ANSWER BTS - YouTube\\IDOL.mp3",
     "title": "IDOL",
     "primary_artists": [
-      "LOVE YOURSELF ANSWER BTS"
+      "BTS"
     ],
     "featuring_artists": [],
     "artists": [
-      "LOVE YOURSELF ANSWER BTS"
+      "BTS"
     ],
     "credits": [
       {
-        "entity": "LOVE YOURSELF ANSWER BTS",
+        "entity": "BTS",
         "entity_type": "person",
         "role": "primary"
       }
@@ -12480,15 +12480,15 @@
     "file": "_other\\_pop\\_kpop\\LOVE YOURSELF ANSWER BTS - YouTube\\Magic Shop.mp3",
     "title": "Magic Shop",
     "primary_artists": [
-      "LOVE YOURSELF ANSWER BTS"
+      "BTS"
     ],
     "featuring_artists": [],
     "artists": [
-      "LOVE YOURSELF ANSWER BTS"
+      "BTS"
     ],
     "credits": [
       {
-        "entity": "LOVE YOURSELF ANSWER BTS",
+        "entity": "BTS",
         "entity_type": "person",
         "role": "primary"
       }
@@ -12500,15 +12500,15 @@
     "file": "_other\\_pop\\_kpop\\LOVE YOURSELF ANSWER BTS - YouTube\\Serendipity (Full Length Edition).mp3",
     "title": "Serendipity (Full Length Edition)",
     "primary_artists": [
-      "LOVE YOURSELF ANSWER BTS"
+      "BTS"
     ],
     "featuring_artists": [],
     "artists": [
-      "LOVE YOURSELF ANSWER BTS"
+      "BTS"
     ],
     "credits": [
       {
-        "entity": "LOVE YOURSELF ANSWER BTS",
+        "entity": "BTS",
         "entity_type": "person",
         "role": "primary"
       }
@@ -12520,15 +12520,15 @@
     "file": "_other\\_pop\\_kpop\\LOVE YOURSELF ANSWER BTS - YouTube\\The Truth Untold (Feat. Steve Aoki).mp3",
     "title": "The Truth Untold (Feat. Steve Aoki)",
     "primary_artists": [
-      "LOVE YOURSELF ANSWER BTS"
+      "BTS"
     ],
     "featuring_artists": [],
     "artists": [
-      "LOVE YOURSELF ANSWER BTS"
+      "BTS"
     ],
     "credits": [
       {
-        "entity": "LOVE YOURSELF ANSWER BTS",
+        "entity": "BTS",
         "entity_type": "person",
         "role": "primary"
       }
@@ -12540,15 +12540,15 @@
     "file": "_other\\_pop\\_kpop\\LOVE YOURSELF ANSWER BTS - YouTube\\Trivia 起 Just Dance.mp3",
     "title": "Trivia 起 Just Dance",
     "primary_artists": [
-      "LOVE YOURSELF ANSWER BTS"
+      "BTS"
     ],
     "featuring_artists": [],
     "artists": [
-      "LOVE YOURSELF ANSWER BTS"
+      "BTS"
     ],
     "credits": [
       {
-        "entity": "LOVE YOURSELF ANSWER BTS",
+        "entity": "BTS",
         "entity_type": "person",
         "role": "primary"
       }
@@ -14057,22 +14057,15 @@
     "file": "_other\\_pop\\_modern\\RAYE - Official Videos\\RAYE, 070 Shake - Escapism. (Official Music Video).mp3",
     "title": "Escapism",
     "primary_artists": [
-      "RAYE",
-      "070 Shake"
+      "RAYE"
     ],
     "featuring_artists": [],
     "artists": [
-      "RAYE",
-      "070 Shake"
+      "RAYE"
     ],
     "credits": [
       {
         "entity": "RAYE",
-        "entity_type": "person",
-        "role": "primary"
-      },
-      {
-        "entity": "070 Shake",
         "entity_type": "person",
         "role": "primary"
       }
@@ -16586,15 +16579,15 @@
     "file": "_other\\_pop\\_oldschool_pop\\Michael jackson Best 40 Tracks\\Michael Jackson- Beat It.mp3",
     "title": "Michael Jackson- Beat It",
     "primary_artists": [
-      "Michael jackson Best 40 Tracks"
+      "Michael Jackson"
     ],
     "featuring_artists": [],
     "artists": [
-      "Michael jackson Best 40 Tracks"
+      "Michael Jackson"
     ],
     "credits": [
       {
-        "entity": "Michael jackson Best 40 Tracks",
+        "entity": "Michael Jackson",
         "entity_type": "person",
         "role": "primary"
       }
@@ -16606,15 +16599,15 @@
     "file": "_other\\_pop\\_oldschool_pop\\Michael jackson Best 40 Tracks\\Michael Jackson- Billie Jean.mp3",
     "title": "Michael Jackson- Billie Jean",
     "primary_artists": [
-      "Michael jackson Best 40 Tracks"
+      "Michael Jackson"
     ],
     "featuring_artists": [],
     "artists": [
-      "Michael jackson Best 40 Tracks"
+      "Michael Jackson"
     ],
     "credits": [
       {
-        "entity": "Michael jackson Best 40 Tracks",
+        "entity": "Michael Jackson",
         "entity_type": "person",
         "role": "primary"
       }
@@ -16626,15 +16619,15 @@
     "file": "_other\\_pop\\_oldschool_pop\\Michael jackson Best 40 Tracks\\Michael Jackson- Give In To Me.mp3",
     "title": "Michael Jackson- Give In To Me",
     "primary_artists": [
-      "Michael jackson Best 40 Tracks"
+      "Michael Jackson"
     ],
     "featuring_artists": [],
     "artists": [
-      "Michael jackson Best 40 Tracks"
+      "Michael Jackson"
     ],
     "credits": [
       {
-        "entity": "Michael jackson Best 40 Tracks",
+        "entity": "Michael Jackson",
         "entity_type": "person",
         "role": "primary"
       }
@@ -16646,15 +16639,15 @@
     "file": "_other\\_pop\\_oldschool_pop\\Michael jackson Best 40 Tracks\\Michael Jackson- Say, Say, Say.mp3",
     "title": "Michael Jackson- Say, Say, Say",
     "primary_artists": [
-      "Michael jackson Best 40 Tracks"
+      "Michael Jackson"
     ],
     "featuring_artists": [],
     "artists": [
-      "Michael jackson Best 40 Tracks"
+      "Michael Jackson"
     ],
     "credits": [
       {
-        "entity": "Michael jackson Best 40 Tracks",
+        "entity": "Michael Jackson",
         "entity_type": "person",
         "role": "primary"
       }
@@ -16666,15 +16659,15 @@
     "file": "_other\\_pop\\_oldschool_pop\\Michael jackson Best 40 Tracks\\Michael Jackson- Smooth Criminal.mp3",
     "title": "Michael Jackson- Smooth Criminal",
     "primary_artists": [
-      "Michael jackson Best 40 Tracks"
+      "Michael Jackson"
     ],
     "featuring_artists": [],
     "artists": [
-      "Michael jackson Best 40 Tracks"
+      "Michael Jackson"
     ],
     "credits": [
       {
-        "entity": "Michael jackson Best 40 Tracks",
+        "entity": "Michael Jackson",
         "entity_type": "person",
         "role": "primary"
       }
@@ -16686,15 +16679,15 @@
     "file": "_other\\_pop\\_oldschool_pop\\Michael jackson Best 40 Tracks\\Michael Jackson- They Dont Care About Us.mp3",
     "title": "Michael Jackson- They Dont Care About Us",
     "primary_artists": [
-      "Michael jackson Best 40 Tracks"
+      "Michael Jackson"
     ],
     "featuring_artists": [],
     "artists": [
-      "Michael jackson Best 40 Tracks"
+      "Michael Jackson"
     ],
     "credits": [
       {
-        "entity": "Michael jackson Best 40 Tracks",
+        "entity": "Michael Jackson",
         "entity_type": "person",
         "role": "primary"
       }
@@ -16706,15 +16699,15 @@
     "file": "_other\\_pop\\_oldschool_pop\\Michael jackson Best 40 Tracks\\Michael Jackson- Your Are Not Alone.mp3",
     "title": "Michael Jackson- Your Are Not Alone",
     "primary_artists": [
-      "Michael jackson Best 40 Tracks"
+      "Michael Jackson"
     ],
     "featuring_artists": [],
     "artists": [
-      "Michael jackson Best 40 Tracks"
+      "Michael Jackson"
     ],
     "credits": [
       {
-        "entity": "Michael jackson Best 40 Tracks",
+        "entity": "Michael Jackson",
         "entity_type": "person",
         "role": "primary"
       }
@@ -20904,15 +20897,15 @@
     "file": "_other\\_pop\\_random\\Gnarls Barkely- St  Elsewhere(Full Album)\\Gnarls Barkley-Crazy.mp3",
     "title": "Gnarls Barkley-Crazy",
     "primary_artists": [
-      "Gnarls Barkely- St Elsewhere"
+      "Gnarls Barkley"
     ],
     "featuring_artists": [],
     "artists": [
-      "Gnarls Barkely- St Elsewhere"
+      "Gnarls Barkley"
     ],
     "credits": [
       {
-        "entity": "Gnarls Barkely- St Elsewhere",
+        "entity": "Gnarls Barkley",
         "entity_type": "person",
         "role": "primary"
       }
@@ -21114,11 +21107,11 @@
       "goldies"
     ],
     "featuring_artists": [
-      "Yung Berg EXPLICIT VERSION"
+      "Yung Berg"
     ],
     "artists": [
       "goldies",
-      "Yung Berg EXPLICIT VERSION"
+      "Yung Berg"
     ],
     "credits": [
       {
@@ -21127,7 +21120,7 @@
         "role": "primary"
       },
       {
-        "entity": "Yung Berg EXPLICIT VERSION",
+        "entity": "Yung Berg",
         "entity_type": "person",
         "role": "feature"
       }
@@ -22037,15 +22030,15 @@
     "file": "_other\\_pop\\_random\\KERI HILSON - CHANGE ME FT. AKON.mp3",
     "title": "CHANGE ME FT",
     "primary_artists": [
-      "KERI HILSON"
+      "Keri Hilson"
     ],
     "featuring_artists": [],
     "artists": [
-      "KERI HILSON"
+      "Keri Hilson"
     ],
     "credits": [
       {
-        "entity": "KERI HILSON",
+        "entity": "Keri Hilson",
         "entity_type": "person",
         "role": "primary"
       }
@@ -24759,11 +24752,11 @@
       "Akon"
     ],
     "featuring_artists": [
-      "Nicole Scherzinger-By My Side"
+      "Nicole Scherzinger"
     ],
     "artists": [
       "Akon",
-      "Nicole Scherzinger-By My Side"
+      "Nicole Scherzinger"
     ],
     "credits": [
       {
@@ -24772,7 +24765,7 @@
         "role": "primary"
       },
       {
-        "entity": "Nicole Scherzinger-By My Side",
+        "entity": "Nicole Scherzinger",
         "entity_type": "person",
         "role": "feature"
       }
@@ -28387,15 +28380,15 @@
     "file": "_other\\_pop\\outlandish\\outlandish- I_ve Seen - Feat. Sami Yusuf.mp3",
     "title": "Feat",
     "primary_artists": [
-      "outlandish- I ve Seen"
+      "Outlandish"
     ],
     "featuring_artists": [],
     "artists": [
-      "outlandish- I ve Seen"
+      "Outlandish"
     ],
     "credits": [
       {
-        "entity": "outlandish- I ve Seen",
+        "entity": "Outlandish",
         "entity_type": "person",
         "role": "primary"
       }
@@ -28427,15 +28420,15 @@
     "file": "_other\\_pop\\outlandish\\Outlandmoro- Closer Then Veins - 10 - Callin_ U.mp3",
     "title": "Callin U",
     "primary_artists": [
-      "Outlandmoro- Closer Then Veins"
+      "Outlandish"
     ],
     "featuring_artists": [],
     "artists": [
-      "Outlandmoro- Closer Then Veins"
+      "Outlandish"
     ],
     "credits": [
       {
-        "entity": "Outlandmoro- Closer Then Veins",
+        "entity": "Outlandish",
         "entity_type": "person",
         "role": "primary"
       }
@@ -28583,15 +28576,15 @@
     "file": "_other\\_pop\\Pharrell Williams\\N E R D - Stay Together (2001 version).mp3",
     "title": "Stay Together (2001 version)",
     "primary_artists": [
-      "N E R D"
+      "N.E.R.D"
     ],
     "featuring_artists": [],
     "artists": [
-      "N E R D"
+      "N.E.R.D"
     ],
     "credits": [
       {
-        "entity": "N E R D",
+        "entity": "N.E.R.D",
         "entity_type": "person",
         "role": "primary"
       }
@@ -28686,11 +28679,10 @@
       "Pharrell Williams"
     ],
     "featuring_artists": [
-      "Pharell Let it Go"
+      "Pharrell Williams"
     ],
     "artists": [
-      "Pharrell Williams",
-      "Pharell Let it Go"
+      "Pharrell Williams"
     ],
     "credits": [
       {
@@ -28699,7 +28691,7 @@
         "role": "primary"
       },
       {
-        "entity": "Pharell Let it Go",
+        "entity": "Pharrell Williams",
         "entity_type": "person",
         "role": "feature"
       }

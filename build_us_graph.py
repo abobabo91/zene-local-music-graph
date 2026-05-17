@@ -517,14 +517,18 @@ def _is_junk_artist(name: str, key: str) -> bool:
         return True
     if re.match(r"^\d+$", key):
         return True
-    if re.match(r"^\d{1,2}\s+", key):
-        return True
+    if re.match(r"^\d{1,3}\s+", key):
+        return True  # "01 dancin", "050 snoop dogg"
+    if re.match(r"^\d{1,3}\.\s+", key):
+        return True  # "002. Post Malone"
+    if re.match(r"^\d{4}\s*-\s*\d{2,3}\s+", key):
+        return True  # "2001-030 Ja Rule" billboard prefix
     if "(" in name and ")" not in name:
-        return True  # unclosed parens (check original, not normalized)
+        return True
     if re.match(r"^\d{1,2}\s*-\s*", key):
         return True
     if any(ord(c) > 8000 for c in name):
-        return True  # emoji characters
+        return True
     return False
 
 

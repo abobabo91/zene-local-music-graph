@@ -1,4 +1,61 @@
 {
+  "8Ball & MJG": {
+    "type": "label",
+    "persons": [
+      "8Ball",
+      "8Ball MJG"
+    ],
+    "groups": [],
+    "regions": [
+      "Memphis"
+    ],
+    "sources": [
+      "_rap"
+    ],
+    "song_ids": [
+      "u-01797",
+      "u-01798",
+      "u-01799",
+      "u-01800",
+      "u-01801",
+      "u-01802",
+      "u-01803"
+    ]
+  },
+  "BHAD BHABIE": {
+    "type": "label",
+    "persons": [
+      "Danielle Bregoli is BHAD BHABIE"
+    ],
+    "groups": [],
+    "regions": [
+      "Florida"
+    ],
+    "sources": [
+      "_trap"
+    ],
+    "song_ids": [
+      "u-05388",
+      "u-05389",
+      "u-05390"
+    ]
+  },
+  "Chingy": {
+    "type": "label",
+    "persons": [
+      "15Chinx French Montana"
+    ],
+    "groups": [],
+    "regions": [
+      "New York"
+    ],
+    "sources": [
+      "_trap"
+    ],
+    "song_ids": [
+      "u-06340"
+    ]
+  },
   "CMG": {
     "type": "label",
     "persons": [
@@ -82,6 +139,74 @@
       "u-06527"
     ]
   },
+  "Dom Pachino": {
+    "type": "label",
+    "persons": [
+      "Dom Pachino Neplatna Identita"
+    ],
+    "groups": [],
+    "regions": [
+      "New York"
+    ],
+    "sources": [
+      "_rap"
+    ],
+    "song_ids": [
+      "u-02548"
+    ]
+  },
+  "Fabolous": {
+    "type": "label",
+    "persons": [
+      "Fabolous There Is No Competition 3"
+    ],
+    "groups": [],
+    "regions": [
+      "New York"
+    ],
+    "sources": [
+      "_rap"
+    ],
+    "song_ids": [
+      "u-02040"
+    ]
+  },
+  "French Montana": {
+    "type": "label",
+    "persons": [
+      "French Montana Chinx Drugz",
+      "French Montana Kodak Black"
+    ],
+    "groups": [],
+    "regions": [
+      "New York"
+    ],
+    "sources": [
+      "_trap"
+    ],
+    "song_ids": [
+      "u-06396",
+      "u-06431",
+      "u-06437"
+    ]
+  },
+  "G Herbo": {
+    "type": "label",
+    "persons": [
+      "G Herbo aka Lil Herb"
+    ],
+    "groups": [],
+    "regions": [
+      "Chicago"
+    ],
+    "sources": [
+      "_trap"
+    ],
+    "song_ids": [
+      "u-05023",
+      "u-05135"
+    ]
+  },
   "Griselda": {
     "type": "label",
     "persons": [
@@ -93,6 +218,76 @@
     "regions": [],
     "sources": [],
     "song_ids": []
+  },
+  "Gucci Mane": {
+    "type": "label",
+    "persons": [
+      "Gucci Mane Young Thug"
+    ],
+    "groups": [],
+    "regions": [
+      "Atlanta"
+    ],
+    "sources": [
+      "_trap"
+    ],
+    "song_ids": [
+      "u-04054",
+      "u-04055",
+      "u-04056",
+      "u-04057"
+    ]
+  },
+  "iLoveMakonnen": {
+    "type": "label",
+    "persons": [
+      "ILOVEMAKONNEN No Ma am"
+    ],
+    "groups": [],
+    "regions": [
+      "Atlanta"
+    ],
+    "sources": [
+      "_trap"
+    ],
+    "song_ids": [
+      "u-03852"
+    ]
+  },
+  "Joey Bada$$": {
+    "type": "label",
+    "persons": [
+      "Joey Bada$$-Summer Knights 320 Badass"
+    ],
+    "groups": [],
+    "regions": [
+      "USA"
+    ],
+    "sources": [
+      "_trap"
+    ],
+    "song_ids": [
+      "u-03454",
+      "u-03456"
+    ]
+  },
+  "Moneybagg Yo": {
+    "type": "label",
+    "persons": [
+      "Moneybagg Yo NBA Youngboy"
+    ],
+    "groups": [],
+    "regions": [
+      "Louisiana"
+    ],
+    "sources": [
+      "_trap"
+    ],
+    "song_ids": [
+      "u-05815",
+      "u-05816",
+      "u-05817"
+    ]
   },
   "Opium": {
     "type": "label",
@@ -353,6 +548,143 @@
       "u-05218",
       "u-05312",
       "u-05961"
+    ]
+  },
+  "Run The Jewels": {
+    "type": "label",
+    "persons": [
+      "Run The Jewels 2"
+    ],
+    "groups": [],
+    "regions": [
+      "USA Other"
+    ],
+    "sources": [
+      "_rap"
+    ],
+    "song_ids": [
+      "u-00287"
+    ]
+  },
+  "Sauce Walka": {
+    "type": "label",
+    "persons": [
+      "Sauce Walka best songs available on"
+    ],
+    "groups": [],
+    "regions": [
+      "USA"
+    ],
+    "sources": [
+      "_trap"
+    ],
+    "song_ids": [
+      "u-03648",
+      "u-03649"
+    ]
+  },
+  "Scarcity Budapest": {
+    "type": "label",
+    "persons": [
+      "Scarcity Budapest-Back to Business-2012"
+    ],
+    "groups": [],
+    "regions": [
+      "USA Other"
+    ],
+    "sources": [
+      "_rap"
+    ],
+    "song_ids": [
+      "u-00291",
+      "u-00292",
+      "u-00293",
+      "u-00296"
+    ]
+  },
+  "Swollen Members": {
+    "type": "label",
+    "persons": [
+      "Swollen Members-Beautiful Death Machine-2013"
+    ],
+    "groups": [],
+    "regions": [
+      "USA Other"
+    ],
+    "sources": [
+      "_rap"
+    ],
+    "song_ids": [
+      "u-00307",
+      "u-00308"
+    ]
+  },
+  "Three 6 Mafia": {
+    "type": "label",
+    "persons": [
+      "sippin on some syrup by three 6 mafia"
+    ],
+    "groups": [],
+    "regions": [
+      "Texas"
+    ],
+    "sources": [
+      "_rap"
+    ],
+    "song_ids": [
+      "u-02785"
+    ]
+  },
+  "Wu-Tang Clan": {
+    "type": "label",
+    "persons": [
+      "wu-tang killa bees-the beggaz"
+    ],
+    "groups": [],
+    "regions": [
+      "New York"
+    ],
+    "sources": [
+      "_rap"
+    ],
+    "song_ids": [
+      "u-02570"
+    ]
+  },
+  "Yo Gotti": {
+    "type": "label",
+    "persons": [
+      "Yo Gotti Mike WiLL Made It"
+    ],
+    "groups": [],
+    "regions": [
+      "Memphis"
+    ],
+    "sources": [
+      "_trap"
+    ],
+    "song_ids": [
+      "u-06022",
+      "u-06023",
+      "u-06024",
+      "u-06025",
+      "u-06026"
+    ]
+  },
+  "Young Thug": {
+    "type": "label",
+    "persons": [
+      "Young Thug- Stoner @YoungThugWorld"
+    ],
+    "groups": [],
+    "regions": [
+      "Atlanta"
+    ],
+    "sources": [
+      "_trap"
+    ],
+    "song_ids": [
+      "u-04217"
     ]
   },
   "YSL": {

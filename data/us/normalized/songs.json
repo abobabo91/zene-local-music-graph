@@ -11356,21 +11356,11 @@
     "title": "MIDDLE CHILD",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [
-      "025. J. Cole"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "025. J. Cole"
-    ],
-    "credits": [
-      {
-        "entity": "025. J. Cole",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-00541",
@@ -23980,21 +23970,11 @@
     "title": "sensual seduction",
     "source_root": "_rap",
     "folder_region": "California",
-    "primary_artists": [
-      "050 snoop dogg"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "050 snoop dogg"
-    ],
-    "credits": [
-      {
-        "entity": "050 snoop dogg",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-01112",
@@ -69091,21 +69071,11 @@
     "title": "Hot Girl Summer (feat",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [
-      "093. Megan Thee Stallion"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "093. Megan Thee Stallion"
-    ],
-    "credits": [
-      {
-        "entity": "093. Megan Thee Stallion",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-03143",
@@ -79140,21 +79110,11 @@
     "title": "Sunflower",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [
-      "002. Post Malone"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "002. Post Malone"
-    ],
-    "credits": [
-      {
-        "entity": "002. Post Malone",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-03586",
@@ -79162,21 +79122,11 @@
     "title": "Wow",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [
-      "005. Post Malone"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "005. Post Malone"
-    ],
-    "credits": [
-      {
-        "entity": "005. Post Malone",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-03587",
@@ -79184,21 +79134,11 @@
     "title": "Goodbyes",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [
-      "030. Post Malone"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "030. Post Malone"
-    ],
-    "credits": [
-      {
-        "entity": "030. Post Malone",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-03588",
@@ -79206,21 +79146,11 @@
     "title": "Better Now",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [
-      "032. Post Malone"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "032. Post Malone"
-    ],
-    "credits": [
-      {
-        "entity": "032. Post Malone",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-03589",
@@ -79228,21 +79158,11 @@
     "title": "Circles",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [
-      "062. Post Malone"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "062. Post Malone"
-    ],
-    "credits": [
-      {
-        "entity": "062. Post Malone",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-03590",
@@ -100096,21 +100016,11 @@
     "title": "The London (feat. J",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [
-      "064. Young Thug"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "064. Young Thug"
-    ],
-    "credits": [
-      {
-        "entity": "064. Young Thug",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-04516",
@@ -127178,21 +127088,11 @@
     "title": "Murder On My Mind",
     "source_root": "_trap",
     "folder_region": "Florida",
-    "primary_artists": [
-      "066. YNW Melly"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "066. YNW Melly"
-    ],
-    "credits": [
-      {
-        "entity": "066. YNW Melly",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-05701",
@@ -140447,21 +140347,11 @@
     "title": "Look Back at It",
     "source_root": "_trap",
     "folder_region": "New York",
-    "primary_artists": [
-      "041. A Boogie Wit da Hoodie"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "041. A Boogie Wit da Hoodie"
-    ],
-    "credits": [
-      {
-        "entity": "041. A Boogie Wit da Hoodie",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-06285",
@@ -141189,21 +141079,11 @@
     "title": "Money",
     "source_root": "_trap",
     "folder_region": "New York",
-    "primary_artists": [
-      "038. Cardi B"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "038. Cardi B"
-    ],
-    "credits": [
-      {
-        "entity": "038. Cardi B",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-06318",
@@ -145972,21 +145852,11 @@
     "title": "Going Bad (feat",
     "source_root": "_trap",
     "folder_region": "Philadelphia",
-    "primary_artists": [
-      "018. Meek Mill"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "018. Meek Mill"
-    ],
-    "credits": [
-      {
-        "entity": "018. Meek Mill",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-06529",
@@ -147542,21 +147412,11 @@
     "title": "Money In The Grave",
     "source_root": "_trap",
     "folder_region": "Toronto",
-    "primary_artists": [
-      "034. Drake"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "034. Drake"
-    ],
-    "credits": [
-      {
-        "entity": "034. Drake",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-06598",

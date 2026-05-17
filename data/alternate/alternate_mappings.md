@@ -59,3 +59,7 @@
 - `Grimes: Grimes i o`
 - `Noah Cyrus: Noah Lindsey Cyrus - YouTu, Noah Cyrus Lil Xan`
 - `Kreayshawn: Mix - Kreayshawn`
+- `Alex G: Alex G - House of Sugar`
+- `The Growlers: The Growlers - Chinese Foundation`
+- `Xavier Rudd: Xavier Rudd - Spirit Bird`
+- `Nick Cave and the Bad Seeds: Nick Cave The Bad Seeds`

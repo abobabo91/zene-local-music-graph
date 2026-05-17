@@ -1004,7 +1004,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Skrillex": {
+  "2015 - Skrillex": {
     "song_ids": [
       "el-00105",
       "el-00106",
@@ -1023,7 +1023,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Diplo Present Jack 220": {
+  "Skrillex": {
     "song_ids": [
       "el-00105",
       "el-00106",
@@ -1545,6 +1545,19 @@
     "via_group_song_ids": [],
     "groups": []
   },
+  "prodigy 1994": {
+    "song_ids": [
+      "el-00167",
+      "el-00168"
+    ],
+    "primary_song_ids": [
+      "el-00167",
+      "el-00168"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
   "The Prodigy": {
     "song_ids": [
       "el-00167",
@@ -1564,20 +1577,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Music for the Jilted Generation": {
-    "song_ids": [
-      "el-00167",
-      "el-00168"
-    ],
-    "primary_song_ids": [
-      "el-00167",
-      "el-00168"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "The Fat of the Land": {
+  "prodigy 2012": {
     "song_ids": [
       "el-00169",
       "el-00170",
@@ -1770,7 +1770,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Baauer - Aa": {
+  "Baauer": {
     "song_ids": [
       "el-00193",
       "el-00194"
@@ -2410,7 +2410,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Electro Swedish House Mafia": {
+  "Swedish House Mafia": {
     "song_ids": [
       "el-00250"
     ],
@@ -3349,7 +3349,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Swedish House Mafia": {
+  "Swedish House Mafia - Until Now": {
     "song_ids": [
       "el-00380",
       "el-00381"
@@ -6541,7 +6541,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Lilly Wood The Prick": {
+  "Lilly Wood & The Prick": {
     "song_ids": [
       "el-00778"
     ],
@@ -7267,7 +7267,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Kungs Cookin On 3 Burners": {
+  "Kungs": {
     "song_ids": [
       "el-00877"
     ],

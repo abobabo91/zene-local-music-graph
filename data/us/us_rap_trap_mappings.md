@@ -164,6 +164,25 @@ Starter examples:
 - `OTF: Lil Durk, King Von`
 - `QC: Migos, Lil Baby`
 - `Griselda: Westside Gunn, Conway the Machine, Benny the Butcher`
+- `Yo Gotti: Yo Gotti Mike WiLL Made It`
+- `Gucci Mane: Gucci Mane Young Thug`
+- `BHAD BHABIE: Danielle Bregoli is BHAD BHABIE`
+- `Moneybagg Yo: Moneybagg Yo NBA Youngboy`
+- `French Montana: French Montana Chinx Drugz, French Montana Kodak Black`
+- `G Herbo: G Herbo aka Lil Herb`
+- `Joey Bada$$: Joey Bada$$-Summer Knights 320 Badass`
+- `Sauce Walka: Sauce Walka best songs available on`
+- `Swollen Members: Swollen Members-Beautiful Death Machine-2013`
+- `Young Thug: Young Thug- Stoner @YoungThugWorld`
+- `Fabolous: Fabolous There Is No Competition 3`
+- `iLoveMakonnen: ILOVEMAKONNEN No Ma am`
+- `Scarcity Budapest: Scarcity Budapest-Back to Business-2012`
+- `Dom Pachino: Dom Pachino Neplatna Identita`
+- `Run The Jewels: Run The Jewels 2`
+- `Three 6 Mafia: sippin on some syrup by three 6 mafia`
+- `Wu-Tang Clan: wu-tang killa bees-the beggaz`
+- `8Ball & MJG: 8Ball MJG, 8Ball`
+- `Chingy: 15Chinx French Montana`
 
 ## Person entries
 

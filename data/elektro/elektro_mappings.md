@@ -112,3 +112,10 @@
 - `Keinemusik: Keinemusik - The Party is Over`
 - `Above & Beyond: Above Beyond`
 - `Skrillex: 2015 - Skrillex`
+- `The Prodigy: The Fat of the Land, Music for the Jilted Generation`
+- `Skrillex: Diplo Present Jack 220`
+- `Baauer: Baauer - Aa`
+- `Swedish House Mafia: Electro Swedish House Mafia`
+- `Kungs: Kungs Cookin On 3 Burners`
+- `Lilly Wood & The Prick: Lilly Wood The Prick`
+- `Où est le swimming pool: Ou est le swimming pool`

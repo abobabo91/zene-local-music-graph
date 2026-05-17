@@ -1183,26 +1183,17 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Buda Folk Band Magyar világi népzene": {
+  "Buda Folk Band": {
     "song_ids": [
       "mg-00234",
-      "mg-00235"
-    ],
-    "primary_song_ids": [
-      "mg-00234",
-      "mg-00235"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Buda Folk Band Saját gyűjtés": {
-    "song_ids": [
+      "mg-00235",
       "mg-00236",
       "mg-00237",
       "mg-00238"
     ],
     "primary_song_ids": [
+      "mg-00234",
+      "mg-00235",
       "mg-00236",
       "mg-00237",
       "mg-00238"
@@ -1554,6 +1545,7 @@
   "Halott Pénz": {
     "song_ids": [
       "mg-00294",
+      "mg-00295",
       "mg-00296",
       "mg-00297",
       "mg-00298",
@@ -1564,6 +1556,7 @@
     ],
     "primary_song_ids": [
       "mg-00294",
+      "mg-00295",
       "mg-00296",
       "mg-00297",
       "mg-00298",
@@ -1571,17 +1564,6 @@
       "mg-00300",
       "mg-00301",
       "mg-00403"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Halott Pénz km. Szabó Balázs": {
-    "song_ids": [
-      "mg-00295"
-    ],
-    "primary_song_ids": [
-      "mg-00295"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -2073,12 +2055,14 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Rúzsa Magdi Lofti Begi": {
+  "Rúzsa Magdi": {
     "song_ids": [
-      "mg-00371"
+      "mg-00371",
+      "mg-00411"
     ],
     "primary_song_ids": [
-      "mg-00371"
+      "mg-00371",
+      "mg-00411"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -2342,22 +2326,20 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Rúzsa Magdi": {
+  "Rúzsa Magdolna": {
     "song_ids": [
       "mg-00406",
       "mg-00407",
       "mg-00408",
       "mg-00409",
-      "mg-00410",
-      "mg-00411"
+      "mg-00410"
     ],
     "primary_song_ids": [
       "mg-00406",
       "mg-00407",
       "mg-00408",
       "mg-00409",
-      "mg-00410",
-      "mg-00411"
+      "mg-00410"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],

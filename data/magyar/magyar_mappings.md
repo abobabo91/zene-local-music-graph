@@ -58,3 +58,6 @@
 - `Szűcs Judit: Szűcs Judith`
 - `Emilio: Emilio Ne nézz vissza rám`
 - `Groovehouse: Groovehouse szívvel`
+- `Buda Folk Band: Buda Folk Band Sajat gyujtes, Buda Folk Band Magyar vilagi nepzene`
+- `Halott Pénz: Halott Penz km. Szabo Balazs`
+- `Rúzsa Magdi: Ruzsa Magdi Lofti Begi`

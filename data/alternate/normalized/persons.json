@@ -141,7 +141,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Alex G - House of Sugar": {
+  "Alex G": {
     "song_ids": [
       "al-00017"
     ],
@@ -954,7 +954,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Nick Cave The Bad Seeds": {
+  "Nick Cave and the Bad Seeds": {
     "song_ids": [
       "al-00144"
     ],
@@ -1006,23 +1006,14 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Xavier Rudd - Spirit Bird": {
-    "song_ids": [
-      "al-00157"
-    ],
-    "primary_song_ids": [
-      "al-00157"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Xavier Rudd": {
     "song_ids": [
+      "al-00157",
       "al-00158",
       "al-00159"
     ],
     "primary_song_ids": [
+      "al-00157",
       "al-00158",
       "al-00159"
     ],
@@ -1310,7 +1301,7 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "The Growlers - Chinese Foundation": {
+  "The Growlers": {
     "song_ids": [
       "al-00201"
     ],

@@ -331,15 +331,15 @@
     "file": "_other\\_alternate\\_random\\Alex G - House of Sugar (2019)(full album)\\Sugar.mp3",
     "title": "Sugar",
     "primary_artists": [
-      "Alex G - House of Sugar"
+      "Alex G"
     ],
     "featuring_artists": [],
     "artists": [
-      "Alex G - House of Sugar"
+      "Alex G"
     ],
     "credits": [
       {
-        "entity": "Alex G - House of Sugar",
+        "entity": "Alex G",
         "entity_type": "person",
         "role": "primary"
       }
@@ -2901,15 +2901,15 @@
     "file": "_other\\_alternate\\_random\\Mix – Laura Marling - What He Wrote (Music Video)\\Nick Cave _ The Bad Seeds - Into My Arms.mp3",
     "title": "Into My Arms",
     "primary_artists": [
-      "Nick Cave The Bad Seeds"
+      "Nick Cave and the Bad Seeds"
     ],
     "featuring_artists": [],
     "artists": [
-      "Nick Cave The Bad Seeds"
+      "Nick Cave and the Bad Seeds"
     ],
     "credits": [
       {
-        "entity": "Nick Cave The Bad Seeds",
+        "entity": "Nick Cave and the Bad Seeds",
         "entity_type": "person",
         "role": "primary"
       }
@@ -3161,15 +3161,15 @@
     "file": "_other\\_alternate\\_random\\Mix – Xavier Rudd - Spirit Bird (audio HQ)\\True Love.mp3",
     "title": "True Love",
     "primary_artists": [
-      "Xavier Rudd - Spirit Bird"
+      "Xavier Rudd"
     ],
     "featuring_artists": [],
     "artists": [
-      "Xavier Rudd - Spirit Bird"
+      "Xavier Rudd"
     ],
     "credits": [
       {
-        "entity": "Xavier Rudd - Spirit Bird",
+        "entity": "Xavier Rudd",
         "entity_type": "person",
         "role": "primary"
       }
@@ -4055,15 +4055,15 @@
     "file": "_other\\_alternate\\_random\\TG_CF\\The Growlers (2014) - Chinese Foundation\\11 Purgatory Drive.mp3",
     "title": "Purgatory Drive",
     "primary_artists": [
-      "The Growlers - Chinese Foundation"
+      "The Growlers"
     ],
     "featuring_artists": [],
     "artists": [
-      "The Growlers - Chinese Foundation"
+      "The Growlers"
     ],
     "credits": [
       {
-        "entity": "The Growlers - Chinese Foundation",
+        "entity": "The Growlers",
         "entity_type": "person",
         "role": "primary"
       }

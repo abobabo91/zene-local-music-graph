@@ -61,3 +61,16 @@
 - `Claude Kelly: Copy of Claude Kelly`
 - `ABBA: Abba Songs Playlist Abba`
 - `NSYNC: NSYNC Songs Playlist N-SYNC`
+- `BTS: LOVE YOURSELF ANSWER BTS`
+- `Michael Jackson: Michael jackson Best 40 Tracks`
+- `Gnarls Barkley: Gnarls Barkely- St Elsewhere`
+- `Ne-Yo: ne-yo-bust it baby part 2, ne-yo-hate that i love you`
+- `Young Jeezy: young jeezy-love in this club`
+- `Yung Berg: yung berg-sexy can i, Yung Berg EXPLICIT VERSION`
+- `Keri Hilson: keri hilson-the way i are`
+- `Chad Kroeger: chad kroeger-into the night`
+- `Outlandish: outlandish- I ve Seen, Outlandmoro- Closer Then Veins`
+- `Pharrell Williams: Pharell Let it Go`
+- `Nicole Scherzinger: Nicole Scherzinger-By My Side`
+- `N.E.R.D: N E R D`
+- `Marky Mark: Marky Mark The Funky Bunch`
