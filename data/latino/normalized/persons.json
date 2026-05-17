@@ -27,12 +27,12 @@
   "Arcángel": {
     "song_ids": [
       "lt-00002",
-      "lt-00097",
+      "lt-00096",
       "lt-00205"
     ],
     "primary_song_ids": [
       "lt-00002",
-      "lt-00097",
+      "lt-00096",
       "lt-00205"
     ],
     "feature_song_ids": [],
@@ -102,14 +102,16 @@
       "lt-00006",
       "lt-00007",
       "lt-00008",
-      "lt-00009"
+      "lt-00009",
+      "lt-00010"
     ],
     "primary_song_ids": [
       "lt-00005",
       "lt-00006",
       "lt-00007",
       "lt-00008",
-      "lt-00009"
+      "lt-00009",
+      "lt-00010"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -117,21 +119,23 @@
   },
   "Frankie J": {
     "song_ids": [
-      "lt-00007"
+      "lt-00005",
+      "lt-00008"
     ],
     "primary_song_ids": [],
     "feature_song_ids": [
-      "lt-00007"
+      "lt-00005",
+      "lt-00008"
     ],
     "via_group_song_ids": [],
     "groups": []
   },
   "Shaggy": {
     "song_ids": [
-      "lt-00010"
+      "lt-00011"
     ],
     "primary_song_ids": [
-      "lt-00010"
+      "lt-00011"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -139,10 +143,10 @@
   },
   "Don Omar": {
     "song_ids": [
-      "lt-00012"
+      "lt-00013"
     ],
     "primary_song_ids": [
-      "lt-00012"
+      "lt-00013"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -150,10 +154,10 @@
   },
   "La Factoria": {
     "song_ids": [
-      "lt-00013"
+      "lt-00014"
     ],
     "primary_song_ids": [
-      "lt-00013"
+      "lt-00014"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -161,10 +165,10 @@
   },
   "Michel Teló": {
     "song_ids": [
-      "lt-00014"
+      "lt-00015"
     ],
     "primary_song_ids": [
-      "lt-00014"
+      "lt-00015"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -172,11 +176,11 @@
   },
   "Monchy y Alexandra": {
     "song_ids": [
-      "lt-00015"
+      "lt-00016"
     ],
     "primary_song_ids": [
-      "lt-00015",
-      "lt-00015"
+      "lt-00016",
+      "lt-00016"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -184,12 +188,10 @@
   },
   "Natti Natasha": {
     "song_ids": [
-      "lt-00016",
-      "lt-00021"
+      "lt-00017"
     ],
     "primary_song_ids": [
-      "lt-00016",
-      "lt-00021"
+      "lt-00017"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -197,11 +199,10 @@
   },
   "Ozuna": {
     "song_ids": [
-      "lt-00016",
-      "lt-00120",
-      "lt-00121",
+      "lt-00017",
+      "lt-00117",
+      "lt-00118",
       "lt-00153",
-      "lt-00204",
       "lt-00216",
       "lt-00217",
       "lt-00218",
@@ -229,10 +230,9 @@
       "lt-00240"
     ],
     "primary_song_ids": [
-      "lt-00016",
-      "lt-00120",
-      "lt-00121",
-      "lt-00204",
+      "lt-00017",
+      "lt-00117",
+      "lt-00118",
       "lt-00216",
       "lt-00217",
       "lt-00218",
@@ -267,12 +267,12 @@
   },
   "Prince Royce": {
     "song_ids": [
-      "lt-00017",
-      "lt-00018"
+      "lt-00018",
+      "lt-00019"
     ],
     "primary_song_ids": [
-      "lt-00017",
-      "lt-00018"
+      "lt-00018",
+      "lt-00019"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -280,21 +280,10 @@
   },
   "Santana": {
     "song_ids": [
-      "lt-00019"
+      "lt-00020"
     ],
     "primary_song_ids": [
-      "lt-00019"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Becky G": {
-    "song_ids": [
-      "lt-00021"
-    ],
-    "primary_song_ids": [
-      "lt-00021"
+      "lt-00020"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -817,51 +806,12 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Anuel AA": {
-    "song_ids": [
-      "lt-00095",
-      "lt-00128",
-      "lt-00130",
-      "lt-00256"
-    ],
-    "primary_song_ids": [
-      "lt-00095",
-      "lt-00128",
-      "lt-00130",
-      "lt-00256"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Dj Luian": {
-    "song_ids": [
-      "lt-00095"
-    ],
-    "primary_song_ids": [
-      "lt-00095"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Mambo Kingz": {
-    "song_ids": [
-      "lt-00095"
-    ],
-    "primary_song_ids": [
-      "lt-00095"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
   "Miky Woodz": {
     "song_ids": [
-      "lt-00097"
+      "lt-00096"
     ],
     "primary_song_ids": [
-      "lt-00097"
+      "lt-00096"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -869,10 +819,10 @@
   },
   "Jay Wheeler": {
     "song_ids": [
-      "lt-00097"
+      "lt-00096"
     ],
     "primary_song_ids": [
-      "lt-00097"
+      "lt-00096"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -880,22 +830,22 @@
   },
   "Blessd": {
     "song_ids": [
-      "lt-00098",
-      "lt-00116",
+      "lt-00097",
+      "lt-00114",
+      "lt-00120",
+      "lt-00121",
+      "lt-00122",
       "lt-00123",
-      "lt-00124",
-      "lt-00125",
-      "lt-00126",
-      "lt-00127"
+      "lt-00124"
     ],
     "primary_song_ids": [
-      "lt-00098",
-      "lt-00116",
+      "lt-00097",
+      "lt-00114",
+      "lt-00120",
+      "lt-00121",
+      "lt-00122",
       "lt-00123",
-      "lt-00124",
-      "lt-00125",
-      "lt-00126",
-      "lt-00127"
+      "lt-00124"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -903,11 +853,11 @@
   },
   "Chencho Corleone": {
     "song_ids": [
-      "lt-00099",
+      "lt-00098",
       "lt-00253"
     ],
     "primary_song_ids": [
-      "lt-00099",
+      "lt-00098",
       "lt-00253"
     ],
     "feature_song_ids": [],
@@ -916,10 +866,10 @@
   },
   "Jowell y Randy": {
     "song_ids": [
-      "lt-00103"
+      "lt-00102"
     ],
     "primary_song_ids": [
-      "lt-00103"
+      "lt-00102"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -927,14 +877,14 @@
   },
   "Maluma": {
     "song_ids": [
-      "lt-00103",
-      "lt-00109",
-      "lt-00110"
+      "lt-00102",
+      "lt-00108",
+      "lt-00109"
     ],
     "primary_song_ids": [
-      "lt-00103",
-      "lt-00109",
-      "lt-00110"
+      "lt-00102",
+      "lt-00108",
+      "lt-00109"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -942,11 +892,11 @@
   },
   "Maldy": {
     "song_ids": [
-      "lt-00104",
+      "lt-00103",
       "lt-00209"
     ],
     "primary_song_ids": [
-      "lt-00104",
+      "lt-00103",
       "lt-00209"
     ],
     "feature_song_ids": [],
@@ -955,10 +905,10 @@
   },
   "Lenny Tavarez": {
     "song_ids": [
-      "lt-00104"
+      "lt-00103"
     ],
     "primary_song_ids": [
-      "lt-00104"
+      "lt-00103"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -966,10 +916,10 @@
   },
   "Nanpa Básico": {
     "song_ids": [
-      "lt-00105"
+      "lt-00104"
     ],
     "primary_song_ids": [
-      "lt-00105"
+      "lt-00104"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -977,21 +927,21 @@
   },
   "Adriel Favela": {
     "song_ids": [
-      "lt-00105"
+      "lt-00104"
     ],
     "primary_song_ids": [],
     "feature_song_ids": [
-      "lt-00105"
+      "lt-00104"
     ],
     "via_group_song_ids": [],
     "groups": []
   },
   "Yng Lvcas": {
     "song_ids": [
-      "lt-00114"
+      "lt-00112"
     ],
     "primary_song_ids": [
-      "lt-00114"
+      "lt-00112"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -999,118 +949,12 @@
   },
   "Peso Pluma": {
     "song_ids": [
-      "lt-00114",
+      "lt-00112",
       "lt-00261"
     ],
     "primary_song_ids": [
-      "lt-00114",
+      "lt-00112",
       "lt-00261"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "Feid": {
-    "song_ids": [
-      "lt-00117",
-      "lt-00157",
-      "lt-00158",
-      "lt-00159",
-      "lt-00160",
-      "lt-00161",
-      "lt-00162",
-      "lt-00163",
-      "lt-00164",
-      "lt-00165",
-      "lt-00166",
-      "lt-00167",
-      "lt-00168",
-      "lt-00169",
-      "lt-00170",
-      "lt-00171",
-      "lt-00172",
-      "lt-00173",
-      "lt-00174",
-      "lt-00175",
-      "lt-00176",
-      "lt-00177",
-      "lt-00178",
-      "lt-00179",
-      "lt-00180",
-      "lt-00181",
-      "lt-00182",
-      "lt-00183",
-      "lt-00184",
-      "lt-00185",
-      "lt-00186",
-      "lt-00187",
-      "lt-00188",
-      "lt-00189",
-      "lt-00190",
-      "lt-00191",
-      "lt-00192",
-      "lt-00193",
-      "lt-00194",
-      "lt-00195",
-      "lt-00196",
-      "lt-00236"
-    ],
-    "primary_song_ids": [
-      "lt-00117",
-      "lt-00157",
-      "lt-00158",
-      "lt-00159",
-      "lt-00160",
-      "lt-00161",
-      "lt-00162",
-      "lt-00163",
-      "lt-00164",
-      "lt-00165",
-      "lt-00166",
-      "lt-00167",
-      "lt-00168",
-      "lt-00169",
-      "lt-00170",
-      "lt-00171",
-      "lt-00172",
-      "lt-00173",
-      "lt-00174",
-      "lt-00175",
-      "lt-00176",
-      "lt-00177",
-      "lt-00178",
-      "lt-00179",
-      "lt-00180",
-      "lt-00181",
-      "lt-00182",
-      "lt-00183",
-      "lt-00184",
-      "lt-00185",
-      "lt-00186",
-      "lt-00187",
-      "lt-00188",
-      "lt-00189",
-      "lt-00190",
-      "lt-00191",
-      "lt-00192",
-      "lt-00193",
-      "lt-00194",
-      "lt-00195",
-      "lt-00196",
-      "lt-00236"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": [],
-    "groups": []
-  },
-  "ATL Jacob": {
-    "song_ids": [
-      "lt-00117",
-      "lt-00180"
-    ],
-    "primary_song_ids": [
-      "lt-00117",
-      "lt-00180"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -1118,10 +962,10 @@
   },
   "ROSALÍA": {
     "song_ids": [
-      "lt-00118"
+      "lt-00115"
     ],
     "primary_song_ids": [
-      "lt-00118"
+      "lt-00115"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -1129,10 +973,10 @@
   },
   "Katie Garfield": {
     "song_ids": [
-      "lt-00119"
+      "lt-00116"
     ],
     "primary_song_ids": [
-      "lt-00119"
+      "lt-00116"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -1140,8 +984,8 @@
   },
   "Beéle": {
     "song_ids": [
-      "lt-00120",
-      "lt-00121",
+      "lt-00117",
+      "lt-00118",
       "lt-00142",
       "lt-00143",
       "lt-00144",
@@ -1153,8 +997,8 @@
       "lt-00150"
     ],
     "primary_song_ids": [
-      "lt-00120",
-      "lt-00121",
+      "lt-00117",
+      "lt-00118",
       "lt-00142",
       "lt-00143",
       "lt-00144",
@@ -1173,10 +1017,10 @@
   },
   "Ovy On The Drums": {
     "song_ids": [
-      "lt-00121"
+      "lt-00118"
     ],
     "primary_song_ids": [
-      "lt-00121"
+      "lt-00118"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -1184,13 +1028,13 @@
   },
   "Yandel": {
     "song_ids": [
-      "lt-00122",
+      "lt-00119",
       "lt-00195",
       "lt-00196",
       "lt-00213"
     ],
     "primary_song_ids": [
-      "lt-00122",
+      "lt-00119",
       "lt-00195",
       "lt-00196",
       "lt-00213"
@@ -1201,32 +1045,95 @@
   },
   "Farina": {
     "song_ids": [
-      "lt-00122"
+      "lt-00119"
     ],
     "primary_song_ids": [],
     "feature_song_ids": [
-      "lt-00122"
+      "lt-00119"
     ],
     "via_group_song_ids": [],
     "groups": []
   },
   "SEBAS": {
     "song_ids": [
-      "lt-00126"
+      "lt-00123"
     ],
     "primary_song_ids": [],
     "feature_song_ids": [
-      "lt-00126"
+      "lt-00123"
     ],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Anuel AA": {
+    "song_ids": [
+      "lt-00125",
+      "lt-00127",
+      "lt-00128",
+      "lt-00129",
+      "lt-00256"
+    ],
+    "primary_song_ids": [
+      "lt-00125",
+      "lt-00127",
+      "lt-00128",
+      "lt-00129",
+      "lt-00256"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Dj Luian": {
+    "song_ids": [
+      "lt-00127"
+    ],
+    "primary_song_ids": [
+      "lt-00127"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Mambo Kingz": {
+    "song_ids": [
+      "lt-00127"
+    ],
+    "primary_song_ids": [
+      "lt-00127"
+    ],
+    "feature_song_ids": [],
     "via_group_song_ids": [],
     "groups": []
   },
   "Enrique Iglesias": {
     "song_ids": [
-      "lt-00130"
+      "lt-00128"
     ],
     "primary_song_ids": [
-      "lt-00130"
+      "lt-00128"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Rvssian": {
+    "song_ids": [
+      "lt-00129"
+    ],
+    "primary_song_ids": [
+      "lt-00129"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Juice WRLD": {
+    "song_ids": [
+      "lt-00129"
+    ],
+    "primary_song_ids": [
+      "lt-00129"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -1234,6 +1141,7 @@
   },
   "Bad Bunny": {
     "song_ids": [
+      "lt-00130",
       "lt-00131",
       "lt-00132",
       "lt-00133",
@@ -1247,6 +1155,7 @@
       "lt-00213"
     ],
     "primary_song_ids": [
+      "lt-00130",
       "lt-00131",
       "lt-00132",
       "lt-00133",
@@ -1350,14 +1259,14 @@
   "Justin Quiles": {
     "song_ids": [
       "lt-00154",
-      "lt-00175",
+      "lt-00174",
       "lt-00205",
       "lt-00207",
       "lt-00208"
     ],
     "primary_song_ids": [
       "lt-00154",
-      "lt-00175",
+      "lt-00174",
       "lt-00205",
       "lt-00207",
       "lt-00208"
@@ -1388,12 +1297,116 @@
     "via_group_song_ids": [],
     "groups": []
   },
-  "Totoy El Frio": {
+  "Feid": {
     "song_ids": [
-      "lt-00168"
+      "lt-00157",
+      "lt-00158",
+      "lt-00159",
+      "lt-00160",
+      "lt-00161",
+      "lt-00162",
+      "lt-00163",
+      "lt-00164",
+      "lt-00165",
+      "lt-00166",
+      "lt-00167",
+      "lt-00168",
+      "lt-00169",
+      "lt-00170",
+      "lt-00171",
+      "lt-00172",
+      "lt-00173",
+      "lt-00174",
+      "lt-00175",
+      "lt-00176",
+      "lt-00177",
+      "lt-00178",
+      "lt-00179",
+      "lt-00180",
+      "lt-00181",
+      "lt-00182",
+      "lt-00183",
+      "lt-00184",
+      "lt-00185",
+      "lt-00186",
+      "lt-00187",
+      "lt-00188",
+      "lt-00189",
+      "lt-00190",
+      "lt-00191",
+      "lt-00192",
+      "lt-00193",
+      "lt-00194",
+      "lt-00195",
+      "lt-00196",
+      "lt-00236"
     ],
     "primary_song_ids": [
-      "lt-00168"
+      "lt-00157",
+      "lt-00158",
+      "lt-00159",
+      "lt-00160",
+      "lt-00161",
+      "lt-00162",
+      "lt-00163",
+      "lt-00164",
+      "lt-00165",
+      "lt-00166",
+      "lt-00167",
+      "lt-00168",
+      "lt-00169",
+      "lt-00170",
+      "lt-00171",
+      "lt-00172",
+      "lt-00173",
+      "lt-00174",
+      "lt-00175",
+      "lt-00176",
+      "lt-00177",
+      "lt-00178",
+      "lt-00179",
+      "lt-00180",
+      "lt-00181",
+      "lt-00182",
+      "lt-00183",
+      "lt-00184",
+      "lt-00185",
+      "lt-00186",
+      "lt-00187",
+      "lt-00188",
+      "lt-00189",
+      "lt-00190",
+      "lt-00191",
+      "lt-00192",
+      "lt-00193",
+      "lt-00194",
+      "lt-00195",
+      "lt-00196",
+      "lt-00236"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "Totoy El Frio": {
+    "song_ids": [
+      "lt-00167"
+    ],
+    "primary_song_ids": [
+      "lt-00167"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": [],
+    "groups": []
+  },
+  "ATL Jacob": {
+    "song_ids": [
+      "lt-00179",
+      "lt-00180"
+    ],
+    "primary_song_ids": [
+      "lt-00179",
+      "lt-00180"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -1478,6 +1491,7 @@
       "lt-00200",
       "lt-00201",
       "lt-00202",
+      "lt-00203",
       "lt-00215"
     ],
     "primary_song_ids": [
@@ -1486,6 +1500,7 @@
       "lt-00200",
       "lt-00201",
       "lt-00202",
+      "lt-00203",
       "lt-00215"
     ],
     "feature_song_ids": [],
@@ -1494,10 +1509,10 @@
   },
   "Willy William": {
     "song_ids": [
-      "lt-00200"
+      "lt-00201"
     ],
     "primary_song_ids": [
-      "lt-00200"
+      "lt-00201"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -1505,10 +1520,10 @@
   },
   "Luis Fonsi": {
     "song_ids": [
-      "lt-00203"
+      "lt-00204"
     ],
     "primary_song_ids": [
-      "lt-00203"
+      "lt-00204"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
@@ -1516,10 +1531,10 @@
   },
   "Demi Lovato": {
     "song_ids": [
-      "lt-00203"
+      "lt-00204"
     ],
     "primary_song_ids": [
-      "lt-00203"
+      "lt-00204"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": [],
