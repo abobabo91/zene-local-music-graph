@@ -1,10 +1,12 @@
-# Song Duplicate Report
+# Verified Song Duplicate Report
 
-Total songs analyzed: 10791
-Duplicate groups: 519 (1089 files)
-Cross-area: 139 | Within-area: 380
+After deep title comparison (stripping feat, parentheticals, brackets):
 
-## Cross-area duplicates
+- **True duplicates** (same song, same version): 438 groups
+- **Likely duplicates** (very similar titles, no remix indicators): 1 groups
+- **Different versions** (remix vs original, live vs studio, etc.): 4 groups
+
+## True duplicates — cross-area (116 groups)
 
 ### Avicii - Wake Me Up () (4 copies)
   - [elektro] _other\_elektro\edm_electronic_pop\Mix – Lost Frequencies feat  Janieck Devy - Reality (Official Music Video)\Avicii - Wake Me Up (Official Video).mp3
@@ -17,35 +19,15 @@ Cross-area: 139 | Within-area: 380
   - [rnb] _other\_rnb\_random\90s 00s rnb\aSHANTI top tracks\Ashanti - Foolish (Official Music Video).mp3
   - [pop] _other\_pop\_billboard\2002\2002-002 Ashanti - Foolish.mp3
 
-### Busta Rhymes - I know what you want (3 copies)
-  - [us] _rap/_usa other/Busta Rhymes/It Ain_t Safe No More/12.I know what you want.mp3
-  - [rnb] _other\_rnb\_random\The Way You\Busta Rhymes, Mariah Carey - I Know What You Want (Official HD Video) ft. Flipmode Squad.mp3
-  - [pop] _other\_pop\_billboard\2003\2003-017 Busta Rhymes And Mariah Carey - I Know What You Want.mp3
-
 ### Meek Mill - Going Bad feat (3 copies)
   - [us] _trap/_usa random/_random/volume 1/Meek Mill - Going Bad feat. Drake (Official Video).mp3
   - [us] _trap/phily/Meek Mill/CHAMPIONSHIPS - YouTube/Meek Mill - Going Bad feat. Drake [Official Audio].mp3
   - [pop] _other\_pop\_billboard\2019\018. Meek Mill - Going Bad (feat. Drake).mp3
 
-### Miguel - Sky Walker () ft (3 copies)
-  - [us] _trap/_usa random/travis scott/Travis Scott features - YouTube/Miguel - Sky Walker (Official Video) ft. Travis Scott.mp3
-  - [rnb] _other\_rnb\Miguel\Miguel - War _ Leisure (2017) Mp3 (320kbps) [Hunter]\Miguel - War _ Leisure (2017)\03 - Sky Walker.mp3
-  - [pop] _other\_pop\_billboard\2018\75. Miguel - Sky Walker.mp3
-
 ### Cardi B - Bodak Yellow [] (3 copies)
   - [us] _trap/new york/Cardi B/Cardi B - Bodak Yellow [OFFICIAL MUSIC VIDEO].mp3
   - [us] _trap/new york/Cardi B/Cardi B - Invasion of Privacy (2018) Mp3 (320kbps) [Hunter]/Cardi B - Invasion of Privacy (2018)/04 Bodak Yellow.mp3
   - [pop] _other\_pop\_billboard\2018\54. Cardi B - Bodak Yellow.mp3
-
-### Maroon 5 - Girls Like You ft (3 copies)
-  - [us] _trap/new york/Cardi B/cardi b mixtapes features/Maroon 5 - Girls Like You ft. Cardi B (Official Music Video).mp3
-  - [pop] _other\_pop\_billboard\2018\10. Maroon 5 - Girls Like You.mp3
-  - [pop] _other\_pop\_billboard\2019\022. Maroon 5 - Girls Like You.mp3
-
-### Drake - Take Care (feat. Rihanna) (3 copies)
-  - [us] _trap/toronto/Drake/Drake-Take_Care_(iTunes_Deluxe_Version)-2011/05 Take Care (feat. Rihanna).m4a
-  - [pop] _other\_pop\_billboard\2012\Drake - Take Care.mp3
-  - [pop] _other\_pop\_random\Drake - Take Care ft. Rihanna (Official Music Video).mp3
 
 ### Ciara - Body Party (3 copies)
   - [rnb] _other\_rnb\_random\rap caviar\Rnb_Heaven_Vol11-(DatPiff.com)\Chris BrownFrank OceanThe Weeknd The Dream Jay (DatPiff.com)\22 - Ciara - Body Party.mp3
@@ -77,35 +59,10 @@ Cross-area: 139 | Within-area: 380
   - [pop] _other\_pop\_random\Dennis Lloyd\Dennis Lloyd - Nevermind (Official Video).mp3
   - [pop] _other\_pop\_random\Dennis Lloyd - NEVERMIND.mp3
 
-### DJ Snake - Let Me Love You ft (3 copies)
-  - [elektro] _other\_elektro\edm_electronic_pop\Mix – Lost Frequencies feat  Janieck Devy - Reality (Official Music Video)\DJ Snake - Let Me Love You ft. Justin Bieber.mp3
-  - [elektro] _other\_elektro\edm_electronic_pop\top\DJ Snake, Justin Bieber - Let Me Love You.mp3
-  - [pop] _other\_pop\_billboard\2017\DJ Snake - Let Me Love You ft. Justin Bieber (Official Video).mp3
-
-### The Chainsmokers - Closer (Lyric) ft (3 copies)
-  - [elektro] _other\_elektro\edm_electronic_pop\Mix – Lost Frequencies feat  Janieck Devy - Reality (Official Music Video)\The Chainsmokers - Closer (Lyric) ft. Halsey.mp3
-  - [elektro] _other\_elektro\edm_electronic_pop\top\The Chainsmokers, Halsey - Closer.mp3
-  - [pop] _other\_pop\_random\The Chainsmokers - Closer (Lyric Video).mp3
-
-### The Chainsmokers - Don t Let Me Down ft (3 copies)
-  - [elektro] _other\_elektro\edm_electronic_pop\Mix – Lost Frequencies feat  Janieck Devy - Reality (Official Music Video)\The Chainsmokers - Don t Let Me Down ft. Daya.mp3
-  - [pop] _other\_pop\_billboard\2016\The Chainsmokers - Don_t Let Me Down.mp3
-  - [pop] _other\_pop\_random\The Chainsmokers feat. Daya - Don t Let Me Down (Official Video).mp3
-
-### Mike Perry - The Ocean (ft (3 copies)
-  - [elektro] _other\_elektro\edm_electronic_pop\Mix – Nico _ Vinz - Am I Wrong [Official Lyric Video]\Mike Perry - The Ocean (ft. Shy Martin).mp3
-  - [elektro] _other\_elektro\edm_electronic_pop\top\Mike Perry, Shy Martin - The Ocean.mp3
-  - [pop] _other\_pop\_random\Mike Perry feat. Shy Martin - The Ocean (Official Video).mp3
-
 ### Sia - Chandelier () (3 copies)
   - [elektro] _other\_elektro\edm_electronic_pop\Mix – Nico _ Vinz - Am I Wrong [Official Lyric Video]\Sia - Chandelier (Official Video).mp3
   - [pop] _other\_pop\_billboard\2014\UK Hot 100 Best Of 2014\32 Sia - Chandelier.mp3
   - [pop] _other\_pop\_billboard\2015\90. Sia - Chandelier[www.musicbolt.com].mp3
-
-### Ariana Grande - Side To Side (3 copies)
-  - [elektro] _other\_elektro\edm_electronic_pop\top\Ariana Grande, Nicki Minaj - Side To Side.mp3
-  - [pop] _other\_pop\_billboard\2017\Ariana Grande ft. Nicki Minaj - Side To Side (Official Video) ft. Nicki Minaj.mp3
-  - [pop] _other\_pop\_modern\Ariana Grande - Album Discography [2013-2019] (All 320)\2016 - Dangerous Woman\05 Side To Side (feat. Nicki Minaj).mp3
 
 ### Passenger - Let Her Go [] (3 copies)
   - [elektro] _other\_elektro\house_techno\random\Passenger - Let Her Go [Official Video].mp3
@@ -121,11 +78,6 @@ Cross-area: 139 | Within-area: 380
   - [elektro] _other\_elektro\trance_dance_rave\Kylie Minogue - Can_t Get You Out Of My Head (Official Video).mp3
   - [pop] _other\_pop\_billboard\2002\2002-045 Kylie Minogue - Can_t Get You Out Of My Head.mp3
   - [pop] _other\_pop\Kylie Minogue - Official Music Videos\Kylie Minogue - Can_t Get You Out Of My Head (HD).mp3
-
-### Halsey - Without Me (3 copies)
-  - [pop] _other\_pop\_billboard\2019\003. Halsey - Without Me.mp3
-  - [alternate] _other\_alternate\halsey\Halsey - Without Me (Audio) ft. Juice WRLD.mp3
-  - [alternate] _other\_alternate\halsey\Halsey - Without Me (Official Audio).mp3
 
 ### Fort Minor - Where d You Go (2 copies)
   - [us] _rap/_usa other/_random/Fort Minor- Where_d You Go.mp3
@@ -147,9 +99,9 @@ Cross-area: 139 | Within-area: 380
   - [us] _rap/_usa other/Bone Thugs-N-Harmony - Greatest Hits/Bone.Thugs-N-Harmony-Strength._.Loyalty[2007][MP3@320kbps]-antecho/04 I Tried.mp3
   - [pop] _other\_pop\Akon Discography @ 320 (6 Albums)(RAP)(by dragan09)\Bone Thugs-N-Harmony ft. Akon - I Tried (Official Video).mp3
 
-### Chingy - Holidae In (Featuring Ludacris and Snoop Dogg) (2 copies)
-  - [us] _rap/_usa other/Chingy/Jackpot/12 - Holidae In (Featuring Ludacris and Snoop Dogg).mp3
-  - [pop] _other\_pop\_billboard\2003\2003-076 Chingy Feat. Ludacris _ Snoop Dogg - Holidae In.mp3
+### Busta Rhymes - I know what you want (2 copies)
+  - [us] _rap/_usa other/Busta Rhymes/It Ain_t Safe No More/12.I know what you want.mp3
+  - [pop] _other\_pop\_billboard\2003\2003-017 Busta Rhymes And Mariah Carey - I Know What You Want.mp3
 
 ### Nelly - Hot In Herre (2 copies)
   - [us] _rap/_usa other/Nelly/Nelly/Nellyville/03 Hot In Herre.mp3
@@ -163,10 +115,6 @@ Cross-area: 139 | Within-area: 380
   - [us] _rap/_usa other/Wiz Khalifa/2012 - Wiz Khalifa - O.N.I.F.C. (Deluxe Version)/06 Wiz Khalifa - Work Hard, Play Hard.mp3
   - [pop] _other\_pop\_billboard\2012\Wiz Khalifa - Work Hard, Play Hard.mp3
 
-### Cassie - Me U [Remix] (2 copies)
-  - [us] _rap/atlanta/_random/Yung Joc - It_s Goin Down (Official Music Video)/Cassie Ft. Yung Joc _ P.Diddy - Me _ U [Remix].mp3
-  - [pop] _other\_pop\_billboard\2006\2006-014 Cassie - Me _ U.mp3
-
 ### Danity Kane - Show Stopper () (2 copies)
   - [us] _rap/atlanta/_random/Yung Joc - It_s Goin Down (Official Music Video)/Danity Kane [feat. Yung Joc] - Show Stopper (Official Music Video).mp3
   - [rnb] _other\_rnb\_random\Danity Kane Full Album List\Show Stopper.mp3
@@ -174,10 +122,6 @@ Cross-area: 139 | Within-area: 380
 ### Young Jeezy - Soul Survivor (2 copies)
   - [us] _rap/atlanta/Young Jeezy/Young.Jeezy-Lets.Get.It.Thug.Motivation.101[2006][MP3@320kbps]-antecho/14 Soul Survivor.mp3
   - [pop] _other\_pop\_billboard\2005\05_52 Young Jeezy feat Akon  - Soul Survivor.mp3
-
-### The Game - Stainless (feat. Anderson .Paak) (2 copies)
-  - [us] _rap/california/The Game/The Game - Born 2 Rap [2019]/19 Stainless (feat. Anderson .Paak).mp3
-  - [pop] _other\_pop\_random\Anderson  Paak\The Game - Stainless [Official Video] ft. Anderson.Paak.mp3
 
 ### Eminem - Lose Yourself (2 copies)
   - [us] _rap/detroit/Eminem/Eminem - 8 Mile Soundtrack/01. Eminem - Lose Yourself.mp3
@@ -195,14 +139,6 @@ Cross-area: 139 | Within-area: 380
   - [us] _rap/new york/FABOLOUS/Fabolous - Baby Don t Go ft. Jermaine Dupri.mp3
   - [rnb] _other\_rnb\T-Pain top songs\Fabolous - Baby Don_t Go ft. Jermaine Dupri.mp3
 
-### Nicki Minaj - Bed () [ALBUM QUEEN] (2 copies)
-  - [us] _rap/new york/Nicki Minaj/NICKI MINAJ - QUEEN ALBUM COMPLETE/Nicki Minaj Ft. Ariana Grande - Bed (Official Audio) [ALBUM QUEEN].mp3
-  - [pop] _other\_pop\_modern\Ariana Grande - Album Discography [2013-2019] (All 320)\Ariana Grande - Features & Others\Nicki Minaj - Bed ft. Ariana Grande.mp3
-
-### Akon - Beautiful (2 copies)
-  - [us] _trap/_usa random/_random/HIPHOPTXL/Piff_Rb_Vol_2-(DatPiff.com)/NeyoUsherOmarionT-PainAvantLloydAkonVarious (DatPiff.com)/03 - Akon - Beautiful.mp3
-  - [pop] _other\_pop\Akon Discography @ 320 (6 Albums)(RAP)(by dragan09)\2008 - Akon - Freedom\02  Akon - Beautiful [Ft. Colby O_Donis And Kardinal Offishall].mp3
-
 ### Ryan Leslie - How It Was Supposed To Be (2 copies)
   - [us] _trap/_usa random/_random/HIPHOPTXL/Piff_Rb_Vol_2-(DatPiff.com)/NeyoUsherOmarionT-PainAvantLloydAkonVarious (DatPiff.com)/14 - Ryan Leslie - How It Was Supposed To Be.mp3
   - [rnb] _other\_rnb\Ryan Leslie - How It Was Supposed To Be.mp3
@@ -210,6 +146,10 @@ Cross-area: 139 | Within-area: 380
 ### Quality Control - Baby () (2 copies)
   - [us] _trap/_usa random/dababy/DaBaby Videos/Quality Control, Lil Baby, & DaBaby -  Baby  (Official Music Video).mp3
   - [pop] _other\_pop\_billboard\2019\084. Quality Control - Baby.mp3
+
+### Iggy Azalea - Work (2 copies)
+  - [us] _trap/_usa random/Iggy Azalea • The New Classic [DE @ 320] 2014/IA @ 320/07 - Work.mp3
+  - [rnb] _other\_rnb\Iggy Azalea - Work.mp3
 
 ### PARTYNEXTDOOR - West District (2 copies)
   - [us] _trap/_usa random/Partynextdoor mix - YouTube/PARTYNEXTDOOR - West District.mp3
@@ -231,14 +171,6 @@ Cross-area: 139 | Within-area: 380
   - [us] _trap/_usa random/saweetie music videos/Saweetie - Back to the Streets (feat. Jhené Aiko) [Official Lyrics Video].mp3
   - [rnb] _other\_rnb\_random\Highline R&B\Saweetie - Back to the Streets (feat. Jhené Aiko) [Official Music Video].mp3
 
-### Julia Michaels - Jump (2 copies)
-  - [us] _trap/_usa random/Trippie Redd/Trippie Redd _A Love Letter to You 4_ Album/Julia Michaels, Trippie Redd - Jump.mp3
-  - [pop] _other\_pop\Julia Michaels - YouTube\Julia Michaels - Jump (Lyric Video) ft. Trippie Redd.mp3
-
-### Tyga - Taste () ft (2 copies)
-  - [us] _trap/_usa random/Tyga - Taste (Official Video) ft. Offset.mp3
-  - [pop] _other\_pop\_billboard\2018\28. Tyga - Taste.mp3
-
 ### O.T. Genasis - CoCo [Music Video] (2 copies)
   - [us] _trap/atlanta/_random/ILoveMakonnen/O.T. Genasis - CoCo [Music Video].mp3
   - [pop] _other\_pop\_billboard\2015\79. O.T. Genasis - Coco[www.musicbolt.com].mp3
@@ -251,10 +183,6 @@ Cross-area: 139 | Within-area: 380
   - [us] _trap/california/lil xan/Lil Xan — Betrayed - YouTube/Bryson Tiller - Exchange.mp3
   - [rnb] _other\_rnb\_modern\Bryson Tiller - A N N I V E R S A R Y (2020) Mp3 320kbps [PMEDIA] ⭐️\Bryson Tiller - T R A P S O U L (Deluxe) (2020) Mp3 320kbps [PMEDIA] ⭐️\03. Exchange.mp3
 
-### Ciara - Goodies ft (2 copies)
-  - [us] _trap/california/lil xan/Lil Xan — Betrayed - YouTube/Ciara - Goodies ft. Petey Pablo.mp3
-  - [pop] _other\_pop\_billboard\2004\2004-009 Ciara Featuring Petey Pablo - Goodies.mp3
-
 ### Shaggy - It Wasn t Me () (2 copies)
   - [us] _trap/california/lil xan/Lil Xan — Betrayed - YouTube/Shaggy - _It Wasn_t Me (Official Music Video).mp3
   - [pop] _other\_pop\_billboard\2001\2001-012 Shaggy - It Wasn_t Me.mp3
@@ -263,25 +191,9 @@ Cross-area: 139 | Within-area: 380
   - [us] _trap/florida/YNW Melly/YNW Melly - I Am You (Full Mixtape)/Ynw Melly - Murder On My Mind.mp3
   - [pop] _other\_pop\_billboard\2019\066. YNW Melly - Murder On My Mind.mp3
 
-### 6ix9ine - FEFE (feat. Nicki Minaj and Murda Beatz) (2 copies)
-  - [us] _trap/new york/69tekashi/6ix9ine - Dummy Boy (2018) [320]/02. FEFE (feat. Nicki Minaj and Murda Beatz).mp3
-  - [pop] _other\_pop\_billboard\2018\31. 6IX9INE - FEFE.mp3
-
-### Summer Walker - Stretch You Out ft (2 copies)
-  - [us] _trap/new york/aboogie/A boogie features - YouTube/Summer Walker - Stretch You Out ft. A Boogie wit da Hoodie.mp3
-  - [rnb] _other\_rnb\_random\Summer Walker\Summer Walker - Stretch You Out [Lyric Video].mp3
-
 ### Cardi B - Bartier Cardi (feat (2 copies)
   - [us] _trap/new york/Cardi B/Cardi B - Bartier Cardi (feat. 21 Savage) [Official Audio].mp3
   - [pop] _other\_pop\_billboard\2018\60. Cardi B - Bartier Cardi (feat. 21 Savage).mp3
-
-### DJ Snake - Taki Taki ft (2 copies)
-  - [us] _trap/new york/Cardi B/cardi b mixtapes features/DJ Snake - Taki Taki ft. Selena Gomez, Ozuna, Cardi B (Official Music Video).mp3
-  - [pop] _other\_pop\_billboard\2019\057. DJ Snake - Taki Taki.mp3
-
-### G-Eazy - No Limit () ft (2 copies)
-  - [us] _trap/new york/Cardi B/cardi b mixtapes features/G-Eazy - No Limit (Official Audio) ft. A$AP Rocky, Cardi B.mp3
-  - [pop] _other\_pop\_billboard\2018\30. G-Eazy - No Limit.mp3
 
 ### MAJID JORDAN - Waiting For You (ft (2 copies)
   - [us] _trap/toronto/_random/MAJID JORDAN/Majid Jordan - Waiting For You (ft. Naomi Sharon) - Live From London.mp3
@@ -331,6 +243,10 @@ Cross-area: 139 | Within-area: 380
   - [rnb] _other\_rnb\christiana milian\07 When You Look At Me.m4a
   - [pop] _other\_pop\_random\00s - YouTube\Christina Milian - When You Look At Me (Official Video).mp3
 
+### Miguel - Sky Walker (2 copies)
+  - [rnb] _other\_rnb\Miguel\Miguel - War _ Leisure (2017) Mp3 (320kbps) [Hunter]\Miguel - War _ Leisure (2017)\03 - Sky Walker.mp3
+  - [pop] _other\_pop\_billboard\2018\75. Miguel - Sky Walker.mp3
+
 ### R. Kelly - Thoia Thoing (2 copies)
   - [rnb] _other\_rnb\R Kelly - Greatest Hits\Thoia Thoing.mp3
   - [pop] _other\_pop\_billboard\2003\2003-061 R. Kelly - Thoia Thoing.mp3
@@ -338,10 +254,6 @@ Cross-area: 139 | Within-area: 380
 ### Usher - Burn () (2 copies)
   - [rnb] _other\_rnb\usher\Usher_s Top 100 hits\Usher - Burn (Official Music Video).mp3
   - [pop] _other\_pop\_billboard\2004\2004-002 Usher - Burn.mp3
-
-### Usher - DJ Got Us Fallin In Love () ft (2 copies)
-  - [rnb] _other\_rnb\usher\Usher_s Top 100 hits\Usher - DJ Got Us Fallin_ In Love (Official Music Video) ft. Pitbull.mp3
-  - [pop] _other\_pop\_random\Usher Feat. Pitbull - DJ Got Us Fallin_ In Love (Official Version).mp3
 
 ### R.E.M - Losing My Religion () (2 copies)
   - [rock] _other\_rock\_random\Dire Straits\R.E.M. - Losing My Religion (Official HD Music Video).mp3
@@ -431,13 +343,13 @@ Cross-area: 139 | Within-area: 380
   - [elektro] _other\_elektro\edm_electronic_pop\Chill EDM Playlist 2024 - Chill Songs 2024 English\Marshmello - Here With Me Feat. CHVRCHES (Official Music Video).mp3
   - [alternate] _other\_alternate\chvrches\Marshmello - Here With Me Feat. CHVRCHES (Official Music Video).mp3
 
+### DJ Snake - Let Me Love You ft (2 copies)
+  - [elektro] _other\_elektro\edm_electronic_pop\Mix – Lost Frequencies feat  Janieck Devy - Reality (Official Music Video)\DJ Snake - Let Me Love You ft. Justin Bieber.mp3
+  - [pop] _other\_pop\_billboard\2017\DJ Snake - Let Me Love You ft. Justin Bieber (Official Video).mp3
+
 ### Ed Sheeran - Shape of You [] (2 copies)
   - [elektro] _other\_elektro\edm_electronic_pop\Mix – Lost Frequencies feat  Janieck Devy - Reality (Official Music Video)\Ed Sheeran - Shape of You [Official Video].mp3
   - [pop] _other\_pop\_billboard\2017\Ed Sheeran - Shape of You (Official Music Video).mp3
-
-### LP - Lost On You [] (2 copies)
-  - [elektro] _other\_elektro\edm_electronic_pop\Mix – Lost Frequencies feat  Janieck Devy - Reality (Official Music Video)\LP - Lost On You [Official Video].mp3
-  - [pop] _other\_pop\_random\LP - The Best Of\LP - Lost On You [Live Session].mp3
 
 ### Maroon 5 - Sugar (2 copies)
   - [elektro] _other\_elektro\edm_electronic_pop\Mix – Lost Frequencies feat  Janieck Devy - Reality (Official Music Video)\Maroon 5 - Sugar.mp3
@@ -463,10 +375,6 @@ Cross-area: 139 | Within-area: 380
   - [elektro] _other\_elektro\edm_electronic_pop\Mix – Yves LaRock - Rise Up\Eiffel 65 - Blue (Da Ba Dee).mp3
   - [pop] _other\_pop\_billboard\2000\2000-049 Eiffel 65 - Blue (Da Ba Dee).mp3
 
-### Kelly Rowland - Commander () (2 copies)
-  - [elektro] _other\_elektro\edm_electronic_pop\pop dance - YouTube\Kelly Rowland ft. David Guetta - Commander (Official Video).mp3
-  - [pop] _other\_pop\_random\Kelly Rowland - Commander ft. David Guetta.mp3
-
 ### David Guetta - This One s For You (feat (2 copies)
   - [elektro] _other\_elektro\edm_electronic_pop\top\David Guetta, Zara Larsson - This One_s For You (feat. Zara Larsson) - Official Song UEFA EURO 2016.mp3
   - [pop] _other\_pop\_random\David Guetta - This One s For You Feat. Zara Larsson (UEFA EURO 2016 Official Video).mp3
@@ -479,9 +387,13 @@ Cross-area: 139 | Within-area: 380
   - [elektro] _other\_elektro\edm_electronic_pop\top\gnash, Olivia O_Brien - i hate u, i love u (feat. olivia o_brien).mp3
   - [pop] _other\_pop\_random\gnash - i hate u, i love u (feat. Olivia O´Brien) (Official Video).mp3
 
-### Sia - Cheap Thrills (2 copies)
-  - [elektro] _other\_elektro\edm_electronic_pop\top\Sia - Cheap Thrills.mp3
-  - [pop] _other\_pop\_random\Sia - Cheap Thrills (Lyric Video) ft. Sean Paul.mp3
+### Mike Perry - The Ocean (2 copies)
+  - [elektro] _other\_elektro\edm_electronic_pop\top\Mike Perry, Shy Martin - The Ocean.mp3
+  - [pop] _other\_pop\_random\Mike Perry feat. Shy Martin - The Ocean (Official Video).mp3
+
+### The Chainsmokers - Closer (2 copies)
+  - [elektro] _other\_elektro\edm_electronic_pop\top\The Chainsmokers, Halsey - Closer.mp3
+  - [pop] _other\_pop\_random\The Chainsmokers - Closer (Lyric Video).mp3
 
 ### Moby - In This World () (2 copies)
   - [elektro] _other\_elektro\experimental\Moby - The Singles - The Complete list\Moby - _In This World_ (Official Video).mp3
@@ -494,10 +406,6 @@ Cross-area: 139 | Within-area: 380
 ### Moby - Porcelain (2 copies)
   - [elektro] _other\_elektro\experimental\Moby - The Singles - The Complete list\Moby - Porcelain.mp3
   - [alternate] _other\_alternate\moby\1999 - Play\03 Porcelain.m4a
-
-### Ariana Grande - Break Free ft (2 copies)
-  - [elektro] _other\_elektro\house_techno\house\Ariana Grande - Break Free ft. Zedd.mp3
-  - [pop] _other\_pop\_modern\Ariana Grande - Album Discography [2013-2019] (All 320)\My Everything (Deluxe)\05 Break Free (feat. Zedd).mp3
 
 ### Dillon - Thirteen Thirtyfive (2 copies)
   - [elektro] _other\_elektro\house_techno\house\Dillon - Thirteen Thirtyfive.mp3
@@ -547,25 +455,13 @@ Cross-area: 139 | Within-area: 380
   - [elektro] _other\_elektro\trance_dance_rave\DJ Sammy - Heaven.mp3
   - [pop] _other\_pop\_billboard\2002\2002-031 DJ Sammy And Yanou - Heaven.mp3
 
-### Kylie Minogue - Love At First Sight () (2 copies)
-  - [elektro] _other\_elektro\trance_dance_rave\Kylie Minogue - Love At First Sight (Official Video).mp3
-  - [pop] _other\_pop\Kylie Minogue - Official Music Videos\Kylie Minogue - Love At First Sight (Official Video) [Full HD Remastered].mp3
-
 ### Alice Deejay - Better Off Alone (2 copies)
   - [elektro] _other\_elektro\trance_dance_rave\Mix – Mauro Picotto - Komodo\Alice Deejay - Better Off Alone.mp3
   - [pop] _other\_pop\_billboard\2000\2000-088 Alice Deejay - Better Off Alone.mp3
 
-### Shaggy - Angel (2 copies)
-  - [pop] _other\_pop\_billboard\2001\2001-017 Shaggy Featuring Rayvon - Angel.mp3
-  - [latino] _other\_latino\_oldschool\Baby bash\Shaggy - Angel ft. Rayvon (Official Music Video).mp3
-
 ### Baby Bash - Suga Suga (2 copies)
   - [pop] _other\_pop\_billboard\2004\2004-046 Baby Bash Featuring Frankie J - Suga Suga.mp3
   - [latino] _other\_latino\_oldschool\Baby bash\Baby Bash ft. Frankie J - Suga Suga (Official Video).mp3
-
-### David Guetta - Titanium (2 copies)
-  - [pop] _other\_pop\_billboard\2012\David Guetta - Titanium.mp3
-  - [alternate] _other\_alternate\_random\Lorde - MELODRAMA (album) Playlist 2018 - YouTube\Mix – Lorde - Team\David Guetta - Titanium ft. Sia (Official Video).mp3
 
 ### Daft Punk - Get Lucky [Feat (2 copies)
   - [pop] _other\_pop\_billboard\2013\14. Daft Punk - Get Lucky (Radio Edit) [Feat. Pharrell Williams].m4a
@@ -579,6 +475,10 @@ Cross-area: 139 | Within-area: 380
   - [pop] _other\_pop\_billboard\2018\99. J Balvin - Mi Gente.mp3
   - [latino] _other\_latino\J  Balvin\J Balvin, Willy William - Mi Gente (Official Video).mp3
 
+### Halsey - Without Me (2 copies)
+  - [pop] _other\_pop\_billboard\2019\003. Halsey - Without Me.mp3
+  - [alternate] _other\_alternate\halsey\Halsey - Without Me (Official Audio).mp3
+
 ### Daddy Yankee - Con Calma (2 copies)
   - [pop] _other\_pop\_billboard\2019\065. Daddy Yankee - Con Calma.mp3
   - [latino] _other\_latino\_oldschool\34. Daddy Yankee & Snow - Con Calma (Video Oficial).mp3
@@ -587,7 +487,7 @@ Cross-area: 139 | Within-area: 380
   - [pop] _other\_pop\_random\Zara Larsson playlist\Zara Larsson - Uncover (Official Video).mp3
   - [alternate] _other\_alternate\_random\zara larsson\Zara Larsson - Uncover.mp3
 
-## Within-area duplicates
+## True duplicates — within-area (322 groups)
 
 ### Linkin Park - Linkin Park (6 copies in rock)
   - _other\_rock\Linkin Park Discography\Linkin Park - A Thousand Suns (Full Album)\Burning In The Skies (Official International Video) - Linkin Park.mp3
@@ -609,11 +509,6 @@ Cross-area: 139 | Within-area: 380
   - _rap/california/Xzibit/Xzibit/2006 - Full Circle/07-xzibit-concentrate_-_www.file24ever.com.mp3
   - _rap/california/Xzibit/Xzibit/2006 - Full Circle/14-xzibit-thank_you_-_www.file24ever.com.mp3
 
-### Lil Wayne - Mirror (feat. Bruno Mars) (3 copies in us)
-  - _rap/luisiana/Lil_ Wayne/Lil Wayne - Tha Carter IV (Deluxe Edition)-LW-{iTunes}/17 Mirror (feat. Bruno Mars).m4a
-  - _rap/luisiana/Lil_ Wayne/Lil Wayne - Tha Carter IV (Deluxe Edition)/Lil Wayne - Tha Carter IV (Deluxe Edition)/17 Mirror (Feat. Bruno Mars).mp3
-  - _rap/luisiana/Lil_ Wayne/Lil Wayne Ft. Bruno Mars - Mirror.mp3
-
 ### Trippie Redd - It Takes Time (3 copies in us)
   - _trap/_usa random/Trippie Redd/Trippie Redd -  It Takes Time.mp3
   - _trap/_usa random/Trippie Redd/Trippie Redd - A Love Letter To You (DatPiff.com)/08 - It Takes Time.mp3
@@ -623,41 +518,6 @@ Cross-area: 139 | Within-area: 380
   - _trap/california/lil peep/Lil Peep discography [BC1]/04. Albums/[2017] Come Over When You_re Sober Pt. 1/02. Lil Peep - Save That Shit.mp3
   - _trap/california/lil peep/OFFICIAL MUSIC VIDEOS - YouTube/Lil Peep - Save That Shit (Official Video).mp3
   - _trap/california/lil peep/SONGS - YouTube/Lil Peep - Save That Shit [Audio].mp3
-
-### Lil Peep - Awful Things (3 copies in us)
-  - _trap/california/lil peep/Lil Peep discography [BC1]/04. Albums/[2017] Come Over When You_re Sober Pt. 1/03. Lil Peep - Awful Things.mp3
-  - _trap/california/lil peep/OFFICIAL MUSIC VIDEOS - YouTube/Lil Peep - Awful Things ft. Lil Tracy (Official Video).mp3
-  - _trap/california/lil peep/SONGS - YouTube/Lil Peep - Awful Things ft. Lil Tracy [Audio].mp3
-
-### A$AP Rocky - Brand New Guy (3 copies in us)
-  - _trap/new york/A$AP/A$AP Rocky - LIVE LOVE A$AP (Re-Release) (Full Album)/Brand New Guy.mp3
-  - _trap/new york/A$AP/ASAP Rocky - LiveLoveA$AP [2011] [320 kbps]/05. Brand New Guy (Feat. Schoolboy Q) [Prod. By Lyle].mp3
-  - _trap/new york/A$AP/Old A$AP Rocky songs 😭 - YouTube/Brand New Guy (feat. ScHoolboy Q).mp3
-
-### A$AP Rocky - Leaf (3 copies in us)
-  - _trap/new york/A$AP/A$AP Rocky - LIVE LOVE A$AP (Re-Release) (Full Album)/Leaf.mp3
-  - _trap/new york/A$AP/ASAP Rocky - LiveLoveA$AP [2011] [320 kbps]/13. Leaf (Feat. Main Attrakionz) [Prod. By Clams Casino].mp3
-  - _trap/new york/A$AP/Old A$AP Rocky songs 😭 - YouTube/A$AP Rocky - Leaf (Ft. Main Attrakionz) {Prod. Clams Casino} [LiveLoveAsap].mp3
-
-### French Montana - French Montana ft Rick Ross Fabolous Jeremih - Bad Bitch (Remix) (DatPiff Exclusive) (3 copies in us)
-  - _trap/new york/French Montana/02 - French Montana ft Rick Ross Fabolous Jeremih - Bad Bitch (Remix) (DatPiff Exclusive).mp3
-  - _trap/new york/French Montana/13 - French Montana ft Lana Del Ray Snoop Dogg Wiz Khalifa - All For You (DatPiff Exclusive).mp3
-  - _trap/new york/French Montana/15 - French Montana ft Chinx Drugz Meek Mill - Closing Up Shop (DatPiff Exclusive).mp3
-
-### Drake - Drake ft Tabius Tate Sy Ari Da Kid Jay Z - Pound Cake (TXL Remix) (DatPiff Exclusive) (3 copies in us)
-  - _trap/toronto/Drake/28 - Drake ft Tabius Tate Sy Ari Da Kid Jay Z - Pound Cake (TXL Remix) (DatPiff Exclusive).mp3
-  - _trap/toronto/Drake/Drake-Thank.Me.Later-(Retail)-2010-[NoFS]/06-Drake Ft. Nicki Minaj-Up All Night (Prod. by Boi-1da).mp3
-  - _trap/toronto/Drake/Drake-Thank.Me.Later-(Retail)-2010-[NoFS]/09-Drake Ft. Young Jezzy-Unforgettable (Prod. by Boi-1da, 40).mp3
-
-### DaniLeigh - Lil Bebe () (3 copies in rnb)
-  - _other\_rnb\_modern\denileigh\DaniLeigh - Lil Bebe (Official Video).mp3
-  - _other\_rnb\_modern\denileigh\DaniLeigh - Lil Bebe ft. Lil Baby (Remix).mp3
-  - _other\_rnb\_modern\denileigh\DaniLeigh - Lil Bebe ft. Nio Garcia, Rauw Alejandro (Bebecito Remix   Official Audio).mp3
-
-### Beyoncé - Baby Boy (3 copies in pop)
-  - _other\_pop\_billboard\2003\2003-012 Beyonce Feat. Sean Paul - Baby Boy.mp3
-  - _other\_pop\_billboard\2004\2004-069 Beyonce Featuring Sean Paul - Baby Boy.mp3
-  - _other\_pop\beyonce\2003 - Dangerously In Love\03. Baby Boy (feat. Sean Paul).mp3
 
 ### Rihanna - Diamonds (3 copies in pop)
   - _other\_pop\_billboard\2012\Rihanna - Diamonds.mp3
@@ -689,11 +549,6 @@ Cross-area: 139 | Within-area: 380
   - _other\_pop\_modern\Ariana Grande - Album Discography [2013-2019] (All 320)\2019  - Thank U, Next\10. 7 rings.mp3
   - _other\_pop\_random\Ariana Grande - 7 rings.mp3
 
-### Lady Gaga - Just Dance ft (3 copies in pop)
-  - _other\_pop\_random\00s - YouTube\Lady Gaga - Just Dance ft. Colby O_Donis (Official Music Video).mp3
-  - _other\_pop\_random\Lady Gaga - Just Dance ft Colby O.mp3
-  - _other\_pop\Lady Gaga\01. Albums\(2009)The Fame (Limited Edition)\01. Just Dance.mp3
-
 ### Zara Larsson - Lush Life () (3 copies in pop)
   - _other\_pop\_random\Zara Larsson - Lush Life (Official Video).mp3
   - _other\_pop\_random\Zara Larsson - Lush Life.mp3
@@ -722,10 +577,6 @@ Cross-area: 139 | Within-area: 380
 ### Masta Ace - Beautiful (2 copies in us)
   - _rap/_usa other/_random/klasszik rap/Masta Ace - Beautiful.mp3
   - _rap/_usa other/Masta Ace/2004 - Masta Ace - _A Long Hot Summer_/08. Beautiful.mp3
-
-### Masta Ace - Unfriendly Game (2 copies in us)
-  - _rap/_usa other/_random/klasszik rap/Masta Ace - Unfriendly Game.mp3
-  - _rap/_usa other/Masta Ace/2001 - Masta Ace - _Disposable Arts_/16. Unfriendly Game (Feat. Strick).mp3
 
 ### Prodigy - Keep It Thoro (2 copies in us)
   - _rap/_usa other/_random/klasszik rap/Prodigy - Keep It Thoro.mp3
@@ -779,10 +630,6 @@ Cross-area: 139 | Within-area: 380
   - _rap/_usa other/_random/Top 100 Rap Songs of All Time/Young Jeezy - Streets on Lock.mp3
   - _rap/atlanta/Young Jeezy/The Inspiration (2006)/Streets On Lock.mp3
 
-### Chingy - One Call Away (2 copies in us)
-  - _rap/_usa other/Chingy/Chingy- One Call Away.mp3
-  - _rap/_usa other/Chingy/Jackpot/09 - One Call Away (Featuring J-Weav).mp3
-
 ### Joe Budden - Freestyle (2 copies in us)
   - _rap/_usa other/Joe Budden/[2003] Joe Budden - Mood Muzik 1 The Worst of Joe Budden/02 - Freestyle.mp3
   - _rap/_usa other/Joe Budden/[2003] Joe Budden - Mood Muzik 1 The Worst of Joe Budden/18 - Freestyle.mp3
@@ -798,14 +645,6 @@ Cross-area: 139 | Within-area: 380
 ### Macklemore - Wings (2 copies in us)
   - _rap/_usa other/Macklemore/Macklemore - Wings.mp3
   - _rap/_usa other/Macklemore/The Heist/11 Wings.mp3
-
-### Goodie Mob - Black Ice (Sky High) (2 copies in us)
-  - _rap/atlanta/_random/Goodie Mob greatest hits/Goodie Mob - Dirty South Classics (FULL ALBUM)/Black Ice (Sky High).mp3
-  - _rap/atlanta/Outkast/The Dungeon Family (1993 - 2000)/Goodie Mob - Black Ice (Sky High) (Official HD Video) ft. OutKast.mp3
-
-### Goodie Mob - Dirty South (2 copies in us)
-  - _rap/atlanta/_random/Goodie Mob greatest hits/Goodie Mob - Dirty South Classics (FULL ALBUM)/Dirty South.mp3
-  - _rap/atlanta/Outkast/The Dungeon Family (1993 - 2000)/Goodie Mob - Dirty South (Official HD Video) ft. Big Boi.mp3
 
 ### Dr. Dre - Deep Cover (2 copies in us)
   - _rap/california/Dr.Dre Discography @320 (11 Albums)(RAP)(by dragan09)/Dr. Dre (1996) - First Round Knock Out/02 - Deep Cover.mp3
@@ -827,25 +666,13 @@ Cross-area: 139 | Within-area: 380
   - _rap/california/The Game/06 Money.mp3
   - _rap/california/The Game/The Game - Money .mp3
 
-### Eminem - Back Down Royce (Feat D-12) (2 copies in us)
-  - _rap/detroit/Eminem/Don_t Call Me Marshall/Back Down Royce (Feat D-12).mp3
-  - _rap/detroit/Eminem/UNRELEASED-SOLO-FEATURING D12/Eminem Ft. D12 - Back Down Royce.mp3
-
 ### Eminem - if i had (2 copies in us)
   - _rap/detroit/Eminem/Eminem - The Slim Shady EP (1998)/03 if i had....mp3
   - _rap/detroit/Eminem/Eminem - The Slim Shady LP (1999)/06 If I Had.mp3
 
-### DJ Khaled - You Mine (Audio) ft (2 copies in us)
-  - _rap/florida/dj khaled/Dj Khaled - Grateful Mixtape/DJ Khaled - You Mine (Audio) ft. Trey Songz, Jeremih, Future.mp3
-  - _rap/florida/dj khaled/DJ Khaled - I Changed A Lot/You Mine.mp3
-
 ### DJ Khaled - GREECE () (2 copies in us)
   - _rap/florida/dj khaled/DJ Khaled - KHALED KHALED (Full Album)/DJ Khaled ft. Drake - GREECE (Official Audio).mp3
   - _trap/_usa random/_random/volume 1/DJ Khaled ft. Drake - GREECE (Official Visualizer).mp3
-
-### Cam'ron - Oh Boy ft (2 copies in us)
-  - _rap/luisiana/Lil_ Wayne/Egyveleg - Lil  Wayne Feat  B G  _ Juvenile - Tha Block Is Hot (HQ   Dirty)/Cam Ron - Oh Boy ft. Juelz Santana.mp3
-  - _rap/new york/Cam_ron/Dipset greatest/Cam'ron ft Juelz Santana - Oh Boy.mp3
 
 ### Fat Joe - Make It Rain ( (2 copies in us)
   - _rap/luisiana/Lil_ Wayne/Fat Joe ft. Lil Wayne- Make It Rain (Produced by Scott Storch).mp3
@@ -858,6 +685,10 @@ Cross-area: 139 | Within-area: 380
 ### Lil Wayne - President Carter (2 copies in us)
   - _rap/luisiana/Lil_ Wayne/Lil Wayne - Tha Carter IV (Deluxe Edition)-LW-{iTunes}/13 President Carter.m4a
   - _rap/luisiana/Lil_ Wayne/Lil Wayne - Tha Carter IV (Deluxe Edition)/Lil Wayne - Tha Carter IV (Deluxe Edition)/13 President Carter.mp3
+
+### Lil Wayne - Mirror (feat. Bruno Mars) (2 copies in us)
+  - _rap/luisiana/Lil_ Wayne/Lil Wayne - Tha Carter IV (Deluxe Edition)-LW-{iTunes}/17 Mirror (feat. Bruno Mars).m4a
+  - _rap/luisiana/Lil_ Wayne/Lil Wayne - Tha Carter IV (Deluxe Edition)/Lil Wayne - Tha Carter IV (Deluxe Edition)/17 Mirror (Feat. Bruno Mars).mp3
 
 ### Fabolous - For The Love [video] (The Soul Tape 2) (2 copies in us)
   - _rap/new york/FABOLOUS/Fabolous - For The Love [video] (The Soul Tape 2).mp3
@@ -879,37 +710,17 @@ Cross-area: 139 | Within-area: 380
   - _rap/new york/Nas/[1996] It Was Written/04 - I Gave You Power.mp3
   - _rap/new york/Nas/Nas-Discography/04 I Gave You Power.mp3
 
-### Nas - Hate Me Now (feat. Puff Daddy) (2 copies in us)
-  - _rap/new york/Nas/[1999] I Am/03 - Hate Me Now (feat. Puff Daddy).mp3
-  - _rap/new york/Nas/Nas-Discography/03 Hate Me Now Ft.Puff Daddy.mp3
-
-### Nas - Favor For A Favor (feat. Scarface) (2 copies in us)
-  - _rap/new york/Nas/[1999] I Am/05 - Favor For A Favor (feat. Scarface).mp3
-  - _rap/new york/Nas/Nas-Discography/05 Favor For A Favor.mp3
-
 ### Nas - Undying Love (2 copies in us)
   - _rap/new york/Nas/[1999] I Am/16 - Undying Love.mp3
   - _rap/new york/Nas/Nas-Discography/16 Undying Love.mp3
-
-### Nas - Last Words (feat. Nashawn, Millenium Thug) (2 copies in us)
-  - _rap/new york/Nas/[1999] Nastradamus/08 - Last Words (feat. Nashawn, Millenium Thug).mp3
-  - _rap/new york/Nas/Nas-Discography/08 Last Words.mp3
 
 ### Nas - God Love Us (2 copies in us)
   - _rap/new york/Nas/[1999] Nastradamus/10 - God Love Us.mp3
   - _rap/new york/Nas/Nas-Discography/10 God Love Us.mp3
 
-### Mike Jones - My 64 () [Explicit] (2 copies in us)
-  - _rap/texas/_random/Mike Jones ft. Bun B & Snoop Dogg - My 64 (Official Video) [Explicit].mp3
-  - _rap/texas/Mike Jones/My 64 (feat. Bun B & Snoop Dogg).mp3
-
 ### Scarface - On My Block () (2 copies in us)
   - _rap/texas/_random/Scarface - On My Block (Official Video).mp3
   - _rap/texas/Geto Boys/2002 - Scarface - The Fix/05 Scarface - On My Block.mp3
-
-### Bun B - Bun B Ft. Young Jeezy-Just Like That ( (2 copies in us)
-  - _rap/texas/UGK/Bun B/Bun.B-Trill.O.G-(Deluxe.Edition)-2010-[NoFS]/03-Bun B Ft. Young Jeezy-Just Like That (Prod. by Drumma Boy).mp3
-  - _rap/texas/UGK/Bun B/Bun.B-Trill.O.G-(Deluxe.Edition)-2010-[NoFS]/16-Bun B Ft. Drake-It’s Been A Pleasure (Prod. By Boi-1da And 40).mp3
 
 ### Money Man - Milly [State Of Emergency] (2 copies in us)
   - _trap/_usa random/_random/2020 RESTART/Money Man - 2 Milly [State Of Emergency].mp3
@@ -926,10 +737,6 @@ Cross-area: 139 | Within-area: 380
 ### Fast Cash Boyz - Cash Walk (Audio) (2 copies in us)
   - _trap/_usa random/_random/Ep - Paper chase (full song)/Fast Cash Boyz - Cash Walk (Audio).mp3
   - _trap/memphis/young dolph/DOLPH WORLD-BLUE MAGIC/Fast Cash Boyz - Cash Walk (Official Video).mp3
-
-### Chance The Rapper - No Problem Ft (2 copies in us)
-  - _trap/_usa random/_random/Featured Tracks   ELEVATOR/Chance The Rapper - No Problem Ft. Lil Wayne & 2 Chainz.mp3
-  - _trap/_usa random/_random/Mix – Roswell Gray _ Why Cue - I Get Around (Official Audio)/Chance the Rapper ft. 2 Chainz _ Lil Wayne - No Problem (Official Video).mp3
 
 ### Playboi Carti - woke up like this (2 copies in us)
   - _trap/_usa random/_random/Featured Tracks   ELEVATOR/Playboi Carti ft. Lil Uzi Vert - woke up like this.mp3
@@ -955,10 +762,6 @@ Cross-area: 139 | Within-area: 380
   - _trap/_usa random/_random/HIPHOPTXL/Hip-Hop-TXL-Vol-94/Hip Hop TXL Vol 94/09 Rich The Kid - Cookies _ Sherbert.mp3
   - _trap/atlanta/rich the kid/Rich The Kid - Cookies _ Sherbert.mp3
 
-### Rich The Kid - Early Morning Trappin (2 copies in us)
-  - _trap/_usa random/_random/HIPHOPTXL/TXL-96-MIXTAPE-HipHopTXL.com_/TXL 96 MIXTAPE (HipHopTXL.com)/47 Rich The Kid ft Trippie Redd - Early Morning Trappin.mp3
-  - _trap/atlanta/rich the kid/Rich the Kid - The World Is Yours (2018) Mp3 (320kbps) [Hunter]/Rich the Kid - The World Is Yours (2018)/10 Early Morning Trappin (feat. Trippie Redd).mp3
-
 ### Tyga - Hookah (DatPiff Exclusive) (2 copies in us)
   - _trap/_usa random/_random/HIPHOPTXL/Various Artists - Hip Hop TXL Vol 36 (DatPiff.com)/05 - Tyga ft Young Thug - Hookah (DatPiff Exclusive).mp3
   - _trap/_usa random/_random/HIPHOPTXL/Various_Artists_-_Hip_Hop_Txl_Vol_36_screwpiffco-(DatPiff.com)/ScrewPiffVarious Artists - Various Artists - Hip (DatPiff.com)/05 - - Tyga ft Young Thug - Hookah (DatPiff Exclusive).mp3
@@ -966,10 +769,6 @@ Cross-area: 139 | Within-area: 380
 ### Nipsey Hussle - I Dont Stress (2 copies in us)
   - _trap/_usa random/_random/HIPHOPTXL/Various Artists - Hip Hop TXL Vol 83 (DatPiff.com)/49 - Nipsey Hussle - I Dont Stress.mp3
   - _trap/california/_random/Nipsey Hussle/This Is Nipsey Hussle-Nipsey Hussle, YG/Nipsey Hussle - I Don't Stress.m4a
-
-### Quando Rondo - I Remember ( (2 copies in us)
-  - _trap/_usa random/_random/Mix – Da Lovely - Flashing Lights   Official Music Video   ＴＷＯＮＥＳＨＯＴＴＨＡＴ™/Quando Rondo Feat. Lil Baby  I Remember  (WSHH Exclusive - Official Music Video).mp3
-  - _trap/louisiana/quando rondo/Quando Rondo - Life B4 Fame (DatPiff.com)/06 - I Remember (feat Lil Baby).mp3
 
 ### Post Malone - Go Flex (Official) (2 copies in us)
   - _trap/_usa random/_random/Mix – Jace - Midas ft  Robb Banks (Official Video)/Post Malone - Go Flex (Official).mp3
@@ -982,10 +781,6 @@ Cross-area: 139 | Within-area: 380
 ### Russ - What They Want () (2 copies in us)
   - _trap/_usa random/_random/Mix – Jace - Midas ft  Robb Banks (Official Video)/Russ - What They Want (Official Video).mp3
   - _trap/_usa random/Russ/russ 2/Russ - What They Want.mp3
-
-### Travis Scott - beibs in the trap ft (2 copies in us)
-  - _trap/_usa random/_random/Mix – Roswell Gray _ Why Cue - I Get Around (Official Audio)/Travis Scott - beibs in the trap ft. NAV.mp3
-  - _trap/_usa random/travis scott/Travis Scott Birds In The Trap Sing McKnight [iTunes] 2016 AAC/05 beibs in the trap.m4a
 
 ### Ty Dolla $ign - Blasé ft (2 copies in us)
   - _trap/_usa random/_random/Mix – Roswell Gray _ Why Cue - I Get Around (Official Audio)/Ty Dolla $ign - Blasé ft. Future _ Rae Sremmurd [Music Video].mp3
@@ -1047,33 +842,13 @@ Cross-area: 139 | Within-area: 380
   - _trap/_usa random/Latto/GloRilla - TGIF (Official Music Video).mp3
   - _trap/_usa random/Sexyy Red/GloRilla - TGIF (Official Music Video).mp3
 
-### Lil Skies - Nowadays ft (2 copies in us)
-  - _trap/_usa random/Lil Skies/Lil Skies - Life Of A Dark Rose (Mixtape) - YouTube/Lil Skies - Nowadays ft. Landon Cube [Life Of A Dark Rose].mp3
-  - _trap/_usa random/Lil Skies/Lil skies playlist - YouTube/Lil Skies - Nowadays ft. Landon Cube (Dir. by @_ColeBennett_).mp3
-
-### Lil Skies - Red Roses ft (2 copies in us)
-  - _trap/_usa random/Lil Skies/Lil Skies - Life Of A Dark Rose (Mixtape) - YouTube/Lil Skies - Red Roses ft. Landon Cube [Life Of A Dark Rose].mp3
-  - _trap/_usa random/Lil Skies/Lil Skies Songs - YouTube/Lil Skies - Red Roses ft. Landon Cube (Dir. by @_ColeBennett_).mp3
-
 ### Lil Uzi Vert - You Was Right (2 copies in us)
   - _trap/_usa random/Lil Uzi Vert - You Was Right.mp3
   - _trap/phily/lil uzi vert/Lil Uzi Vert - Lil Uzi Vs The World (DatPiff.com)/05 - You Was Right [Produced By Metro Boomin].mp3
 
-### Post Malone - rockstar ft (2 copies in us)
-  - _trap/_usa random/Post Malone - rockstar ft. 21 Savage.mp3
-  - _trap/_usa random/post malone/Post Malone - beerbongs _ bentleys (2018) Mp3 (320kbps) [Hunter]/Post Malone - beerbongs _ bentleys (2018) [320]/06. rockstar (feat. 21 Savage).mp3
-
 ### SimxSantana - For A Fact (Feat (2 copies in us)
   - _trap/_usa random/SimxSantana - For A Fact (Feat. King Von) [Official Video].mp3
   - _trap/_usa random/Vino slide n slime music/SimxSantana - For A Fact (Feat. King Von) [Official Video].mp3
-
-### Travis Scott - pick up the phone ft (2 copies in us)
-  - _trap/_usa random/travis scott/Travis Scott - pick up the phone ft. Young Thug, Quavo (Lyrics).mp3
-  - _trap/_usa random/travis scott/Travis Scott Birds In The Trap Sing McKnight [iTunes] 2016 AAC/11 pick up the phone.m4a
-
-### Trippie Redd - Limitless (Ft (2 copies in us)
-  - _trap/_usa random/Trippie Redd/Trippie Redd - Limitless (Ft. Rocket Da Goon x Lil Tracy).mp3
-  - _trap/_usa random/Trippie Redd/Trippie Redd - Limitless ft RocketDaGoon _ Lil Tracy (Official Music Video).mp3
 
 ### YG - Still Brazy (2 copies in us)
   - _trap/_usa random/YG - Still Brazy.mp3
@@ -1106,10 +881,6 @@ Cross-area: 139 | Within-area: 380
 ### Gunna - Drippin’ [Drip Season 3] (2 copies in us)
   - _trap/atlanta/Gunna/Gunna - YouTube/Gunna - Drippin’ [Drip Season 3].mp3
   - _trap/atlanta/Gunna/Legnépszerűbb számok -- Gunna - YouTube/Gunna - Drippin_ [Official Audio].mp3
-
-### Gunna - Almighty [ (2 copies in us)
-  - _trap/atlanta/Gunna/Gunna - YouTube/Gunna ft. Hoodrich Pablo Juan - Almighty [Prod. By Turbo].mp3
-  - _trap/atlanta/Gunna/Legnépszerűbb számok -- Gunna - YouTube/Gunna - Almighty (featuring Hoodrich Pablo Juan) [Official Audio].mp3
 
 ### Lil Baby - My Dawg [ (2 copies in us)
   - _trap/atlanta/Lil Baby/Harder_Than_Hard_Gangsta_Grillz-(DatPiff.com)/Lil Baby - Harder Than Hard Gangsta Grillz (DatPiff.com)/02 - My Dawg [Prod By Quay Global] (DatPiff Exclusive).mp3
@@ -1147,18 +918,6 @@ Cross-area: 139 | Within-area: 380
   - _trap/atlanta/rich the kid/Migos  Rich The Kid - Streets On Lock 4 (DatPiff.com)/07 - Rich The Kid - That Bag [Prod By Murda Beatz].mp3
   - _trap/atlanta/rich the kid/Rich The Kid - Dabbin Fever (DatPiff.com)/06 - That Bag (Prod By Murda) (DatPiff Exclusive).mp3
 
-### Famous Dex - Goyard Ft (2 copies in us)
-  - _trap/atlanta/rich the kid/Rich Forever 2/Famous Dex - Goyard Ft. Rich The Kid.mp3
-  - _trap/atlanta/rich the kid/Rich The Kid  Rich Forever Music - Rich Forever M (DatPiff.com)/10 - Famous Dex x Rich The Kid - Goyard.mp3
-
-### Rich The Kid - Ran It Up (2 copies in us)
-  - _trap/atlanta/rich the kid/Rich The Kid  Rich Forever Music - Rich Forever M (DatPiff.com)/06 - Rich The Kid ft Young Thug - Ran It Up.mp3
-  - _trap/atlanta/rich the kid/Rich The Kid - Keep Flexin (DatPiff.com)/10 - Ran It Up (Feat Young thug) [Prod By Rich The Kid].mp3
-
-### Lil Uzi Vert - Yamborghini Dream Ft (2 copies in us)
-  - _trap/atlanta/Young Thug/Lil Uzi Vert - Yamborghini Dream Ft. Young Thug.mp3
-  - _trap/phily/lil uzi vert/Lil Uzi Vert - Luv Is Rage (DatPiff.com)/05 - Yamborghini Dream Ft Young Thug (Produced By Tm88) (DatPiff Exclusive).mp3
-
 ### Young Thug - No Way [] (2 copies in us)
   - _trap/atlanta/Young Thug/MigoThuggin/Young Thug - No Way [Official Visualizer].mp3
   - _trap/atlanta/Young Thug/RICH GANG UNRELEASED/No Way.mp3
@@ -1166,10 +925,6 @@ Cross-area: 139 | Within-area: 380
 ### Young Thug - Power (2 copies in us)
   - _trap/atlanta/Young Thug/RICH GANG UNRELEASED/Power.mp3
   - _trap/atlanta/Young Thug/Young Thug  Power.mp3
-
-### Young Thug - Woke Up (feat. Young Thug) (2 copies in us)
-  - _trap/atlanta/Young Thug/RICH GANG UNRELEASED/Woke Up (feat. Young Thug).mp3
-  - _trap/atlanta/Young Thug/Woke Up.mp3
 
 ### Young Stoner Life - Trance (feat (2 copies in us)
   - _trap/atlanta/Young Thug/Slime Language 2 (Deluxe)/Young Stoner Life & Karlae - Trance (feat. Yung Bleu) [Official Audio].mp3
@@ -1187,17 +942,9 @@ Cross-area: 139 | Within-area: 380
   - _trap/california/_random/Nipsey Hussle/This Is Nipsey Hussle-Nipsey Hussle, YG/Nipsey Hussle - Rap Niggas (Official Video).m4a
   - _trap/new york/Chinx/Mix – Chinx - All About It (Unreleased) ft  Fabolous, Jadakiss, French Montana/Nipsey Hussle - Rap Niggas (Official Video).mp3
 
-### YG - Left, Right (feat. DJ Mustard) (2 copies in us)
-  - _trap/california/_random/yg/YG - My Crazy Life [Deluxe Edition] [2014] [EXPLICIT] [iTunes Plus] [M4V] + [M4A-256]-V3nom [GLT]/04 Left, Right (feat. DJ Mustard).m4a
-  - _trap/california/_random/yg/YG'S GREATEST HITS/Left, Right.m4a
-
 ### Lil Peep - Broken Smile (My All) (2 copies in us)
   - _trap/california/lil peep/Gothboyclique/Broken Smile (My All).mp3
   - _trap/california/lil peep/Lil peep come over when you’re sober pt  2 - YouTube/Broken Smile (My All).mp3
-
-### Lil Peep - Down For You (Lyrics) (2 copies in us)
-  - _trap/california/lil peep/Gothboyclique/Lil Peep x Coldhart - Down For You (Lyrics).mp3
-  - _trap/california/lil peep/Lil Peep discography [BC1]/03. Loose Tracks _ Features/[2016] Loose Tracks _ Features Vol. 2/01. Down For You (feat. cold hart).mp3
 
 ### Lil Peep - ghost boy (2 copies in us)
   - _trap/california/lil peep/Lil Peep - EVERYBODY_S EVERYTHING [2019]/14. ghost boy.mp3
@@ -1231,13 +978,13 @@ Cross-area: 139 | Within-area: 380
   - _trap/california/lil peep/Lil Peep discography [BC1]/03. Loose Tracks _ Features/[2016] Loose Tracks _ Features Vol. 2/29. Switch Up.mp3
   - _trap/california/lil peep/OFFICIAL MUSIC VIDEOS - YouTube/Lil Peep -  Switch Up  Official Video.mp3
 
-### Lil Peep - Giving Girls Cocaine (feat. Lil Tracy) (2 copies in us)
-  - _trap/california/lil peep/Lil Peep discography [BC1]/03. Loose Tracks _ Features/[2016] Loose Tracks _ Features Vol. 2/43. Giving Girls Cocaine (feat. Lil Tracy).mp3
-  - _trap/california/lil peep/lilpeep/☆LiL PEEP☆ - giving girls cocaine ft. lil tracy (prod. horsehead).mp3
-
 ### Lil Peep - U Said (2 copies in us)
   - _trap/california/lil peep/Lil Peep discography [BC1]/04. Albums/[2017] Come Over When You_re Sober Pt. 1/04. Lil Peep - U Said.mp3
   - _trap/california/lil peep/SONGS - YouTube/Lil Peep - U Said [Audio].mp3
+
+### Lil Peep - Awful Things ft (2 copies in us)
+  - _trap/california/lil peep/OFFICIAL MUSIC VIDEOS - YouTube/Lil Peep - Awful Things ft. Lil Tracy (Official Video).mp3
+  - _trap/california/lil peep/SONGS - YouTube/Lil Peep - Awful Things ft. Lil Tracy [Audio].mp3
 
 ### Mac Miller - Nikes On My Feet (2 copies in us)
   - _trap/california/MAC MILLER DISCOGRAPHY/K.I.D.S. (2010)/04 Nikes On My Feet.mp3
@@ -1254,10 +1001,6 @@ Cross-area: 139 | Within-area: 380
 ### L A Capone - Play For Keeps Shot By @DADAcreative (2 copies in us)
   - _trap/chicago/chief keef/All L_A Capone songs - YouTube/L_A Capone x RondoNumbaNine - Play For Keeps Shot By @DADAcreative.mp3
   - _trap/chicago/Lil Durk/Mix – Lil Durk - L_s Anthem   Dir  @DGainzBeats/L_A Capone x RondoNumbaNine - Play For Keeps   Shot By  @DADAcreative.mp3
-
-### Chief Keef - 3Hunna ft Soulja Boy (Back From The Dead) (2 copies in us)
-  - _trap/chicago/chief keef/Chief Keef  Back From The Dead (Full Mixtape) - YouTube/Chief Keef- 3Hunna ft Soulja Boy (Back From The Dead).mp3
-  - _trap/chicago/chief keef/Finally Rich (Deluxe)/11 3Hunna (feat. Rick Ross).mp3
 
 ### Chief Keef - Go ( (2 copies in us)
   - _trap/chicago/chief keef/Chief Keef  Go  (WSHH Exclusive - Official Audio).mp3
@@ -1283,14 +1026,6 @@ Cross-area: 139 | Within-area: 380
   - _trap/chicago/king von/King Von - Welcome to O’Block (Full Album)/King Von - Why He Told (Official Video).mp3
   - _trap/chicago/king von/King Von - Why He Told (Lyrics).mp3
 
-### Lil Durk - Downfall ft (2 copies in us)
-  - _trap/chicago/Lil Durk/Lil Durk - Downfall ft. Young Dolph, Lil Baby.mp3
-  - _trap/chicago/Lil Durk/Lil Durk - Signed to the Streets 3 (2018) Mp3 (320kbps) [Hunter]/Lil Durk - Signed to the Streets 3 (2018)/16 Downfall.mp3
-
-### Lil Durk - Hard Shit ft Lil Reese () (2 copies in us)
-  - _trap/chicago/Lil Durk/Lil Durk - They Forgot (Full Mixtape)/Lil Durk - Hard Shit ft Lil Reese (Official Audio).mp3
-  - _trap/chicago/Lil Durk/Lil Durk x Lil Reese  Hard Shit  (WSHH Exclusive - Official Audio).mp3
-
 ### Polo G - Flex Ft (2 copies in us)
   - _trap/chicago/polo g/Polo G -  The Goat  (Album) - YouTube/Polo G -  Flex  Ft. Juice WRLD (The Goat).mp3
   - _trap/chicago/polo g/Polo G - Hall Of Fame - (FULL ALBUM)/Polo G - Flex (Official Audio) ft. Juice WRLD.mp3
@@ -1307,10 +1042,6 @@ Cross-area: 139 | Within-area: 380
   - _trap/florida/Kodak Black/Best of Kodak Black     - YouTube/Kodak Black  HollyHood.mp3
   - _trap/florida/Kodak Black/Kodak Black - Institution - YouTube/Kodak Black — HollyHood.mp3
 
-### XXXTentacion - Fuck Love (2 copies in us)
-  - _trap/florida/XXXTentacion/19 XXXtentacion ft Trippie Redd - Fuck Love.mp3
-  - _trap/florida/XXXTentacion/XXXTENTACION - 17 (2017) [iTunes AAC]/08 Fuck Love (feat. Trippie Redd).m4a
-
 ### XXXTentacion - Skin (Lyrics) (2 copies in us)
   - _trap/florida/XXXTentacion/heartbreak hotel - YouTube/XXXtentacion - Skin (Lyrics).mp3
   - _trap/florida/XXXTentacion/Just XXXTENTACION - YouTube/XXXTENTACION - skin.mp3
@@ -1318,10 +1049,6 @@ Cross-area: 139 | Within-area: 380
 ### XXXTentacion - I Don t Wanna Do This Anymore (2 copies in us)
   - _trap/florida/XXXTentacion/Just XXXTENTACION - YouTube/XXXTENTACION - I Don_t Wanna Do This Anymore.mp3
   - _trap/florida/XXXTentacion/Revenge/02 I Don_t Wanna Do This Anymore.mp3
-
-### XXXTentacion - INUYASHA Ft (2 copies in us)
-  - _trap/florida/XXXTentacion/Just XXXTENTACION - YouTube/XXXTENTACION - INUYASHA Ft. DRUGS.mp3
-  - _trap/florida/XXXTentacion/xxx/XXXTENTACION - INUYASHA (FT. DRUGZ) (PROD. BITOY).mp3
 
 ### XXXTentacion - KILL ME (2 copies in us)
   - _trap/florida/XXXTentacion/Just XXXTENTACION - YouTube/XXXTENTACION - KILL ME.mp3
@@ -1334,10 +1061,6 @@ Cross-area: 139 | Within-area: 380
 ### XXXTentacion - LOOK AT ME! (LYRICS IN DESCRIPTION) (2 copies in us)
   - _trap/florida/XXXTentacion/Just XXXTENTACION - YouTube/XXXTENTACION - LOOK AT ME! (LYRICS IN DESCRIPTION).mp3
   - _trap/florida/XXXTentacion/Revenge/01 Look At Me!.mp3
-
-### XXXTentacion - Snow ft (2 copies in us)
-  - _trap/florida/XXXTentacion/Just XXXTENTACION - YouTube/XXXTENTACION - Snow ft. Killstation.mp3
-  - _trap/florida/XXXTentacion/xxx/XXXTENTACION - Snow (Lyrics).mp3
 
 ### XXXTentacion - Never (2 copies in us)
   - _trap/florida/XXXTentacion/xxx/XXXTENTACION - Never.mp3
@@ -1403,10 +1126,6 @@ Cross-area: 139 | Within-area: 380
   - _trap/louisiana/NBA Youngboy/Nba YoungBoy - Before I Go (DatPiff.com)/02 - So Long.mp3
   - _trap/louisiana/NBA Youngboy/YoungBoy - Music Videos - YouTube/YoungBoy Never Broke Again - So Long (Official Music Video).mp3
 
-### YoungBoy Never Broke Again - Murder (2 copies in us)
-  - _trap/louisiana/NBA Youngboy/NBA Youngboy - Mind Of A Menace 2 (DatPiff.com)/05 - Murder.mp3
-  - _trap/louisiana/NBA Youngboy/NBA Youngboy - Mind Of A Menace 3 (DatPiff.com)/10 - NBA Youngboy - Murder ft 21 savage.mp3
-
 ### YoungBoy Never Broke Again - Genie [] (2 copies in us)
   - _trap/louisiana/NBA Youngboy/Until Death Call My Name Reloaded - YoungBoy Never Broke Again - YouTube/YoungBoy Never Broke Again - Genie [Official Music Video].mp3
   - _trap/louisiana/NBA Youngboy/Until Death Call My Name Reloaded - YoungBoy Never/YoungBoy Never Broke Again - Genie (Official Video.mp3
@@ -1447,9 +1166,9 @@ Cross-area: 139 | Within-area: 380
   - _trap/new york/A$AP/A$AP Rocky - LIVE LOVE A$AP (Re-Release) (Full Album)/Wassup.mp3
   - _trap/new york/A$AP/asvp rocky classics - YouTube/A$AP Rocky - Wassup (Official Video).mp3
 
-### A$AP Rocky - Praise The Lord (Da Shine) () ft (2 copies in us)
-  - _trap/new york/A$AP/A$AP Rocky - Praise The Lord (Da Shine) (Official Video) ft. Skepta.mp3
-  - _trap/new york/A$AP/ASAP Rocky - TESTING (2018) [320]/05. Praise the Lord (Da Shine) [feat. Skepta].mp3
+### A$AP Rocky - Brand New Guy (Feat. Schoolboy Q) [ (2 copies in us)
+  - _trap/new york/A$AP/ASAP Rocky - LiveLoveA$AP [2011] [320 kbps]/05. Brand New Guy (Feat. Schoolboy Q) [Prod. By Lyle].mp3
+  - _trap/new york/A$AP/Old A$AP Rocky songs 😭 - YouTube/Brand New Guy (feat. ScHoolboy Q).mp3
 
 ### A Boogie Wit da Hoodie - 1hunnit ( (2 copies in us)
   - _trap/new york/aboogie/A-Boogie Wit Da Hoodie/A Boogie - 1hunnit (Prod. by D Stackz) Artist.mp3
@@ -1470,10 +1189,6 @@ Cross-area: 139 | Within-area: 380
 ### Lil Tjay - Brothers (2 copies in us)
   - _trap/new york/lil tjay/Lil Tjay - F.N [2019-Album]/03 Brothers.mp3
   - _trap/new york/lil tjay/Lil Tjay - True 2 Myself - YouTube/Lil TJAY - Brothers (Official Music Video).mp3
-
-### Lil Tjay - Ruthless (feat. Jay Critch) (2 copies in us)
-  - _trap/new york/lil tjay/Lil Tjay - F.N [2019-Album]/04 Ruthless (feat. Jay Critch).mp3
-  - _trap/new york/lil tjay/Lil Tjay - True 2 Myself - YouTube/Lil Tjay - Ruthless (Official Video) ft. Jay Critch.mp3
 
 ### Lil Uzi Vert - Celebration Station [] (2 copies in us)
   - _trap/phily/lil uzi vert/Eternal Atake (Deluxe) - LUV vs  The World 2/Lil Uzi Vert - Celebration Station [Official Audio].mp3
@@ -1503,6 +1218,10 @@ Cross-area: 139 | Within-area: 380
   - _trap/toronto/Tory Lanez/11 - Tory Lanez - HipHopTXLcom.mp3
   - _trap/toronto/Tory Lanez/16 - Tory Lanez - HipHopTXLcom.mp3
 
+### DaniLeigh - Lil Bebe ft (2 copies in rnb)
+  - _other\_rnb\_modern\denileigh\DaniLeigh - Lil Bebe ft. Lil Baby (Remix).mp3
+  - _other\_rnb\_modern\denileigh\DaniLeigh - Lil Bebe ft. Nio Garcia, Rauw Alejandro (Bebecito Remix   Official Audio).mp3
+
 ### Ashanti - Saw Your Face (2 copies in rnb)
   - _other\_rnb\_random\90s 00s rnb\aSHANTI top tracks\Ashanti - Saw Your Face.mp3
   - _other\_rnb\ashanti\(2008)The Vault\10 Saw Your Face.mp3
@@ -1511,17 +1230,9 @@ Cross-area: 139 | Within-area: 380
   - _other\_rnb\_random\Dj_Wispas_Presents_Rb_Heaven_Vol5-(DatPiff.com)\Frank Ocean Chris BrownLloydCassiedjwispasPre (DatPiff.com)\19 - Frank Ocean - Lost.mp3
   - _other\_rnb\frank ocean\FRANK OCEAN channel ORANGE 320kps\11 Lost.mp3
 
-### Chris Brown - Kiss Kiss (2 copies in rnb)
-  - _other\_rnb\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\(2007) Exclusive 3 CD_s\(2007) Exclusive CD1\02) Kiss Kiss.mp3
-  - _other\_rnb\T-Pain top songs\Chris Brown - Kiss Kiss ft. T-Pain.mp3
-
 ### Chris Brown - Chris Brown (2 copies in rnb)
   - _other\_rnb\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\Chris Brown Attack The Block\Chris Brown ft. Ray J & TJ Luva Boy - New Gang (Attack The Block Mixtape).mp3
   - _other\_rnb\Chris Brown Discography @ 320 (10 Albums)(R_B)(by dragan09)\Chris Brown Attack The Block\Chris Brown ft. Young Lo & Young Blacc - In Love With The Bitches (Attack The Block Mixtape).mp3
-
-### T-Pain - Buy U A Drank (Shawty Snappin`) (2 copies in rnb)
-  - _other\_rnb\T-Pain Feat. Young Joc - Buy U A Drank (Shawty Snappin`).mp3
-  - _other\_rnb\T-Pain top songs\T-Pain - Buy U A Drank (Shawty Snappin_) ft. Yung Joc.mp3
 
 ### Usher - Usher Love in this club (2 copies in rnb)
   - _other\_rnb\usher\Usher _ Love in this club.mp3
@@ -1583,10 +1294,6 @@ Cross-area: 139 | Within-area: 380
   - _other\_rock\bring me the horizon\BMTH - a m o (Full Album) - YouTube\Bring Me The Horizon - nihilist blues (Lyric Video) ft. Grimes.mp3
   - _other\_rock\bring me the horizon\Legnépszerűbb számok -- Bring Me the Horizon - You\Bring Me The Horizon - nihilist blues ft. Grimes (.mp3
 
-### Bring Me the Horizon - 1x1 () ft (2 copies in rock)
-  - _other\_rock\bring me the horizon\Bring Me The Horizon 'POST HUMAN SURVIVAL HORROR' Album\Bring Me The Horizon - 1x1 (Lyric Video) ft. Nova Twins.mp3
-  - _other\_rock\bring me the horizon\Bring Me The Horizon - Post Human Survival Horror (2020) Mp3 320kbps [PMEDIA] ⭐️\07 1x1 (feat. Nova Twins).mp3
-
 ### Bring Me the Horizon - Throne (2 copies in rock)
   - _other\_rock\bring me the horizon\Bring Me The Horizon - That_s The Spirit [Full Album] - YouTube\Bring Me The Horizon - Throne.mp3
   - _other\_rock\bring me the horizon\Legnépszerűbb számok -- Bring Me the Horizon - You\Bring Me The Horizon - Throne (Official Video).mp3
@@ -1639,10 +1346,6 @@ Cross-area: 139 | Within-area: 380
   - _other\_elektro\deep_house\deep\Elderbrook - Inner Light with Bob Moses (Official Music Video).mp3
   - _other\_elektro\deep_house\Deep House Summer Vibes ☀️ Chill Out Lounge\Elderbrook - Inner Light with Bob Moses (Official Music Video).mp3
 
-### Nico & Vinz - Am I Wrong ft (2 copies in elektro)
-  - _other\_elektro\deep_house\Nico _ Vinz - Am I Wrong ft. RUNAGROUND (Dj Dark _ Dj Vianu Remix).mp3
-  - _other\_elektro\edm_electronic_pop\Mix – Nico _ Vinz - Am I Wrong [Official Lyric Video]\Nico _ Vinz - Am I Wrong [Official Lyric Video].mp3
-
 ### Ennja - Let Go (2 copies in elektro)
   - _other\_elektro\dnb_dubstep\dnb_chill\Ennja - Let Go.mp3
   - _other\_elektro\experimental_chill\Ennja - All Songs\Ennja - Let Go.mp3
@@ -1662,14 +1365,6 @@ Cross-area: 139 | Within-area: 380
 ### Faithless - Insomnia () (2 copies in elektro)
   - _other\_elektro\edm_electronic_pop\Faithless - Insomnia (Official Video).mp3
   - _other\_elektro\trance_dance_rave\30 Years Three Decades of Dance   Ministry of Sound\Faithless - Insomnia (Official 4K Video).mp3
-
-### Flume - Holdin On (feat. Freddie Gibbs) (2 copies in elektro)
-  - _other\_elektro\edm_electronic_pop\Flume (Deluxe Edition)\2-05 Holdin On (feat. Freddie Gibbs).mp3
-  - _other\_elektro\house_techno\random\Flume - Holdin On [Official Video].mp3
-
-### Flume - Never Be Like You (feat. Kai) (2 copies in elektro)
-  - _other\_elektro\edm_electronic_pop\Flume (Deluxe Edition)\Flume – Skin\02 Never Be Like You (feat. Kai).m4a
-  - _other\_elektro\edm_electronic_pop\top\Flume, Kai - Never Be Like You.mp3
 
 ### Levels - Avicii () (2 copies in elektro)
   - _other\_elektro\edm_electronic_pop\Levels - Avicii (HD).mp3
@@ -1718,10 +1413,6 @@ Cross-area: 139 | Within-area: 380
 ### Duck Sauce - Barbra Streisand (2 copies in elektro)
   - _other\_elektro\trance_dance_rave\2000s Dance - YouTube\Duck Sauce - Barbra Streisand (Original Mix).mp3
   - _other\_elektro\trance_dance_rave\Old dance - YouTube\Duck Sauce - Barbra Streisand (Official Video).mp3
-
-### Robert Miles - Children () (2 copies in elektro)
-  - _other\_elektro\trance_dance_rave\30 Years Three Decades of Dance   Ministry of Sound\Robert Miles - Children (Official Video).mp3
-  - _other\_elektro\trance_dance_rave\Mix – Ayla - Ayla (Taucher Remix) (1996)\Robert Miles - Children [Dream Version].mp3
 
 ### Haddaway - What Is Love [Official] (2 copies in elektro)
   - _other\_elektro\trance_dance_rave\90s dance - YouTube\Haddaway - What Is Love [Official].mp3
@@ -1791,17 +1482,13 @@ Cross-area: 139 | Within-area: 380
   - _other\_pop\_billboard\2001\2001-031 Mary J Blige - Family Affair.mp3
   - _other\_pop\_billboard\2002\2002-017 Mary J Blige - Family Affair.mp3
 
-### P Diddy - I Need A Girl (Part 2) (2 copies in pop)
-  - _other\_pop\_billboard\2002\2002-018 P Diddy Featuring Ginuwine - I Need A Girl (Part 2).mp3
-  - _other\_pop\_random\P Diddy feat Ginuwine - I Need a Girl Part 2.mp3
-
 ### Justin Timberlake - Like I Love You (2 copies in pop)
   - _other\_pop\_billboard\2002\2002-099 Justin Timberlake - Like I Love You.mp3
   - _other\_pop\_random\00s - YouTube\Justin Timberlake - Like I Love You (Official Music Video).mp3
 
-### Beyoncé - Crazy In Love (2 copies in pop)
-  - _other\_pop\_billboard\2003\2003-004 Beyonce Feat. Jay-Z - Crazy In Love.mp3
-  - _other\_pop\beyonce\2003 - Dangerously In Love\01. Crazy in Love (feat. Jay-Z).mp3
+### Beyoncé - Baby Boy (2 copies in pop)
+  - _other\_pop\_billboard\2003\2003-012 Beyonce Feat. Sean Paul - Baby Boy.mp3
+  - _other\_pop\_billboard\2004\2004-069 Beyonce Featuring Sean Paul - Baby Boy.mp3
 
 ### Christina Aguilera - Beautiful (2 copies in pop)
   - _other\_pop\_billboard\2003\2003-016 Christina Aguilera - Beautiful.mp3
@@ -1810,10 +1497,6 @@ Cross-area: 139 | Within-area: 380
 ### Ludacris - Stand Up (2 copies in pop)
   - _other\_pop\_billboard\2003\2003-051 Ludacris - Stand Up.mp3
   - _other\_pop\_billboard\2004\2004-045 Ludacris - Stand Up.mp3
-
-### Usher - Yeah! (2 copies in pop)
-  - _other\_pop\_billboard\2004\2004-001 Usher Featuring Lil Jon _ Ludacris - Yeah!.mp3
-  - _other\_pop\_random\00s - YouTube\Usher - Yeah! (Official Music Video) ft. Lil Jon, Ludacris.mp3
 
 ### Beyoncé - Naughty Girl (2 copies in pop)
   - _other\_pop\_billboard\2004\2004-018 Beyonce - Naughty Girl.mp3
@@ -1843,10 +1526,6 @@ Cross-area: 139 | Within-area: 380
   - _other\_pop\_billboard\2005\05_88 Sean Paul - We Be Burnin_.mp3
   - _other\_pop\_billboard\2006\2006-081 Sean Paul - We Be Burnin_.mp3
 
-### Nelly Furtado - Promiscuous (2 copies in pop)
-  - _other\_pop\_billboard\2006\2006-003 Nelly Furtado Featuring Timbaland - Promiscuous.mp3
-  - _other\_pop\Nelly Furtado - All Official Music Videos\Nelly Furtado - Promiscuous ft. Timbaland (Official Music Video).mp3
-
 ### The Black Eyed Peas - My Humps (2 copies in pop)
   - _other\_pop\_billboard\2006\2006-042 The Black Eyed Peas - My Humps.mp3
   - _other\_pop\_random\00s - YouTube\The Black Eyed Peas - My Humps (Official Music Video).mp3
@@ -1855,17 +1534,9 @@ Cross-area: 139 | Within-area: 380
   - _other\_pop\_billboard\2006\2006-084 The Pussycat Dolls Featuring will.i.am - Beep.mp3
   - _other\_pop\Pussycat Dolls - YouTube\The Pussycat Dolls - Beep ft_ will_i_am.mp3
 
-### Timbaland - apologize (2 copies in pop)
-  - _other\_pop\_billboard\2008\005-timbaland_feat._onerepublic_-_apologize.mp3
-  - _other\_pop\_random\00s - YouTube\Timbaland - Apologize ft. OneRepublic.mp3
-
 ### Maroon 5 - One More Night (2 copies in pop)
   - _other\_pop\_billboard\2012\Maroon 5 - One More Night.mp3
   - _other\_pop\_billboard\2013\38. Maroon 5 - One More Night.m4a
-
-### Rihanna - We Found Love (2 copies in pop)
-  - _other\_pop\_billboard\2012\Rihanna - We Found Love.mp3
-  - _other\_pop\Rihanna\Rihanna - We Found Love ft. Calvin Harris.mp3
 
 ### Justin Timberlake - Mirrors (2 copies in pop)
   - _other\_pop\_billboard\2013\06. Justin Timberlake - Mirrors (Radio Edit).m4a
@@ -1923,10 +1594,6 @@ Cross-area: 139 | Within-area: 380
   - _other\_pop\_billboard\2016\Ariana Grande - Into You.mp3
   - _other\_pop\_modern\Ariana Grande - Album Discography [2013-2019] (All 320)\2016 - Dangerous Woman\04 Into You.mp3
 
-### Calvin Harris - This Is What You Came For (2 copies in pop)
-  - _other\_pop\_billboard\2016\Calvin Harris - This Is What You Came For.mp3
-  - _other\_pop\_random\Calvin Harris - This Is What You Came For (Official Video) ft. Rihanna.mp3
-
 ### Coldplay - Hymn For The Weekend (2 copies in pop)
   - _other\_pop\_billboard\2016\Coldplay - Hymn For The Weekend.mp3
   - _other\_pop\_random\Coldplay - Hymn For The Weekend (Official Video).mp3
@@ -1934,10 +1601,6 @@ Cross-area: 139 | Within-area: 380
 ### Ellie Goulding - On My Mind (2 copies in pop)
   - _other\_pop\_billboard\2016\Ellie Goulding - On My Mind.mp3
   - _other\_pop\ellie goulding\Ellie Goulding - Delirium [Deluxe Edition] [2015] [MP3-320KBPS] [H4CKUS] [GloDLS]\05. On My Mind.mp3
-
-### Fifth Harmony - All In My Head (Flex) (2 copies in pop)
-  - _other\_pop\_billboard\2016\Fifth Harmony - All In My Head (Flex).mp3
-  - _other\_pop\Songbook  Julia Michaels - YouTube\Fifth Harmony - All In My Head (Flex) ft. Fetty Wap.mp3
 
 ### Fifth Harmony - Work From Home (2 copies in pop)
   - _other\_pop\_billboard\2016\Fifth Harmony - Work From Home.mp3
@@ -1947,13 +1610,13 @@ Cross-area: 139 | Within-area: 380
   - _other\_pop\_billboard\2016\Meghan Trainor - No.mp3
   - _other\_pop\_random\Meghan Trainor - NO (Official Video).mp3
 
+### The Chainsmokers - Don t Let Me Down (2 copies in pop)
+  - _other\_pop\_billboard\2016\The Chainsmokers - Don_t Let Me Down.mp3
+  - _other\_pop\_random\The Chainsmokers feat. Daya - Don t Let Me Down (Official Video).mp3
+
 ### The Chainsmokers - Roses (2 copies in pop)
   - _other\_pop\_billboard\2016\The Chainsmokers - Roses.mp3
   - _other\_pop\_random\The Chainsmokers feat. ROZES - Roses (Official Video).mp3
-
-### Camila Cabello - Havana ft (2 copies in pop)
-  - _other\_pop\_billboard\2017\Camila Cabello - Havana ft. Young Thug.mp3
-  - _other\_pop\_billboard\2018\04. Camila Cabello - Havana.mp3
 
 ### Imagine Dragons - Believer (2 copies in pop)
   - _other\_pop\_billboard\2017\Imagine Dragons - Believer.mp3
@@ -1962,6 +1625,10 @@ Cross-area: 139 | Within-area: 380
 ### Portugal. The Man - Feel It Still () (2 copies in pop)
   - _other\_pop\_billboard\2017\Portugal. The Man -  Feel It Still  (Official Video).mp3
   - _other\_pop\_billboard\2018\33. Portugal. The Man - Feel It Still.mp3
+
+### Maroon 5 - Girls Like You (2 copies in pop)
+  - _other\_pop\_billboard\2018\10. Maroon 5 - Girls Like You.mp3
+  - _other\_pop\_billboard\2019\022. Maroon 5 - Girls Like You.mp3
 
 ### Ariana Grande - no tears left to cry (2 copies in pop)
   - _other\_pop\_billboard\2018\20. Ariana Grande - no tears left to cry.mp3
@@ -2035,10 +1702,6 @@ Cross-area: 139 | Within-area: 380
   - _other\_pop\_random\00s - YouTube\NSYNC - Tearin_ Up My Heart (Official Music Video).mp3
   - _other\_pop\NSYNC Songs Playlist  N-SYNC Greatest Hits\NSYNC - Tearin_ Up My Heart (Official Video).mp3
 
-### The Pussycat Dolls - Don t Cha ft (2 copies in pop)
-  - _other\_pop\_random\00s - YouTube\The Pussycat Dolls - Don_t Cha ft. Busta Rhymes (Official Video).mp3
-  - _other\_pop\Pussycat Dolls - YouTube\The Pussycat Dolls - Don_t Cha.mp3
-
 ### Alan Walker - Sing Me To Sleep () (2 copies in pop)
   - _other\_pop\_random\Alan Walker - Sing Me To Sleep (Official Video).mp3
   - _other\_pop\_random\Alan Walker - Sing Me to Sleep.mp3
@@ -2055,21 +1718,17 @@ Cross-area: 139 | Within-area: 380
   - _other\_pop\_random\Bruno Mars - Locked Out Of Heaven [OFFICIAL VIDEO].mp3
   - _other\_pop\Bruno Mars\Bruno Mars - Locked Out Of Heaven (Official Music Video).mp3
 
+### Lady Gaga - Just Dance (2 copies in pop)
+  - _other\_pop\_random\Lady Gaga - Just Dance ft Colby O.mp3
+  - _other\_pop\Lady Gaga\01. Albums\(2009)The Fame (Limited Edition)\01. Just Dance.mp3
+
 ### Pharrell Williams - Marilyn Monroe (2 copies in pop)
   - _other\_pop\_random\Pharrell Williams - Marilyn Monroe.mp3
   - _other\_pop\Pharrell Williams\Pharrell Williams - Marilyn Monroe (Official Music Video).mp3
 
-### Taio Cruz - Higher (2 copies in pop)
-  - _other\_pop\_random\Taio Cruz - Higher.mp3
-  - _other\_pop\Kylie Minogue - Official Music Videos\Taio Cruz - Higher (Official UK Version) ft. Kylie Minogue.mp3
-
 ### Zara Larsson MNEK - Never Forget You (Audio) (2 copies in pop)
   - _other\_pop\_random\Zara Larsson _ MNEK - Never Forget You (Audio).mp3
   - _other\_pop\_random\Zara Larsson _ MNEK - Never Forget You (Official Video).mp3
-
-### Akon - Blown Away (2 copies in pop)
-  - _other\_pop\Akon Discography @ 320 (6 Albums)(RAP)(by dragan09)\2006 - Akon - Konvicted (Deluxe Edition)\02 Blown Away.mp3
-  - _other\_pop\Akon Discography @ 320 (6 Albums)(RAP)(by dragan09)\Akon\03-Akon - Blown Away Ft. Styles P-RGF.mp3
 
 ### Taylor Swift - Blank Space (2 copies in pop)
   - _other\_pop\Taylor Swift\64 Taylor Swift - Blank Space.mp3
@@ -2134,3 +1793,27 @@ Cross-area: 139 | Within-area: 380
 ### Rauw Alejandro - Reloj () (2 copies in latino)
   - _other\_latino\Rauw Alejandro mix\Rauw Alejandro x Anuel AA - Reloj (Video Oficial).mp3
   - _other\_latino\Rauw Alejandro mix\Reloj.mp3
+
+## Likely duplicates (1 groups)
+
+### P Diddy (2 copies, pop)
+  - [pop] "I Need A Girl (Part 2)" | _other\_pop\_billboard\2002\2002-018 P Diddy Featuring Ginuwine - I Need A Girl (Part 2).mp3
+  - [pop] "I Need a Girl Part 2" | _other\_pop\_random\P Diddy feat Ginuwine - I Need a Girl Part 2.mp3
+
+## Different versions — NOT duplicates (4 groups)
+
+### Cassie (2 versions)
+  - [us] "Me U [Remix]" | _rap/atlanta/_random/Yung Joc - It_s Goin Down (Official Music Video)/Cassie Ft. Yung Joc _ P.Diddy - Me _ U [Remix].mp3
+  - [pop] "Me U" | _other\_pop\_billboard\2006\2006-014 Cassie - Me _ U.mp3
+
+### LP (2 versions)
+  - [elektro] "Lost On You []" | _other\_elektro\edm_electronic_pop\Mix – Lost Frequencies feat  Janieck Devy - Reality (Official Music Video)\LP - Lost On You [Official Video].mp3
+  - [pop] "Lost On You [Live Session]" | _other\_pop\_random\LP - The Best Of\LP - Lost On You [Live Session].mp3
+
+### Robert Miles (2 versions)
+  - [elektro] "Children ()" | _other\_elektro\trance_dance_rave\30 Years Three Decades of Dance   Ministry of Sound\Robert Miles - Children (Official Video).mp3
+  - [elektro] "Children [Dream Version]" | _other\_elektro\trance_dance_rave\Mix – Ayla - Ayla (Taucher Remix) (1996)\Robert Miles - Children [Dream Version].mp3
+
+### Kylie Minogue (2 versions)
+  - [elektro] "Love At First Sight ()" | _other\_elektro\trance_dance_rave\Kylie Minogue - Love At First Sight (Official Video).mp3
+  - [pop] "Love At First Sight () [Full Remastered]" | _other\_pop\Kylie Minogue - Official Music Videos\Kylie Minogue - Love At First Sight (Official Video) [Full HD Remastered].mp3
