@@ -51,9 +51,8 @@ def has_changes(roots: list[Path], since: float, area: str) -> bool:
     songs_path = DATA / area / "normalized" / "songs.json"
     if songs_path.exists():
         songs = json.loads(songs_path.read_text(encoding="utf-8"))
-        for s in songs[:50]:  # spot-check first 50
-            full = ZENE / s["file"]
-            if not full.exists():
+        for s in songs:
+            if not (ZENE / s["file"]).exists():
                 return True  # a file was moved or deleted
     return False
 
