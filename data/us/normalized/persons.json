@@ -129,25 +129,6 @@
     "feature_song_ids": [],
     "via_group_song_ids": []
   },
-  "106-d12-ain t nuttin": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "Detroit"
-    ],
-    "sources": [
-      "_rap"
-    ],
-    "song_ids": [
-      "u-01256"
-    ],
-    "primary_song_ids": [
-      "u-01256"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
   "10Percent": {
     "type": "person",
     "labels": [],
@@ -201,25 +182,6 @@
     ],
     "primary_song_ids": [
       "u-01593"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "2022 C": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "Louisiana"
-    ],
-    "sources": [
-      "_rap"
-    ],
-    "song_ids": [
-      "u-01584"
-    ],
-    "primary_song_ids": [
-      "u-01584"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": []
@@ -9481,25 +9443,6 @@
     "feature_song_ids": [],
     "via_group_song_ids": []
   },
-  "Fuck Faces": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "California"
-    ],
-    "sources": [
-      "_rap"
-    ],
-    "song_ids": [
-      "u-01218"
-    ],
-    "primary_song_ids": [
-      "u-01218"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
   "Fugees": {
     "type": "person",
     "labels": [],
@@ -12104,25 +12047,6 @@
     ],
     "primary_song_ids": [
       "u-05648"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "iPhone 6 Music Video": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "Louisiana"
-    ],
-    "sources": [
-      "_trap"
-    ],
-    "song_ids": [
-      "u-05810"
-    ],
-    "primary_song_ids": [
-      "u-05810"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": []
@@ -19888,6 +19812,7 @@
     "song_ids": [
       "u-01133",
       "u-03668",
+      "u-03980",
       "u-04119",
       "u-04120",
       "u-04121",
@@ -19897,7 +19822,8 @@
       "u-06732"
     ],
     "primary_song_ids": [
-      "u-03668"
+      "u-03668",
+      "u-03980"
     ],
     "feature_song_ids": [
       "u-01133",
@@ -19909,25 +19835,6 @@
       "u-04727",
       "u-06732"
     ],
-    "via_group_song_ids": []
-  },
-  "Metro Boomin - Not All Heroes Wear Capes Mp3": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "Atlanta"
-    ],
-    "sources": [
-      "_trap"
-    ],
-    "song_ids": [
-      "u-03980"
-    ],
-    "primary_song_ids": [
-      "u-03980"
-    ],
-    "feature_song_ids": [],
     "via_group_song_ids": []
   },
   "MF DOOM": {
@@ -20261,82 +20168,6 @@
     ],
     "primary_song_ids": [
       "u-03386"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "Mix - Kur - Lets Keep It A Bean By Rick Nyce": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "USA"
-    ],
-    "sources": [
-      "_trap"
-    ],
-    "song_ids": [
-      "u-03220"
-    ],
-    "primary_song_ids": [
-      "u-03220"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "Mix - OmenXIII": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "USA"
-    ],
-    "sources": [
-      "_trap"
-    ],
-    "song_ids": [
-      "u-03231"
-    ],
-    "primary_song_ids": [
-      "u-03231"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "Mix - Project Pat": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "USA Other"
-    ],
-    "sources": [
-      "_rap"
-    ],
-    "song_ids": [
-      "u-00300"
-    ],
-    "primary_song_ids": [
-      "u-00300"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "Mix - THOUXANBANFAUNI": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "USA"
-    ],
-    "sources": [
-      "_trap"
-    ],
-    "song_ids": [
-      "u-03670"
-    ],
-    "primary_song_ids": [
-      "u-03670"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": []
@@ -21195,33 +21026,6 @@
     "feature_song_ids": [],
     "via_group_song_ids": []
   },
-  "NBA Live 2003 soundtrack": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "USA Other"
-    ],
-    "sources": [
-      "_rap"
-    ],
-    "song_ids": [
-      "u-00314",
-      "u-00315",
-      "u-00316",
-      "u-00317",
-      "u-00318"
-    ],
-    "primary_song_ids": [
-      "u-00314",
-      "u-00315",
-      "u-00316",
-      "u-00317",
-      "u-00318"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
   "NBA OG 3Three": {
     "type": "person",
     "labels": [],
@@ -21959,25 +21763,6 @@
     "feature_song_ids": [],
     "via_group_song_ids": []
   },
-  "NOVA XXXTENTACION": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "Florida"
-    ],
-    "sources": [
-      "_trap"
-    ],
-    "song_ids": [
-      "u-05672"
-    ],
-    "primary_song_ids": [
-      "u-05672"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
   "Nujabes": {
     "type": "person",
     "labels": [],
@@ -22461,6 +22246,7 @@
       "_trap"
     ],
     "song_ids": [
+      "u-03231",
       "u-03232",
       "u-03233",
       "u-03234",
@@ -22468,6 +22254,7 @@
       "u-04890"
     ],
     "primary_song_ids": [
+      "u-03231",
       "u-03232",
       "u-03233",
       "u-03234",
@@ -23988,12 +23775,14 @@
     "labels": [],
     "groups": [],
     "regions": [
-      "Memphis"
+      "Memphis",
+      "USA Other"
     ],
     "sources": [
       "_rap"
     ],
     "song_ids": [
+      "u-00300",
       "u-01870",
       "u-01871",
       "u-01872",
@@ -24002,6 +23791,7 @@
       "u-01882"
     ],
     "primary_song_ids": [
+      "u-00300",
       "u-01870",
       "u-01871",
       "u-01872",
@@ -27852,25 +27642,6 @@
     "feature_song_ids": [],
     "via_group_song_ids": []
   },
-  "slum village Best Kept Secret": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "USA Other"
-    ],
-    "sources": [
-      "_rap"
-    ],
-    "song_ids": [
-      "u-00366"
-    ],
-    "primary_song_ids": [
-      "u-00366"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
   "Smif N Wessun": {
     "type": "person",
     "labels": [],
@@ -30266,6 +30037,25 @@
     "feature_song_ids": [
       "u-02939"
     ],
+    "via_group_song_ids": []
+  },
+  "THOUXANBANFAUNI": {
+    "type": "person",
+    "labels": [],
+    "groups": [],
+    "regions": [
+      "USA"
+    ],
+    "sources": [
+      "_trap"
+    ],
+    "song_ids": [
+      "u-03670"
+    ],
+    "primary_song_ids": [
+      "u-03670"
+    ],
+    "feature_song_ids": [],
     "via_group_song_ids": []
   },
   "THRASHER": {

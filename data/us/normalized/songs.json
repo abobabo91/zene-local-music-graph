@@ -6450,15 +6450,15 @@
     "source_root": "_rap",
     "folder_region": "USA Other",
     "primary_artists": [
-      "Mix - Project Pat"
+      "Project Pat"
     ],
     "featuring_artists": [],
     "artists": [
-      "Mix - Project Pat"
+      "Project Pat"
     ],
     "credits": [
       {
-        "entity": "Mix - Project Pat",
+        "entity": "Project Pat",
         "entity_type": "person",
         "role": "primary"
       }
@@ -6762,21 +6762,11 @@
     "title": "Angie Martinez - If I C",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [
-      "NBA Live 2003 soundtrack"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "NBA Live 2003 soundtrack"
-    ],
-    "credits": [
-      {
-        "entity": "NBA Live 2003 soundtrack",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-00315",
@@ -6784,21 +6774,11 @@
     "title": "Fabolous - It s In The",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [
-      "NBA Live 2003 soundtrack"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "NBA Live 2003 soundtrack"
-    ],
-    "credits": [
-      {
-        "entity": "NBA Live 2003 soundtrack",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-00316",
@@ -6806,21 +6786,11 @@
     "title": "Flipmode Squad (feat Bu",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [
-      "NBA Live 2003 soundtrack"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "NBA Live 2003 soundtrack"
-    ],
-    "credits": [
-      {
-        "entity": "NBA Live 2003 soundtrack",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-00317",
@@ -6828,21 +6798,11 @@
     "title": "Lyric - Young and Sexy",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [
-      "NBA Live 2003 soundtrack"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "NBA Live 2003 soundtrack"
-    ],
-    "credits": [
-      {
-        "entity": "NBA Live 2003 soundtrack",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-00318",
@@ -6850,21 +6810,11 @@
     "title": "Snoop Dogg - Get Live",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [
-      "NBA Live 2003 soundtrack"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "NBA Live 2003 soundtrack"
-    ],
-    "credits": [
-      {
-        "entity": "NBA Live 2003 soundtrack",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-00319",
@@ -7996,21 +7946,11 @@
     "title": "Get It Together (Madlib Remix)",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [
-      "slum village Best Kept Secret"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "slum village Best Kept Secret"
-    ],
-    "credits": [
-      {
-        "entity": "slum village Best Kept Secret",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-00367",
@@ -26391,21 +26331,11 @@
     "title": "SacrfaceTela Devin the Dude Too Short",
     "source_root": "_rap",
     "folder_region": "California",
-    "primary_artists": [
-      "Fuck Faces"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Fuck Faces"
-    ],
-    "credits": [
-      {
-        "entity": "Fuck Faces",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-01219",
@@ -27278,21 +27208,11 @@
     "title": "but music (feat. dr",
     "source_root": "_rap",
     "folder_region": "Detroit",
-    "primary_artists": [
-      "106-d12-ain t nuttin"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "106-d12-ain t nuttin"
-    ],
-    "credits": [
-      {
-        "entity": "106-d12-ain t nuttin",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-01257",
@@ -34590,21 +34510,11 @@
     "title": "MURDER Like A Jungle",
     "source_root": "_rap",
     "folder_region": "Louisiana",
-    "primary_artists": [
-      "2022 C"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "2022 C"
-    ],
-    "credits": [
-      {
-        "entity": "2022 C",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-01585",
@@ -70995,21 +70905,11 @@
     "title": "Yerkys (Full Music Video) @Lilcaycay",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [
-      "Mix - Kur - Lets Keep It A Bean By Rick Nyce"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Mix - Kur - Lets Keep It A Bean By Rick Nyce"
-    ],
-    "credits": [
-      {
-        "entity": "Mix - Kur - Lets Keep It A Bean By Rick Nyce",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-03221",
@@ -71238,15 +71138,15 @@
     "source_root": "_trap",
     "folder_region": "USA",
     "primary_artists": [
-      "Mix - OmenXIII"
+      "OmenXIII"
     ],
     "featuring_artists": [],
     "artists": [
-      "Mix - OmenXIII"
+      "OmenXIII"
     ],
     "credits": [
       {
-        "entity": "Mix - OmenXIII",
+        "entity": "OmenXIII",
         "entity_type": "person",
         "role": "primary"
       }
@@ -81195,15 +81095,15 @@
     "source_root": "_trap",
     "folder_region": "USA",
     "primary_artists": [
-      "Mix - THOUXANBANFAUNI"
+      "THOUXANBANFAUNI"
     ],
     "featuring_artists": [],
     "artists": [
-      "Mix - THOUXANBANFAUNI"
+      "THOUXANBANFAUNI"
     ],
     "credits": [
       {
-        "entity": "Mix - THOUXANBANFAUNI",
+        "entity": "THOUXANBANFAUNI",
         "entity_type": "person",
         "role": "primary"
       }
@@ -87829,15 +87729,15 @@
     "source_root": "_trap",
     "folder_region": "Atlanta",
     "primary_artists": [
-      "Metro Boomin - Not All Heroes Wear Capes Mp3"
+      "Metro Boomin"
     ],
     "featuring_artists": [],
     "artists": [
-      "Metro Boomin - Not All Heroes Wear Capes Mp3"
+      "Metro Boomin"
     ],
     "credits": [
       {
-        "entity": "Metro Boomin - Not All Heroes Wear Capes Mp3",
+        "entity": "Metro Boomin",
         "entity_type": "person",
         "role": "primary"
       }
@@ -126763,21 +126663,11 @@
     "title": "Whitley",
     "source_root": "_trap",
     "folder_region": "Florida",
-    "primary_artists": [
-      "NOVA XXXTENTACION"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "NOVA XXXTENTACION"
-    ],
-    "credits": [
-      {
-        "entity": "NOVA XXXTENTACION",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-05673",
@@ -129884,21 +129774,11 @@
     "title": "Blvd Mel, Fredo, Gee Money, YMM Captain",
     "source_root": "_trap",
     "folder_region": "Louisiana",
-    "primary_artists": [
-      "iPhone 6 Music Video"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "iPhone 6 Music Video"
-    ],
-    "credits": [
-      {
-        "entity": "iPhone 6 Music Video",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-05811",

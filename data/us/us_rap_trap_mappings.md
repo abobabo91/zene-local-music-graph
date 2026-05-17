@@ -114,6 +114,12 @@ Examples to expand later:
 - `Nav: Nav Metro Boomin - Perfect Timing`
 - `Skengdo: #410 Skengdo`
 - `Iggy Azalea: Iggy Azalea The New Classic 2014`
+- `XXXTentacion: XXXTENTACION`
+- `Desiigner: Desiigner - New English`
+- `Metro Boomin: Metro Boomin - Not All Heroes Wear Capes Mp3`
+- `OmenXIII: Mix - OmenXIII`
+- `Project Pat: Mix - Project Pat`
+- `THOUXANBANFAUNI: Mix - THOUXANBANFAUNI`
 
 ## Groups
 

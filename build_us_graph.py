@@ -127,6 +127,13 @@ BLOCKLIST_ARTISTS = {
     "drake wiz khalifa tabius tate",
     "fat joe remy ma french montana ry so valid",
     "fat joe remy ma jay z french montana infared",
+    "nba live 2003 soundtrack", "fuck faces",
+    "ipahone 6 music video", "iphone 6 music video",
+    "nova xxxtentacion", "2022 c",
+    "106 d12 ain t nuttin",
+    "slum village best kept secret",
+    "mix kur lets keep it a bean by rick nyce",
+    "mix omenxiii", "mix project pat", "mix thouxanbanfauni",
 }
 UNKNOWN_ARTIST = "N/A"
 LABEL_LIKE_ARTISTS = {"cmg the label"}
