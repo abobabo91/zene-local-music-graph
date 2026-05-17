@@ -17010,15 +17010,15 @@
     "file": "_other\\_pop\\_oldschool_pop\\Abba Songs Playlist  Abba Greatest Hits\\Slipping Through My Fingers.mp3",
     "title": "Slipping Through My Fingers",
     "primary_artists": [
-      "Abba Songs Playlist Abba"
+      "ABBA"
     ],
     "featuring_artists": [],
     "artists": [
-      "Abba Songs Playlist Abba"
+      "ABBA"
     ],
     "credits": [
       {
-        "entity": "Abba Songs Playlist Abba",
+        "entity": "ABBA",
         "entity_type": "person",
         "role": "primary"
       }
@@ -30884,18 +30884,18 @@
     "file": "_other\\_pop\\NSYNC Songs Playlist  N-SYNC Greatest Hits\\Blaque Bring It All To Me Ft _N Sync.mp3",
     "title": "Blaque Bring It All To Me",
     "primary_artists": [
-      "NSYNC Songs Playlist N-SYNC"
+      "NSYNC"
     ],
     "featuring_artists": [
       "N Sync"
     ],
     "artists": [
-      "NSYNC Songs Playlist N-SYNC",
+      "NSYNC",
       "N Sync"
     ],
     "credits": [
       {
-        "entity": "NSYNC Songs Playlist N-SYNC",
+        "entity": "NSYNC",
         "entity_type": "person",
         "role": "primary"
       },

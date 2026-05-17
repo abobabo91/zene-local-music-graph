@@ -59,3 +59,5 @@
 - `The Doors: The doors`
 - `BTS: BTS 방탄소년단), BTS - MAP OF THE SOUL PERSONA`
 - `Claude Kelly: Copy of Claude Kelly`
+- `ABBA: Abba Songs Playlist Abba`
+- `NSYNC: NSYNC Songs Playlist N-SYNC`
