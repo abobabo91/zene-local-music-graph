@@ -28,7 +28,7 @@ Song-by-song graph of a ~15,000-track personal music library. Parses filenames a
 
 ## Visualization
 
-The dashboard (`index.html`) is a self-contained HTML file with:
+The dashboard ([index.html](index.html)) is a self-contained HTML file with:
 - **10 genre tabs** + combined R&B+Pop+Alt view
 - **Sortable artist tables** with search, region filter, label filter
 - **US and Hungary maps** with region bubbles and top artists per city
@@ -75,10 +75,11 @@ Two scoring methods for artist rankings:
 
 | Script | Purpose |
 |---|---|
+| `common.py` | Shared constants and text utilities (imported by all scripts) |
 | `build_us_graph.py` | Scan `_rap/` + `_trap/`, resolve aliases/groups/labels/regions |
 | `build_other_graph.py <area>` | Generic scanner for any `_other/` subfolder |
 | `build_toplists.py` | Rebuild `toplists.md` for Hungarian and US |
-| `build_visualization.py` | Build the HTML dashboard from all area data |
+| `build_visualization.py` | Build the `index.html` dashboard from all area data |
 
 ## Data layout
 

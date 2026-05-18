@@ -1,37 +1,19 @@
 """
-Generic scanner for _other/ subfolders (rock, magyar, latino, rnb).
+Generic scanner for _other/ subfolders (rock, magyar, latino, rnb, etc.).
 Usage: python build_other_graph.py <area>
-Areas: rock, magyar, latino, rnb
 """
 from __future__ import annotations
 
 import json
-import re
 import sys
 from collections import defaultdict
 from pathlib import Path
 
-PROJECT_ROOT = Path(__file__).resolve().parent
-DATA_ROOT = PROJECT_ROOT / "data"
-ZENE = Path(r"C:\Users\abele\Desktop\zene")
-
-AUDIO_EXTS = {".mp3", ".wma", ".wav", ".m4a", ".flac"}
-FEAT_RE = re.compile(r"\b(?:feat\.?|ft\.?|featuring|with|w\/)\b", re.IGNORECASE)
-UNICODE_DASH_RE = re.compile(r"[–—]+")
-NOISE_PATTERNS = [
-    r"\(DatPiff\.com\)", r"\[DatPiff.*?\]", r"\[www\..*?\]",
-    r"\bOfficial Music Video\b", r"\bOfficial Video\b", r"\bOfficial Audio\b",
-    r"\bOfficial Lyric Video\b", r"\bOfficial Visualizer\b",
-    r"\bOFFICIAL VIDEO\b", r"\bOFFICIAL AUDIO\b",
-    r"\bWSHH\s+Exclusive\b.*", r"\bWSHH\b",
-    r"\bHD\b", r"\bHQ\b", r"\[\d{3}\]", r"\(\d{3}\)",
-    r"\bVideo Oficial\b", r"\bvideo oficial\b", r"\bClip Officiel\b",
-    r"\bvideoclip oficial\b", r"\bOfficiel\b",
-    r"\(Original Mix\)", r"\(Radio Edit\)", r"\(Extended Mix\)",
-    r"\[NCS Release\]", r"\[NCS\]",
-    r"\bOriginal Mix\b", r"\bRadio Edit\b",
-    r"\bFull Version\b", r"\bLyric Video\b", r"\bLyrics\b",
-]
+from common import (
+    AUDIO_EXTS, DATA_ROOT, FEAT_RE, ZENE,
+    clean_artist_text, clean_title, extract_primary_and_features,
+    folder_artist, is_junk_name, normalize_key, parse_mapping_block,
+)
 
 # ─── Per-area config ───
 AREA_CONFIG = {
@@ -257,80 +239,6 @@ AREA_CONFIG = {
 }
 
 
-_ACCENT_MAP = str.maketrans(
-    "áàâäãåéèêëíìîïóòôöõőúùûüűýñçšž",
-    "aaaaaaeeeeiiiioooooouuuuuyncsz",
-)
-
-def normalize_key(text: str) -> str:
-    value = text.lower().replace("_", " ").replace("&", " and ")
-    value = value.translate(_ACCENT_MAP)
-    value = re.sub(r"[^a-z0-9+]+", " ", value)
-    return re.sub(r"\s+", " ", value).strip()
-
-
-def clean_artist_text(text: str) -> str:
-    value = UNICODE_DASH_RE.sub("-", text).replace("_", " ").strip()
-    value = re.sub(r"\(.*?\)", "", value)
-    value = re.sub(r"\[.*?\]", "", value)
-    value = value.replace("\u2019", "'")
-    return re.sub(r"\s+", " ", value).strip(" .-_,")
-
-
-def clean_title(filename: str) -> str:
-    title = UNICODE_DASH_RE.sub("-", Path(filename).stem)
-    # Strip billboard-style "YYYY-NNN " or "NNN-" prefixes
-    title = re.sub(r"^\d{4}[-_]\d{2,3}\s+", "", title)
-    title = re.sub(r"^\d{2,3}[-._]\s*", "", title)
-    title = re.sub(r"^\d{1,2}\s*[-._)]\s*", "", title)
-    title = re.sub(r"^\d{1,2}\s+", "", title)
-    for p in NOISE_PATTERNS:
-        title = re.sub(p, "", title, flags=re.IGNORECASE)
-    title = re.sub(r"\bprod\.?\s+by\b.*$", "", title, flags=re.IGNORECASE)
-    title = title.replace("_", " ")
-    return re.sub(r"\s+", " ", title).strip(" .-_,")
-
-
-def folder_artist(name: str) -> str:
-    value = clean_artist_text(name)
-    lower = value.lower()
-    # Strip " - YouTube" suffix first
-    if lower.endswith(" - youtube"):
-        value = value[:-len(" - YouTube")].strip(" -_,")
-        lower = value.lower()
-    for suffix in [" music videos", " videos", " greatest hits", " essentials",
-                   " discography", " playlist", " mix", " top songs", " full album list",
-                   " top tracks playlist", " best songs", " official music videos",
-                   " videoklippek", " video klippek", " hivatalos videoklipek",
-                   " válogatás", " zenék", " dalai", " hivatalos", " vevo"]:
-        if lower.endswith(suffix):
-            value = value[: -len(suffix)].strip(" -_,")
-            lower = value.lower()
-    # Strip "Mix – " prefix (YouTube autoplay folders)
-    if lower.startswith("mix – ") or lower.startswith("mix - "):
-        value = value[6:].strip(" -_,")
-        lower = value.lower()
-    # Strip "Legnépszerűbb számok -- " prefix (Hungarian YouTube)
-    if "legnépszerűbb" in lower or "top-titel" in lower:
-        if " -- " in value:
-            value = value.split(" -- ", 1)[1].strip(" -_,")
-        elif " – " in value:
-            value = value.split(" – ", 1)[1].strip(" -_,")
-        lower = value.lower()
-    value = re.sub(r"\s*@\s*\d{3}\b.*$", "", value).strip(" -_,")
-    value = re.sub(r"\s*\(\d{4}(?:-\d{4})?\)\s*(?:\(\d+\))?.*$", "", value).strip(" -_,")
-    value = re.sub(r"\s*\(\d{4}\)\s*(?:Mp3|mp3).*$", "", value).strip(" -_,")
-    if " - " in value:
-        left, right = value.split(" - ", 1)
-        if left and any(t in right.lower() for t in [
-            "album", "mixtape", "greatest", "hits", "vol", "mp3", "320",
-            "best of", "discography", "complete", "the best", "collection",
-            "a legjobb", "válogatás",
-        ]):
-            value = left.strip()
-    return value.strip(" -_,")
-
-
 def load_mappings(area: str) -> dict:
     mappings_path = DATA_ROOT / area / f"{area}_mappings.md"
     if not mappings_path.exists():
@@ -346,8 +254,8 @@ def load_mappings(area: str) -> dict:
         if current:
             sections[current].append(stripped)
 
-    alias_map = _parse_mapping_block(sections.get("alias normalization", []))
-    groups = _parse_mapping_block(sections.get("groups", []))
+    alias_map = parse_mapping_block(sections.get("alias normalization", []))
+    groups = parse_mapping_block(sections.get("groups", []))
 
     alias_lookup: dict[str, str] = {}
     for canonical, aliases in alias_map.items():
@@ -366,25 +274,6 @@ def load_mappings(area: str) -> dict:
         "groups": canonical_groups,
         "group_lookup": {normalize_key(g): g for g in canonical_groups},
     }
-
-
-def _parse_mapping_block(lines: list[str]) -> dict[str, list[str]]:
-    results = {}
-    for raw in lines:
-        line = raw.strip()
-        if not line.startswith("-"):
-            continue
-        line = line[1:].strip()
-        if line.startswith("`") and line.endswith("`"):
-            line = line[1:-1]
-        if ":" not in line:
-            continue
-        left, right = line.split(":", 1)
-        left = left.strip()
-        values = [v.strip() for v in right.split(",") if v.strip()]
-        if left:
-            results[left] = values
-    return results
 
 
 def is_generic(name: str, config: dict) -> bool:
@@ -406,51 +295,12 @@ def _normalized_blocklist(config: dict) -> set[str]:
     return {normalize_key(b) for b in config["blocklist"]}
 
 
-def _is_junk(name: str, key: str, bl: set[str]) -> bool:
-    if key in bl:
-        return True
-    if re.match(r"^\d+$", key):
-        return True
-    if re.match(r"^\d{1,3}\s+", key):
-        return True
-    if re.match(r"^\d{1,3}\.\s+", key):
-        return True
-    if re.match(r"^\d{4}\s*-\s*\d{2,3}\s+", key):
-        return True  # billboard prefix
-    if "(" in name and ")" not in name:
-        return True
-    if re.match(r"^\d{1,2}\s*-\s*", key):
-        return True
-    if len(key) <= 1:
-        return True
-    if any(ord(c) > 8000 for c in name):
-        return True
-    return False
-
-
 def prefer_display(name: str, mappings: dict, config: dict) -> str:
     bl = _normalized_blocklist(config)
     c = canonicalize(name, mappings)
-    if c and not _is_junk(c, normalize_key(c), bl):
+    if c and not is_junk_name(c, normalize_key(c), bl):
         return c
     return "N/A"
-
-
-def extract_primary_and_features(credit: str) -> tuple[list[str], list[str]]:
-    credit = clean_artist_text(credit)
-    if not credit:
-        return [], []
-    m = FEAT_RE.search(credit)
-    if m:
-        primary = credit[:m.start()].strip(" -")
-        featured = credit[m.end():].strip(" -")
-        return _split_artists(primary), _split_artists(featured)
-    return _split_artists(credit), []
-
-
-def _split_artists(text: str) -> list[str]:
-    parts = re.split(r"\s*[,&×]\s*|\s+x\s+|\s+and\s+", text, flags=re.IGNORECASE)
-    return [p.strip() for p in parts if p.strip()]
 
 
 def first_artist_context(path_parts: list[str], mappings: dict, config: dict) -> str | None:
@@ -461,7 +311,7 @@ def first_artist_context(path_parts: list[str], mappings: dict, config: dict) ->
         if not candidate:
             continue
         canonical = canonicalize(candidate, mappings)
-        if canonical and not _is_junk(canonical, normalize_key(canonical), _normalized_blocklist(config)):
+        if canonical and not is_junk_name(canonical, normalize_key(canonical), _normalized_blocklist(config)):
             return canonical
     return None
 

@@ -5,14 +5,16 @@ import re
 from collections import Counter, defaultdict
 from pathlib import Path
 
+from common import (
+    AUDIO_EXTS, DATA_ROOT, UNICODE_DASH_RE, ZENE,
+    clean_artist_text, clean_title, extract_primary_and_features,
+    folder_artist, is_junk_name, normalize_key, parse_mapping_block,
+    split_artists,
+)
 
-PROJECT_ROOT = Path(__file__).resolve().parent
-DATA_DIR = PROJECT_ROOT / "data" / "us"
-ZENE = Path(r"C:\Users\abele\Desktop\zene")
+DATA_DIR = DATA_ROOT / "us"
 MAPPINGS_PATH = DATA_DIR / "us_rap_trap_mappings.md"
 NORMALIZED_DIR = DATA_DIR / "normalized"
-
-AUDIO_EXTS = {".mp3", ".wma", ".wav", ".m4a", ".flac"}
 REGION_MAP = {
     "_usa other": "USA Other",
     "_usa random": "USA",
@@ -36,27 +38,6 @@ SOURCE_SCOPES = {
     "_rap": {"exclude_regions": {"_other"}},
     "_trap": {"exclude_regions": {"_other country random"}},
 }
-FEAT_RE = re.compile(r"\b(?:feat\.?|ft\.?|featuring|with|w\/)\b", re.IGNORECASE)
-UNICODE_DASH_RE = re.compile(r"[–—]+")
-NOISE_PATTERNS = [
-    r"\(DatPiff\.com\)",
-    r"\[DatPiff.*?\]",
-    r"\[www\..*?\]",
-    r"\bOfficial Music Video\b",
-    r"\bOfficial Video\b",
-    r"\bOfficial Audio\b",
-    r"\bOfficial Lyric Video\b",
-    r"\bOfficial Visualizer\b",
-    r"\bOFFICIAL VIDEO\b",
-    r"\bOFFICIAL AUDIO\b",
-    r"\bHD\b",
-    r"\bHQ\b",
-    r"\[\d{3}\]",
-    r"\(\d{3}\)",
-    r"\bWSHH\s+Exclusive\b.*",
-    r"\bWSHH\s+Premiere\b.*",
-    r"\bWSHH\b",
-]
 GENERIC_FOLDER_NAMES = {
     "_random",
     "random",
@@ -168,14 +149,6 @@ YO_GOTTI_GANGSTA_ART_TITLE_ARTISTS = {
 }
 
 
-def normalize_key(text: str) -> str:
-    value = text.lower().replace("_", " ")
-    value = value.replace("&", " and ")
-    value = re.sub(r"[^a-z0-9+]+", " ", value)
-    value = re.sub(r"\s+", " ", value).strip()
-    return value
-
-
 GENERIC_FOLDER_KEYS = {normalize_key(name) for name in GENERIC_FOLDER_NAMES}
 COMPILATION_PREFIX_KEYS = {normalize_key(p) for p in COMPILATION_PREFIXES}
 
@@ -190,25 +163,6 @@ def is_generic_folder(name: str) -> bool:
     return False
 
 
-def parse_simple_mapping_block(lines: list[str]) -> dict[str, list[str]]:
-    results: dict[str, list[str]] = {}
-    for raw in lines:
-        line = raw.strip()
-        if not line.startswith("-"):
-            continue
-        line = line[1:].strip()
-        if line.startswith("`") and line.endswith("`"):
-            line = line[1:-1]
-        if ":" not in line:
-            continue
-        left, right = line.split(":", 1)
-        left = left.strip()
-        values = [item.strip() for item in right.split(",") if item.strip()]
-        if left:
-            results[left] = values
-    return results
-
-
 def load_mappings() -> dict:
     text = MAPPINGS_PATH.read_text(encoding="utf-8")
     sections: dict[str, list[str]] = defaultdict(list)
@@ -221,9 +175,9 @@ def load_mappings() -> dict:
         if current:
             sections[current].append(line)
 
-    alias_map = parse_simple_mapping_block(sections.get("alias normalization", []))
-    groups = parse_simple_mapping_block(sections.get("groups", []))
-    labels = parse_simple_mapping_block(sections.get("labels", []))
+    alias_map = parse_mapping_block(sections.get("alias normalization", []))
+    groups = parse_mapping_block(sections.get("groups", []))
+    labels = parse_mapping_block(sections.get("labels", []))
 
     person_entries: dict[str, dict[str, list[str] | str]] = {}
     current_person = None
@@ -291,44 +245,6 @@ def canonicalize_artist(name: str, mappings: dict) -> str:
     return mappings["alias_lookup"].get(normalize_key(cleaned), cleaned)
 
 
-def clean_artist_text(text: str) -> str:
-    value = UNICODE_DASH_RE.sub("-", text).replace("_", " ").strip()
-    value = re.sub(r"\(.*?datpiff.*?\)", "", value, flags=re.IGNORECASE)
-    value = re.sub(r"\(.*?\)", "", value)
-    value = re.sub(r"\[.*?\]", "", value)
-    value = value.replace("’", "'")
-    value = re.sub(r"\s+", " ", value).strip(" .-_,")
-    return value
-
-
-def folder_artist_from_name(name: str) -> str:
-    value = clean_artist_text(name)
-    lower = value.lower()
-
-    for suffix in [
-        " music videos",
-        " videos",
-        " greatest hits",
-        " essentials",
-        " discography",
-        " playlist",
-        " mix",
-    ]:
-        if lower.endswith(suffix):
-            value = value[: -len(suffix)].strip(" -_,")
-            lower = value.lower()
-
-    for marker in ["wshh exclusive", "official video", "official music video", "youtube"]:
-        value = re.sub(marker, "", value, flags=re.IGNORECASE).strip(" -_,")
-
-    if " - " in value:
-        left, right = value.split(" - ", 1)
-        if left and any(token in right.lower() for token in ["album", "mixtape", "greatest", "hits", "full", "vol", "edition"]):
-            value = left.strip()
-
-    return value.strip(" -_,")
-
-
 def is_yo_gotti_cmg_compilation(path_parts: list[str]) -> bool:
     joined = " / ".join(path_parts).lower()
     return (
@@ -346,7 +262,7 @@ def first_artist_context(path_parts: list[str], mappings: dict) -> str | None:
         return "2Pac"
     candidates: list[str] = []
     for part in path_parts[2:-1]:
-        candidate = folder_artist_from_name(part)
+        candidate = folder_artist(part)
         if not candidate:
             continue
         if is_generic_folder(candidate):
@@ -371,56 +287,13 @@ def first_artist_context(path_parts: list[str], mappings: dict) -> str | None:
     return None
 
 
-def split_artist_list(text: str) -> list[str]:
-    temp = text
-    temp = re.sub(r"\bx\b", "|", temp, flags=re.IGNORECASE)
-    temp = temp.replace("&", "|")
-    temp = temp.replace("/", "|")
-    temp = temp.replace(",", "|")
-    temp = re.sub(r"\band\b", "|", temp, flags=re.IGNORECASE)
-    parts = [clean_artist_text(part) for part in temp.split("|")]
-    return [part for part in parts if part]
-
-
-def extract_primary_and_features(artist_credit: str) -> tuple[list[str], list[str]]:
-    credit = clean_artist_text(artist_credit)
-    if not credit:
-        return [], []
-    match = FEAT_RE.search(credit)
-    if match:
-        primary = credit[: match.start()].strip(" -")
-        featured = credit[match.end() :].strip(" -")
-        return split_artist_list(primary), split_artist_list(featured)
-    return split_artist_list(credit), []
-
-
-def clean_title_from_filename(filename: str) -> str:
-    title = UNICODE_DASH_RE.sub("-", Path(filename).stem)
-    title = re.sub(r"^\d{1,2}\s*[-._)]\s*", "", title)
-    title = re.sub(r"^\d{1,2}\s+", "", title)
-    for pattern in NOISE_PATTERNS:
-        title = re.sub(pattern, "", title, flags=re.IGNORECASE)
-    title = re.sub(r"\bprod\.?\s+by\b.*$", "", title, flags=re.IGNORECASE)
-    title = re.sub(r"\bproduced by\b.*$", "", title, flags=re.IGNORECASE)
-    title = title.replace("_", " ")
-    # Only strip leading "NN - " if it looks like a track number (not "50 Cent - ...")
-    m = re.match(r"^(\d{1,2})\s*-\s*(.+)$", title)
-    if m and not re.match(r"\d", m.group(2).strip()[:1] if m.group(2).strip() else ""):
-        # Only strip if remainder doesn't contain another " - " (artist - title pattern)
-        remainder = m.group(2).strip()
-        if " - " not in remainder:
-            title = remainder
-    title = re.sub(r"\s+", " ", title).strip(" .-_,")
-    return title
-
-
 def infer_credit_from_loose_stem(filename: str) -> tuple[str | None, str | None]:
     stem = UNICODE_DASH_RE.sub("-", Path(filename).stem).replace("_", " ").strip()
 
     compact_dash = re.match(r"^([^-\[\(]{2,80}?)\s*-\s*(.+)$", stem)
     if compact_dash:
         left = clean_artist_text(compact_dash.group(1))
-        right = clean_title_from_filename(compact_dash.group(2))
+        right = clean_title(compact_dash.group(2))
         left_key = normalize_key(left)
         if left and right and not left_key.isdigit() and left_key not in {normalize_key(name) for name in UPLOADER_NAMES}:
             return left, right
@@ -428,7 +301,7 @@ def infer_credit_from_loose_stem(filename: str) -> tuple[str | None, str | None]
     chunks = [chunk.strip() for chunk in re.split(r"\s{2,}", stem) if chunk.strip()]
     if len(chunks) >= 2:
         left = clean_artist_text(chunks[0])
-        right = clean_title_from_filename(" ".join(chunks[1:]))
+        right = clean_title(" ".join(chunks[1:]))
         left_key = normalize_key(left)
         if left and right and not left_key.isdigit() and left_key not in {normalize_key(name) for name in UPLOADER_NAMES}:
             return left, right
@@ -439,11 +312,11 @@ def infer_credit_from_loose_stem(filename: str) -> tuple[str | None, str | None]
 def infer_credit_and_title(path_parts: list[str], filename: str, mappings: dict) -> tuple[str | None, str]:
     artist_context = first_artist_context(path_parts, mappings)
 
-    title = clean_title_from_filename(filename)
+    title = clean_title(filename)
     if " - " in title:
         prefix, suffix = title.split(" - ", 1)
         prefix_clean = clean_artist_text(prefix)
-        suffix_clean = clean_title_from_filename(suffix.strip())
+        suffix_clean = clean_title(suffix.strip())
         if normalize_key(prefix_clean) in {normalize_key(name) for name in UPLOADER_NAMES} | {"various artists"}:
             return artist_context, suffix_clean
         if not artist_context or normalize_key(prefix_clean) != normalize_key(artist_context):
@@ -511,35 +384,14 @@ def canonical_group_name(name: str, mappings: dict) -> str | None:
     return mappings["group_lookup"].get(normalize_key(cleaned))
 
 
-def _is_junk_artist(name: str, key: str) -> bool:
-    """Detect track numbers, pure numbers, unclosed parens, and other junk."""
-    if key in BLOCKLIST_ARTISTS:
-        return True
-    if re.match(r"^\d+$", key):
-        return True
-    if re.match(r"^\d{1,3}\s+", key):
-        return True  # "01 dancin", "050 snoop dogg"
-    if re.match(r"^\d{1,3}\.\s+", key):
-        return True  # "002. Post Malone"
-    if re.match(r"^\d{4}\s*-\s*\d{2,3}\s+", key):
-        return True  # "2001-030 Ja Rule" billboard prefix
-    if "(" in name and ")" not in name:
-        return True
-    if re.match(r"^\d{1,2}\s*-\s*", key):
-        return True
-    if any(ord(c) > 8000 for c in name):
-        return True
-    return False
-
-
 def prefer_display_name(name: str, mappings: dict) -> str:
     canonical = canonicalize_artist(name, mappings)
     if canonical:
-        if _is_junk_artist(canonical, normalize_key(canonical)):
+        if is_junk_name(canonical, normalize_key(canonical), BLOCKLIST_ARTISTS):
             return UNKNOWN_ARTIST
         return canonical
     cleaned = clean_artist_text(name)
-    if _is_junk_artist(cleaned, normalize_key(cleaned)):
+    if is_junk_name(cleaned, normalize_key(cleaned), BLOCKLIST_ARTISTS):
         return UNKNOWN_ARTIST
     return cleaned
 
@@ -1083,7 +935,6 @@ def write_outputs(normalized: dict[str, object]) -> None:
         "groups.json": normalized["groups"],
         "labels.json": normalized["labels"],
         "regions.json": normalized["regions"],
-        "validation.json": normalized["validation"],
     }
     for filename, payload in outputs.items():
         (NORMALIZED_DIR / filename).write_text(

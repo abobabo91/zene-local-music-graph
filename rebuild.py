@@ -5,10 +5,9 @@ import subprocess
 import sys
 from pathlib import Path
 
-HERE = Path(__file__).parent
-ZENE = Path(r"C:\Users\abele\Desktop\zene")
-DATA = HERE / "data"
-STATE_FILE = HERE / ".last_rebuild"
+from common import AUDIO_EXTS, DATA_ROOT, PROJECT_ROOT, ZENE
+
+STATE_FILE = PROJECT_ROOT / ".last_rebuild"
 
 SCAN_ROOTS = {
     "us": [ZENE / "_rap", ZENE / "_trap"],
@@ -20,7 +19,6 @@ SCAN_ROOTS = {
     "alternate": [ZENE / "_other" / "_alternate"],
     "latino": [ZENE / "_other" / "_latino"],
 }
-AUDIO_EXTS = {".mp3", ".wma", ".wav", ".m4a", ".flac"}
 
 
 def get_last_rebuild() -> float:
@@ -48,7 +46,7 @@ def has_changes(roots: list[Path], since: float, area: str) -> bool:
                     except OSError:
                         continue
     # Check for moved/deleted files (paths in songs.json that no longer exist on disk)
-    songs_path = DATA / area / "normalized" / "songs.json"
+    songs_path = DATA_ROOT / area / "normalized" / "songs.json"
     if songs_path.exists():
         songs = json.loads(songs_path.read_text(encoding="utf-8"))
         for s in songs:
@@ -59,7 +57,7 @@ def has_changes(roots: list[Path], since: float, area: str) -> bool:
 
 def run(cmd: list[str], desc: str):
     print(f"  {desc}...")
-    r = subprocess.run([sys.executable] + cmd, cwd=str(HERE), capture_output=True, text=True)
+    r = subprocess.run([sys.executable] + cmd, cwd=str(PROJECT_ROOT), capture_output=True, text=True)
     if r.returncode != 0:
         print(f"    ERROR: {r.stderr[:200]}")
     else:
@@ -102,21 +100,15 @@ def main():
     run(["build_toplists.py"], "Toplists")
     run(["build_visualization.py"], "Visualization")
 
-    # Copy visualization as index.html for GitHub Pages
-    viz = HERE / "visualization.html"
-    idx = HERE / "index.html"
-    if viz.exists():
-        idx.write_bytes(viz.read_bytes())
-
     save_rebuild_time(now)
 
     # Git commit + push if there are changes
-    r = subprocess.run(["git", "status", "--porcelain"], cwd=str(HERE), capture_output=True, text=True)
+    r = subprocess.run(["git", "status", "--porcelain"], cwd=str(PROJECT_ROOT), capture_output=True, text=True)
     if r.stdout.strip():
         print("\nCommitting and pushing...")
-        subprocess.run(["git", "add", "-A"], cwd=str(HERE))
-        subprocess.run(["git", "commit", "-m", "Rebuild: " + ", ".join(changed)], cwd=str(HERE))
-        subprocess.run(["git", "push"], cwd=str(HERE))
+        subprocess.run(["git", "add", "-A"], cwd=str(PROJECT_ROOT))
+        subprocess.run(["git", "commit", "-m", "Rebuild: " + ", ".join(changed)], cwd=str(PROJECT_ROOT))
+        subprocess.run(["git", "push"], cwd=str(PROJECT_ROOT))
         print("Pushed to GitHub.")
     else:
         print("\nNo data changes to commit.")

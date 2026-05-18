@@ -398,7 +398,7 @@
   {
     "song_id": "u-00019",
     "file": "_rap/2Pac/[1995] Me Against The World/2pac - Dear Mama (Lyrics).mp3",
-    "title": "Dear Mama (Lyrics)",
+    "title": "Dear Mama ()",
     "source_root": "_rap",
     "folder_region": "California",
     "primary_artists": [
@@ -486,19 +486,19 @@
   {
     "song_id": "u-00023",
     "file": "_rap/2Pac/[1996] All Eyez On Me/Tupac Only God Can Judge Me - Lyrics.mp3",
-    "title": "Lyrics",
+    "title": "Tupac Only God Can Judge Me",
     "source_root": "_rap",
     "folder_region": "California",
     "primary_artists": [
-      "Tupac Only God Can Judge Me"
+      "2Pac"
     ],
     "featuring_artists": [],
     "artists": [
-      "Tupac Only God Can Judge Me"
+      "2Pac"
     ],
     "credits": [
       {
-        "entity": "Tupac Only God Can Judge Me",
+        "entity": "2Pac",
         "entity_type": "person",
         "role": "primary"
       }
@@ -1410,7 +1410,7 @@
   {
     "song_id": "u-00065",
     "file": "_rap/2Pac/Tupac ft. Snoop Dogg - 2 Of Amerikaz Most Wanted (lyrics!).mp3",
-    "title": "Of Amerikaz Most Wanted (lyrics!)",
+    "title": "Of Amerikaz Most Wanted (!)",
     "source_root": "_rap",
     "folder_region": "California",
     "primary_artists": [
@@ -3617,15 +3617,15 @@
     "source_root": "_rap",
     "folder_region": "USA Other",
     "primary_artists": [
-      "Common Sadat"
+      "Common Sadat X"
     ],
     "featuring_artists": [],
     "artists": [
-      "Common Sadat"
+      "Common Sadat X"
     ],
     "credits": [
       {
-        "entity": "Common Sadat",
+        "entity": "Common Sadat X",
         "entity_type": "person",
         "role": "primary"
       }
@@ -4688,15 +4688,15 @@
     "source_root": "_rap",
     "folder_region": "USA Other",
     "primary_artists": [
-      "The L.O"
+      "The L.O.X"
     ],
     "featuring_artists": [],
     "artists": [
-      "The L.O"
+      "The L.O.X"
     ],
     "credits": [
       {
-        "entity": "The L.O",
+        "entity": "The L.O.X",
         "entity_type": "person",
         "role": "primary"
       }
@@ -4827,11 +4827,21 @@
     "title": "Hey Ho",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [],
+    "primary_artists": [
+      "Lil Flip"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Lil Flip"
+    ],
+    "credits": [
+      {
+        "entity": "Lil Flip",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00228",
@@ -8347,15 +8357,15 @@
     "source_root": "_rap",
     "folder_region": "USA Other",
     "primary_artists": [
-      "1998-080 Busta Rhymes"
+      "Busta Rhymes"
     ],
     "featuring_artists": [],
     "artists": [
-      "1998-080 Busta Rhymes"
+      "Busta Rhymes"
     ],
     "credits": [
       {
-        "entity": "1998-080 Busta Rhymes",
+        "entity": "Busta Rhymes",
         "entity_type": "person",
         "role": "primary"
       }
@@ -8369,13 +8379,13 @@
     "source_root": "_rap",
     "folder_region": "USA Other",
     "primary_artists": [
-      "2003-017 Busta Rhymes"
+      "Busta Rhymes"
     ],
     "featuring_artists": [
       "Mariah Carey"
     ],
     "artists": [
-      "2003-017 Busta Rhymes",
+      "Busta Rhymes",
       "Mariah Carey"
     ],
     "credits": [
@@ -8385,7 +8395,7 @@
         "role": "feature"
       },
       {
-        "entity": "2003-017 Busta Rhymes",
+        "entity": "Busta Rhymes",
         "entity_type": "person",
         "role": "primary"
       }
@@ -9021,13 +9031,13 @@
     "source_root": "_rap",
     "folder_region": "USA Other",
     "primary_artists": [
-      "2003-076 Chingy"
+      "Chingy"
     ],
     "featuring_artists": [
       "Ludacris Snoop Dogg"
     ],
     "artists": [
-      "2003-076 Chingy",
+      "Chingy",
       "Ludacris Snoop Dogg"
     ],
     "credits": [
@@ -9037,7 +9047,7 @@
         "role": "feature"
       },
       {
-        "entity": "2003-076 Chingy",
+        "entity": "Chingy",
         "entity_type": "person",
         "role": "primary"
       }
@@ -9051,13 +9061,13 @@
     "source_root": "_rap",
     "folder_region": "USA Other",
     "primary_artists": [
-      "2006-063 Chingy"
+      "Chingy"
     ],
     "featuring_artists": [
       "Tyrese"
     ],
     "artists": [
-      "2006-063 Chingy",
+      "Chingy",
       "Tyrese"
     ],
     "credits": [
@@ -9067,7 +9077,7 @@
         "role": "feature"
       },
       {
-        "entity": "2006-063 Chingy",
+        "entity": "Chingy",
         "entity_type": "person",
         "role": "primary"
       }
@@ -10150,11 +10160,21 @@
     "title": "Spit It Clearly (feat. The Alchemist) (",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [],
+    "primary_artists": [
+      "Dilated Peoples Discography"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Dilated Peoples Discography"
+    ],
+    "credits": [
+      {
+        "entity": "Dilated Peoples Discography",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00480",
@@ -10162,11 +10182,21 @@
     "title": "You Can t Hide, You Can t Run (",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [],
+    "primary_artists": [
+      "Dilated Peoples Discography"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Dilated Peoples Discography"
+    ],
+    "credits": [
+      {
+        "entity": "Dilated Peoples Discography",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00481",
@@ -10174,11 +10204,21 @@
     "title": "The Eyes Have It (Remix) (",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [],
+    "primary_artists": [
+      "Dilated Peoples Discography"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Dilated Peoples Discography"
+    ],
+    "credits": [
+      {
+        "entity": "Dilated Peoples Discography",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00482",
@@ -10186,11 +10226,21 @@
     "title": "This Way (feat. Kanye West) (",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [],
+    "primary_artists": [
+      "Dilated Peoples Discography"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Dilated Peoples Discography"
+    ],
+    "credits": [
+      {
+        "entity": "Dilated Peoples Discography",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00483",
@@ -10235,15 +10285,15 @@
     "source_root": "_rap",
     "folder_region": "USA Other",
     "primary_artists": [
-      "Dilated Peoples"
+      "Dilated Peoples Discography"
     ],
     "featuring_artists": [],
     "artists": [
-      "Dilated Peoples"
+      "Dilated Peoples Discography"
     ],
     "credits": [
       {
-        "entity": "Dilated Peoples",
+        "entity": "Dilated Peoples Discography",
         "entity_type": "person",
         "role": "primary"
       }
@@ -10257,15 +10307,15 @@
     "source_root": "_rap",
     "folder_region": "USA Other",
     "primary_artists": [
-      "Dilated Peoples"
+      "Dilated Peoples Discography"
     ],
     "featuring_artists": [],
     "artists": [
-      "Dilated Peoples"
+      "Dilated Peoples Discography"
     ],
     "credits": [
       {
-        "entity": "Dilated Peoples",
+        "entity": "Dilated Peoples Discography",
         "entity_type": "person",
         "role": "primary"
       }
@@ -10279,15 +10329,15 @@
     "source_root": "_rap",
     "folder_region": "USA Other",
     "primary_artists": [
-      "Dilated Peoples"
+      "Dilated Peoples Discography"
     ],
     "featuring_artists": [],
     "artists": [
-      "Dilated Peoples"
+      "Dilated Peoples Discography"
     ],
     "credits": [
       {
-        "entity": "Dilated Peoples",
+        "entity": "Dilated Peoples Discography",
         "entity_type": "person",
         "role": "primary"
       }
@@ -10301,15 +10351,15 @@
     "source_root": "_rap",
     "folder_region": "USA Other",
     "primary_artists": [
-      "Dilated Peoples"
+      "Dilated Peoples Discography"
     ],
     "featuring_artists": [],
     "artists": [
-      "Dilated Peoples"
+      "Dilated Peoples Discography"
     ],
     "credits": [
       {
-        "entity": "Dilated Peoples",
+        "entity": "Dilated Peoples Discography",
         "entity_type": "person",
         "role": "primary"
       }
@@ -10323,15 +10373,15 @@
     "source_root": "_rap",
     "folder_region": "USA Other",
     "primary_artists": [
-      "Dilated Peoples"
+      "Dilated Peoples Discography"
     ],
     "featuring_artists": [],
     "artists": [
-      "Dilated Peoples"
+      "Dilated Peoples Discography"
     ],
     "credits": [
       {
-        "entity": "Dilated Peoples",
+        "entity": "Dilated Peoples Discography",
         "entity_type": "person",
         "role": "primary"
       }
@@ -10345,15 +10395,15 @@
     "source_root": "_rap",
     "folder_region": "USA Other",
     "primary_artists": [
-      "Dilated Peoples"
+      "Dilated Peoples Discography"
     ],
     "featuring_artists": [],
     "artists": [
-      "Dilated Peoples"
+      "Dilated Peoples Discography"
     ],
     "credits": [
       {
-        "entity": "Dilated Peoples",
+        "entity": "Dilated Peoples Discography",
         "entity_type": "person",
         "role": "primary"
       }
@@ -11422,11 +11472,21 @@
     "title": "MIDDLE CHILD",
     "source_root": "_rap",
     "folder_region": "USA Other",
-    "primary_artists": [],
+    "primary_artists": [
+      "J Cole"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "J Cole"
+    ],
+    "credits": [
+      {
+        "entity": "J Cole",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-00544",
@@ -16031,15 +16091,15 @@
     "source_root": "_rap",
     "folder_region": "USA Other",
     "primary_artists": [
-      "2001-095 Nelly"
+      "Nelly"
     ],
     "featuring_artists": [],
     "artists": [
-      "2001-095 Nelly"
+      "Nelly"
     ],
     "credits": [
       {
-        "entity": "2001-095 Nelly",
+        "entity": "Nelly",
         "entity_type": "person",
         "role": "primary"
       }
@@ -16053,15 +16113,15 @@
     "source_root": "_rap",
     "folder_region": "USA Other",
     "primary_artists": [
-      "2002-003 Nelly"
+      "Nelly"
     ],
     "featuring_artists": [],
     "artists": [
-      "2002-003 Nelly"
+      "Nelly"
     ],
     "credits": [
       {
-        "entity": "2002-003 Nelly",
+        "entity": "Nelly",
         "entity_type": "person",
         "role": "primary"
       }
@@ -16075,14 +16135,14 @@
     "source_root": "_rap",
     "folder_region": "USA Other",
     "primary_artists": [
-      "2002-004 Nelly"
+      "Nelly"
     ],
     "featuring_artists": [
       "Kelly Rowland"
     ],
     "artists": [
-      "2002-004 Nelly",
-      "Kelly Rowland"
+      "Kelly Rowland",
+      "Nelly"
     ],
     "credits": [
       {
@@ -16091,7 +16151,7 @@
         "role": "feature"
       },
       {
-        "entity": "2002-004 Nelly",
+        "entity": "Nelly",
         "entity_type": "person",
         "role": "primary"
       }
@@ -17687,7 +17747,7 @@
   {
     "song_id": "u-00829",
     "file": "_rap/_usa other/Tech N9ne/(2011)All 6_s and 7_s (Deluxe Edition)/F.A.N.S. - Tech N9NE (All 6_s And 7_s) [With Lyrics].mp3",
-    "title": "Tech N9NE (All 6 s And 7 s) [With Lyrics]",
+    "title": "Tech N9NE (All 6 s And 7 s) [With ]",
     "source_root": "_rap",
     "folder_region": "USA Other",
     "primary_artists": [
@@ -17911,7 +17971,7 @@
   {
     "song_id": "u-00841",
     "file": "_rap/_usa other/The Roots/The Roots - 2004 - Do This Well (Remixes And Rarities 1994-1999)/CD1/114-TH~1.MP3",
-    "title": "114-TH~1",
+    "title": "TH~1",
     "source_root": "_rap",
     "folder_region": "USA Other",
     "primary_artists": [
@@ -17933,7 +17993,7 @@
   {
     "song_id": "u-00842",
     "file": "_rap/_usa other/The Roots/The Roots - 2004 - Do This Well (Remixes And Rarities 1994-1999)/CD1/115-TH~1.MP3",
-    "title": "115-TH~1",
+    "title": "TH~1",
     "source_root": "_rap",
     "folder_region": "USA Other",
     "primary_artists": [
@@ -17955,7 +18015,7 @@
   {
     "song_id": "u-00843",
     "file": "_rap/_usa other/The Roots/The Roots - 2004 - Do This Well (Remixes And Rarities 1994-1999)/CD2/209-TH~1.MP3",
-    "title": "209-TH~1",
+    "title": "TH~1",
     "source_root": "_rap",
     "folder_region": "USA Other",
     "primary_artists": [
@@ -17977,7 +18037,7 @@
   {
     "song_id": "u-00844",
     "file": "_rap/_usa other/The Roots/The Roots - 2004 - Do This Well (Remixes And Rarities 1994-1999)/CD3/312-TH~1.MP3",
-    "title": "312-TH~1",
+    "title": "TH~1",
     "source_root": "_rap",
     "folder_region": "USA Other",
     "primary_artists": [
@@ -19860,7 +19920,7 @@
   {
     "song_id": "u-00929",
     "file": "_rap/atlanta/T.I/DJ Drama & T I  -  Down With The King  (2004)/T.I. feat Daz Dillinger - My Life  Lyrics.mp3",
-    "title": "My Life Lyrics",
+    "title": "My Life",
     "source_root": "_rap",
     "folder_region": "Atlanta",
     "primary_artists": [
@@ -21009,7 +21069,7 @@
   {
     "song_id": "u-00982",
     "file": "_rap/atlanta/Young Jeezy/Young Jeezy - I Am The Street Dream/young jeezy - i love it  (lyrics).mp3",
-    "title": "i love it (lyrics)",
+    "title": "i love it ()",
     "source_root": "_rap",
     "folder_region": "Atlanta",
     "primary_artists": [
@@ -21798,7 +21858,7 @@
   {
     "song_id": "u-01018",
     "file": "_rap/california/_random/Gangsta Rap   West Coast Hip Hop   G-Funk/Luniz - I Got 5 On It Lyrics in discription..mp3",
-    "title": "I Got 5 On It Lyrics in discription",
+    "title": "I Got 5 On It in discription",
     "source_root": "_rap",
     "folder_region": "California",
     "primary_artists": [
@@ -22323,7 +22383,7 @@
   {
     "song_id": "u-01041",
     "file": "_rap/california/Cypress Hill/Cypress_Hill-Strictly_Hip_Hop_(The_Best_Of)-2CD-2010-H3X/116-cypress_hill-prelude_to_a_come_up_ft._mc_eiht.mp3",
-    "title": "116-cypress hill-prelude to a come up ft. mc eiht",
+    "title": "cypress hill-prelude to a come up ft. mc eiht",
     "source_root": "_rap",
     "folder_region": "California",
     "primary_artists": [
@@ -22345,7 +22405,7 @@
   {
     "song_id": "u-01042",
     "file": "_rap/california/Cypress Hill/Cypress_Hill-Strictly_Hip_Hop_(The_Best_Of)-2CD-2010-H3X/201-cypress_hill-insane_in_the_brain.mp3",
-    "title": "201-cypress hill-insane in the brain",
+    "title": "cypress hill-insane in the brain",
     "source_root": "_rap",
     "folder_region": "California",
     "primary_artists": [
@@ -22367,7 +22427,7 @@
   {
     "song_id": "u-01043",
     "file": "_rap/california/Cypress Hill/Cypress_Hill-Strictly_Hip_Hop_(The_Best_Of)-2CD-2010-H3X/204-cypress_hill-hits_from_the_bong_(t-rays_mix).mp3",
-    "title": "204-cypress hill-hits from the bong (t-rays mix)",
+    "title": "cypress hill-hits from the bong (t-rays mix)",
     "source_root": "_rap",
     "folder_region": "California",
     "primary_artists": [
@@ -22393,15 +22453,15 @@
     "source_root": "_rap",
     "folder_region": "California",
     "primary_artists": [
-      "Dr. Dre"
+      "Dr.Dre Discography"
     ],
     "featuring_artists": [],
     "artists": [
-      "Dr. Dre"
+      "Dr.Dre Discography"
     ],
     "credits": [
       {
-        "entity": "Dr. Dre",
+        "entity": "Dr.Dre Discography",
         "entity_type": "person",
         "role": "primary"
       }
@@ -22479,15 +22539,15 @@
     "source_root": "_rap",
     "folder_region": "California",
     "primary_artists": [
-      "Dr. Dre"
+      "Dr.Dre Discography"
     ],
     "featuring_artists": [],
     "artists": [
-      "Dr. Dre"
+      "Dr.Dre Discography"
     ],
     "credits": [
       {
-        "entity": "Dr. Dre",
+        "entity": "Dr.Dre Discography",
         "entity_type": "person",
         "role": "primary"
       }
@@ -22722,14 +22782,14 @@
     "source_root": "_rap",
     "folder_region": "California",
     "primary_artists": [
-      "Zibit"
+      "X-Zibit"
     ],
     "featuring_artists": [
       "Snoop Dogg"
     ],
     "artists": [
       "Snoop Dogg",
-      "Zibit"
+      "X-Zibit"
     ],
     "credits": [
       {
@@ -22738,7 +22798,7 @@
         "role": "feature"
       },
       {
-        "entity": "Zibit",
+        "entity": "X-Zibit",
         "entity_type": "person",
         "role": "primary"
       }
@@ -24036,11 +24096,21 @@
     "title": "sensual seduction",
     "source_root": "_rap",
     "folder_region": "California",
-    "primary_artists": [],
+    "primary_artists": [
+      "Snoop Dogg"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Snoop Dogg"
+    ],
+    "credits": [
+      {
+        "entity": "Snoop Dogg",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-01115",
@@ -24115,14 +24185,14 @@
     "source_root": "_rap",
     "folder_region": "California",
     "primary_artists": [
-      "2004-071 Snoop Dogg"
+      "Snoop Dogg"
     ],
     "featuring_artists": [
       "Pharrell"
     ],
     "artists": [
-      "2004-071 Snoop Dogg",
-      "Pharrell"
+      "Pharrell",
+      "Snoop Dogg"
     ],
     "credits": [
       {
@@ -24131,7 +24201,7 @@
         "role": "feature"
       },
       {
-        "entity": "2004-071 Snoop Dogg",
+        "entity": "Snoop Dogg",
         "entity_type": "person",
         "role": "primary"
       }
@@ -25546,7 +25616,7 @@
   {
     "song_id": "u-01180",
     "file": "_rap/california/The Game/The Game-1992-2CD-2016-H3X/201-the_game-all_eyez_(feat._jeremih).mp3",
-    "title": "201-the game-all eyez (feat. jeremih)",
+    "title": "the game-all eyez (feat. jeremih)",
     "source_root": "_rap",
     "folder_region": "California",
     "primary_artists": [
@@ -25828,11 +25898,11 @@
     "primary_artists": [],
     "featuring_artists": [
       "Erick Sermon",
-      "J"
+      "N/A"
     ],
     "artists": [
       "Erick Sermon",
-      "J"
+      "N/A"
     ],
     "credits": [
       {
@@ -25841,7 +25911,7 @@
         "role": "feature"
       },
       {
-        "entity": "J",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "feature"
       }
@@ -26509,7 +26579,7 @@
   {
     "song_id": "u-01222",
     "file": "_rap/detroit/D12/D12-Devils_Night-2CD-2001-FUM/103-d12-pistol_pistol-fum.mp3",
-    "title": "103-d12-pistol pistol-fum",
+    "title": "d12-pistol pistol-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [],
@@ -26545,7 +26615,7 @@
   {
     "song_id": "u-01224",
     "file": "_rap/detroit/D12/D12-Devils_Night-2CD-2001-FUM/110-d12-purple_pills-fum.mp3",
-    "title": "110-d12-purple pills-fum",
+    "title": "d12-purple pills-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [],
@@ -26569,7 +26639,7 @@
   {
     "song_id": "u-01225",
     "file": "_rap/detroit/D12/D12-Devils_Night-2CD-2001-FUM/111-d12-fight_music-fum.mp3",
-    "title": "111-d12-fight music-fum",
+    "title": "d12-fight music-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [],
@@ -26593,7 +26663,7 @@
   {
     "song_id": "u-01226",
     "file": "_rap/detroit/D12/D12-Devils_Night-2CD-2001-FUM/112-d12-instigator-fum.mp3",
-    "title": "112-d12-instigator-fum",
+    "title": "d12-instigator-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [],
@@ -26617,7 +26687,7 @@
   {
     "song_id": "u-01227",
     "file": "_rap/detroit/D12/D12-Devils_Night-2CD-2001-FUM/113-d12-pimp_like_me_(feat._dina_rae)-fum.mp3",
-    "title": "113-d12-pimp like me (feat. dina rae)-fum",
+    "title": "d12-pimp like me (feat. dina rae)-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [],
@@ -26641,7 +26711,7 @@
   {
     "song_id": "u-01228",
     "file": "_rap/detroit/D12/D12-Devils_Night-2CD-2001-FUM/116-d12-devils_night-fum.mp3",
-    "title": "116-d12-devils night-fum",
+    "title": "d12-devils night-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [],
@@ -26665,7 +26735,7 @@
   {
     "song_id": "u-01229",
     "file": "_rap/detroit/D12/D12-Devils_Night-2CD-2001-FUM/118-d12-revelation-fum.mp3",
-    "title": "118-d12-revelation-fum",
+    "title": "d12-revelation-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [],
@@ -26689,7 +26759,7 @@
   {
     "song_id": "u-01230",
     "file": "_rap/detroit/D12/D12-Devils_Night-2CD-2001-FUM/119-d12-girls_(bonus_track)-fum.mp3",
-    "title": "119-d12-girls (bonus track)-fum",
+    "title": "d12-girls (bonus track)-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [],
@@ -26713,7 +26783,7 @@
   {
     "song_id": "u-01231",
     "file": "_rap/detroit/D12/D12-Devils_Night-2CD-2001-FUM/203-d12-shit_on_you-fum.mp3",
-    "title": "203-d12-shit on you-fum",
+    "title": "d12-shit on you-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [],
@@ -27253,15 +27323,15 @@
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
-      "2002-063 Eminem"
+      "Eminem"
     ],
     "featuring_artists": [],
     "artists": [
-      "2002-063 Eminem"
+      "Eminem"
     ],
     "credits": [
       {
-        "entity": "2002-063 Eminem",
+        "entity": "Eminem",
         "entity_type": "person",
         "role": "primary"
       }
@@ -28243,7 +28313,7 @@
   {
     "song_id": "u-01299",
     "file": "_rap/detroit/Eminem/Eminem-Curtain_Call_The_Hits-2CD-2005-FUM/107-eminem-shake_that_(feat._nate_dogg)-fum.mp3",
-    "title": "107-eminem-shake that (feat. nate dogg)-fum",
+    "title": "eminem-shake that (feat. nate dogg)-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -28265,7 +28335,7 @@
   {
     "song_id": "u-01300",
     "file": "_rap/detroit/Eminem/Eminem-Curtain_Call_The_Hits-2CD-2005-FUM/116-eminem-when_i_m_gone-fum.mp3",
-    "title": "116-eminem-when i m gone-fum",
+    "title": "eminem-when i m gone-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -28287,7 +28357,7 @@
   {
     "song_id": "u-01301",
     "file": "_rap/detroit/Eminem/Eminem-Encore-2CD-2004-FUM/102-eminem-evil_deeds-fum.mp3",
-    "title": "102-eminem-evil deeds-fum",
+    "title": "eminem-evil deeds-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -28309,7 +28379,7 @@
   {
     "song_id": "u-01302",
     "file": "_rap/detroit/Eminem/Eminem-Encore-2CD-2004-FUM/103-eminem-never_enough_(feat._50_cent_and_nate_dogg)-fum.mp3",
-    "title": "103-eminem-never enough (feat. 50 cent and nate dogg)-fum",
+    "title": "eminem-never enough (feat. 50 cent and nate dogg)-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -28331,7 +28401,7 @@
   {
     "song_id": "u-01303",
     "file": "_rap/detroit/Eminem/Eminem-Encore-2CD-2004-FUM/104-eminem-yellow_brick_road-fum.mp3",
-    "title": "104-eminem-yellow brick road-fum",
+    "title": "eminem-yellow brick road-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -28353,7 +28423,7 @@
   {
     "song_id": "u-01304",
     "file": "_rap/detroit/Eminem/Eminem-Encore-2CD-2004-FUM/105-eminem-like_toy_soldiers-fum.mp3",
-    "title": "105-eminem-like toy soldiers-fum",
+    "title": "eminem-like toy soldiers-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -28375,7 +28445,7 @@
   {
     "song_id": "u-01305",
     "file": "_rap/detroit/Eminem/Eminem-Encore-2CD-2004-FUM/106-eminem-mosh-fum.mp3",
-    "title": "106-eminem-mosh-fum",
+    "title": "eminem-mosh-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -28397,7 +28467,7 @@
   {
     "song_id": "u-01306",
     "file": "_rap/detroit/Eminem/Eminem-Encore-2CD-2004-FUM/108-eminem-my_1st_single-fum.mp3",
-    "title": "108-eminem-my 1st single-fum",
+    "title": "eminem-my 1st single-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -28419,7 +28489,7 @@
   {
     "song_id": "u-01307",
     "file": "_rap/detroit/Eminem/Eminem-Encore-2CD-2004-FUM/110-eminem-rain_man-fum.mp3",
-    "title": "110-eminem-rain man-fum",
+    "title": "eminem-rain man-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -28441,7 +28511,7 @@
   {
     "song_id": "u-01308",
     "file": "_rap/detroit/Eminem/Eminem-Encore-2CD-2004-FUM/111-eminem-big_weenie-fum.mp3",
-    "title": "111-eminem-big weenie-fum",
+    "title": "eminem-big weenie-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -28463,7 +28533,7 @@
   {
     "song_id": "u-01309",
     "file": "_rap/detroit/Eminem/Eminem-Encore-2CD-2004-FUM/113-eminem-just_lose_it-fum.mp3",
-    "title": "113-eminem-just lose it-fum",
+    "title": "eminem-just lose it-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -28485,7 +28555,7 @@
   {
     "song_id": "u-01310",
     "file": "_rap/detroit/Eminem/Eminem-Encore-2CD-2004-FUM/114-eminem-ass_like_that-fum.mp3",
-    "title": "114-eminem-ass like that-fum",
+    "title": "eminem-ass like that-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -28507,7 +28577,7 @@
   {
     "song_id": "u-01311",
     "file": "_rap/detroit/Eminem/Eminem-Encore-2CD-2004-FUM/115-eminem-spend_some_time_(feat._obie_trice,_stat_quo_and_50_cent)-fum.mp3",
-    "title": "115-eminem-spend some time (feat. obie trice, stat quo and 50 cent)-fum",
+    "title": "eminem-spend some time (feat. obie trice, stat quo and 50 cent)-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -28529,7 +28599,7 @@
   {
     "song_id": "u-01312",
     "file": "_rap/detroit/Eminem/Eminem-Encore-2CD-2004-FUM/116-eminem-mockingbird-fum.mp3",
-    "title": "116-eminem-mockingbird-fum",
+    "title": "eminem-mockingbird-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -28551,7 +28621,7 @@
   {
     "song_id": "u-01313",
     "file": "_rap/detroit/Eminem/Eminem-Encore-2CD-2004-FUM/117-eminem-crazy_in_love_(feat._ann_wilson)-fum.mp3",
-    "title": "117-eminem-crazy in love (feat. ann wilson)-fum",
+    "title": "eminem-crazy in love (feat. ann wilson)-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -28573,7 +28643,7 @@
   {
     "song_id": "u-01314",
     "file": "_rap/detroit/Eminem/Eminem-Encore-2CD-2004-FUM/118-eminem-one_shot_2_shot_(feat._d12)-fum.mp3",
-    "title": "118-eminem-one shot 2 shot (feat. d12)-fum",
+    "title": "eminem-one shot 2 shot (feat. d12)-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -28595,7 +28665,7 @@
   {
     "song_id": "u-01315",
     "file": "_rap/detroit/Eminem/Eminem-Encore-2CD-2004-FUM/120-eminem-encore_(feat._dr._dre_and_50_cent)-fum.mp3",
-    "title": "120-eminem-encore (feat. dr. dre and 50 cent)-fum",
+    "title": "eminem-encore (feat. dr. dre and 50 cent)-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -28617,7 +28687,7 @@
   {
     "song_id": "u-01316",
     "file": "_rap/detroit/Eminem/Eminem-Encore-2CD-2004-FUM/201-eminem-we_as_americans-fum.mp3",
-    "title": "201-eminem-we as americans-fum",
+    "title": "eminem-we as americans-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -28639,7 +28709,7 @@
   {
     "song_id": "u-01317",
     "file": "_rap/detroit/Eminem/Eminem-Encore-2CD-2004-FUM/202-eminem-love_you_more-fum.mp3",
-    "title": "202-eminem-love you more-fum",
+    "title": "eminem-love you more-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -28683,7 +28753,7 @@
   {
     "song_id": "u-01319",
     "file": "_rap/detroit/Eminem/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/105-eminem-911_(feat._b-real_and_ganxsta_ridd)-fum.mp3",
-    "title": "105-eminem-911 (feat. b-real and ganxsta ridd)-fum",
+    "title": "eminem-911 (feat. b-real and ganxsta ridd)-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -28705,7 +28775,7 @@
   {
     "song_id": "u-01320",
     "file": "_rap/detroit/Eminem/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/106-eminem-airplanes_part_2_(feat._b.o.b)-fum.mp3",
-    "title": "106-eminem-airplanes part 2 (feat. b.o.b)-fum",
+    "title": "eminem-airplanes part 2 (feat. b.o.b)-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -28727,7 +28797,7 @@
   {
     "song_id": "u-01321",
     "file": "_rap/detroit/Eminem/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/110-eminem-bad_guys_always_die_(feat._dr._dre)-fum.mp3",
-    "title": "110-eminem-bad guys always die (feat. dr. dre)-fum",
+    "title": "eminem-bad guys always die (feat. dr. dre)-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -28749,7 +28819,7 @@
   {
     "song_id": "u-01322",
     "file": "_rap/detroit/Eminem/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/201-eminem-can_i_bitch-fum.mp3",
-    "title": "201-eminem-can i bitch-fum",
+    "title": "eminem-can i bitch-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -28771,7 +28841,7 @@
   {
     "song_id": "u-01323",
     "file": "_rap/detroit/Eminem/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/204-eminem-classic_shit_(feat._stat_quo)-fum.mp3",
-    "title": "204-eminem-classic shit (feat. stat quo)-fum",
+    "title": "eminem-classic shit (feat. stat quo)-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -28793,7 +28863,7 @@
   {
     "song_id": "u-01324",
     "file": "_rap/detroit/Eminem/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/206-eminem-desperados_(feat._proof,_bugz_and_dreadnaughts)-fum.mp3",
-    "title": "206-eminem-desperados (feat. proof, bugz and dreadnaughts)-fum",
+    "title": "eminem-desperados (feat. proof, bugz and dreadnaughts)-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -28815,7 +28885,7 @@
   {
     "song_id": "u-01325",
     "file": "_rap/detroit/Eminem/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/210-eminem-drama_setter_(feat._tony_yayo_and_obie_trice)-fum.mp3",
-    "title": "210-eminem-drama setter (feat. tony yayo and obie trice)-fum",
+    "title": "eminem-drama setter (feat. tony yayo and obie trice)-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -28837,7 +28907,7 @@
   {
     "song_id": "u-01326",
     "file": "_rap/detroit/Eminem/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/301-eminem-forgot_about_dre_(feat_eminem)-fum.mp3",
-    "title": "301-eminem-forgot about dre (feat eminem)-fum",
+    "title": "eminem-forgot about dre (feat eminem)-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -28859,7 +28929,7 @@
   {
     "song_id": "u-01327",
     "file": "_rap/detroit/Eminem/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/307-eminem-go_to_sleep_(feat._obie_trice_and_dmx)-fum.mp3",
-    "title": "307-eminem-go to sleep (feat. obie trice and dmx)-fum",
+    "title": "eminem-go to sleep (feat. obie trice and dmx)-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -28881,7 +28951,7 @@
   {
     "song_id": "u-01328",
     "file": "_rap/detroit/Eminem/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/311-eminem-hailies_revenge_(doe_rae_me)_(feat._obie_trice_and_d12)-fum.mp3",
-    "title": "311-eminem-hailies revenge (doe rae me) (feat. obie trice and d12)-fum",
+    "title": "eminem-hailies revenge (doe rae me) (feat. obie trice and d12)-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -28903,7 +28973,7 @@
   {
     "song_id": "u-01329",
     "file": "_rap/detroit/Eminem/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/312-eminem-hands_on_you_(feat._obie_trice)-fum.mp3",
-    "title": "312-eminem-hands on you (feat. obie trice)-fum",
+    "title": "eminem-hands on you (feat. obie trice)-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -28925,7 +28995,7 @@
   {
     "song_id": "u-01330",
     "file": "_rap/detroit/Eminem/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/314-eminem-hellbound_(feat._j-black_and_masta_ace)-fum.mp3",
-    "title": "314-eminem-hellbound (feat. j-black and masta ace)-fum",
+    "title": "eminem-hellbound (feat. j-black and masta ace)-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -28947,7 +29017,7 @@
   {
     "song_id": "u-01331",
     "file": "_rap/detroit/Eminem/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/401-eminem-i_need_a_doctor_(feat._dr._dre)-fum.mp3",
-    "title": "401-eminem-i need a doctor (feat. dr. dre)-fum",
+    "title": "eminem-i need a doctor (feat. dr. dre)-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -28969,7 +29039,7 @@
   {
     "song_id": "u-01332",
     "file": "_rap/detroit/Eminem/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/409-eminem-invasion_part_iii_armageddon-fum.mp3",
-    "title": "409-eminem-invasion part iii armageddon-fum",
+    "title": "eminem-invasion part iii armageddon-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -28991,7 +29061,7 @@
   {
     "song_id": "u-01333",
     "file": "_rap/detroit/Eminem/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/503-eminem-my_name_(feat._xzibit_and_nate_dogg)-fum.mp3",
-    "title": "503-eminem-my name (feat. xzibit and nate dogg)-fum",
+    "title": "eminem-my name (feat. xzibit and nate dogg)-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -29013,7 +29083,7 @@
   {
     "song_id": "u-01334",
     "file": "_rap/detroit/Eminem/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/506-eminem-nail_in_the_coffin-fum.mp3",
-    "title": "506-eminem-nail in the coffin-fum",
+    "title": "eminem-nail in the coffin-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -29035,7 +29105,7 @@
   {
     "song_id": "u-01335",
     "file": "_rap/detroit/Eminem/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/512-eminem-one_day_at_a_time_(feat._2pac_and_the_outlawz)-fum.mp3",
-    "title": "512-eminem-one day at a time (feat. 2pac and the outlawz)-fum",
+    "title": "eminem-one day at a time (feat. 2pac and the outlawz)-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -29057,7 +29127,7 @@
   {
     "song_id": "u-01336",
     "file": "_rap/detroit/Eminem/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/514-eminem-outro_(feat._d-12_and_obie_trice)-fum.mp3",
-    "title": "514-eminem-outro (feat. d-12 and obie trice)-fum",
+    "title": "eminem-outro (feat. d-12 and obie trice)-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -29079,7 +29149,7 @@
   {
     "song_id": "u-01337",
     "file": "_rap/detroit/Eminem/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/604-eminem-quitter_(feat._kon_artis)-fum.mp3",
-    "title": "604-eminem-quitter (feat. kon artis)-fum",
+    "title": "eminem-quitter (feat. kon artis)-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -29101,7 +29171,7 @@
   {
     "song_id": "u-01338",
     "file": "_rap/detroit/Eminem/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/611-eminem-scary_movies_(feat._royce_da_5_9)-fum.mp3",
-    "title": "611-eminem-scary movies (feat. royce da 5 9)-fum",
+    "title": "eminem-scary movies (feat. royce da 5 9)-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -29123,7 +29193,7 @@
   {
     "song_id": "u-01339",
     "file": "_rap/detroit/Eminem/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/612-eminem-serious_(feat._promatic_and_swifty)-fum.mp3",
-    "title": "612-eminem-serious (feat. promatic and swifty)-fum",
+    "title": "eminem-serious (feat. promatic and swifty)-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -29145,7 +29215,7 @@
   {
     "song_id": "u-01340",
     "file": "_rap/detroit/Eminem/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/614-eminem-shit_hits_the_fan_(feat._obie_trice_and_dr._dre)-fum.mp3",
-    "title": "614-eminem-shit hits the fan (feat. obie trice and dr. dre)-fum",
+    "title": "eminem-shit hits the fan (feat. obie trice and dr. dre)-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -29167,7 +29237,7 @@
   {
     "song_id": "u-01341",
     "file": "_rap/detroit/Eminem/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/615-eminem-smack_that_(feat._akon)-fum.mp3",
-    "title": "615-eminem-smack that (feat. akon)-fum",
+    "title": "eminem-smack that (feat. akon)-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -29189,7 +29259,7 @@
   {
     "song_id": "u-01342",
     "file": "_rap/detroit/Eminem/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/616-eminem-soldier_like_me_(return_of_the_soulja)_(feat._2pac)-fum.mp3",
-    "title": "616-eminem-soldier like me (return of the soulja) (feat. 2pac)-fum",
+    "title": "eminem-soldier like me (return of the soulja) (feat. 2pac)-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -29211,7 +29281,7 @@
   {
     "song_id": "u-01343",
     "file": "_rap/detroit/Eminem/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/617-eminem-stir_crazy_(feat._the_madd_rapper)-fum.mp3",
-    "title": "617-eminem-stir crazy (feat. the madd rapper)-fum",
+    "title": "eminem-stir crazy (feat. the madd rapper)-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -29233,7 +29303,7 @@
   {
     "song_id": "u-01344",
     "file": "_rap/detroit/Eminem/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/618-eminem-syllables_(feat._jay-z,_dr._dre_and_50_cent)-fum.mp3",
-    "title": "618-eminem-syllables (feat. jay-z, dr. dre and 50 cent)-fum",
+    "title": "eminem-syllables (feat. jay-z, dr. dre and 50 cent)-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -29255,7 +29325,7 @@
   {
     "song_id": "u-01345",
     "file": "_rap/detroit/Eminem/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/701-eminem-talk_to_me_(feat._young_jeezy_and_freddie_gibbs)-fum.mp3",
-    "title": "701-eminem-talk to me (feat. young jeezy and freddie gibbs)-fum",
+    "title": "eminem-talk to me (feat. young jeezy and freddie gibbs)-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -29277,7 +29347,7 @@
   {
     "song_id": "u-01346",
     "file": "_rap/detroit/Eminem/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/703-eminem-the_apple-fum.mp3",
-    "title": "703-eminem-the apple-fum",
+    "title": "eminem-the apple-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -29299,7 +29369,7 @@
   {
     "song_id": "u-01347",
     "file": "_rap/detroit/Eminem/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/718-eminem-warriors_part_2_(feat._lloyd_banks,_50_cent_and_nate_dogg)-fum.mp3",
-    "title": "718-eminem-warriors part 2 (feat. lloyd banks, 50 cent and nate dogg)-fum",
+    "title": "eminem-warriors part 2 (feat. lloyd banks, 50 cent and nate dogg)-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -29321,7 +29391,7 @@
   {
     "song_id": "u-01348",
     "file": "_rap/detroit/Eminem/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/801-eminem-we_aint_(feat._the_game)-fum.mp3",
-    "title": "801-eminem-we aint (feat. the game)-fum",
+    "title": "eminem-we aint (feat. the game)-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -29343,7 +29413,7 @@
   {
     "song_id": "u-01349",
     "file": "_rap/detroit/Eminem/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/802-eminem-we_all_die_one_day_(feat._50_cent,_lloyd_banks_and_obie_trice)-fum.mp3",
-    "title": "802-eminem-we all die one day (feat. 50 cent, lloyd banks and obie trice)-fum",
+    "title": "eminem-we all die one day (feat. 50 cent, lloyd banks and obie trice)-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -29365,7 +29435,7 @@
   {
     "song_id": "u-01350",
     "file": "_rap/detroit/Eminem/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/804-eminem-we_shine_(original)_(ft._da_ruckus)-fum.mp3",
-    "title": "804-eminem-we shine (original) (ft. da ruckus)-fum",
+    "title": "eminem-we shine (original) (ft. da ruckus)-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -29387,7 +29457,7 @@
   {
     "song_id": "u-01351",
     "file": "_rap/detroit/Eminem/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/806-eminem-welcome_to_d-block_(feat._jadakiss,_sheek_and_styles_p)-fum.mp3",
-    "title": "806-eminem-welcome to d-block (feat. jadakiss, sheek and styles p)-fum",
+    "title": "eminem-welcome to d-block (feat. jadakiss, sheek and styles p)-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -29409,7 +29479,7 @@
   {
     "song_id": "u-01352",
     "file": "_rap/detroit/Eminem/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/807-eminem-welcome_to_detroit_city_(feat._trick_trick)-fum.mp3",
-    "title": "807-eminem-welcome to detroit city (feat. trick trick)-fum",
+    "title": "eminem-welcome to detroit city (feat. trick trick)-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -29431,7 +29501,7 @@
   {
     "song_id": "u-01353",
     "file": "_rap/detroit/Eminem/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/810-eminem-what_s_the_difference_(feat._xzibit)-fum.mp3",
-    "title": "810-eminem-what s the difference (feat. xzibit)-fum",
+    "title": "eminem-what s the difference (feat. xzibit)-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -29453,7 +29523,7 @@
   {
     "song_id": "u-01354",
     "file": "_rap/detroit/Eminem/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/815-eminem-who_want_it_(feat._trick_trick)-fum.mp3",
-    "title": "815-eminem-who want it (feat. trick trick)-fum",
+    "title": "eminem-who want it (feat. trick trick)-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -30645,7 +30715,7 @@
   {
     "song_id": "u-01408",
     "file": "_rap/detroit/Eminem/Eminem-The_Slim_Shady_LP-2CD-1999-FUM/102-eminem-my_name_is-fum.mp3",
-    "title": "102-eminem-my name is-fum",
+    "title": "eminem-my name is-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -30667,7 +30737,7 @@
   {
     "song_id": "u-01409",
     "file": "_rap/detroit/Eminem/Eminem-The_Slim_Shady_LP-2CD-1999-FUM/103-eminem-guilty_conscience_(feat._dr._dre)-fum.mp3",
-    "title": "103-eminem-guilty conscience (feat. dr. dre)-fum",
+    "title": "eminem-guilty conscience (feat. dr. dre)-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -30689,7 +30759,7 @@
   {
     "song_id": "u-01410",
     "file": "_rap/detroit/Eminem/Eminem-The_Slim_Shady_LP-2CD-1999-FUM/104-eminem-brain_damage-fum.mp3",
-    "title": "104-eminem-brain damage-fum",
+    "title": "eminem-brain damage-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -30711,7 +30781,7 @@
   {
     "song_id": "u-01411",
     "file": "_rap/detroit/Eminem/Eminem-The_Slim_Shady_LP-2CD-1999-FUM/106-eminem-if_i_had-fum.mp3",
-    "title": "106-eminem-if i had-fum",
+    "title": "eminem-if i had-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -30733,7 +30803,7 @@
   {
     "song_id": "u-01412",
     "file": "_rap/detroit/Eminem/Eminem-The_Slim_Shady_LP-2CD-1999-FUM/107-eminem-97_bonnie_and_clyde-fum.mp3",
-    "title": "107-eminem-97 bonnie and clyde-fum",
+    "title": "eminem-97 bonnie and clyde-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -30755,7 +30825,7 @@
   {
     "song_id": "u-01413",
     "file": "_rap/detroit/Eminem/Eminem-The_Slim_Shady_LP-2CD-1999-FUM/109-eminem-role_model-fum.mp3",
-    "title": "109-eminem-role model-fum",
+    "title": "eminem-role model-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -30777,7 +30847,7 @@
   {
     "song_id": "u-01414",
     "file": "_rap/detroit/Eminem/Eminem-The_Slim_Shady_LP-2CD-1999-FUM/111-eminem-my_fault-fum.mp3",
-    "title": "111-eminem-my fault-fum",
+    "title": "eminem-my fault-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -30799,7 +30869,7 @@
   {
     "song_id": "u-01415",
     "file": "_rap/detroit/Eminem/Eminem-The_Slim_Shady_LP-2CD-1999-FUM/114-eminem-rock_bottom-fum.mp3",
-    "title": "114-eminem-rock bottom-fum",
+    "title": "eminem-rock bottom-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -30821,7 +30891,7 @@
   {
     "song_id": "u-01416",
     "file": "_rap/detroit/Eminem/Eminem-The_Slim_Shady_LP-2CD-1999-FUM/115-eminem-just_dont_give_a_fuck-fum.mp3",
-    "title": "115-eminem-just dont give a fuck-fum",
+    "title": "eminem-just dont give a fuck-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -30843,7 +30913,7 @@
   {
     "song_id": "u-01417",
     "file": "_rap/detroit/Eminem/Eminem-The_Slim_Shady_LP-2CD-1999-FUM/117-eminem-as_the_world_turns-fum.mp3",
-    "title": "117-eminem-as the world turns-fum",
+    "title": "eminem-as the world turns-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -30865,7 +30935,7 @@
   {
     "song_id": "u-01418",
     "file": "_rap/detroit/Eminem/Eminem-The_Slim_Shady_LP-2CD-1999-FUM/120-eminem-still_dont_give_a_fuck-fum.mp3",
-    "title": "120-eminem-still dont give a fuck-fum",
+    "title": "eminem-still dont give a fuck-fum",
     "source_root": "_rap",
     "folder_region": "Detroit",
     "primary_artists": [
@@ -33041,7 +33111,7 @@
   {
     "song_id": "u-01514",
     "file": "_rap/florida/Plies/Best of Plies/Plies - Please Excuse My Hands (dirty) + lyrics.mp3",
-    "title": "Please Excuse My Hands (dirty) + lyrics",
+    "title": "Please Excuse My Hands (dirty) +",
     "source_root": "_rap",
     "folder_region": "Florida",
     "primary_artists": [
@@ -36023,7 +36093,7 @@
   {
     "song_id": "u-01647",
     "file": "_rap/luisiana/Lil_ Wayne/Birdman - Tapout (Lyrics) ft. Lil Wayne, Future, Mack Maine _ Nicki Minaj.mp3",
-    "title": "Tapout (Lyrics) ft",
+    "title": "Tapout () ft",
     "source_root": "_rap",
     "folder_region": "Louisiana",
     "primary_artists": [
@@ -38340,7 +38410,7 @@
   {
     "song_id": "u-01749",
     "file": "_rap/luisiana/Lil_ Wayne/Lil Wayne - Young Money Dedication (2CD)/113-dj_drama_and_lil_wayne-2_words-sut.mp3",
-    "title": "113-dj drama and lil wayne-2 words-sut",
+    "title": "dj drama and lil wayne-2 words-sut",
     "source_root": "_rap",
     "folder_region": "Louisiana",
     "primary_artists": [
@@ -38362,7 +38432,7 @@
   {
     "song_id": "u-01750",
     "file": "_rap/luisiana/Lil_ Wayne/Lil Wayne - Young Money Dedication (2CD)/214-dj_drama_and_lil_wayne-pac_dedication-sut.mp3",
-    "title": "214-dj drama and lil wayne-pac dedication-sut",
+    "title": "dj drama and lil wayne-pac dedication-sut",
     "source_root": "_rap",
     "folder_region": "Louisiana",
     "primary_artists": [
@@ -42657,15 +42727,15 @@
     "source_root": "_rap",
     "folder_region": "New York",
     "primary_artists": [
-      "2002-053 Cam ron"
+      "Cam'ron"
     ],
     "featuring_artists": [],
     "artists": [
-      "2002-053 Cam ron"
+      "Cam'ron"
     ],
     "credits": [
       {
-        "entity": "2002-053 Cam ron",
+        "entity": "Cam'ron",
         "entity_type": "person",
         "role": "primary"
       }
@@ -44740,15 +44810,15 @@
     "source_root": "_rap",
     "folder_region": "New York",
     "primary_artists": [
-      "2003-024 Fabolous"
+      "Fabolous"
     ],
     "featuring_artists": [],
     "artists": [
-      "2003-024 Fabolous"
+      "Fabolous"
     ],
     "credits": [
       {
-        "entity": "2003-024 Fabolous",
+        "entity": "Fabolous",
         "entity_type": "person",
         "role": "primary"
       }
@@ -45066,7 +45136,7 @@
   {
     "song_id": "u-02055",
     "file": "_rap/new york/FABOLOUS/Fabolous ft. Jeremih - It_s My Time [Lyrics].mp3",
-    "title": "It s My Time [Lyrics]",
+    "title": "It s My Time []",
     "source_root": "_rap",
     "folder_region": "New York",
     "primary_artists": [
@@ -45505,14 +45575,14 @@
     "source_root": "_rap",
     "folder_region": "New York",
     "primary_artists": [
-      "2002-008 Fat Joe"
+      "Fat Joe"
     ],
     "featuring_artists": [
       "Ashanti"
     ],
     "artists": [
-      "2002-008 Fat Joe",
-      "Ashanti"
+      "Ashanti",
+      "Fat Joe"
     ],
     "credits": [
       {
@@ -45521,7 +45591,7 @@
         "role": "feature"
       },
       {
-        "entity": "2002-008 Fat Joe",
+        "entity": "Fat Joe",
         "entity_type": "person",
         "role": "primary"
       }
@@ -48612,15 +48682,15 @@
     "source_root": "_rap",
     "folder_region": "New York",
     "primary_artists": [
-      "2001-030 Ja Rule"
+      "Ja Rule"
     ],
     "featuring_artists": [],
     "artists": [
-      "2001-030 Ja Rule"
+      "Ja Rule"
     ],
     "credits": [
       {
-        "entity": "2001-030 Ja Rule",
+        "entity": "Ja Rule",
         "entity_type": "person",
         "role": "primary"
       }
@@ -48634,14 +48704,14 @@
     "source_root": "_rap",
     "folder_region": "New York",
     "primary_artists": [
-      "2002-012 Ja Rule"
+      "Ja Rule"
     ],
     "featuring_artists": [
       "Ashanti"
     ],
     "artists": [
-      "2002-012 Ja Rule",
-      "Ashanti"
+      "Ashanti",
+      "Ja Rule"
     ],
     "credits": [
       {
@@ -48650,7 +48720,7 @@
         "role": "feature"
       },
       {
-        "entity": "2002-012 Ja Rule",
+        "entity": "Ja Rule",
         "entity_type": "person",
         "role": "primary"
       }
@@ -48664,14 +48734,14 @@
     "source_root": "_rap",
     "folder_region": "New York",
     "primary_artists": [
-      "2002-044 Ja Rule"
+      "Ja Rule"
     ],
     "featuring_artists": [
       "Ashanti"
     ],
     "artists": [
-      "2002-044 Ja Rule",
-      "Ashanti"
+      "Ashanti",
+      "Ja Rule"
     ],
     "credits": [
       {
@@ -48680,7 +48750,7 @@
         "role": "feature"
       },
       {
-        "entity": "2002-044 Ja Rule",
+        "entity": "Ja Rule",
         "entity_type": "person",
         "role": "primary"
       }
@@ -49496,15 +49566,15 @@
     "source_root": "_rap",
     "folder_region": "New York",
     "primary_artists": [
-      "2001-056 Jay-Z"
+      "Jay-Z"
     ],
     "featuring_artists": [],
     "artists": [
-      "2001-056 Jay-Z"
+      "Jay-Z"
     ],
     "credits": [
       {
-        "entity": "2001-056 Jay-Z",
+        "entity": "Jay-Z",
         "entity_type": "person",
         "role": "primary"
       }
@@ -49518,14 +49588,14 @@
     "source_root": "_rap",
     "folder_region": "New York",
     "primary_artists": [
-      "2003-037 Jay-Z"
+      "Jay-Z"
     ],
     "featuring_artists": [
       "Beyonce"
     ],
     "artists": [
-      "2003-037 Jay-Z",
-      "Beyonce"
+      "Beyonce",
+      "Jay-Z"
     ],
     "credits": [
       {
@@ -49534,7 +49604,7 @@
         "role": "feature"
       },
       {
-        "entity": "2003-037 Jay-Z",
+        "entity": "Jay-Z",
         "entity_type": "person",
         "role": "primary"
       }
@@ -61385,7 +61455,7 @@
   {
     "song_id": "u-02804",
     "file": "_rap/texas/UGK/sippin on some syrup by three 6 mafia ft  UGK (the good version with intro and with lyrics).mp3",
-    "title": "UGK (the good version with intro and with lyrics)",
+    "title": "UGK (the good version with intro and with )",
     "source_root": "_rap",
     "folder_region": "Texas",
     "primary_artists": [
@@ -62261,7 +62331,7 @@
   {
     "song_id": "u-02850",
     "file": "_trap/_usa random/_random/becky g/Becky G - Shower (Spanglish Version) [Lyrics].mp3",
-    "title": "Shower (Spanglish Version) [Lyrics]",
+    "title": "Shower (Spanglish Version) []",
     "source_root": "_trap",
     "folder_region": "USA",
     "primary_artists": [
@@ -62313,7 +62383,7 @@
   {
     "song_id": "u-02852",
     "file": "_trap/_usa random/_random/BIG KRIT - 4EVA N A DAY (SCREWED)/Big K.R.I.T - Red Eye LYRICS.mp3",
-    "title": "Red Eye LYRICS",
+    "title": "Red Eye",
     "source_root": "_trap",
     "folder_region": "USA",
     "primary_artists": [
@@ -62439,15 +62509,15 @@
     "source_root": "_trap",
     "folder_region": "USA",
     "primary_artists": [
-      "Desiigner - New English {320kbps}"
+      "Desiigner"
     ],
     "featuring_artists": [],
     "artists": [
-      "Desiigner - New English {320kbps}"
+      "Desiigner"
     ],
     "credits": [
       {
-        "entity": "Desiigner - New English {320kbps}",
+        "entity": "Desiigner",
         "entity_type": "person",
         "role": "primary"
       }
@@ -63978,17 +64048,17 @@
       "Murda Beatz"
     ],
     "featuring_artists": [
-      "PARTYNEXTDOOR",
+      "Partynextdoor",
       "Quavo"
     ],
     "artists": [
       "Murda Beatz",
-      "PARTYNEXTDOOR",
+      "Partynextdoor",
       "Quavo"
     ],
     "credits": [
       {
-        "entity": "PARTYNEXTDOOR",
+        "entity": "Partynextdoor",
         "entity_type": "person",
         "role": "feature"
       },
@@ -67059,15 +67129,15 @@
     "source_root": "_trap",
     "folder_region": "USA",
     "primary_artists": [
-      "PARTYNEXTDOOR"
+      "Partynextdoor"
     ],
     "featuring_artists": [],
     "artists": [
-      "PARTYNEXTDOOR"
+      "Partynextdoor"
     ],
     "credits": [
       {
-        "entity": "PARTYNEXTDOOR",
+        "entity": "Partynextdoor",
         "entity_type": "person",
         "role": "primary"
       }
@@ -68693,7 +68763,7 @@
     "source_root": "_trap",
     "folder_region": "USA",
     "primary_artists": [
-      "PARTYNEXTDOOR"
+      "Partynextdoor"
     ],
     "featuring_artists": [
       "Jeremiah",
@@ -68702,7 +68772,7 @@
     "artists": [
       "Jeremiah",
       "Lil Wayne",
-      "PARTYNEXTDOOR"
+      "Partynextdoor"
     ],
     "credits": [
       {
@@ -68716,7 +68786,7 @@
         "role": "feature"
       },
       {
-        "entity": "PARTYNEXTDOOR",
+        "entity": "Partynextdoor",
         "entity_type": "person",
         "role": "primary"
       }
@@ -69513,11 +69583,21 @@
     "title": "Hot Girl Summer (feat",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [],
+    "primary_artists": [
+      "Megan Thee Stallion"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Megan Thee Stallion"
+    ],
+    "credits": [
+      {
+        "entity": "Megan Thee Stallion",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03162",
@@ -69731,21 +69811,11 @@
     "title": "잊지마 (It G Ma) (feat",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [
-      "Keith Ape"
-    ],
+    "primary_artists": [],
     "featuring_artists": [],
-    "artists": [
-      "Keith Ape"
-    ],
-    "credits": [
-      {
-        "entity": "Keith Ape",
-        "entity_type": "person",
-        "role": "primary"
-      }
-    ],
-    "attribution_status": "attributed"
+    "artists": [],
+    "credits": [],
+    "attribution_status": "unattributed"
   },
   {
     "song_id": "u-03172",
@@ -69819,11 +69889,21 @@
     "title": "Yerkys (Full Music Video) @Lilcaycay",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [],
+    "primary_artists": [
+      "Kur - Lets Keep It A Bean By Rick Nyce"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Kur - Lets Keep It A Bean By Rick Nyce"
+    ],
+    "credits": [
+      {
+        "entity": "Kur - Lets Keep It A Bean By Rick Nyce",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03176",
@@ -69894,7 +69974,7 @@
   {
     "song_id": "u-03179",
     "file": "_trap/_usa random/_random/Mix – Nothing,Nowhere/Nightcore - i_m sorry, i_m trying (Lyrics).mp3",
-    "title": "i m sorry, i m trying (Lyrics)",
+    "title": "i m sorry, i m trying ()",
     "source_root": "_trap",
     "folder_region": "USA",
     "primary_artists": [
@@ -71173,7 +71253,7 @@
   {
     "song_id": "u-03234",
     "file": "_trap/_usa random/_random/RIK!_s Favourites/MEMORIA XI - Happier [Lyrics].mp3",
-    "title": "Happier [Lyrics]",
+    "title": "Happier []",
     "source_root": "_trap",
     "folder_region": "USA",
     "primary_artists": [
@@ -74501,7 +74581,7 @@
   {
     "song_id": "u-03379",
     "file": "_trap/_usa random/Brennan Savage/Brennan Savage - Look At Me Now (Lyric Video).mp3",
-    "title": "Look At Me Now (Lyric Video)",
+    "title": "Look At Me Now ()",
     "source_root": "_trap",
     "folder_region": "USA",
     "primary_artists": [
@@ -75464,7 +75544,7 @@
   {
     "song_id": "u-03421",
     "file": "_trap/_usa random/Doja Cat Music Videos/Ozuna x Doja Cat x Sia - Del Mar (Video Oficial).mp3",
-    "title": "Del Mar (Video Oficial)",
+    "title": "Del Mar ()",
     "source_root": "_trap",
     "folder_region": "USA",
     "primary_artists": [
@@ -76790,15 +76870,15 @@
       "Kirko Bangz"
     ],
     "featuring_artists": [
-      "Z"
+      "N/A"
     ],
     "artists": [
       "Kirko Bangz",
-      "Z"
+      "N/A"
     ],
     "credits": [
       {
-        "entity": "Z",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "feature"
       },
@@ -79409,15 +79489,15 @@
     "source_root": "_trap",
     "folder_region": "USA",
     "primary_artists": [
-      "PARTYNEXTDOOR"
+      "Partynextdoor"
     ],
     "featuring_artists": [],
     "artists": [
-      "PARTYNEXTDOOR"
+      "Partynextdoor"
     ],
     "credits": [
       {
-        "entity": "PARTYNEXTDOOR",
+        "entity": "Partynextdoor",
         "entity_type": "person",
         "role": "primary"
       }
@@ -79431,15 +79511,15 @@
     "source_root": "_trap",
     "folder_region": "USA",
     "primary_artists": [
-      "PARTYNEXTDOOR"
+      "Partynextdoor"
     ],
     "featuring_artists": [],
     "artists": [
-      "PARTYNEXTDOOR"
+      "Partynextdoor"
     ],
     "credits": [
       {
-        "entity": "PARTYNEXTDOOR",
+        "entity": "Partynextdoor",
         "entity_type": "person",
         "role": "primary"
       }
@@ -79453,15 +79533,15 @@
     "source_root": "_trap",
     "folder_region": "USA",
     "primary_artists": [
-      "PARTYNEXTDOOR"
+      "Partynextdoor"
     ],
     "featuring_artists": [],
     "artists": [
-      "PARTYNEXTDOOR"
+      "Partynextdoor"
     ],
     "credits": [
       {
-        "entity": "PARTYNEXTDOOR",
+        "entity": "Partynextdoor",
         "entity_type": "person",
         "role": "primary"
       }
@@ -79552,11 +79632,21 @@
     "title": "Sunflower",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [],
+    "primary_artists": [
+      "post malone"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "post malone"
+    ],
+    "credits": [
+      {
+        "entity": "post malone",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03605",
@@ -79564,11 +79654,21 @@
     "title": "Wow",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [],
+    "primary_artists": [
+      "post malone"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "post malone"
+    ],
+    "credits": [
+      {
+        "entity": "post malone",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03606",
@@ -79576,11 +79676,21 @@
     "title": "Goodbyes",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [],
+    "primary_artists": [
+      "post malone"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "post malone"
+    ],
+    "credits": [
+      {
+        "entity": "post malone",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03607",
@@ -79588,11 +79698,21 @@
     "title": "Better Now",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [],
+    "primary_artists": [
+      "post malone"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "post malone"
+    ],
+    "credits": [
+      {
+        "entity": "post malone",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03608",
@@ -79600,11 +79720,21 @@
     "title": "Circles",
     "source_root": "_trap",
     "folder_region": "USA",
-    "primary_artists": [],
+    "primary_artists": [
+      "post malone"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "post malone"
+    ],
+    "credits": [
+      {
+        "entity": "post malone",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03609",
@@ -80877,15 +81007,15 @@
     "source_root": "_trap",
     "folder_region": "USA",
     "primary_artists": [
-      "Sauce Walka best songs available on"
+      "Sauce Walka best songs available on YouTube"
     ],
     "featuring_artists": [],
     "artists": [
-      "Sauce Walka best songs available on"
+      "Sauce Walka best songs available on YouTube"
     ],
     "credits": [
       {
-        "entity": "Sauce Walka best songs available on",
+        "entity": "Sauce Walka best songs available on YouTube",
         "entity_type": "person",
         "role": "primary"
       }
@@ -80899,15 +81029,15 @@
     "source_root": "_trap",
     "folder_region": "USA",
     "primary_artists": [
-      "Sauce Walka best songs available on"
+      "Sauce Walka best songs available on YouTube"
     ],
     "featuring_artists": [],
     "artists": [
-      "Sauce Walka best songs available on"
+      "Sauce Walka best songs available on YouTube"
     ],
     "credits": [
       {
-        "entity": "Sauce Walka best songs available on",
+        "entity": "Sauce Walka best songs available on YouTube",
         "entity_type": "person",
         "role": "primary"
       }
@@ -81049,7 +81179,7 @@
   {
     "song_id": "u-03675",
     "file": "_trap/_usa random/saweetie music videos/Saweetie - My Type (#MyTypeChallenge Lyric Video).mp3",
-    "title": "My Type (#MyTypeChallenge Lyric Video)",
+    "title": "My Type (#MyTypeChallenge )",
     "source_root": "_trap",
     "folder_region": "USA",
     "primary_artists": [
@@ -81291,7 +81421,7 @@
   {
     "song_id": "u-03686",
     "file": "_trap/_usa random/Sexyy Red/Sexyy Red - Get It Sexyy (Lyrics).mp3",
-    "title": "Get It Sexyy (Lyrics)",
+    "title": "Get It Sexyy ()",
     "source_root": "_trap",
     "folder_region": "USA",
     "primary_artists": [
@@ -81335,7 +81465,7 @@
   {
     "song_id": "u-03688",
     "file": "_trap/_usa random/Sexyy Red/Sexyy Red - SkeeYee (Lyrics).mp3",
-    "title": "SkeeYee (Lyrics)",
+    "title": "SkeeYee ()",
     "source_root": "_trap",
     "folder_region": "USA",
     "primary_artists": [
@@ -82495,7 +82625,7 @@
   {
     "song_id": "u-03741",
     "file": "_trap/_usa random/travis scott/Travis Scott - UTOPIA (Full Album)/Travis Scott, Bad Bunny, The Weeknd - K-POP (Lyrics).mp3",
-    "title": "K-POP (Lyrics)",
+    "title": "K-POP ()",
     "source_root": "_trap",
     "folder_region": "USA",
     "primary_artists": [
@@ -83145,7 +83275,7 @@
   {
     "song_id": "u-03769",
     "file": "_trap/_usa random/Trippie Redd/Trippie Redd - It Takes Time (Lyrics).mp3",
-    "title": "It Takes Time (Lyrics)",
+    "title": "It Takes Time ()",
     "source_root": "_trap",
     "folder_region": "USA",
     "primary_artists": [
@@ -83233,7 +83363,7 @@
   {
     "song_id": "u-03773",
     "file": "_trap/_usa random/Trippie Redd/Trippie Redd - Pegasus (Full Album)/Trippie Redd - Sun God (Lyric Video) ft. Myiah Lynnae.mp3",
-    "title": "Sun God (Lyric Video) ft",
+    "title": "Sun God () ft",
     "source_root": "_trap",
     "folder_region": "USA",
     "primary_artists": [
@@ -83255,7 +83385,7 @@
   {
     "song_id": "u-03774",
     "file": "_trap/_usa random/Trippie Redd/Trippie Redd - Pegasus (Full Album)/Trippie Redd - TR666 (Lyric Video) ft. Swae Lee.mp3",
-    "title": "TR666 (Lyric Video) ft",
+    "title": "TR666 () ft",
     "source_root": "_trap",
     "folder_region": "USA",
     "primary_artists": [
@@ -83277,7 +83407,7 @@
   {
     "song_id": "u-03775",
     "file": "_trap/_usa random/Trippie Redd/Trippie Redd - Pegasus (Full Album)/Trippie Redd - Weeeeee (Lyric Video).mp3",
-    "title": "Weeeeee (Lyric Video)",
+    "title": "Weeeeee ()",
     "source_root": "_trap",
     "folder_region": "USA",
     "primary_artists": [
@@ -83343,7 +83473,7 @@
   {
     "song_id": "u-03778",
     "file": "_trap/_usa random/Trippie Redd/Trippie Redd _ XXXTENTACION - Ghost Busters (Lyrics   Lyric Video) ft. Ski Mask The Slump God.mp3",
-    "title": "Ghost Busters (Lyrics Lyric Video) ft",
+    "title": "Ghost Busters ( ) ft",
     "source_root": "_trap",
     "folder_region": "USA",
     "primary_artists": [
@@ -84885,11 +85015,21 @@
     "title": "One Day at A Time (Feat. Jadakiss) (",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "Chainz"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Chainz"
+    ],
+    "credits": [
+      {
+        "entity": "Chainz",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-03864",
@@ -85788,7 +85928,7 @@
   {
     "song_id": "u-03903",
     "file": "_trap/atlanta/_random/Mike will made it, rae Sremmurd/Mike Will Made It - 23 (Official Lyrics) ft. Miley Cyrus, Wiz Khalifa _ Juicy J.mp3",
-    "title": "(Official Lyrics) ft",
+    "title": "(Official ) ft",
     "source_root": "_trap",
     "folder_region": "Atlanta",
     "primary_artists": [
@@ -86373,7 +86513,7 @@
   {
     "song_id": "u-03928",
     "file": "_trap/atlanta/_random/Waka Flocka Flame1/waka 2/Wacka Flocka Flame - Hard In Da Paint [ New Video + Lyrics + Download ].mp3",
-    "title": "Hard In Da Paint [ New Video + Lyrics + Download ]",
+    "title": "Hard In Da Paint [ New Video + + Download ]",
     "source_root": "_trap",
     "folder_region": "Atlanta",
     "primary_artists": [
@@ -87697,7 +87837,7 @@
   {
     "song_id": "u-03986",
     "file": "_trap/atlanta/Future/Future - High Off Life (Full Album) - YouTube/Future - All Bad (Lyrics) ft. Lil Uzi Vert.mp3",
-    "title": "All Bad (Lyrics) ft",
+    "title": "All Bad () ft",
     "source_root": "_trap",
     "folder_region": "Atlanta",
     "primary_artists": [
@@ -92527,7 +92667,7 @@
   {
     "song_id": "u-04193",
     "file": "_trap/atlanta/Lil Baby/Top-Titel – Lil Baby - YouTube/Lil Baby - Never needed no help [LYRICS].mp3",
-    "title": "Never needed no help [LYRICS]",
+    "title": "Never needed no help []",
     "source_root": "_trap",
     "folder_region": "Atlanta",
     "primary_artists": [
@@ -92549,7 +92689,7 @@
   {
     "song_id": "u-04194",
     "file": "_trap/atlanta/Lil Baby/Top-Titel – Lil Baby - YouTube/Lil Baby - Right now feat Young Thug [LYRICS].mp3",
-    "title": "Right now feat Young Thug [LYRICS]",
+    "title": "Right now feat Young Thug []",
     "source_root": "_trap",
     "folder_region": "Atlanta",
     "primary_artists": [
@@ -92593,7 +92733,7 @@
   {
     "song_id": "u-04196",
     "file": "_trap/atlanta/Lil Baby/Top-Titel – Lil Baby - YouTube/Lil Baby - Yes indeed feat Drake [LYRICS].mp3",
-    "title": "Yes indeed feat Drake [LYRICS]",
+    "title": "Yes indeed feat Drake []",
     "source_root": "_trap",
     "folder_region": "Atlanta",
     "primary_artists": [
@@ -98917,7 +99057,7 @@
   {
     "song_id": "u-04467",
     "file": "_trap/atlanta/rich the kid/Rich The Kid - Boss Man (ALBUM)/Rich The Kid - That_s Tuff (Lyric Video) ft. Quavo.mp3",
-    "title": "That s Tuff (Lyric Video) ft",
+    "title": "That s Tuff () ft",
     "source_root": "_trap",
     "folder_region": "Atlanta",
     "primary_artists": [
@@ -100323,7 +100463,7 @@
   {
     "song_id": "u-04528",
     "file": "_trap/atlanta/YFN Lucci/YFN Lucci - Documentary ( Lyrics ).mp3",
-    "title": "Documentary ( Lyrics )",
+    "title": "Documentary ( )",
     "source_root": "_trap",
     "folder_region": "Atlanta",
     "primary_artists": [
@@ -100458,11 +100598,21 @@
     "title": "The London (feat. J",
     "source_root": "_trap",
     "folder_region": "Atlanta",
-    "primary_artists": [],
+    "primary_artists": [
+      "Young Thug"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Young Thug"
+    ],
+    "credits": [
+      {
+        "entity": "Young Thug",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-04535",
@@ -100549,7 +100699,7 @@
   {
     "song_id": "u-04538",
     "file": "_trap/atlanta/Young Thug/Bankroll Mafia - Out My Face [lyrics]-ft. T.I., Shad Da God, Young Thug, London Jae.mp3",
-    "title": "Out My Face [lyrics]-ft. T.I",
+    "title": "Out My Face []-ft. T.I",
     "source_root": "_trap",
     "folder_region": "Atlanta",
     "primary_artists": [
@@ -102110,7 +102260,7 @@
   {
     "song_id": "u-04599",
     "file": "_trap/atlanta/Young Thug/Slime Language 2 (Deluxe)/Young Thug, Gunna & Drake - Solid (Lyrics).mp3",
-    "title": "Solid (Lyrics)",
+    "title": "Solid ()",
     "source_root": "_trap",
     "folder_region": "Atlanta",
     "primary_artists": [
@@ -104037,15 +104187,15 @@
     "source_root": "_trap",
     "folder_region": "California",
     "primary_artists": [
-      "Drakeo top songs"
+      "Drakeo"
     ],
     "featuring_artists": [],
     "artists": [
-      "Drakeo top songs"
+      "Drakeo"
     ],
     "credits": [
       {
-        "entity": "Drakeo top songs",
+        "entity": "Drakeo",
         "entity_type": "person",
         "role": "primary"
       }
@@ -104059,15 +104209,15 @@
     "source_root": "_trap",
     "folder_region": "California",
     "primary_artists": [
-      "Drakeo top songs"
+      "Drakeo"
     ],
     "featuring_artists": [],
     "artists": [
-      "Drakeo top songs"
+      "Drakeo"
     ],
     "credits": [
       {
-        "entity": "Drakeo top songs",
+        "entity": "Drakeo",
         "entity_type": "person",
         "role": "primary"
       }
@@ -104081,15 +104231,15 @@
     "source_root": "_trap",
     "folder_region": "California",
     "primary_artists": [
-      "Drakeo top songs"
+      "Drakeo"
     ],
     "featuring_artists": [],
     "artists": [
-      "Drakeo top songs"
+      "Drakeo"
     ],
     "credits": [
       {
-        "entity": "Drakeo top songs",
+        "entity": "Drakeo",
         "entity_type": "person",
         "role": "primary"
       }
@@ -104515,7 +104665,7 @@
   {
     "song_id": "u-04701",
     "file": "_trap/california/_random/Oakland California Yay area Trap Rap Hip Hop/L.A. Leakers ft. Kid Ink, Sage The Gemini & Iamsu! -  Pull Up  (Lyric Video).mp3",
-    "title": "Pull Up (Lyric Video)",
+    "title": "Pull Up ()",
     "source_root": "_trap",
     "folder_region": "California",
     "primary_artists": [
@@ -105606,7 +105756,7 @@
   {
     "song_id": "u-04749",
     "file": "_trap/california/lil peep/Gothboyclique/Lil Peep x Coldhart - Down For You (Lyrics).mp3",
-    "title": "Down For You (Lyrics)",
+    "title": "Down For You ()",
     "source_root": "_trap",
     "folder_region": "California",
     "primary_artists": [
@@ -105768,7 +105918,7 @@
   {
     "song_id": "u-04756",
     "file": "_trap/california/lil peep/Lil Meep/Lil Peep - Bullet (Extended+Lyrics).mp3",
-    "title": "Bullet (Extended+Lyrics)",
+    "title": "Bullet (Extended+)",
     "source_root": "_trap",
     "folder_region": "California",
     "primary_artists": [
@@ -105812,7 +105962,7 @@
   {
     "song_id": "u-04758",
     "file": "_trap/california/lil peep/Lil Meep/Lil Peep - Downtown (Extended+Lyrics).mp3",
-    "title": "Downtown (Extended+Lyrics)",
+    "title": "Downtown (Extended+)",
     "source_root": "_trap",
     "folder_region": "California",
     "primary_artists": [
@@ -105834,7 +105984,7 @@
   {
     "song_id": "u-04759",
     "file": "_trap/california/lil peep/Lil Meep/Lil Peep - Get Fucked Up (Extended+Lyrics).mp3",
-    "title": "Get Fucked Up (Extended+Lyrics)",
+    "title": "Get Fucked Up (Extended+)",
     "source_root": "_trap",
     "folder_region": "California",
     "primary_artists": [
@@ -105856,7 +106006,7 @@
   {
     "song_id": "u-04760",
     "file": "_trap/california/lil peep/Lil Meep/Lil Peep - Ghost Boy (Extended+Lyrics).mp3",
-    "title": "Ghost Boy (Extended+Lyrics)",
+    "title": "Ghost Boy (Extended+)",
     "source_root": "_trap",
     "folder_region": "California",
     "primary_artists": [
@@ -108242,7 +108392,7 @@
   {
     "song_id": "u-04866",
     "file": "_trap/california/lil xan/Lil xan- all songs - YouTube/Lil Xan - NO LOVE (Lyrics).mp3",
-    "title": "NO LOVE (Lyrics)",
+    "title": "NO LOVE ()",
     "source_root": "_trap",
     "folder_region": "California",
     "primary_artists": [
@@ -108264,7 +108414,7 @@
   {
     "song_id": "u-04867",
     "file": "_trap/california/lil xan/Lil xan- all songs - YouTube/Lil Xan - SLINGSHOT (Lyrics).mp3",
-    "title": "SLINGSHOT (Lyrics)",
+    "title": "SLINGSHOT ()",
     "source_root": "_trap",
     "folder_region": "California",
     "primary_artists": [
@@ -112290,7 +112440,7 @@
   {
     "song_id": "u-05044",
     "file": "_trap/chicago/_random/Young Pappy - YouTube/Young Pappy - 2 Cups (Official Lyrics).mp3",
-    "title": "Cups (Official Lyrics)",
+    "title": "Cups (Official )",
     "source_root": "_trap",
     "folder_region": "Chicago",
     "primary_artists": [
@@ -112637,7 +112787,7 @@
   {
     "song_id": "u-05058",
     "file": "_trap/chicago/chief keef/Cheif Keef Ft Lil Reese - Traffic (The GBE Code) with Lyrics.mp3",
-    "title": "Traffic (The GBE Code) with Lyrics",
+    "title": "Traffic (The GBE Code) with",
     "source_root": "_trap",
     "folder_region": "Chicago",
     "primary_artists": [
@@ -114847,12 +114997,12 @@
     ],
     "featuring_artists": [
       "Key Glock",
-      "Z"
+      "N/A"
     ],
     "artists": [
       "G Herbo",
       "Key Glock",
-      "Z"
+      "N/A"
     ],
     "credits": [
       {
@@ -114861,7 +115011,7 @@
         "role": "feature"
       },
       {
-        "entity": "Z",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "feature"
       },
@@ -115390,7 +115540,7 @@
   {
     "song_id": "u-05179",
     "file": "_trap/chicago/Juice Wrld/juice wrld mix (unreleased too)/Juice WRLD - Robbery (Lyrics).mp3",
-    "title": "Robbery (Lyrics)",
+    "title": "Robbery ()",
     "source_root": "_trap",
     "folder_region": "Chicago",
     "primary_artists": [
@@ -116044,7 +116194,7 @@
   {
     "song_id": "u-05208",
     "file": "_trap/chicago/king von/King Von - Why He Told (Lyrics).mp3",
-    "title": "Why He Told (Lyrics)",
+    "title": "Why He Told ()",
     "source_root": "_trap",
     "folder_region": "Chicago",
     "primary_artists": [
@@ -118689,7 +118839,7 @@
   {
     "song_id": "u-05323",
     "file": "_trap/chicago/speaker knockerz/Speaker Knockerz - Rico Story 2 (Finesse Father) Lyrics.mp3",
-    "title": "Rico Story 2 (Finesse Father) Lyrics",
+    "title": "Rico Story 2 (Finesse Father)",
     "source_root": "_trap",
     "folder_region": "Chicago",
     "primary_artists": [
@@ -118733,7 +118883,7 @@
   {
     "song_id": "u-05325",
     "file": "_trap/chicago/speaker knockerz/Speaker Knockerz - Rico Story LYRICS (Prod. Speaker Knockerz).mp3",
-    "title": "Rico Story LYRICS (Prod",
+    "title": "Rico Story (Prod",
     "source_root": "_trap",
     "folder_region": "Chicago",
     "primary_artists": [
@@ -119857,7 +120007,7 @@
   {
     "song_id": "u-05374",
     "file": "_trap/florida/_random/Denzel Curry/Denzel Curry - ULTIMATE (With Lyrics Subtitles).mp3",
-    "title": "ULTIMATE (With Lyrics Subtitles)",
+    "title": "ULTIMATE (With Subtitles)",
     "source_root": "_trap",
     "folder_region": "Florida",
     "primary_artists": [
@@ -124523,7 +124673,7 @@
   {
     "song_id": "u-05584",
     "file": "_trap/florida/lil pump/Every Lil Pump Song (Legit) - YouTube/Lil Pump - Welcome to the party (Lyrics).mp3",
-    "title": "Welcome to the party (Lyrics)",
+    "title": "Welcome to the party ()",
     "source_root": "_trap",
     "folder_region": "Florida",
     "primary_artists": [
@@ -125386,7 +125536,7 @@
   {
     "song_id": "u-05622",
     "file": "_trap/florida/XXXTentacion/heartbreak hotel - YouTube/XXXtentacion - Skin (Lyrics).mp3",
-    "title": "Skin (Lyrics)",
+    "title": "Skin ()",
     "source_root": "_trap",
     "folder_region": "Florida",
     "primary_artists": [
@@ -125606,7 +125756,7 @@
   {
     "song_id": "u-05632",
     "file": "_trap/florida/XXXTentacion/Just XXXTENTACION - YouTube/XXXTENTACION - LOOK AT ME! (LYRICS IN DESCRIPTION).mp3",
-    "title": "LOOK AT ME! (LYRICS IN DESCRIPTION)",
+    "title": "LOOK AT ME! ( IN DESCRIPTION)",
     "source_root": "_trap",
     "folder_region": "Florida",
     "primary_artists": [
@@ -125870,7 +126020,7 @@
   {
     "song_id": "u-05644",
     "file": "_trap/florida/XXXTentacion/Mix – XXXTENTACION - Angel (LYRICS)/XXXTENTACION - Angel (LYRICS).mp3",
-    "title": "Angel (LYRICS)",
+    "title": "Angel ()",
     "source_root": "_trap",
     "folder_region": "Florida",
     "primary_artists": [
@@ -125892,7 +126042,7 @@
   {
     "song_id": "u-05645",
     "file": "_trap/florida/XXXTentacion/Mix – XXXTENTACION - Angel (LYRICS)/XXXTENTACION - KILL ME (Lyrics).mp3",
-    "title": "KILL ME (Lyrics)",
+    "title": "KILL ME ()",
     "source_root": "_trap",
     "folder_region": "Florida",
     "primary_artists": [
@@ -125958,7 +126108,7 @@
   {
     "song_id": "u-05648",
     "file": "_trap/florida/XXXTentacion/Mix – XXXTENTACION - Angel (LYRICS)/XXXTENTACION - Vice City (Lyrics).mp3",
-    "title": "Vice City (Lyrics)",
+    "title": "Vice City ()",
     "source_root": "_trap",
     "folder_region": "Florida",
     "primary_artists": [
@@ -126112,7 +126262,7 @@
   {
     "song_id": "u-05655",
     "file": "_trap/florida/XXXTentacion/xxx/XXXTentacion - Amy Winehouse (LYRICS ORIGINAL VERSION).mp3",
-    "title": "Amy Winehouse (LYRICS ORIGINAL VERSION)",
+    "title": "Amy Winehouse ( ORIGINAL VERSION)",
     "source_root": "_trap",
     "folder_region": "Florida",
     "primary_artists": [
@@ -126134,7 +126284,7 @@
   {
     "song_id": "u-05656",
     "file": "_trap/florida/XXXTentacion/xxx/XXXTENTACION - Catch (Lyrics).mp3",
-    "title": "Catch (Lyrics)",
+    "title": "Catch ()",
     "source_root": "_trap",
     "folder_region": "Florida",
     "primary_artists": [
@@ -126156,7 +126306,7 @@
   {
     "song_id": "u-05657",
     "file": "_trap/florida/XXXTentacion/xxx/XXXTENTACION - Elephant In The Room (Lyrics).mp3",
-    "title": "Elephant In The Room (Lyrics)",
+    "title": "Elephant In The Room ()",
     "source_root": "_trap",
     "folder_region": "Florida",
     "primary_artists": [
@@ -126244,7 +126394,7 @@
   {
     "song_id": "u-05661",
     "file": "_trap/florida/XXXTentacion/xxx/XXXTENTACION - I Am! (Lyrics).mp3",
-    "title": "I Am! (Lyrics)",
+    "title": "I Am! ()",
     "source_root": "_trap",
     "folder_region": "Florida",
     "primary_artists": [
@@ -126266,7 +126416,7 @@
   {
     "song_id": "u-05662",
     "file": "_trap/florida/XXXTentacion/xxx/XXXTENTACION - IGOTPLENTYDICKTOSHARE (Lyrics) W DOWNLOAD.mp3",
-    "title": "IGOTPLENTYDICKTOSHARE (Lyrics) W DOWNLOAD",
+    "title": "IGOTPLENTYDICKTOSHARE () W DOWNLOAD",
     "source_root": "_trap",
     "folder_region": "Florida",
     "primary_artists": [
@@ -126288,7 +126438,7 @@
   {
     "song_id": "u-05663",
     "file": "_trap/florida/XXXTentacion/xxx/XXXTENTACION - In The End (Lyrics).mp3",
-    "title": "In The End (Lyrics)",
+    "title": "In The End ()",
     "source_root": "_trap",
     "folder_region": "Florida",
     "primary_artists": [
@@ -126332,7 +126482,7 @@
   {
     "song_id": "u-05665",
     "file": "_trap/florida/XXXTentacion/xxx/XXXTENTACION - King Of The Dead (Lyrics).mp3",
-    "title": "King Of The Dead (Lyrics)",
+    "title": "King Of The Dead ()",
     "source_root": "_trap",
     "folder_region": "Florida",
     "primary_artists": [
@@ -126398,7 +126548,7 @@
   {
     "song_id": "u-05668",
     "file": "_trap/florida/XXXTentacion/xxx/XXXTENTACION - Snow (Lyrics).mp3",
-    "title": "Snow (Lyrics)",
+    "title": "Snow ()",
     "source_root": "_trap",
     "folder_region": "Florida",
     "primary_artists": [
@@ -127530,11 +127680,21 @@
     "title": "Murder On My Mind",
     "source_root": "_trap",
     "folder_region": "Florida",
-    "primary_artists": [],
+    "primary_artists": [
+      "YNW Melly"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "YNW Melly"
+    ],
+    "credits": [
+      {
+        "entity": "YNW Melly",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-05720",
@@ -127671,7 +127831,7 @@
   {
     "song_id": "u-05726",
     "file": "_trap/florida/YNW Melly/YNW Melly songs/YNW Melly - 772 Love (Lyrics).mp3",
-    "title": "772 Love (Lyrics)",
+    "title": "772 Love ()",
     "source_root": "_trap",
     "folder_region": "Florida",
     "primary_artists": [
@@ -128641,7 +128801,7 @@
   {
     "song_id": "u-05767",
     "file": "_trap/louisiana/Fredo Bang/Fredo Bang - Trust Issues (Animated Lyric Video).mp3",
-    "title": "Trust Issues (Animated Lyric Video)",
+    "title": "Trust Issues (Animated )",
     "source_root": "_trap",
     "folder_region": "Louisiana",
     "primary_artists": [
@@ -129875,7 +130035,7 @@
   {
     "song_id": "u-05821",
     "file": "_trap/louisiana/NBA Youngboy/Egyveleg - YoungBoy Never Broke Again  - RIDE/NBA Youngboy - Solar Eclipse LYRICS.mp3",
-    "title": "Solar Eclipse LYRICS",
+    "title": "Solar Eclipse",
     "source_root": "_trap",
     "folder_region": "Louisiana",
     "primary_artists": [
@@ -129897,7 +130057,7 @@
   {
     "song_id": "u-05822",
     "file": "_trap/louisiana/NBA Youngboy/Egyveleg - YoungBoy Never Broke Again  - RIDE/NBA Youngboy - Twilight (Lyrics).mp3",
-    "title": "Twilight (Lyrics)",
+    "title": "Twilight ()",
     "source_root": "_trap",
     "folder_region": "Louisiana",
     "primary_artists": [
@@ -129919,7 +130079,7 @@
   {
     "song_id": "u-05823",
     "file": "_trap/louisiana/NBA Youngboy/Egyveleg - YoungBoy Never Broke Again  - RIDE/NBA Youngboy - Untouchable Lyrics.mp3",
-    "title": "Untouchable Lyrics",
+    "title": "Untouchable",
     "source_root": "_trap",
     "folder_region": "Louisiana",
     "primary_artists": [
@@ -129941,7 +130101,7 @@
   {
     "song_id": "u-05824",
     "file": "_trap/louisiana/NBA Youngboy/Egyveleg - YoungBoy Never Broke Again  - RIDE/NBA YoungBoy - You The One (Lyrics).mp3",
-    "title": "You The One (Lyrics)",
+    "title": "You The One ()",
     "source_root": "_trap",
     "folder_region": "Louisiana",
     "primary_artists": [
@@ -133116,7 +133276,7 @@
   {
     "song_id": "u-05967",
     "file": "_trap/louisiana/NBA Youngboy/YoungBoy SAD SONGS! - YouTube/NBA YoungBoy - Sorry [Letter To His Son] (Lyrics).mp3",
-    "title": "Sorry [Letter To His Son] (Lyrics)",
+    "title": "Sorry [Letter To His Son] ()",
     "source_root": "_trap",
     "folder_region": "Louisiana",
     "primary_artists": [
@@ -134404,7 +134564,7 @@
   {
     "song_id": "u-06023",
     "file": "_trap/memphis/nle choppa/Narco choppa NLE - YouTube/NLE Choppa - Step (Lyrics Official).mp3",
-    "title": "Step (Lyrics Official)",
+    "title": "Step ( Official)",
     "source_root": "_trap",
     "folder_region": "Memphis",
     "primary_artists": [
@@ -134470,7 +134630,7 @@
   {
     "song_id": "u-06026",
     "file": "_trap/memphis/nle choppa/NLE Choppa - Top Shotta (Full Album)/NLE Choppa - Narrow Road (Lyrics) ft. Lil Baby.mp3",
-    "title": "Narrow Road (Lyrics) ft",
+    "title": "Narrow Road () ft",
     "source_root": "_trap",
     "folder_region": "Memphis",
     "primary_artists": [
@@ -134514,7 +134674,7 @@
   {
     "song_id": "u-06028",
     "file": "_trap/memphis/nle choppa/NLE Choppa - Top Shotta (Full Album)/NLE Choppa - Walk Em Down (Lyrics) Ft. Roddy Ricch.mp3",
-    "title": "Walk Em Down (Lyrics) Ft",
+    "title": "Walk Em Down () Ft",
     "source_root": "_trap",
     "folder_region": "Memphis",
     "primary_artists": [
@@ -138683,12 +138843,12 @@
     ],
     "featuring_artists": [
       "Bando",
-      "T"
+      "N/A"
     ],
     "artists": [
       "Bando",
       "D thang",
-      "T"
+      "N/A"
     ],
     "credits": [
       {
@@ -138697,7 +138857,7 @@
         "role": "feature"
       },
       {
-        "entity": "T",
+        "entity": "N/A",
         "entity_type": "person",
         "role": "feature"
       },
@@ -140811,11 +140971,21 @@
     "title": "Look Back at It",
     "source_root": "_trap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "A Boogie Wit da Hoodie"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "A Boogie Wit da Hoodie"
+    ],
+    "credits": [
+      {
+        "entity": "A Boogie Wit da Hoodie",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-06305",
@@ -141543,11 +141713,21 @@
     "title": "Money",
     "source_root": "_trap",
     "folder_region": "New York",
-    "primary_artists": [],
+    "primary_artists": [
+      "Cardi B"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Cardi B"
+    ],
+    "credits": [
+      {
+        "entity": "Cardi B",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-06338",
@@ -146316,11 +146496,21 @@
     "title": "Going Bad (feat",
     "source_root": "_trap",
     "folder_region": "Philadelphia",
-    "primary_artists": [],
+    "primary_artists": [
+      "Meek Mill"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Meek Mill"
+    ],
+    "credits": [
+      {
+        "entity": "Meek Mill",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-06549",
@@ -147876,11 +148066,21 @@
     "title": "Money In The Grave",
     "source_root": "_trap",
     "folder_region": "Toronto",
-    "primary_artists": [],
+    "primary_artists": [
+      "Drake"
+    ],
     "featuring_artists": [],
-    "artists": [],
-    "credits": [],
-    "attribution_status": "unattributed"
+    "artists": [
+      "Drake"
+    ],
+    "credits": [
+      {
+        "entity": "Drake",
+        "entity_type": "person",
+        "role": "primary"
+      }
+    ],
+    "attribution_status": "attributed"
   },
   {
     "song_id": "u-06618",
@@ -148235,14 +148435,14 @@
     "source_root": "_trap",
     "folder_region": "Toronto",
     "primary_artists": [
-      "PARTYNEXTDOOR"
+      "Partynextdoor"
     ],
     "featuring_artists": [
       "Drake"
     ],
     "artists": [
       "Drake",
-      "PARTYNEXTDOOR"
+      "Partynextdoor"
     ],
     "credits": [
       {
@@ -148251,7 +148451,7 @@
         "role": "feature"
       },
       {
-        "entity": "PARTYNEXTDOOR",
+        "entity": "Partynextdoor",
         "entity_type": "person",
         "role": "primary"
       }
@@ -148265,14 +148465,14 @@
     "source_root": "_trap",
     "folder_region": "Toronto",
     "primary_artists": [
-      "PARTYNEXTDOOR"
+      "Partynextdoor"
     ],
     "featuring_artists": [
       "Drake"
     ],
     "artists": [
       "Drake",
-      "PARTYNEXTDOOR"
+      "Partynextdoor"
     ],
     "credits": [
       {
@@ -148281,7 +148481,7 @@
         "role": "feature"
       },
       {
-        "entity": "PARTYNEXTDOOR",
+        "entity": "Partynextdoor",
         "entity_type": "person",
         "role": "primary"
       }
@@ -148313,7 +148513,7 @@
   {
     "song_id": "u-06636",
     "file": "_trap/toronto/Drake/Drake - Certified Lover Boy (Full Album)/Drake - In the Bible (Lyrics) ft. Lil Durk & GIVEON.mp3",
-    "title": "In the Bible (Lyrics) ft",
+    "title": "In the Bible () ft",
     "source_root": "_trap",
     "folder_region": "Toronto",
     "primary_artists": [
@@ -150713,7 +150913,7 @@
   {
     "song_id": "u-06742",
     "file": "_trap/toronto/roy woods/Roy Woods - Involved (Lyrics).mp3",
-    "title": "Involved (Lyrics)",
+    "title": "Involved ()",
     "source_root": "_trap",
     "folder_region": "Toronto",
     "primary_artists": [

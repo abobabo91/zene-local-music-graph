@@ -8,10 +8,11 @@ Read `README.md` for areas, scripts, and workflow.
 
 ## Scripts
 
+- `common.py` — shared constants and text utilities (imported by all other scripts)
 - `build_us_graph.py` — US rap/trap (has regions, groups, labels, weight overrides)
 - `build_other_graph.py <area>` — all other areas: rnb, rock, magyar, elektro, pop, alternate, latino
 - `build_toplists.py` — toplists for US + Hungarian
-- `build_visualization.py` — 10-tab HTML visualization with folder browser
+- `build_visualization.py` — builds `index.html` dashboard with folder browser
 
 ## Critical rules
 

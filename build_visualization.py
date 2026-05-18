@@ -5,6 +5,7 @@ import json
 from collections import Counter
 from pathlib import Path
 
+from common import AUDIO_EXTS, DATA_ROOT, PROJECT_ROOT, ZENE
 from build_toplists import (
     compute_adjusted_scores,
     compute_normalized_scores,
@@ -13,9 +14,7 @@ from build_toplists import (
     load_region_overrides,
 )
 
-PROJECT_ROOT = Path(__file__).resolve().parent
-DATA_ROOT = PROJECT_ROOT / "data"
-OUT_PATH = PROJECT_ROOT / "visualization.html"
+OUT_PATH = PROJECT_ROOT / "index.html"
 
 
 # === US Continental outline (from world.geo.json) ===
@@ -714,9 +713,6 @@ buildMap('map-hu-container', 'map-hu-tooltip', 'region-hu', HU_DATA, HU_REGIONS,
 </body>
 </html>"""
 
-
-ZENE = Path(r"C:\Users\abele\Desktop\zene")
-AUDIO_EXTS = {".mp3", ".wma", ".wav", ".m4a", ".flac"}
 
 # Folder roots to scan per area
 AREA_SCAN_ROOTS = {

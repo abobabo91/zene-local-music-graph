@@ -169,329 +169,6 @@
     "feature_song_ids": [],
     "via_group_song_ids": []
   },
-  "1998-080 Busta Rhymes": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "USA Other"
-    ],
-    "sources": [
-      "_rap"
-    ],
-    "song_ids": [
-      "u-00399"
-    ],
-    "primary_song_ids": [
-      "u-00399"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "2001-030 Ja Rule": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "New York"
-    ],
-    "sources": [
-      "_rap"
-    ],
-    "song_ids": [
-      "u-02246"
-    ],
-    "primary_song_ids": [
-      "u-02246"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "2001-056 Jay-Z": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "New York"
-    ],
-    "sources": [
-      "_rap"
-    ],
-    "song_ids": [
-      "u-02284"
-    ],
-    "primary_song_ids": [
-      "u-02284"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "2001-095 Nelly": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "USA Other"
-    ],
-    "sources": [
-      "_rap"
-    ],
-    "song_ids": [
-      "u-00753"
-    ],
-    "primary_song_ids": [
-      "u-00753"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "2002-003 Nelly": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "USA Other"
-    ],
-    "sources": [
-      "_rap"
-    ],
-    "song_ids": [
-      "u-00754"
-    ],
-    "primary_song_ids": [
-      "u-00754"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "2002-004 Nelly": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "USA Other"
-    ],
-    "sources": [
-      "_rap"
-    ],
-    "song_ids": [
-      "u-00755"
-    ],
-    "primary_song_ids": [
-      "u-00755"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "2002-008 Fat Joe": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "New York"
-    ],
-    "sources": [
-      "_rap"
-    ],
-    "song_ids": [
-      "u-02073"
-    ],
-    "primary_song_ids": [
-      "u-02073"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "2002-012 Ja Rule": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "New York"
-    ],
-    "sources": [
-      "_rap"
-    ],
-    "song_ids": [
-      "u-02247"
-    ],
-    "primary_song_ids": [
-      "u-02247"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "2002-044 Ja Rule": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "New York"
-    ],
-    "sources": [
-      "_rap"
-    ],
-    "song_ids": [
-      "u-02248"
-    ],
-    "primary_song_ids": [
-      "u-02248"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "2002-053 Cam ron": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "New York"
-    ],
-    "sources": [
-      "_rap"
-    ],
-    "song_ids": [
-      "u-01949"
-    ],
-    "primary_song_ids": [
-      "u-01949"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "2002-063 Eminem": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "Detroit"
-    ],
-    "sources": [
-      "_rap"
-    ],
-    "song_ids": [
-      "u-01253"
-    ],
-    "primary_song_ids": [
-      "u-01253"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "2003-017 Busta Rhymes": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "USA Other"
-    ],
-    "sources": [
-      "_rap"
-    ],
-    "song_ids": [
-      "u-00400"
-    ],
-    "primary_song_ids": [
-      "u-00400"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "2003-024 Fabolous": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "New York"
-    ],
-    "sources": [
-      "_rap"
-    ],
-    "song_ids": [
-      "u-02040"
-    ],
-    "primary_song_ids": [
-      "u-02040"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "2003-037 Jay-Z": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "New York"
-    ],
-    "sources": [
-      "_rap"
-    ],
-    "song_ids": [
-      "u-02285"
-    ],
-    "primary_song_ids": [
-      "u-02285"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "2003-076 Chingy": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "USA Other"
-    ],
-    "sources": [
-      "_rap"
-    ],
-    "song_ids": [
-      "u-00429"
-    ],
-    "primary_song_ids": [
-      "u-00429"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "2004-071 Snoop Dogg": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "California"
-    ],
-    "sources": [
-      "_rap"
-    ],
-    "song_ids": [
-      "u-01118"
-    ],
-    "primary_song_ids": [
-      "u-01118"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "2006-063 Chingy": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "USA Other"
-    ],
-    "sources": [
-      "_rap"
-    ],
-    "song_ids": [
-      "u-00430"
-    ],
-    "primary_song_ids": [
-      "u-00430"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
   "2010 New Webbie": {
     "type": "person",
     "labels": [],
@@ -572,6 +249,7 @@
       "u-00020",
       "u-00021",
       "u-00022",
+      "u-00023",
       "u-00024",
       "u-00025",
       "u-00026",
@@ -640,6 +318,7 @@
       "u-00020",
       "u-00021",
       "u-00022",
+      "u-00023",
       "u-00024",
       "u-00025",
       "u-00026",
@@ -1004,6 +683,7 @@
       "u-06300",
       "u-06301",
       "u-06302",
+      "u-06304",
       "u-06305",
       "u-06306",
       "u-06307",
@@ -1038,6 +718,7 @@
       "u-06300",
       "u-06301",
       "u-06302",
+      "u-06304",
       "u-06305",
       "u-06306",
       "u-06307",
@@ -4293,6 +3974,8 @@
     ],
     "song_ids": [
       "u-00398",
+      "u-00399",
+      "u-00400",
       "u-00401",
       "u-00402",
       "u-00403",
@@ -4320,6 +4003,8 @@
     ],
     "primary_song_ids": [
       "u-00398",
+      "u-00399",
+      "u-00400",
       "u-00401",
       "u-00402",
       "u-00403",
@@ -4485,6 +4170,7 @@
       "u-01946",
       "u-01947",
       "u-01948",
+      "u-01949",
       "u-01950",
       "u-01951",
       "u-01952",
@@ -4523,6 +4209,7 @@
       "u-01946",
       "u-01947",
       "u-01948",
+      "u-01949",
       "u-01950",
       "u-01951",
       "u-01952",
@@ -4706,6 +4393,7 @@
     "song_ids": [
       "u-02953",
       "u-04244",
+      "u-06337",
       "u-06338",
       "u-06339",
       "u-06340",
@@ -4722,6 +4410,7 @@
       "u-06351"
     ],
     "primary_song_ids": [
+      "u-06337",
       "u-06338",
       "u-06339",
       "u-06340",
@@ -4964,6 +4653,25 @@
     ],
     "primary_song_ids": [
       "u-04846"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": []
+  },
+  "Chainz": {
+    "type": "person",
+    "labels": [],
+    "groups": [],
+    "regions": [
+      "Atlanta"
+    ],
+    "sources": [
+      "_trap"
+    ],
+    "song_ids": [
+      "u-03863"
+    ],
+    "primary_song_ids": [
+      "u-03863"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": []
@@ -5308,6 +5016,8 @@
       "_rap"
     ],
     "song_ids": [
+      "u-00429",
+      "u-00430",
       "u-00435",
       "u-00436",
       "u-00437",
@@ -5320,6 +5030,8 @@
       "u-00444"
     ],
     "primary_song_ids": [
+      "u-00429",
+      "u-00430",
       "u-00435",
       "u-00436",
       "u-00437",
@@ -5691,7 +5403,7 @@
     "feature_song_ids": [],
     "via_group_song_ids": []
   },
-  "Common Sadat": {
+  "Common Sadat X": {
     "type": "person",
     "labels": [],
     "groups": [],
@@ -6582,23 +6294,27 @@
     "feature_song_ids": [],
     "via_group_song_ids": []
   },
-  "Desiigner - New English {320kbps}": {
+  "Desiigner": {
     "type": "person",
     "labels": [],
     "groups": [],
     "regions": [
+      "California",
       "USA"
     ],
     "sources": [
       "_trap"
     ],
     "song_ids": [
-      "u-02858"
+      "u-02858",
+      "u-04944"
     ],
     "primary_song_ids": [
       "u-02858"
     ],
-    "feature_song_ids": [],
+    "feature_song_ids": [
+      "u-04944"
+    ],
     "via_group_song_ids": []
   },
   "Desto Dubb": {
@@ -6765,24 +6481,49 @@
       "_rap"
     ],
     "song_ids": [
-      "u-00484",
-      "u-00485",
-      "u-00486",
-      "u-00487",
-      "u-00488",
-      "u-00489",
       "u-00490",
       "u-00491"
     ],
     "primary_song_ids": [
+      "u-00490",
+      "u-00491"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": []
+  },
+  "Dilated Peoples Discography": {
+    "type": "person",
+    "labels": [],
+    "groups": [],
+    "regions": [
+      "USA Other"
+    ],
+    "sources": [
+      "_rap"
+    ],
+    "song_ids": [
+      "u-00479",
+      "u-00480",
+      "u-00481",
+      "u-00482",
       "u-00484",
       "u-00485",
       "u-00486",
       "u-00487",
       "u-00488",
-      "u-00489",
-      "u-00490",
-      "u-00491"
+      "u-00489"
+    ],
+    "primary_song_ids": [
+      "u-00479",
+      "u-00480",
+      "u-00481",
+      "u-00482",
+      "u-00484",
+      "u-00485",
+      "u-00486",
+      "u-00487",
+      "u-00488",
+      "u-00489"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": []
@@ -7585,10 +7326,8 @@
       "u-00312",
       "u-00315",
       "u-01021",
-      "u-01044",
       "u-01046",
       "u-01047",
-      "u-01048",
       "u-01049",
       "u-01050",
       "u-01051",
@@ -7599,10 +7338,8 @@
       "u-01154"
     ],
     "primary_song_ids": [
-      "u-01044",
       "u-01046",
       "u-01047",
-      "u-01048",
       "u-01049",
       "u-01050",
       "u-01051",
@@ -7619,6 +7356,27 @@
       "u-00315",
       "u-01021"
     ]
+  },
+  "Dr.Dre Discography": {
+    "type": "person",
+    "labels": [],
+    "groups": [],
+    "regions": [
+      "California"
+    ],
+    "sources": [
+      "_rap"
+    ],
+    "song_ids": [
+      "u-01044",
+      "u-01048"
+    ],
+    "primary_song_ids": [
+      "u-01044",
+      "u-01048"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": []
   },
   "Drake": {
     "type": "person",
@@ -7656,6 +7414,7 @@
       "u-06613",
       "u-06615",
       "u-06616",
+      "u-06617",
       "u-06618",
       "u-06619",
       "u-06620",
@@ -7722,6 +7481,7 @@
       "u-06613",
       "u-06615",
       "u-06616",
+      "u-06617",
       "u-06618",
       "u-06619",
       "u-06620",
@@ -7794,7 +7554,7 @@
     ],
     "via_group_song_ids": []
   },
-  "Drakeo top songs": {
+  "Drakeo": {
     "type": "person",
     "labels": [],
     "groups": [],
@@ -8178,6 +7938,7 @@
       "u-01194",
       "u-01251",
       "u-01252",
+      "u-01253",
       "u-01254",
       "u-01255",
       "u-01256",
@@ -8364,6 +8125,7 @@
     "primary_song_ids": [
       "u-01251",
       "u-01252",
+      "u-01253",
       "u-01254",
       "u-01255",
       "u-01256",
@@ -8686,6 +8448,7 @@
       "u-02037",
       "u-02038",
       "u-02039",
+      "u-02040",
       "u-02041",
       "u-02042",
       "u-02043",
@@ -8717,6 +8480,7 @@
       "u-02037",
       "u-02038",
       "u-02039",
+      "u-02040",
       "u-02041",
       "u-02042",
       "u-02043",
@@ -8885,6 +8649,7 @@
       "u-02070",
       "u-02071",
       "u-02072",
+      "u-02073",
       "u-02074",
       "u-02075",
       "u-02076",
@@ -8910,6 +8675,7 @@
       "u-02070",
       "u-02071",
       "u-02072",
+      "u-02073",
       "u-02074",
       "u-02075",
       "u-02076",
@@ -12320,6 +12086,7 @@
       "u-00540",
       "u-00541",
       "u-00542",
+      "u-00543",
       "u-00544",
       "u-00545",
       "u-00546",
@@ -12336,6 +12103,7 @@
       "u-00540",
       "u-00541",
       "u-00542",
+      "u-00543",
       "u-00544",
       "u-00545",
       "u-00546",
@@ -12456,6 +12224,9 @@
     ],
     "song_ids": [
       "u-02245",
+      "u-02246",
+      "u-02247",
+      "u-02248",
       "u-02250",
       "u-02251",
       "u-02252",
@@ -12467,6 +12238,9 @@
     ],
     "primary_song_ids": [
       "u-02245",
+      "u-02246",
+      "u-02247",
+      "u-02248",
       "u-02250",
       "u-02251",
       "u-02252",
@@ -12818,6 +12592,8 @@
       "u-00624",
       "u-00955",
       "u-02283",
+      "u-02284",
+      "u-02285",
       "u-02286",
       "u-02287",
       "u-02289",
@@ -12857,6 +12633,8 @@
     ],
     "primary_song_ids": [
       "u-02283",
+      "u-02284",
+      "u-02285",
       "u-02286",
       "u-02287",
       "u-02289",
@@ -14381,12 +14159,10 @@
       "_trap"
     ],
     "song_ids": [
-      "u-02841",
-      "u-03171"
+      "u-02841"
     ],
     "primary_song_ids": [
-      "u-02841",
-      "u-03171"
+      "u-02841"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": []
@@ -15816,6 +15592,25 @@
     "feature_song_ids": [],
     "via_group_song_ids": []
   },
+  "Kur - Lets Keep It A Bean By Rick Nyce": {
+    "type": "person",
+    "labels": [],
+    "groups": [],
+    "regions": [
+      "USA"
+    ],
+    "sources": [
+      "_trap"
+    ],
+    "song_ids": [
+      "u-03175"
+    ],
+    "primary_song_ids": [
+      "u-03175"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": []
+  },
   "Kurtis Blow": {
     "type": "person",
     "labels": [],
@@ -16637,10 +16432,12 @@
       "_rap"
     ],
     "song_ids": [
+      "u-00227",
       "u-00228",
       "u-00229"
     ],
     "primary_song_ids": [
+      "u-00227",
       "u-00228",
       "u-00229"
     ],
@@ -19656,6 +19453,7 @@
       "u-04594",
       "u-06038",
       "u-06547",
+      "u-06548",
       "u-06549",
       "u-06550",
       "u-06551",
@@ -19690,6 +19488,7 @@
     ],
     "primary_song_ids": [
       "u-06547",
+      "u-06548",
       "u-06549",
       "u-06550",
       "u-06551",
@@ -19731,6 +19530,29 @@
       "u-04536",
       "u-04594",
       "u-06038"
+    ],
+    "via_group_song_ids": []
+  },
+  "Megan Thee Stallion": {
+    "type": "person",
+    "labels": [],
+    "groups": [],
+    "regions": [
+      "Memphis",
+      "USA"
+    ],
+    "sources": [
+      "_trap"
+    ],
+    "song_ids": [
+      "u-03161",
+      "u-06021"
+    ],
+    "primary_song_ids": [
+      "u-03161"
+    ],
+    "feature_song_ids": [
+      "u-06021"
     ],
     "via_group_song_ids": []
   },
@@ -21197,6 +21019,9 @@
       "_rap"
     ],
     "song_ids": [
+      "u-00753",
+      "u-00754",
+      "u-00755",
       "u-00756",
       "u-00757",
       "u-00758",
@@ -21212,6 +21037,9 @@
       "u-02064"
     ],
     "primary_song_ids": [
+      "u-00753",
+      "u-00754",
+      "u-00755",
       "u-00756",
       "u-00757",
       "u-00758",
@@ -22709,7 +22537,7 @@
     "feature_song_ids": [],
     "via_group_song_ids": []
   },
-  "PARTYNEXTDOOR": {
+  "Partynextdoor": {
     "type": "person",
     "labels": [],
     "groups": [],
@@ -23472,6 +23300,11 @@
       "_trap"
     ],
     "song_ids": [
+      "u-03604",
+      "u-03605",
+      "u-03606",
+      "u-03607",
+      "u-03608",
       "u-03609",
       "u-03610",
       "u-03611",
@@ -23498,6 +23331,11 @@
       "u-03633"
     ],
     "primary_song_ids": [
+      "u-03604",
+      "u-03605",
+      "u-03606",
+      "u-03607",
+      "u-03608",
       "u-03609",
       "u-03610",
       "u-03611",
@@ -26427,11 +26265,9 @@
     "feature_song_ids": [],
     "via_group_song_ids": []
   },
-  "Sauce Walka best songs available on": {
+  "Sauce Walka best songs available on YouTube": {
     "type": "person",
-    "labels": [
-      "Sauce Walka"
-    ],
+    "labels": [],
     "groups": [],
     "regions": [
       "USA"
@@ -27757,9 +27593,11 @@
       "u-01057",
       "u-01058",
       "u-01113",
+      "u-01114",
       "u-01115",
       "u-01116",
       "u-01117",
+      "u-01118",
       "u-01122",
       "u-01123",
       "u-01124",
@@ -27778,9 +27616,11 @@
     ],
     "primary_song_ids": [
       "u-01113",
+      "u-01114",
       "u-01115",
       "u-01116",
       "u-01117",
+      "u-01118",
       "u-01122",
       "u-01123",
       "u-01124",
@@ -29667,7 +29507,7 @@
     "feature_song_ids": [],
     "via_group_song_ids": []
   },
-  "The L.O": {
+  "The L.O.X": {
     "type": "person",
     "labels": [],
     "groups": [],
@@ -30962,25 +30802,6 @@
     ],
     "primary_song_ids": [
       "u-02709"
-    ],
-    "feature_song_ids": [],
-    "via_group_song_ids": []
-  },
-  "Tupac Only God Can Judge Me": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "California"
-    ],
-    "sources": [
-      "_rap"
-    ],
-    "song_ids": [
-      "u-00023"
-    ],
-    "primary_song_ids": [
-      "u-00023"
     ],
     "feature_song_ids": [],
     "via_group_song_ids": []
@@ -32438,6 +32259,25 @@
     "feature_song_ids": [],
     "via_group_song_ids": []
   },
+  "X-Zibit": {
+    "type": "person",
+    "labels": [],
+    "groups": [],
+    "regions": [
+      "California"
+    ],
+    "sources": [
+      "_rap"
+    ],
+    "song_ids": [
+      "u-01058"
+    ],
+    "primary_song_ids": [
+      "u-01058"
+    ],
+    "feature_song_ids": [],
+    "via_group_song_ids": []
+  },
   "Xavier Wulf Bones": {
     "type": "person",
     "labels": [],
@@ -33130,6 +32970,7 @@
       "_trap"
     ],
     "song_ids": [
+      "u-05719",
       "u-05720",
       "u-05721",
       "u-05722",
@@ -33144,6 +32985,7 @@
       "u-05732"
     ],
     "primary_song_ids": [
+      "u-05719",
       "u-05720",
       "u-05721",
       "u-05722",
@@ -33954,6 +33796,7 @@
       "u-04437",
       "u-04438",
       "u-04457",
+      "u-04534",
       "u-04535",
       "u-04536",
       "u-04537",
@@ -34054,6 +33897,7 @@
     "primary_song_ids": [
       "u-04234",
       "u-04254",
+      "u-04534",
       "u-04535",
       "u-04536",
       "u-04537",
@@ -34912,25 +34756,6 @@
       "u-04297",
       "u-04298"
     ],
-    "via_group_song_ids": []
-  },
-  "Zibit": {
-    "type": "person",
-    "labels": [],
-    "groups": [],
-    "regions": [
-      "California"
-    ],
-    "sources": [
-      "_rap"
-    ],
-    "song_ids": [
-      "u-01058"
-    ],
-    "primary_song_ids": [
-      "u-01058"
-    ],
-    "feature_song_ids": [],
     "via_group_song_ids": []
   },
   "Zion I": {

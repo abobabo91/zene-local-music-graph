@@ -4,9 +4,7 @@ import json
 from collections import Counter
 from pathlib import Path
 
-
-PROJECT_ROOT = Path(__file__).resolve().parent
-DATA_ROOT = PROJECT_ROOT / "data"
+from common import DATA_ROOT
 AREAS = ("hungarian", "us")
 AREA_DISPLAY = {"hungarian": "Hungarian", "us": "US"}
 
